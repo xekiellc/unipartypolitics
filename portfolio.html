@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Portfolio — UniParty Politics</title>
+  <meta name="description" content="Congressional stock trades, insider returns, and committee conflicts. Both parties. Same game." />
+  <link rel="stylesheet" href="/css/style.css" />
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-F66YXXJ7P1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-F66YXXJ7P1');
+  </script>
+  <style>
+    .portfolio-hero {
+      background: var(--bg2);
+      border: 0.5px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .port-banner { display: flex; height: 4px; }
+    .port-body { padding: 16px; }
+    .port-stat-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+    .port-stat {
+      background: #0a0a0a;
+      border: 0.5px solid var(--border);
+      border-radius: 8px;
+      padding: 12px;
+    }
+    .port-stat-lbl {
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text3);
+      margin-bottom: 4px;
+    }
+    .port-stat-val {
+      font-size: 26px;
+      font-weight: 800;
+      line-height: 1;
+      margin-bottom: 3px;
+    }
+    .port-stat-sub { font-size: 10px; color: var(--text3); }
+    .leaderboard {
+      background: var(--bg2);
+      border: 0.5px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .lb-header {
+      padding: 12px 16px;
+      border-bottom: 0.5px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .lb-title {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text3);
+    }
+    .lb-note { font-size: 10px; color: var(--text3); }
+    .lb-row {
+      display: grid;
+      grid-template-columns: 32px 1fr 80px 80px 100px;
+      gap: 8px;
+      padding: 12px 16px;
+      border-bottom: 0.5px solid #141414;
+      align-items: center;
+    }
+    .lb-row:last-child { border-bottom: none; }
+    .lb-row:hover { background: #0a0a0a; }
+    .lb-rank {
+      font-size: 11px;
+      font-weight: 800;
+      color: var(--text3);
+    }
+    .lb-name-wrap {}
+    .lb-name {
+      font-size: 13px;
+      font-weight: 600;
+      color: #d4d4d4;
+    }
+    .lb-state { font-size: 10px; color: var(--text3); }
+    .lb-party-badge {
+      font-size: 9px;
+      font-weight: 700;
+      padding: 1px 6px;
+      border-radius: 2px;
+      display: inline-block;
+      margin-left: 6px;
+    }
+    .lb-return {
+      font-size: 14px;
+      font-weight: 800;
+      text-align: right;
+    }
+    .lb-vs-sp {
+      font-size: 11px;
+      color: var(--text3);
+      text-align: right;
+    }
+    .lb-committee {
+      font-size: 10px;
+      color: var(--text3);
+      text-align: right;
+    }
+    .conflict-badge {
+      font-size: 9px;
+      font-weight: 700;
+      padding: 2px 6px;
+      border-radius: 2px;
+      background: #450a0a;
+      color: #fca5a5;
+      display: inline-block;
+    }
+    .trade-feed {
+      background: var(--bg2);
+      border: 0.5px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .trade-row {
+      display: grid;
+      grid-template-columns: 1fr 80px 80px 60px;
+      gap: 8px;
+      padding: 12px 16px;
+      border-bottom: 0.5px solid #141414;
+      align-items: center;
+    }
+    .trade-row:last-child { border-bottom: none; }
+    .trade-row:hover { background: #0a0a0a; }
+    .trade-member { font-size: 13px; font-weight: 600; color: #d4d4d4; }
+    .trade-ticker {
+      font-size: 13px;
+      font-weight: 800;
+      font-family: monospace;
+      color: #e5e5e5;
+      text-align: right;
+    }
+    .trade-amount { font-size: 12px; color: var(--text2); text-align: right; }
+    .trade-date { font-size: 10px; color: var(--text3); text-align: right; }
+    .loading-trades {
+      padding: 24px;
+      text-align: center;
+      color: var(--text3);
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="bleed-bar">
+    <div class="bleed-r"></div>
+    <div class="bleed-mid"></div>
+    <div class="bleed-d"></div>
+  </div>
+
+  <div class="masthead">
+    <div class="mast-left">
+      <div class="site-name">
+        <span class="name-r">uni</span><span class="name-p">party</span><span class="name-b">politics</span><span class="name-plain">.com</span>
+      </div>
+      <div class="tagline">Red Team. Blue Team. Same Owners.</div>
+    </div>
+    <div class="mast-right">
+      <div class="eq-badge">
+        <span class="pill-r">R</span>
+        <span>=</span>
+        <span class="pill-d">D</span>
+      </div>
+      <div class="mast-sub">Updated every 2 hours</div>
+    </div>
+  </div>
+
+  <div class="ticker">
+    <div class="ticker-track">
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Senate votes 78–19 to reauthorize surveillance powers with zero reform amendments</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — $95B military aid passes 311–112 — defense stocks up 4% the next morning</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Debt ceiling raised for the 21st time; both parties blamed each other, both voted yes</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — 37 members traded pharma stocks while debating drug pricing legislation</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — FISA reauthorized again — no warrant requirement, no reform, bipartisan passage</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Senate votes 78–19 to reauthorize surveillance powers with zero reform amendments</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — $95B military aid passes 311–112 — defense stocks up 4% the next morning</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Debt ceiling raised for the 21st time; both parties blamed each other, both voted yes</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — 37 members traded pharma stocks while debating drug pricing legislation</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — FISA reauthorized again — no warrant requirement, no reform, bipartisan passage</span>
+    </div>
+  </div>
+
+  <nav>
+    <a href="/">The Betrayals</a>
+    <a href="/data.html">The Data</a>
+    <a href="/dossier.html">The Dossier</a>
+    <a href="/shame.html">Hall of Shame</a>
+    <a href="/podcasts.html">Podcasts</a>
+    <a href="/portfolio.html" class="active">Portfolio</a>
+    <a href="/receipts.html">The Receipts</a>
+    <a href="/videos.html">Videos</a>
+  </nav>
+
+  <div class="page-body">
+    <div class="main">
+
+      <div style="padding:0 0 20px 0; border-bottom:0.5px solid var(--border); margin-bottom:20px;">
+        <div class="page-title">The Portfolio</div>
+        <div class="page-sub">Congressional stock trades, insider returns, and committee conflicts. Both parties. Same game. The fine for getting caught is $200.</div>
+      </div>
+
+      <div class="section-lbl">By the numbers</div>
+
+      <div class="port-stat-grid">
+        <div class="port-stat">
+          <div class="port-stat-lbl">Avg congressional return</div>
+          <div class="port-stat-val" style="color:#86efac;">+28.6%</div>
+          <div class="port-stat-sub">vs S&P 500 avg of 10.5% · 2023</div>
+        </div>
+        <div class="port-stat">
+          <div class="port-stat-lbl">Members trading stocks</div>
+          <div class="port-stat-val" style="color:#60a5fa;">113</div>
+          <div class="port-stat-sub">Active traders in current session</div>
+        </div>
+        <div class="port-stat">
+          <div class="port-stat-lbl">STOCK Act violations</div>
+          <div class="port-stat-val" style="color:#ef4444;">78</div>
+          <div class="port-stat-sub">Late filings in 2024 · avg fine $200</div>
+        </div>
+        <div class="port-stat">
+          <div class="port-stat-lbl">Committee conflicts</div>
+          <div class="port-stat-val" style="color:#a855f7;">41</div>
+          <div class="port-stat-sub">Members trading in sectors they regulate</div>
+        </div>
+      </div>
+
+      <div class="section-lbl">Market beaters — the leaderboard</div>
+
+      <div class="leaderboard">
+        <div class="lb-header">
+          <span class="lb-title">Top congressional performers vs S&P 500</span>
+          <span class="lb-note">Source: Unusual Whales · Capitol Trades</span>
+        </div>
+        <div class="lb-row" style="background:#0a0a0a;">
+          <div class="lb-rank" style="color:var(--text3); font-size:9px;">RNK</div>
+          <div style="font-size:9px; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--text3);">Member</div>
+          <div style="font-size:9px; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--text3); text-align:right;">Return</div>
+          <div style="font-size:9px; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--text3); text-align:right;">vs S&P</div>
+          <div style="font-size:9px; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--text3); text-align:right;">Committee</div>
+        </div>
+
+        <div class="lb-row">
+          <div class="lb-rank">01</div>
+          <div class="lb-name-wrap">
+            <div class="lb-name">Nancy Pelosi <span class="lb-party-badge party-d">D</span></div>
+            <div class="lb-state">California · Former Speaker</div>
+          </div>
+          <div class="lb-return outperform">+65.2%</div>
+          <div class="lb-vs-sp outperform">+54.7%</div>
+          <div class="lb-committee"><span class="conflict-badge">⚠ Conflict</span><br/>Tech antitrust</div>
+        </div>
+
+        <div class="lb-row">
+          <div class="lb-rank">02</div>
+          <div class="lb-name-wrap">
+            <div class="lb-name">Dan Crenshaw <span class="lb-party-badge party-r">R</span></div>
+            <div class="lb-state">Texas · House Armed Services</div>
+          </div>
+          <div class="lb-return outperform">+49.3%</div>
+          <div class="lb-vs-sp outperform">+38.8%</div>
+          <div class="lb-committee"><span class="conflict-badge">⚠ Conflict</span><br/>Defense stocks</div>
+        </div>
+
+        <div class="lb-row">
+          <div class="lb-rank">03</div>
+          <div class="lb-name-wrap">
+            <div class="lb-name">Tommy Tuberville <span class="lb-party-badge party-r">R</span></div>
+            <div class="lb-state">Alabama · Senate Armed Services</div>
+          </div>
+          <div class="lb-return outperform">+44.1%</div>
+          <div class="lb-vs-sp outperform">+33.6%</div>
+          <div class="lb-committee"><span class="conflict-badge">⚠ Conflict</span><br/>Defense stocks</div>
+        </div>
+
+        <div class="lb-row">
+          <div class="lb-rank">04</div>
+          <div class="lb-name-wrap">
+            <div class="lb-name">Ro Khanna <span class="lb-party-badge party-d">D</span></div>
+            <div class="lb-state">California · House Armed Services</div>
+          </div>
+          <div class="lb-return outperform">+38.7%</div>
+          <div class="lb-vs-sp outperform">+28.2%</div>
+          <div class="lb-committee"><span class="conflict-badge">⚠ Conflict</span><br/>Tech committee</div>
+        </div>
+
+        <div class="lb-row">
+          <div class="lb-rank">05</div>
+          <div class="lb-name-wrap">
+            <div class="lb-name">Michael McCaul <span class="lb-party-badge party-r">R</span></div>
+            <div class="lb-state">Texas · House Foreign Affairs</div>
+          </div>
+          <div class="lb-return outperform">+36.2%</div>
+          <div class="lb-vs-sp outperform">+25.7%</div>
+          <div class="lb-committee"><span class="conflict-badge">⚠ Conflict</span><br/>Defense & tech</div>
+        </div>
+
+        <div class="lb-row">
+          <div class="lb-rank">06</div>
+          <div class="lb-name-wrap">
+            <div class="lb-name">Josh Gottheimer <span class="lb-party-badge party-d">D</span></div>
+            <div class="lb-state">New Jersey · House Financial Services</div>
+          </div>
+          <div class="lb-return outperform">+31.4%</div>
+          <div class="lb-vs-sp outperform">+20.9%</div>
+          <div class="lb-committee"><span class="conflict-badge">⚠ Conflict</span><br/>Financial stocks</div>
+        </div>
+
+        <div class="lb-row">
+          <div class="lb-rank">07</div>
+          <div class="lb-name-wrap">
+            <div class="lb-name">Marjorie Taylor Greene <span class="lb-party-badge party-r">R</span></div>
+            <div class="lb-state">Georgia · House Oversight</div>
+          </div>
+          <div class="lb-return outperform">+29.8%</div>
+          <div class="lb-vs-sp outperform">+19.3%</div>
+          <div class="lb-committee">Tech stocks</div>
+        </div>
+
+        <div class="lb-row">
+          <div class="lb-rank">08</div>
+          <div class="lb-name-wrap">
+            <div class="lb-name">Mark Warner <span class="lb-party-badge party-d">D</span></div>
+            <div class="lb-state">Virginia · Senate Intelligence</div>
+          </div>
+          <div class="lb-return outperform">+27.3%</div>
+          <div class="lb-vs-sp outperform">+16.8%</div>
+          <div class="lb-committee"><span class="conflict-badge">⚠ Conflict</span><br/>Tech & defense</div>
+        </div>
+
+      </div>
+
+      <div class="section-lbl">Recent trades — live feed</div>
+
+      <div class="trade-feed">
+        <div class="lb-header">
+          <span class="lb-title">Latest congressional disclosures</span>
+          <span class="lb-note">Source: housestockwatcher.com · senatestockwatcher.com</span>
+        </div>
+        <div id="trade-feed-body">
+          <div class="loading-trades">Loading live trade data...</div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="sidebar">
+      <div class="section-lbl">By the numbers</div>
+      <div class="stat-card">
+        <div class="stat-lbl">Shared donor dollars</div>
+        <div class="stat-val purple">$4.2B</div>
+        <div class="stat-sub">Top 50 donors gave to both parties</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-lbl">Bipartisan yes votes this session</div>
+        <div class="stat-val blue">847</div>
+        <div class="stat-sub">On bills expanding government power</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-lbl">Wars started since 2000</div>
+        <div class="stat-val red">7</div>
+        <div class="stat-sub">Under 3 R and 2 D presidents</div>
+      </div>
+      <div class="section-lbl" style="margin-top:16px;">Data sources</div>
+      <div style="display:flex; flex-direction:column; gap:8px;">
+        <a href="https://housestockwatcher.com" target="_blank" rel="noopener" style="font-size:12px; color:var(--purple);">House Stock Watcher →</a>
+        <a href="https://senatestockwatcher.com" target="_blank" rel="noopener" style="font-size:12px; color:var(--purple);">Senate Stock Watcher →</a>
+        <a href="https://unusualwhales.com/politics" target="_blank" rel="noopener" style="font-size:12px; color:var(--purple);">Unusual Whales →</a>
+        <a href="https://opensecrets.org" target="_blank" rel="noopener" style="font-size:12px; color:var(--purple);">OpenSecrets →</a>
+        <a href="https://efts.sec.gov/LATEST/search-index?q=%22form+4%22&dateRange=custom&startdt=2024-01-01" target="_blank" rel="noopener" style="font-size:12px; color:var(--purple);">SEC EDGAR →</a>
+      </div>
+      <div style="margin-top:16px; padding-top:12px; border-top:0.5px solid var(--border);">
+        <div style="font-size:10px; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--text3); margin-bottom:8px;">The STOCK Act fine</div>
+        <div style="font-size:28px; font-weight:800; color:#ef4444; margin-bottom:4px;">$200</div>
+        <div style="font-size:11px; color:var(--text3); line-height:1.6;">The maximum penalty for a member of Congress failing to report a stock trade on time. Less than a parking ticket. Renewed calls to raise it to $50,000 died in committee — both parties.</div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <span class="footer-left">Manufactured conflict. Coordinated power.</span>
+    <span class="footer-right">#TeamUNIPARTY</span>
+  </footer>
+
+  <script>
+    async function loadTrades() {
+      const feed = document.getElementById('trade-feed-body');
+      try {
+        const res = await fetch('https://housestockwatcher.com/api/transactions?page=0&pageSize=10');
+        const data = await res.json();
+        const trades = data.data || data.transactions || data || [];
+
+        if (!trades.length) throw new Error('No trades');
+
+        feed.innerHTML = trades.slice(0, 12).map(t => {
+          const type = (t.type || t.transaction_type || '').toLowerCase();
+          const isBuy = type.includes('purchase') || type.includes('buy');
+          const ticker = t.ticker || t.asset_description || '—';
+          const member = t.representative || t.senator || t.name || 'Unknown';
+          const amount = t.amount || t.transaction_amount || '—';
+          const date = t.transaction_date || t.disclosure_date || '—';
+          const party = (t.party || '').toLowerCase();
+
+          return `
+            <div class="trade-row">
+              <div>
+                <div class="trade-member">${member} <span class="lb-party-badge ${party === 'democrat' ? 'party-d' : party === 'republican' ? 'party-r' : ''}">${party === 'democrat' ? 'D' : party === 'republican' ? 'R' : '—'}</span></div>
+              </div>
+              <div class="trade-ticker">${ticker}</div>
+              <div class="trade-amount ${isBuy ? 'trade-buy' : 'trade-sell'}">${isBuy ? '▲ BUY' : '▼ SELL'}<br/>${amount}</div>
+              <div class="trade-date">${date}</div>
+            </div>
+          `;
+        }).join('');
+
+      } catch (e) {
+        feed.innerHTML = `
+          <div class="loading-trades">
+            Live feed temporarily unavailable.<br/>
+            <a href="https://housestockwatcher.com" target="_blank" rel="noopener" style="color:var(--purple);">View trades directly at housestockwatcher.com →</a>
+          </div>
+        `;
+      }
+    }
+
+    loadTrades();
+  </script>
+
+</body>
+</html>
