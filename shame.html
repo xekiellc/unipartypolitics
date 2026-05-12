@@ -5,6 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Hall of Shame — UniParty Politics</title>
   <meta name="description" content="Equal opportunity exposure. Both parties. Same corruption." />
+  <meta property="og:title" content="Hall of Shame — UniParty Politics" />
+  <meta property="og:description" content="Equal opportunity exposure. Both parties. Same corruption." />
+  <meta property="og:image" content="https://unipartypolitics.com/images/chained.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://unipartypolitics.com/images/chained.jpg" />
   <link rel="stylesheet" href="/css/style.css" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-F66YXXJ7P1"></script>
   <script>
@@ -14,6 +19,43 @@
     gtag('config', 'G-F66YXXJ7P1');
   </script>
   <style>
+    .page-hero {
+      width: 100%;
+      height: 220px;
+      position: relative;
+      overflow: hidden;
+    }
+    .page-hero img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 40%;
+      display: block;
+      filter: brightness(0.4);
+    }
+    .page-hero-overlay {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 20px;
+    }
+    .page-hero-title {
+      font-size: clamp(24px, 4vw, 40px);
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -0.02em;
+      margin-bottom: 6px;
+    }
+    .page-hero-sub {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
     .shame-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -47,16 +89,8 @@
       font-weight: 700;
       flex-shrink: 0;
     }
-    .shame-card-name {
-      font-size: 15px;
-      font-weight: 600;
-      color: var(--text);
-    }
-    .shame-card-title {
-      font-size: 11px;
-      color: var(--text3);
-      margin-top: 2px;
-    }
+    .shame-card-name { font-size: 15px; font-weight: 600; color: var(--text); }
+    .shame-card-title { font-size: 11px; color: var(--text3); margin-top: 2px; }
     .shame-card-party {
       font-size: 9px;
       font-weight: 700;
@@ -136,12 +170,19 @@
     <a href="/videos.html">Videos</a>
   </nav>
 
+  <div class="page-hero">
+    <img src="/images/chained.jpg" alt="Hall of Shame — UniParty Politics" />
+    <div class="page-hero-overlay">
+      <div class="page-hero-title">Hall of Shame</div>
+      <div class="page-hero-sub">Equal opportunity exposure · No party gets a pass</div>
+    </div>
+  </div>
+
   <div class="page-body">
     <div class="main">
 
-      <div style="padding:0 0 20px 0; border-bottom:0.5px solid var(--border); margin-bottom:20px;">
-        <div class="page-title">Hall of Shame</div>
-        <div class="page-sub">Equal opportunity exposure. No party gets a pass. Ranked by audacity.</div>
+      <div style="padding:16px 0 20px 0; border-bottom:0.5px solid var(--border); margin-bottom:20px;">
+        <div class="page-sub">Ranked by audacity. Both parties represented equally. If you betrayed the public trust, you're on the wall.</div>
       </div>
 
       <div class="section-lbl">Republican wing</div>
@@ -270,6 +311,9 @@
       <div class="section-lbl" style="margin-top:16px;">Equal opportunity</div>
       <div style="font-size:12px; color:var(--text3); line-height:1.7;">
         No party gets a pass here. If you betrayed the public trust, you're on the wall — R or D.
+      </div>
+      <div style="margin-top:16px;">
+        <img src="/images/chained.jpg" alt="UniParty Politics" style="width:100%; border-radius:8px; opacity:0.6;" />
       </div>
     </div>
   </div>
