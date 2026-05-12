@@ -5,13 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>UniParty Politics — Red Team. Blue Team. Same Owners.</title>
   <meta name="description" content="Exposing bipartisan betrayal. Follow the power, not the party." />
-  <meta property="og:title" content="UniParty Politics" />
-  <meta property="og:description" content="Red Team. Blue Team. Same Owners." />
+  <meta property="og:title" content="UniParty Politics — Red Team. Blue Team. Same Owners." />
+  <meta property="og:description" content="Exposing bipartisan betrayal. Follow the power, not the party." />
   <meta property="og:url" content="https://unipartypolitics.com" />
   <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://unipartypolitics.com/images/hero.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="UniParty Politics" />
-  <meta name="twitter:description" content="Red Team. Blue Team. Same Owners." />
+  <meta name="twitter:title" content="UniParty Politics — Red Team. Blue Team. Same Owners." />
+  <meta name="twitter:description" content="Exposing bipartisan betrayal. Follow the power, not the party." />
+  <meta name="twitter:image" content="https://unipartypolitics.com/images/hero.jpg" />
   <link rel="stylesheet" href="/css/style.css" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-F66YXXJ7P1"></script>
   <script>
@@ -96,6 +100,7 @@
       0% { opacity: 1; transform: scale(1); }
       100% { opacity: 0; transform: scale(1.04); pointer-events: none; }
     }
+
     .masthead-wrap { background: #000; border-bottom: 1px solid #1a1a1a; }
     .masthead-top {
       background: linear-gradient(90deg, #b91c1c 0%, #7c3aed 50%, #1d4ed8 100%);
@@ -130,10 +135,56 @@
     .pill-eq-big { color: #9333ea; font-size: 24px; font-weight: 800; }
     .pill-d-big { background: #1e3a5f; color: #93c5fd; font-size: 13px; font-weight: 800; padding: 6px 16px; border-radius: 3px; letter-spacing: 0.08em; }
     .mast-sub-bold { font-size: 10px; color: #444; letter-spacing: 0.04em; }
+
+    /* HERO IMAGE STRIP */
+    .hero-image-strip {
+      width: 100%;
+      height: 280px;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .hero-image-strip img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 30%;
+      display: block;
+    }
+    .hero-image-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.7) 100%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-end;
+      padding: 24px;
+      text-align: center;
+    }
+    .hero-overlay-tag {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.5);
+      margin-bottom: 8px;
+    }
+    .hero-overlay-hed {
+      font-size: clamp(18px, 3vw, 30px);
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -0.01em;
+      line-height: 1.2;
+    }
+    .hero-overlay-hed span { color: #a855f7; }
+
     .hero-featured {
       background: #000;
       border-bottom: 1px solid #1a1a1a;
-      padding: 32px 24px;
+      padding: 28px 24px;
       position: relative;
       overflow: hidden;
     }
@@ -157,34 +208,35 @@
     }
     .hero-kicker::before { content: '▶'; font-size: 8px; color: #ef4444; }
     .hero-hed {
-      font-size: clamp(20px, 3.5vw, 36px);
+      font-size: clamp(18px, 3vw, 32px);
       font-weight: 800;
       color: #f5f5f5;
       line-height: 1.2;
       letter-spacing: -0.02em;
       max-width: 800px;
-      margin-bottom: 14px;
+      margin-bottom: 12px;
     }
     .hero-dek {
-      font-size: 15px;
+      font-size: 14px;
       color: #888;
       line-height: 1.65;
       max-width: 680px;
-      margin-bottom: 20px;
+      margin-bottom: 18px;
     }
     .vote-strip { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
     .vote-bar-hero {
       display: flex;
-      height: 28px;
+      height: 26px;
       border-radius: 4px;
       overflow: hidden;
-      min-width: 280px;
+      min-width: 240px;
       flex: 1;
       max-width: 400px;
     }
-    .vbh-r { background: #7f1d1d; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 700; color: #fca5a5; letter-spacing: 0.04em; }
-    .vbh-d { background: #1e3a5f; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 700; color: #93c5fd; letter-spacing: 0.04em; }
+    .vbh-r { background: #7f1d1d; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: #fca5a5; letter-spacing: 0.04em; }
+    .vbh-d { background: #1e3a5f; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: #93c5fd; letter-spacing: 0.04em; }
     .vote-label-hero { font-size: 11px; color: #555; }
+
     .content-grid {
       display: grid;
       grid-template-columns: minmax(0,1fr) 260px;
@@ -196,7 +248,9 @@
       .sidebar-bold { display: none; }
       .hero-featured { padding: 20px 16px; }
       .masthead-inner { flex-direction: column; gap: 12px; align-items: flex-start; }
+      .hero-image-strip { height: 200px; }
     }
+
     .articles-section { padding: 24px 20px; border-right: 0.5px solid #1a1a1a; }
     .art-card { display: flex; gap: 14px; padding: 14px 0; border-bottom: 0.5px solid #1a1a1a; align-items: flex-start; }
     .art-card:last-child { border-bottom: none; }
@@ -206,6 +260,7 @@
     .art-hed-bold a { color: inherit; text-decoration: none; }
     .art-hed-bold a:hover { color: #a855f7; }
     .art-meta-row { display: flex; align-items: center; gap: 8px; }
+
     .sidebar-bold { background: #050505; padding: 20px 16px; border-left: 0.5px solid #1a1a1a; }
     .stat-block { padding: 14px 0; border-bottom: 0.5px solid #111; }
     .stat-block:last-child { border-bottom: none; }
@@ -215,7 +270,8 @@
     .stat-num.blue { color: #60a5fa; }
     .stat-num.purple { color: #a855f7; }
     .stat-desc { font-size: 11px; color: #444; line-height: 1.5; }
-    .shame-section { margin-top: 24px; }
+
+    .shame-section { margin-top: 20px; }
     .shame-entry { display: flex; align-items: flex-start; gap: 10px; padding: 10px 0; border-bottom: 0.5px solid #111; }
     .shame-entry:last-child { border-bottom: none; }
     .av-bold { width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 800; flex-shrink: 0; }
@@ -223,6 +279,35 @@
     .av-bold.d { background: #1e3a5f; color: #93c5fd; }
     .shame-name-bold { font-size: 12px; font-weight: 700; color: #d4d4d4; }
     .shame-sin-bold { font-size: 10px; color: #555; line-height: 1.4; margin-top: 2px; }
+
+    /* ABOUT STRIP */
+    .about-strip {
+      width: 100%;
+      position: relative;
+      overflow: hidden;
+      border-top: 0.5px solid #1a1a1a;
+    }
+    .about-strip img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      object-position: center;
+      display: block;
+      filter: brightness(0.35);
+    }
+    .about-strip-overlay {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      text-align: center;
+      padding: 20px;
+    }
+    .about-strip-hed { font-size: 14px; font-weight: 800; color: #e5e5e5; letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 6px; }
+    .about-strip-sub { font-size: 11px; color: #666; line-height: 1.6; max-width: 300px; }
+
     .footer-bold { background: #000; border-top: 1px solid #1a1a1a; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; }
     .footer-left-bold { font-size: 11px; color: #333; font-style: italic; letter-spacing: 0.04em; }
     .footer-right-bold { font-size: 12px; color: #9333ea; font-weight: 700; letter-spacing: 0.06em; }
@@ -265,6 +350,14 @@
           </div>
           <div class="mast-sub-bold" id="last-updated">Updated every 2 hours</div>
         </div>
+      </div>
+    </div>
+
+    <div class="hero-image-strip">
+      <img src="/images/hero.jpg" alt="UniParty Politics — Exposing the Illusion" />
+      <div class="hero-image-overlay">
+        <div class="hero-overlay-tag">Exposing the illusion of choice</div>
+        <div class="hero-overlay-hed">Red Team. Blue Team. <span>Same Owners.</span></div>
       </div>
     </div>
 
@@ -327,6 +420,14 @@
           <div class="slbl">Hall of shame</div>
           <div id="hall-of-shame">
             <div style="color:#444; font-size:12px;">Loading...</div>
+          </div>
+        </div>
+
+        <div class="about-strip" style="margin: 20px -16px -20px;">
+          <img src="/images/faces.jpg" alt="UniParty Politics" />
+          <div class="about-strip-overlay">
+            <div class="about-strip-hed">About this site</div>
+            <div class="about-strip-sub">Independent watchdog. Equal opportunity exposure. No party gets a pass.</div>
           </div>
         </div>
       </div>
