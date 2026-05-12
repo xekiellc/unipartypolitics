@@ -1,1 +1,299 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Receipts — UniParty Politics</title>
+  <meta name="description" content="They said vs. they did. The promises. The votes. The donors." />
+  <link rel="stylesheet" href="/css/style.css" />
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-F66YXXJ7P1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-F66YXXJ7P1');
+  </script>
+  <style>
+    .receipt-card {
+      background: var(--bg2);
+      border: 0.5px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 16px;
+    }
+    .receipt-banner { height: 4px; display: flex; }
+    .rb-said { background: #16a34a; flex: 1; }
+    .rb-did { background: var(--red); flex: 1; }
+    .receipt-body { padding: 14px; }
+    .receipt-topic {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+      color: var(--text3);
+      margin-bottom: 10px;
+    }
+    .said-did-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+    @media (max-width: 600px) {
+      .said-did-grid { grid-template-columns: 1fr; }
+    }
+    .said-block, .did-block {
+      padding: 10px 12px;
+      border-radius: 6px;
+    }
+    .said-block {
+      background: #052e16;
+      border: 0.5px solid #166534;
+    }
+    .did-block {
+      background: #450a0a;
+      border: 0.5px solid #7f1d1d;
+    }
+    .block-label {
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+    .said-block .block-label { color: #86efac; }
+    .did-block .block-label { color: var(--red-light); }
+    .block-quote {
+      font-size: 12px;
+      line-height: 1.6;
+      font-style: italic;
+    }
+    .said-block .block-quote { color: #bbf7d0; }
+    .did-block .block-quote { color: #fecaca; }
+    .receipt-meta {
+      font-size: 10px;
+      color: var(--text3);
+      margin-top: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .party-tag {
+      font-size: 9px;
+      font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="bleed-bar">
+    <div class="bleed-r"></div>
+    <div class="bleed-mid"></div>
+    <div class="bleed-d"></div>
+  </div>
+
+  <div class="masthead">
+    <div class="mast-left">
+      <div class="site-name">
+        <span class="name-r">uni</span><span class="name-p">party</span><span class="name-b">politics</span><span class="name-plain">.com</span>
+      </div>
+      <div class="tagline">Red Team. Blue Team. Same Owners.</div>
+    </div>
+    <div class="mast-right">
+      <div class="eq-badge">
+        <span class="pill-r">R</span>
+        <span>=</span>
+        <span class="pill-d">D</span>
+      </div>
+      <div class="mast-sub">Updated every 2 hours</div>
+    </div>
+  </div>
+
+  <div class="ticker">
+    <div class="ticker-track">
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Senate votes 78–19 to reauthorize surveillance powers with zero reform amendments</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — $95B military aid passes 311–112 — defense stocks up 4% the next morning</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Debt ceiling raised for the 21st time; both parties blamed each other, both voted yes</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — 37 members of Congress traded pharma stocks while debating drug pricing legislation</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — FISA reauthorized again — no warrant requirement, no reform, bipartisan passage</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Senate votes 78–19 to reauthorize surveillance powers with zero reform amendments</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — $95B military aid passes 311–112 — defense stocks up 4% the next morning</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Debt ceiling raised for the 21st time; both parties blamed each other, both voted yes</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — 37 members of Congress traded pharma stocks while debating drug pricing legislation</span>
+      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — FISA reauthorized again — no warrant requirement, no reform, bipartisan passage</span>
+    </div>
+  </div>
+
+  <nav>
+    <a href="/">The Betrayals</a>
+    <a href="/data.html">The Data</a>
+    <a href="/dossier.html">The Dossier</a>
+    <a href="/shame.html">Hall of Shame</a>
+    <a href="/receipts.html" class="active">The Receipts</a>
+  </nav>
+
+  <div class="page-body">
+    <div class="main">
+
+      <div style="padding:0 0 20px 0; border-bottom:0.5px solid var(--border); margin-bottom:20px;">
+        <div class="page-title">The Receipts</div>
+        <div class="page-sub">They said it. We saved it. Here's what they did instead.</div>
+      </div>
+
+      <div class="section-lbl">Drug prices</div>
+
+      <div class="receipt-card">
+        <div class="receipt-banner"><div class="rb-said"></div><div class="rb-did"></div></div>
+        <div class="receipt-body">
+          <div class="receipt-topic">Drug pricing · Multiple politicians · Both parties</div>
+          <div class="said-did-grid">
+            <div class="said-block">
+              <div class="block-label">They said</div>
+              <div class="block-quote">"We will lower prescription drug prices. Americans should not pay ten times what Canadians pay for the same pill."</div>
+            </div>
+            <div class="did-block">
+              <div class="block-label">They did</div>
+              <div class="block-quote">Medicare was legally barred from negotiating drug prices for 20 years. Both parties maintained the ban. Pharma donated $612M across both parties in that period.</div>
+            </div>
+          </div>
+          <div class="receipt-meta">
+            <span>Said by: Obama, Bush, Clinton, Trump — all of them</span>
+            <span class="party-tag" style="background:#1e1a2e; color:#c084fc;">Both parties</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-lbl">Wall street accountability</div>
+
+      <div class="receipt-card">
+        <div class="receipt-banner"><div class="rb-said"></div><div class="rb-did"></div></div>
+        <div class="receipt-body">
+          <div class="receipt-topic">Banking regulation · Post-2008 crash</div>
+          <div class="said-did-grid">
+            <div class="said-block">
+              <div class="block-label">They said</div>
+              <div class="block-quote">"Wall Street greed caused this crisis. We will hold bankers accountable and make sure this never happens again."</div>
+            </div>
+            <div class="did-block">
+              <div class="block-label">They did</div>
+              <div class="block-quote">Zero senior bankers prosecuted. Bailouts totaled $700B+. Glass-Steagall was not reinstated. Banks got bigger. Bonuses returned within 18 months.</div>
+            </div>
+          </div>
+          <div class="receipt-meta">
+            <span>Said by: Obama, congressional leaders of both parties, 2008–2009</span>
+            <span class="party-tag party-d">Democrat-led</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-lbl">Endless wars</div>
+
+      <div class="receipt-card">
+        <div class="receipt-banner"><div class="rb-said"></div><div class="rb-did"></div></div>
+        <div class="receipt-body">
+          <div class="receipt-topic">Military intervention · Iraq, Afghanistan, Syria, Libya</div>
+          <div class="said-did-grid">
+            <div class="said-block">
+              <div class="block-label">They said</div>
+              <div class="block-quote">"We will end these forever wars. Our troops deserve to come home. We cannot be the world's policeman."</div>
+            </div>
+            <div class="did-block">
+              <div class="block-label">They did</div>
+              <div class="block-quote">US troops remain in Syria, Iraq, and Somalia. Military budget hit $886B in 2024 — a record. Both parties voted yes. No war formally ended.</div>
+            </div>
+          </div>
+          <div class="receipt-meta">
+            <span>Said by: Obama (2008), Trump (2016), Biden (2020)</span>
+            <span class="party-tag" style="background:#1e1a2e; color:#c084fc;">Both parties</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-lbl">Border security</div>
+
+      <div class="receipt-card">
+        <div class="receipt-banner"><div class="rb-said"></div><div class="rb-did"></div></div>
+        <div class="receipt-body">
+          <div class="receipt-topic">Immigration · Every election cycle</div>
+          <div class="said-did-grid">
+            <div class="said-block">
+              <div class="block-label">They said</div>
+              <div class="block-quote">"We will secure the border / fix our broken immigration system. This is a crisis that demands immediate action."</div>
+            </div>
+            <div class="did-block">
+              <div class="block-label">They did</div>
+              <div class="block-quote">Comprehensive reform bills collapsed in 2007, 2013, and 2024 — each time with bipartisan blame deflection. The crisis is more useful unsolved. Donations flow either way.</div>
+            </div>
+          </div>
+          <div class="receipt-meta">
+            <span>Said by: every presidential candidate since 2000</span>
+            <span class="party-tag" style="background:#1e1a2e; color:#c084fc;">Both parties</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-lbl">Congressional stock trading</div>
+
+      <div class="receipt-card">
+        <div class="receipt-banner"><div class="rb-said"></div><div class="rb-did"></div></div>
+        <div class="receipt-body">
+          <div class="receipt-topic">STOCK Act reform · Insider trading</div>
+          <div class="said-did-grid">
+            <div class="said-block">
+              <div class="block-label">They said</div>
+              <div class="block-quote">"Members of Congress should not be able to trade stocks based on inside information. We will ban it."</div>
+            </div>
+            <div class="did-block">
+              <div class="block-label">They did</div>
+              <div class="block-quote">The STOCK Act passed in 2012 but with no real enforcement. The fine for a late filing is $200. Reform bills strengthening it died in committee in 2020, 2021, 2022, and 2023.</div>
+            </div>
+          </div>
+          <div class="receipt-meta">
+            <span>Said by: leadership of both parties, 2020–2023</span>
+            <span class="party-tag" style="background:#1e1a2e; color:#c084fc;">Both parties</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="sidebar">
+      <div class="section-lbl">By the numbers</div>
+      <div class="stat-card">
+        <div class="stat-lbl">Shared donor dollars</div>
+        <div class="stat-val purple">$4.2B</div>
+        <div class="stat-sub">Top 50 donors gave to both parties</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-lbl">Bipartisan yes votes this session</div>
+        <div class="stat-val blue">847</div>
+        <div class="stat-sub">On bills expanding government power</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-lbl">Wars started since 2000</div>
+        <div class="stat-val red">7</div>
+        <div class="stat-sub">Under 3 R and 2 D presidents</div>
+      </div>
+      <div class="section-lbl" style="margin-top:16px;">Receipt categories</div>
+      <div style="display:flex; flex-direction:column; gap:8px; font-size:12px; color:var(--text3);">
+        <span>· Drug prices</span>
+        <span>· Wall Street</span>
+        <span>· Endless wars</span>
+        <span>· Border security</span>
+        <span>· Stock trading</span>
+        <span>· Surveillance</span>
+        <span>· Debt & spending</span>
+        <span>· Trade deals</span>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <span class="footer-left">Manufactured conflict. Coordinated power.</span>
+    <span class="footer-right">#TeamUNIPARTY</span>
+  </footer>
+
+</body>
+</html>
