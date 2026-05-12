@@ -25,110 +25,34 @@
     gtag('config', 'G-F66YXXJ7P1');
   </script>
   <style>
-    #intro {
-      position: fixed;
-      inset: 0;
-      z-index: 9999;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      overflow: hidden;
-      background: #000;
-    }
-    #intro-red {
-      position: absolute;
-      top: 0; left: 0;
-      width: 50%; height: 100%;
-      background: #b91c1c;
-      transform: translateX(-100%);
-      animation: slideInRed 0.8s cubic-bezier(0.22,1,0.36,1) 0.3s forwards;
-    }
-    #intro-blue {
-      position: absolute;
-      top: 0; right: 0;
-      width: 50%; height: 100%;
-      background: #1d4ed8;
-      transform: translateX(100%);
-      animation: slideInBlue 0.8s cubic-bezier(0.22,1,0.36,1) 0.3s forwards;
-    }
-    #intro-flash {
-      position: absolute;
-      inset: 0;
-      background: #9333ea;
-      opacity: 0;
-      animation: flash 0.8s ease 1.3s forwards;
-    }
-    #intro-text {
-      position: relative;
-      z-index: 10;
-      text-align: center;
-      opacity: 0;
-      animation: fadeInText 0.6s ease 1.1s forwards;
-    }
-    #intro-text .eq {
-      font-size: clamp(48px, 10vw, 120px);
-      font-weight: 800;
-      letter-spacing: -0.03em;
-      line-height: 1;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 16px;
-    }
+    /* INTRO */
+    #intro { position: fixed; inset: 0; z-index: 9999; display: flex; align-items: center; justify-content: center; overflow: hidden; background: #000; }
+    #intro-red { position: absolute; top: 0; left: 0; width: 50%; height: 100%; background: #b91c1c; transform: translateX(-100%); animation: slideInRed 0.8s cubic-bezier(0.22,1,0.36,1) 0.3s forwards; }
+    #intro-blue { position: absolute; top: 0; right: 0; width: 50%; height: 100%; background: #1d4ed8; transform: translateX(100%); animation: slideInBlue 0.8s cubic-bezier(0.22,1,0.36,1) 0.3s forwards; }
+    #intro-flash { position: absolute; inset: 0; background: #9333ea; opacity: 0; animation: flash 0.8s ease 1.3s forwards; }
+    #intro-text { position: relative; z-index: 10; text-align: center; opacity: 0; animation: fadeInText 0.6s ease 1.1s forwards; }
+    #intro-text .eq { font-size: clamp(48px, 10vw, 120px); font-weight: 800; letter-spacing: -0.03em; line-height: 1; display: flex; align-items: center; justify-content: center; gap: 16px; }
     #intro-text .eq .r { color: #fff; }
     #intro-text .eq .sym { color: #d8b4fe; font-size: 0.7em; }
     #intro-text .eq .d { color: #fff; }
-    #intro-text .tag {
-      font-size: clamp(11px, 2vw, 16px);
-      letter-spacing: 0.2em;
-      text-transform: uppercase;
-      color: rgba(255,255,255,0.6);
-      margin-top: 12px;
-    }
+    #intro-text .tag { font-size: clamp(11px, 2vw, 16px); letter-spacing: 0.2em; text-transform: uppercase; color: rgba(255,255,255,0.6); margin-top: 12px; }
     @keyframes slideInRed { to { transform: translateX(0); } }
     @keyframes slideInBlue { to { transform: translateX(0); } }
-    @keyframes flash {
-      0% { opacity: 0; }
-      40% { opacity: 1; }
-      100% { opacity: 0; }
-    }
+    @keyframes flash { 0% { opacity: 0; } 40% { opacity: 1; } 100% { opacity: 0; } }
     @keyframes fadeInText { to { opacity: 1; } }
-    #intro.done {
-      animation: introExit 0.6s cubic-bezier(0.22,1,0.36,1) forwards;
-    }
-    @keyframes introExit {
-      0% { opacity: 1; transform: scale(1); }
-      100% { opacity: 0; transform: scale(1.04); pointer-events: none; }
-    }
+    #intro.done { animation: introExit 0.6s cubic-bezier(0.22,1,0.36,1) forwards; }
+    @keyframes introExit { 0% { opacity: 1; transform: scale(1); } 100% { opacity: 0; transform: scale(1.04); pointer-events: none; } }
 
+    /* MASTHEAD */
     .masthead-wrap { background: #000; border-bottom: 1px solid #1a1a1a; }
-    .masthead-top {
-      background: linear-gradient(90deg, #b91c1c 0%, #7c3aed 50%, #1d4ed8 100%);
-      height: 4px;
-    }
-    .masthead-inner {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 16px 24px 12px;
-    }
-    .site-name-big {
-      font-size: clamp(22px, 4vw, 40px);
-      font-weight: 800;
-      letter-spacing: -0.03em;
-      line-height: 1;
-    }
+    .masthead-top { background: linear-gradient(90deg, #b91c1c 0%, #7c3aed 50%, #1d4ed8 100%); height: 4px; }
+    .masthead-inner { display: flex; align-items: center; justify-content: space-between; padding: 16px 24px 12px; }
+    .site-name-big { font-size: clamp(22px, 4vw, 40px); font-weight: 800; letter-spacing: -0.03em; line-height: 1; }
     .site-name-big .r { color: #ef4444; }
     .site-name-big .p { color: #a855f7; }
     .site-name-big .b { color: #60a5fa; }
     .site-name-big .plain { color: #e5e5e5; }
-    .tagline-big {
-      font-size: 11px;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-      color: #555;
-      margin-top: 5px;
-    }
+    .tagline-big { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #555; margin-top: 5px; }
     .mast-right-bold { display: flex; flex-direction: column; align-items: flex-end; gap: 5px; }
     .eq-big { display: flex; align-items: center; gap: 10px; }
     .pill-r-big { background: #7f1d1d; color: #fca5a5; font-size: 13px; font-weight: 800; padding: 6px 16px; border-radius: 3px; letter-spacing: 0.08em; }
@@ -136,119 +60,57 @@
     .pill-d-big { background: #1e3a5f; color: #93c5fd; font-size: 13px; font-weight: 800; padding: 6px 16px; border-radius: 3px; letter-spacing: 0.08em; }
     .mast-sub-bold { font-size: 10px; color: #444; letter-spacing: 0.04em; }
 
-    /* HERO IMAGE STRIP */
+    /* HOMEPAGE HERO — hero.jpg is portrait, center on the animals */
     .hero-image-strip {
       width: 100%;
-      height: 280px;
+      height: 340px;
       position: relative;
       overflow: hidden;
-      display: flex;
-      align-items: center;
-      justify-content: center;
     }
     .hero-image-strip img {
       width: 100%;
       height: 100%;
       object-fit: cover;
-      object-position: center 30%;
+      object-position: center 35%;
       display: block;
+      filter: brightness(0.45);
     }
     .hero-image-overlay {
       position: absolute;
       inset: 0;
-      background: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.7) 100%);
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: flex-end;
-      padding: 24px;
+      padding: 32px 24px;
       text-align: center;
+      background: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.7) 100%);
     }
-    .hero-overlay-tag {
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: 0.2em;
-      text-transform: uppercase;
-      color: rgba(255,255,255,0.5);
-      margin-bottom: 8px;
-    }
-    .hero-overlay-hed {
-      font-size: clamp(18px, 3vw, 30px);
-      font-weight: 800;
-      color: #fff;
-      letter-spacing: -0.01em;
-      line-height: 1.2;
-    }
+    .hero-overlay-tag { font-size: 11px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(255,255,255,0.5); margin-bottom: 8px; }
+    .hero-overlay-hed { font-size: clamp(20px, 3.5vw, 36px); font-weight: 800; color: #fff; letter-spacing: -0.01em; line-height: 1.2; }
     .hero-overlay-hed span { color: #a855f7; }
 
-    .hero-featured {
-      background: #000;
-      border-bottom: 1px solid #1a1a1a;
-      padding: 28px 24px;
-      position: relative;
-      overflow: hidden;
-    }
-    .hero-featured::before {
-      content: '';
-      position: absolute;
-      top: 0; left: 0; right: 0;
-      height: 2px;
-      background: linear-gradient(90deg, #b91c1c, #7c3aed, #1d4ed8);
-    }
-    .hero-kicker {
-      font-size: 10px;
-      font-weight: 700;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-      color: #9333ea;
-      margin-bottom: 12px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
+    /* FEATURED */
+    .hero-featured { background: #000; border-bottom: 1px solid #1a1a1a; padding: 28px 24px; position: relative; overflow: hidden; }
+    .hero-featured::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, #b91c1c, #7c3aed, #1d4ed8); }
+    .hero-kicker { font-size: 10px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #9333ea; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
     .hero-kicker::before { content: '▶'; font-size: 8px; color: #ef4444; }
-    .hero-hed {
-      font-size: clamp(18px, 3vw, 32px);
-      font-weight: 800;
-      color: #f5f5f5;
-      line-height: 1.2;
-      letter-spacing: -0.02em;
-      max-width: 800px;
-      margin-bottom: 12px;
-    }
-    .hero-dek {
-      font-size: 14px;
-      color: #888;
-      line-height: 1.65;
-      max-width: 680px;
-      margin-bottom: 18px;
-    }
+    .hero-hed { font-size: clamp(18px, 3vw, 32px); font-weight: 800; color: #f5f5f5; line-height: 1.2; letter-spacing: -0.02em; max-width: 800px; margin-bottom: 12px; }
+    .hero-dek { font-size: 14px; color: #888; line-height: 1.65; max-width: 680px; margin-bottom: 18px; }
     .vote-strip { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
-    .vote-bar-hero {
-      display: flex;
-      height: 26px;
-      border-radius: 4px;
-      overflow: hidden;
-      min-width: 240px;
-      flex: 1;
-      max-width: 400px;
-    }
+    .vote-bar-hero { display: flex; height: 26px; border-radius: 4px; overflow: hidden; min-width: 240px; flex: 1; max-width: 400px; }
     .vbh-r { background: #7f1d1d; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: #fca5a5; letter-spacing: 0.04em; }
     .vbh-d { background: #1e3a5f; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: #93c5fd; letter-spacing: 0.04em; }
     .vote-label-hero { font-size: 11px; color: #555; }
 
-    .content-grid {
-      display: grid;
-      grid-template-columns: minmax(0,1fr) 260px;
-      max-width: 1200px;
-      margin: 0 auto;
-    }
+    /* CONTENT GRID */
+    .content-grid { display: grid; grid-template-columns: minmax(0,1fr) 260px; max-width: 1200px; margin: 0 auto; }
     @media (max-width: 768px) {
       .content-grid { grid-template-columns: 1fr; }
       .sidebar-bold { display: none; }
       .hero-featured { padding: 20px 16px; }
       .masthead-inner { flex-direction: column; gap: 12px; align-items: flex-start; }
-      .hero-image-strip { height: 200px; }
+      .hero-image-strip { height: 220px; }
     }
 
     .articles-section { padding: 24px 20px; border-right: 0.5px solid #1a1a1a; }
@@ -270,7 +132,6 @@
     .stat-num.blue { color: #60a5fa; }
     .stat-num.purple { color: #a855f7; }
     .stat-desc { font-size: 11px; color: #444; line-height: 1.5; }
-
     .shame-section { margin-top: 20px; }
     .shame-entry { display: flex; align-items: flex-start; gap: 10px; padding: 10px 0; border-bottom: 0.5px solid #111; }
     .shame-entry:last-child { border-bottom: none; }
@@ -279,34 +140,6 @@
     .av-bold.d { background: #1e3a5f; color: #93c5fd; }
     .shame-name-bold { font-size: 12px; font-weight: 700; color: #d4d4d4; }
     .shame-sin-bold { font-size: 10px; color: #555; line-height: 1.4; margin-top: 2px; }
-
-    /* ABOUT STRIP */
-    .about-strip {
-      width: 100%;
-      position: relative;
-      overflow: hidden;
-      border-top: 0.5px solid #1a1a1a;
-    }
-    .about-strip img {
-      width: 100%;
-      height: 180px;
-      object-fit: cover;
-      object-position: center;
-      display: block;
-      filter: brightness(0.35);
-    }
-    .about-strip-overlay {
-      position: absolute;
-      inset: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
-      text-align: center;
-      padding: 20px;
-    }
-    .about-strip-hed { font-size: 14px; font-weight: 800; color: #e5e5e5; letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 6px; }
-    .about-strip-sub { font-size: 11px; color: #666; line-height: 1.6; max-width: 300px; }
 
     .footer-bold { background: #000; border-top: 1px solid #1a1a1a; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; }
     .footer-left-bold { font-size: 11px; color: #333; font-style: italic; letter-spacing: 0.04em; }
@@ -422,13 +255,8 @@
             <div style="color:#444; font-size:12px;">Loading...</div>
           </div>
         </div>
-
-        <div class="about-strip" style="margin: 20px -16px -20px;">
-          <img src="/images/faces.jpg" alt="UniParty Politics" />
-          <div class="about-strip-overlay">
-            <div class="about-strip-hed">About this site</div>
-            <div class="about-strip-sub">Independent watchdog. Equal opportunity exposure. No party gets a pass.</div>
-          </div>
+        <div style="margin-top:20px;">
+          <img src="/images/chained.jpg" alt="UniParty Politics" style="width:100%; border-radius:8px; opacity:0.55;" />
         </div>
       </div>
     </div>
