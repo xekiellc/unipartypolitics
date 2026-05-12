@@ -5,6 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>The Dossier — UniParty Politics</title>
   <meta name="description" content="Deep-dive editorial investigations into bipartisan corruption and institutional power." />
+  <meta property="og:title" content="The Dossier — UniParty Politics" />
+  <meta property="og:description" content="Deep-dive investigations into the machinery of bipartisan power. The politics behind the politics." />
+  <meta property="og:image" content="https://unipartypolitics.com/images/faces.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://unipartypolitics.com/images/faces.jpg" />
   <link rel="stylesheet" href="/css/style.css" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-F66YXXJ7P1"></script>
   <script>
@@ -13,6 +18,45 @@
     gtag('js', new Date());
     gtag('config', 'G-F66YXXJ7P1');
   </script>
+  <style>
+    .page-hero {
+      width: 100%;
+      height: 220px;
+      position: relative;
+      overflow: hidden;
+    }
+    .page-hero img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 40%;
+      display: block;
+      filter: brightness(0.35);
+    }
+    .page-hero-overlay {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 20px;
+    }
+    .page-hero-title {
+      font-size: clamp(24px, 4vw, 40px);
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -0.02em;
+      margin-bottom: 6px;
+    }
+    .page-hero-sub {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+  </style>
 </head>
 <body>
 
@@ -65,12 +109,19 @@
     <a href="/videos.html">Videos</a>
   </nav>
 
+  <div class="page-hero">
+    <img src="/images/faces.jpg" alt="The Dossier — UniParty Politics" />
+    <div class="page-hero-overlay">
+      <div class="page-hero-title">The Dossier</div>
+      <div class="page-hero-sub">The politics behind the politics</div>
+    </div>
+  </div>
+
   <div class="page-body">
     <div class="main">
 
-      <div style="padding:0 0 20px 0; border-bottom:0.5px solid var(--border); margin-bottom:20px;">
-        <div class="page-title">The Dossier</div>
-        <div class="page-sub">Deep-dive investigations into the machinery of bipartisan power. The politics behind the politics.</div>
+      <div style="padding:16px 0 20px 0; border-bottom:0.5px solid var(--border); margin-bottom:20px;">
+        <div class="page-sub">Deep-dive investigations into the machinery of bipartisan power. Both parties. Same donors. Same outcomes.</div>
       </div>
 
       <div class="section-lbl">Featured investigation</div>
@@ -176,6 +227,9 @@
         <span>· Banking & finance</span>
         <span>· Perpetual war</span>
         <span>· Debt ceiling theater</span>
+      </div>
+      <div style="margin-top:16px;">
+        <img src="/images/faces.jpg" alt="UniParty Politics" style="width:100%; border-radius:8px; opacity:0.5;" />
       </div>
     </div>
   </div>
