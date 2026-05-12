@@ -1,1 +1,97 @@
 
+{
+  "updated": "2026-05-12T00:00:00Z",
+  "featured": {
+    "category": "betrayal",
+    "kicker": "Bipartisan sellout · Surveillance state",
+    "headline": "FISA Section 702 reauthorized — again — with zero reform. 78 senators voted yes from both parties.",
+    "dek": "No warrant requirement added. No limits on domestic queries. Civil liberties groups from the left and right opposed it. Both party leaderships whipped for passage anyway.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "unipartypolitics.com"
+  },
+  "articles": [
+    {
+      "id": 1,
+      "category": "betrayal",
+      "headline": "Congress approved $95B foreign military aid — no floor debate, no amendments allowed",
+      "meta": "Defense spending · 2 hours ago",
+      "url": "#"
+    },
+    {
+      "id": 2,
+      "category": "data",
+      "headline": "37 members of Congress traded pharma stocks while debating drug pricing legislation",
+      "meta": "Insider trading · 4 hours ago",
+      "url": "#"
+    },
+    {
+      "id": 3,
+      "category": "receipts",
+      "headline": "\"I'll fight the banks\" — 14 senators who said it took $2.3M from banks last cycle",
+      "meta": "They said vs. they did · 6 hours ago",
+      "url": "#"
+    },
+    {
+      "id": 4,
+      "category": "dossier",
+      "headline": "The revolving door: how Washington regulators become industry lobbyists in under six months",
+      "meta": "Deep dive · Yesterday",
+      "url": "#"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Debt ceiling raised for the 21st time — both parties blamed each other, both voted yes",
+      "meta": "Fiscal policy · Yesterday",
+      "url": "#"
+    },
+    {
+      "id": 6,
+      "category": "data",
+      "headline": "Defense contractors donated $847M to congressional campaigns across both parties last cycle",
+      "meta": "Follow the money · 2 days ago",
+      "url": "#"
+    },
+    {
+      "id": 7,
+      "category": "receipts",
+      "headline": "Every promise made about drug prices since 2000 — and what actually passed into law",
+      "meta": "They said vs. they did · 2 days ago",
+      "url": "#"
+    }
+  ],
+  "stats": {
+    "shared_donor_dollars": "$4.2B",
+    "bipartisan_yes_votes": "847",
+    "wars_since_2000": "7"
+  },
+  "hall_of_shame": [
+    {
+      "initials": "MM",
+      "party": "r",
+      "name": "M. McConnell",
+      "sin": "$45M pharma, voted against price caps"
+    },
+    {
+      "initials": "NP",
+      "party": "d",
+      "name": "N. Pelosi",
+      "sin": "Tech stock trades during antitrust hearings"
+    },
+    {
+      "initials": "LC",
+      "party": "r",
+      "name": "L. Cheney",
+      "sin": "Halliburton ties, Iraq war, no-bid contracts"
+    },
+    {
+      "initials": "CS",
+      "party": "d",
+      "name": "C. Schumer",
+      "sin": "Wall St. top recipient, blocked Glass-Steagall reversal"
+    }
+  ]
+}
