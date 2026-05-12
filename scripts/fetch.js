@@ -49,7 +49,7 @@ function parseRSS(xml, sourceUrl) {
     if (title && title !== 'undefined') {
       articles.push({
         title: title.replace(/<[^>]*>/g, '').trim(),
-        description: desc ? desc.replace(/<[^>]*>/g, '').trim().slice(0, 150) : '',
+        description: desc ? desc.replace(/<[^>]*>/g, '').trim().slice(0, 120) : '',
         url: link ? link.trim() : sourceUrl,
         source: new URL(sourceUrl).hostname,
         publishedAt: pubDate || new Date().toISOString()
@@ -79,85 +79,93 @@ async function fetchAllFeeds() {
     }
   }
   console.log(`Total articles fetched: ${all.length}`);
-  return all.slice(0, 20);
+  return all.slice(0, 15);
 }
 
-function httpsPost(hostname, path, headers, body) {
+function callClaude(prompt) {
   return new Promise((resolve, reject) => {
-    const data = JSON.stringify(body);
+    const body = JSON.stringify({
+      model: 'claude-sonnet-4-20250514',
+      max_tokens: 1000,
+      messages: [{ role: 'user', content: prompt }]
+    });
+
     const options = {
-      hostname,
-      path,
+      hostname: 'api.anthropic.com',
+      path: '/v1/messages',
       method: 'POST',
       headers: {
-        ...headers,
         'Content-Type': 'application/json',
-        'Content-Length': Buffer.byteLength(data)
+        'Content-Length': Buffer.byteLength(body),
+        'x-api-key': ANTHROPIC_API_KEY,
+        'anthropic-version': '2023-06-01'
       },
       timeout: 60000
     };
+
     const req = https.request(options, (res) => {
       let response = '';
+      console.log(`Claude API status: ${res.statusCode}`);
       res.on('data', chunk => response += chunk);
       res.on('end', () => {
-        try { resolve(JSON.parse(response)); }
-        catch (e) { reject(e); }
+        console.log(`Claude raw response length: ${response.length}`);
+        console.log(`Claude raw response: ${response.slice(0, 500)}`);
+        resolve(response);
       });
     });
-    req.on('error', reject);
-    req.on('timeout', () => { req.destroy(); reject(new Error('Claude API timeout')); });
-    req.write(data);
+
+    req.on('error', (e) => {
+      console.error(`Claude request error: ${e.message}`);
+      reject(e);
+    });
+
+    req.on('timeout', () => {
+      req.destroy();
+      reject(new Error('Claude API timeout'));
+    });
+
+    req.write(body);
     req.end();
   });
 }
 
 async function curateWithClaude(articles) {
+  console.log(`API key present: ${!!ANTHROPIC_API_KEY}`);
+  console.log(`API key length: ${ANTHROPIC_API_KEY ? ANTHROPIC_API_KEY.length : 0}`);
+
   const articleList = articles.map((a, i) =>
-    `[${i}] ${a.title} (${a.source})\n${a.description}\nURL: ${a.url}`
-  ).join('\n\n');
+    `[${i}] ${a.title} (${a.source})`
+  ).join('\n');
 
-  const prompt = `You are the editorial AI for unipartypolitics.com — a watchdog site exposing bipartisan corruption. Cover: endless wars, surveillance, drug prices, Wall Street bailouts, insider trading, revolving door lobbying, debt, trade deals, media consolidation.
+  const prompt = `You are editorial AI for unipartypolitics.com. Pick the best articles exposing bipartisan political corruption — both Republican AND Democrat failures.
 
-Select articles showing bipartisan failure — both parties serving donors over voters. Equal treatment of R and D mandatory.
-
-CATEGORIES: betrayal, data, receipts, dossier, shame
-
-Return ONLY this exact JSON structure, nothing else, no markdown:
-{"featured":{"category":"betrayal","kicker":"kicker text","headline":"headline","dek":"2-3 sentence summary","votes_r":50,"votes_d":40,"votes_yes":90,"votes_no":10,"source":"source"},"articles":[{"id":1,"category":"betrayal","headline":"headline","meta":"topic · X hours ago","url":"url"},{"id":2,"category":"data","headline":"headline","meta":"topic · X hours ago","url":"url"},{"id":3,"category":"receipts","headline":"headline","meta":"topic · X hours ago","url":"url"},{"id":4,"category":"dossier","headline":"headline","meta":"topic · X hours ago","url":"url"},{"id":5,"category":"betrayal","headline":"headline","meta":"topic · X hours ago","url":"url"}]}
-
-Use real headlines and URLs from the articles below. Pick 1 featured + 5 articles max.
+Return ONLY this JSON, no other text:
+{"featured":{"category":"betrayal","kicker":"Both parties fail again","headline":"Congress passes surveillance bill with bipartisan support","dek":"Both parties voted to expand surveillance powers with no reform amendments added.","votes_r":42,"votes_d":36,"votes_yes":78,"votes_no":19,"source":"ProPublica"},"articles":[{"id":1,"category":"betrayal","headline":"Article headline here","meta":"Politics · today","url":"https://example.com"}]}
 
 ARTICLES:
 ${articleList}`;
 
-  const response = await httpsPost(
-    'api.anthropic.com',
-    '/v1/messages',
-    {
-      'x-api-key': ANTHROPIC_API_KEY,
-      'anthropic-version': '2023-06-01'
-    },
-    {
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 1500,
-      messages: [{ role: 'user', content: prompt }]
-    }
-  );
-
-  const text = response.content?.[0]?.text || '';
-  const clean = text.replace(/```json|```/g, '').trim();
-
   try {
+    const raw = await callClaude(prompt);
+    const parsed = JSON.parse(raw);
+    const text = parsed.content?.[0]?.text || '';
+    console.log(`Claude text response: ${text.slice(0, 300)}`);
+    const clean = text.replace(/```json|```/g, '').trim();
     return JSON.parse(clean);
   } catch (e) {
-    console.error('Claude JSON parse failed:', e.message);
-    console.error('Raw response:', text.slice(0, 800));
+    console.error(`Curation error: ${e.message}`);
     return null;
   }
 }
 
 async function main() {
   console.log('UniParty Politics pipeline starting...');
+
+  if (!ANTHROPIC_API_KEY) {
+    console.error('ANTHROPIC_API_KEY is not set!');
+    process.exit(1);
+  }
+
   const articles = await fetchAllFeeds();
 
   if (articles.length === 0) {
@@ -169,8 +177,8 @@ async function main() {
   const curated = await curateWithClaude(articles);
 
   if (!curated) {
-    console.error('Curation failed. Exiting.');
-    process.exit(1);
+    console.error('Curation failed. Keeping existing articles.json.');
+    process.exit(0);
   }
 
   const existing = JSON.parse(
