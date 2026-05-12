@@ -82,17 +82,8 @@
     }
     .lb-row:last-child { border-bottom: none; }
     .lb-row:hover { background: #0a0a0a; }
-    .lb-rank {
-      font-size: 11px;
-      font-weight: 800;
-      color: var(--text3);
-    }
-    .lb-name-wrap {}
-    .lb-name {
-      font-size: 13px;
-      font-weight: 600;
-      color: #d4d4d4;
-    }
+    .lb-rank { font-size: 11px; font-weight: 800; color: var(--text3); }
+    .lb-name { font-size: 13px; font-weight: 600; color: #d4d4d4; }
     .lb-state { font-size: 10px; color: var(--text3); }
     .lb-party-badge {
       font-size: 9px;
@@ -102,21 +93,9 @@
       display: inline-block;
       margin-left: 6px;
     }
-    .lb-return {
-      font-size: 14px;
-      font-weight: 800;
-      text-align: right;
-    }
-    .lb-vs-sp {
-      font-size: 11px;
-      color: var(--text3);
-      text-align: right;
-    }
-    .lb-committee {
-      font-size: 10px;
-      color: var(--text3);
-      text-align: right;
-    }
+    .lb-return { font-size: 14px; font-weight: 800; text-align: right; }
+    .lb-vs-sp { font-size: 11px; color: var(--text3); text-align: right; }
+    .lb-committee { font-size: 10px; color: var(--text3); text-align: right; }
     .conflict-badge {
       font-size: 9px;
       font-weight: 700;
@@ -125,6 +104,16 @@
       background: #450a0a;
       color: #fca5a5;
       display: inline-block;
+    }
+    .lame-duck-badge {
+      font-size: 9px;
+      font-weight: 700;
+      padding: 2px 6px;
+      border-radius: 2px;
+      background: #2d1f00;
+      color: #fcd34d;
+      display: inline-block;
+      margin-left: 4px;
     }
     .trade-feed {
       background: var(--bg2);
@@ -143,21 +132,10 @@
     .trade-row:last-child { border-bottom: none; }
     .trade-row:hover { background: #0a0a0a; }
     .trade-member { font-size: 13px; font-weight: 600; color: #d4d4d4; }
-    .trade-ticker {
-      font-size: 13px;
-      font-weight: 800;
-      font-family: monospace;
-      color: #e5e5e5;
-      text-align: right;
-    }
+    .trade-ticker { font-size: 13px; font-weight: 800; font-family: monospace; color: #e5e5e5; text-align: right; }
     .trade-amount { font-size: 12px; color: var(--text2); text-align: right; }
     .trade-date { font-size: 10px; color: var(--text3); text-align: right; }
-    .loading-trades {
-      padding: 24px;
-      text-align: center;
-      color: var(--text3);
-      font-size: 13px;
-    }
+    .loading-trades { padding: 24px; text-align: center; color: var(--text3); font-size: 13px; }
   </style>
 </head>
 <body>
@@ -261,7 +239,7 @@
 
         <div class="lb-row">
           <div class="lb-rank">01</div>
-          <div class="lb-name-wrap">
+          <div>
             <div class="lb-name">Nancy Pelosi <span class="lb-party-badge party-d">D</span></div>
             <div class="lb-state">California · Former Speaker</div>
           </div>
@@ -272,9 +250,9 @@
 
         <div class="lb-row">
           <div class="lb-rank">02</div>
-          <div class="lb-name-wrap">
-            <div class="lb-name">Dan Crenshaw <span class="lb-party-badge party-r">R</span></div>
-            <div class="lb-state">Texas · House Armed Services</div>
+          <div>
+            <div class="lb-name">Dan Crenshaw <span class="lb-party-badge party-r">R</span> <span class="lame-duck-badge">Lame Duck</span></div>
+            <div class="lb-state">Texas · Lost primary March 2026 · Exits Jan 2027</div>
           </div>
           <div class="lb-return outperform">+49.3%</div>
           <div class="lb-vs-sp outperform">+38.8%</div>
@@ -283,7 +261,7 @@
 
         <div class="lb-row">
           <div class="lb-rank">03</div>
-          <div class="lb-name-wrap">
+          <div>
             <div class="lb-name">Tommy Tuberville <span class="lb-party-badge party-r">R</span></div>
             <div class="lb-state">Alabama · Senate Armed Services</div>
           </div>
@@ -294,7 +272,7 @@
 
         <div class="lb-row">
           <div class="lb-rank">04</div>
-          <div class="lb-name-wrap">
+          <div>
             <div class="lb-name">Ro Khanna <span class="lb-party-badge party-d">D</span></div>
             <div class="lb-state">California · House Armed Services</div>
           </div>
@@ -305,7 +283,7 @@
 
         <div class="lb-row">
           <div class="lb-rank">05</div>
-          <div class="lb-name-wrap">
+          <div>
             <div class="lb-name">Michael McCaul <span class="lb-party-badge party-r">R</span></div>
             <div class="lb-state">Texas · House Foreign Affairs</div>
           </div>
@@ -316,7 +294,7 @@
 
         <div class="lb-row">
           <div class="lb-rank">06</div>
-          <div class="lb-name-wrap">
+          <div>
             <div class="lb-name">Josh Gottheimer <span class="lb-party-badge party-d">D</span></div>
             <div class="lb-state">New Jersey · House Financial Services</div>
           </div>
@@ -327,18 +305,18 @@
 
         <div class="lb-row">
           <div class="lb-rank">07</div>
-          <div class="lb-name-wrap">
-            <div class="lb-name">Marjorie Taylor Greene <span class="lb-party-badge party-r">R</span></div>
-            <div class="lb-state">Georgia · House Oversight</div>
+          <div>
+            <div class="lb-name">David Rouzer <span class="lb-party-badge party-r">R</span></div>
+            <div class="lb-state">North Carolina · House Agriculture</div>
           </div>
-          <div class="lb-return outperform">+29.8%</div>
-          <div class="lb-vs-sp outperform">+19.3%</div>
-          <div class="lb-committee">Tech stocks</div>
+          <div class="lb-return outperform">+29.1%</div>
+          <div class="lb-vs-sp outperform">+18.6%</div>
+          <div class="lb-committee"><span class="conflict-badge">⚠ Conflict</span><br/>Ag commodity stocks</div>
         </div>
 
         <div class="lb-row">
           <div class="lb-rank">08</div>
-          <div class="lb-name-wrap">
+          <div>
             <div class="lb-name">Mark Warner <span class="lb-party-badge party-d">D</span></div>
             <div class="lb-state">Virginia · Senate Intelligence</div>
           </div>
@@ -408,9 +386,7 @@
         const res = await fetch('https://housestockwatcher.com/api/transactions?page=0&pageSize=10');
         const data = await res.json();
         const trades = data.data || data.transactions || data || [];
-
         if (!trades.length) throw new Error('No trades');
-
         feed.innerHTML = trades.slice(0, 12).map(t => {
           const type = (t.type || t.transaction_type || '').toLowerCase();
           const isBuy = type.includes('purchase') || type.includes('buy');
@@ -419,7 +395,6 @@
           const amount = t.amount || t.transaction_amount || '—';
           const date = t.transaction_date || t.disclosure_date || '—';
           const party = (t.party || '').toLowerCase();
-
           return `
             <div class="trade-row">
               <div>
@@ -431,7 +406,6 @@
             </div>
           `;
         }).join('');
-
       } catch (e) {
         feed.innerHTML = `
           <div class="loading-trades">
@@ -441,7 +415,6 @@
         `;
       }
     }
-
     loadTrades();
   </script>
 
