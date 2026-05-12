@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +13,6 @@
   <meta name="twitter:title" content="UniParty Politics" />
   <meta name="twitter:description" content="Red Team. Blue Team. Same Owners." />
   <link rel="stylesheet" href="/css/style.css" />
-  <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-F66YXXJ7P1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -22,105 +20,620 @@
     gtag('js', new Date());
     gtag('config', 'G-F66YXXJ7P1');
   </script>
+  <style>
+    /* INTRO OVERLAY */
+    #intro {
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      background: #000;
+    }
+    #intro-red {
+      position: absolute;
+      top: 0; left: 0;
+      width: 50%; height: 100%;
+      background: #b91c1c;
+      transform: translateX(-100%);
+      animation: slideInRed 0.5s cubic-bezier(0.22,1,0.36,1) 0.2s forwards;
+    }
+    #intro-blue {
+      position: absolute;
+      top: 0; right: 0;
+      width: 50%; height: 100%;
+      background: #1d4ed8;
+      transform: translateX(100%);
+      animation: slideInBlue 0.5s cubic-bezier(0.22,1,0.36,1) 0.2s forwards;
+    }
+    #intro-flash {
+      position: absolute;
+      inset: 0;
+      background: #9333ea;
+      opacity: 0;
+      animation: flash 0.3s ease 0.85s forwards;
+    }
+    #intro-text {
+      position: relative;
+      z-index: 10;
+      text-align: center;
+      opacity: 0;
+      animation: fadeInText 0.4s ease 0.75s forwards;
+    }
+    #intro-text .eq {
+      font-size: clamp(48px, 10vw, 120px);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      line-height: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+    }
+    #intro-text .eq .r { color: #fff; }
+    #intro-text .eq .sym { color: #d8b4fe; font-size: 0.7em; }
+    #intro-text .eq .d { color: #fff; }
+    #intro-text .tag {
+      font-size: clamp(11px, 2vw, 16px);
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.6);
+      margin-top: 12px;
+    }
+    #intro-shatter {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      animation: shatter 0.6s ease 1.1s forwards;
+    }
+    @keyframes slideInRed {
+      to { transform: translateX(0); }
+    }
+    @keyframes slideInBlue {
+      to { transform: translateX(0); }
+    }
+    @keyframes flash {
+      0% { opacity: 0; }
+      40% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    @keyframes fadeInText {
+      to { opacity: 1; }
+    }
+    @keyframes shatter {
+      0% { opacity: 1; background: transparent; }
+      100% { opacity: 0; background: transparent; }
+    }
+    #intro.done {
+      animation: introExit 0.5s cubic-bezier(0.22,1,0.36,1) forwards;
+    }
+    @keyframes introExit {
+      0% { opacity: 1; transform: scale(1); }
+      100% { opacity: 0; transform: scale(1.04); pointer-events: none; }
+    }
+
+    /* BOLD MASTHEAD */
+    .masthead-wrap {
+      background: #000;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    .masthead-top {
+      background: linear-gradient(90deg, #b91c1c 0%, #7c3aed 50%, #1d4ed8 100%);
+      height: 4px;
+    }
+    .masthead-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 24px 12px;
+    }
+    .site-name-big {
+      font-size: clamp(22px, 4vw, 40px);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      line-height: 1;
+    }
+    .site-name-big .r { color: #ef4444; }
+    .site-name-big .p { color: #a855f7; }
+    .site-name-big .b { color: #60a5fa; }
+    .site-name-big .plain { color: #e5e5e5; }
+    .tagline-big {
+      font-size: 11px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: #555;
+      margin-top: 5px;
+    }
+    .mast-right-bold {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 5px;
+    }
+    .eq-big {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .pill-r-big {
+      background: #7f1d1d;
+      color: #fca5a5;
+      font-size: 13px;
+      font-weight: 800;
+      padding: 6px 16px;
+      border-radius: 3px;
+      letter-spacing: 0.08em;
+    }
+    .pill-eq-big {
+      color: #9333ea;
+      font-size: 24px;
+      font-weight: 800;
+    }
+    .pill-d-big {
+      background: #1e3a5f;
+      color: #93c5fd;
+      font-size: 13px;
+      font-weight: 800;
+      padding: 6px 16px;
+      border-radius: 3px;
+      letter-spacing: 0.08em;
+    }
+    .mast-sub-bold {
+      font-size: 10px;
+      color: #444;
+      letter-spacing: 0.04em;
+    }
+
+    /* HERO FEATURED */
+    .hero-featured {
+      background: #000;
+      border-bottom: 1px solid #1a1a1a;
+      padding: 32px 24px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero-featured::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, #b91c1c, #7c3aed, #1d4ed8);
+    }
+    .hero-kicker {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: #9333ea;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .hero-kicker::before {
+      content: '▶';
+      font-size: 8px;
+      color: #ef4444;
+    }
+    .hero-hed {
+      font-size: clamp(20px, 3.5vw, 36px);
+      font-weight: 800;
+      color: #f5f5f5;
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+      max-width: 800px;
+      margin-bottom: 14px;
+    }
+    .hero-dek {
+      font-size: 15px;
+      color: #888;
+      line-height: 1.65;
+      max-width: 680px;
+      margin-bottom: 20px;
+    }
+    .vote-strip {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .vote-bar-hero {
+      display: flex;
+      height: 28px;
+      border-radius: 4px;
+      overflow: hidden;
+      min-width: 280px;
+      flex: 1;
+      max-width: 400px;
+    }
+    .vbh-r {
+      background: #7f1d1d;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      font-weight: 700;
+      color: #fca5a5;
+      letter-spacing: 0.04em;
+    }
+    .vbh-d {
+      background: #1e3a5f;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      font-weight: 700;
+      color: #93c5fd;
+      letter-spacing: 0.04em;
+    }
+    .vote-label-hero {
+      font-size: 11px;
+      color: #555;
+    }
+
+    /* CONTENT GRID */
+    .content-grid {
+      display: grid;
+      grid-template-columns: minmax(0,1fr) 260px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    @media (max-width: 768px) {
+      .content-grid { grid-template-columns: 1fr; }
+      .sidebar { display: none; }
+      .hero-featured { padding: 20px 16px; }
+      .masthead-inner { flex-direction: column; gap: 12px; align-items: flex-start; }
+    }
+
+    /* ARTICLE CARDS */
+    .articles-section { padding: 24px 20px; border-right: 0.5px solid #1a1a1a; }
+    .art-card {
+      display: flex;
+      gap: 14px;
+      padding: 14px 0;
+      border-bottom: 0.5px solid #1a1a1a;
+      align-items: flex-start;
+      transition: background 0.15s;
+    }
+    .art-card:last-child { border-bottom: none; }
+    .art-card:hover { background: #0a0a0a; margin: 0 -20px; padding-left: 20px; padding-right: 20px; }
+    .art-num {
+      font-size: 11px;
+      font-weight: 700;
+      color: #333;
+      min-width: 20px;
+      padding-top: 3px;
+    }
+    .art-body { flex: 1; }
+    .art-hed-bold {
+      font-size: 14px;
+      font-weight: 600;
+      color: #d4d4d4;
+      line-height: 1.4;
+      margin-bottom: 5px;
+    }
+    .art-hed-bold a:hover { color: #a855f7; }
+    .art-meta-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* SIDEBAR BOLD */
+    .sidebar-bold {
+      background: #050505;
+      padding: 20px 16px;
+      border-left: 0.5px solid #1a1a1a;
+    }
+    .stat-block {
+      padding: 14px 0;
+      border-bottom: 0.5px solid #111;
+    }
+    .stat-block:last-child { border-bottom: none; }
+    .stat-lbl-bold {
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #444;
+      margin-bottom: 4px;
+    }
+    .stat-num {
+      font-size: 32px;
+      font-weight: 800;
+      line-height: 1;
+      margin-bottom: 3px;
+    }
+    .stat-num.red { color: #ef4444; }
+    .stat-num.blue { color: #60a5fa; }
+    .stat-num.purple { color: #a855f7; }
+    .stat-desc { font-size: 11px; color: #444; line-height: 1.5; }
+
+    .shame-section { margin-top: 24px; }
+    .shame-entry {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 0;
+      border-bottom: 0.5px solid #111;
+    }
+    .shame-entry:last-child { border-bottom: none; }
+    .av-bold {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 10px;
+      font-weight: 800;
+      flex-shrink: 0;
+    }
+    .av-bold.r { background: #7f1d1d; color: #fca5a5; }
+    .av-bold.d { background: #1e3a5f; color: #93c5fd; }
+    .shame-name-bold { font-size: 12px; font-weight: 700; color: #d4d4d4; }
+    .shame-sin-bold { font-size: 10px; color: #555; line-height: 1.4; margin-top: 2px; }
+
+    /* FOOTER BOLD */
+    .footer-bold {
+      background: #000;
+      border-top: 1px solid #1a1a1a;
+      padding: 16px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .footer-left-bold { font-size: 11px; color: #333; font-style: italic; letter-spacing: 0.04em; }
+    .footer-right-bold { font-size: 12px; color: #9333ea; font-weight: 700; letter-spacing: 0.06em; }
+
+    /* SECTION LABEL BOLD */
+    .slbl {
+      font-size: 9px;
+      font-weight: 800;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: #444;
+      margin-bottom: 14px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .slbl::after {
+      content: '';
+      flex: 1;
+      height: 0.5px;
+      background: #1a1a1a;
+    }
+  </style>
 </head>
 <body>
 
-  <div class="bleed-bar">
-    <div class="bleed-r"></div>
-    <div class="bleed-mid"></div>
-    <div class="bleed-d"></div>
+  <!-- INTRO ANIMATION -->
+  <div id="intro">
+    <div id="intro-red"></div>
+    <div id="intro-blue"></div>
+    <div id="intro-flash"></div>
+    <div id="intro-text">
+      <div class="eq">
+        <span class="r">R</span>
+        <span class="sym">=</span>
+        <span class="d">D</span>
+      </div>
+      <div class="tag">Red Team. Blue Team. Same Owners.</div>
+    </div>
+    <div id="intro-shatter"></div>
   </div>
 
-  <div class="masthead">
-    <div class="mast-left">
-      <div class="site-name">
-        <span class="name-r">uni</span><span class="name-p">party</span><span class="name-b">politics</span><span class="name-plain">.com</span>
+  <!-- SITE -->
+  <div id="site" style="opacity:0; transition: opacity 0.4s ease;">
+
+    <div class="masthead-wrap">
+      <div class="masthead-top"></div>
+      <div class="masthead-inner">
+        <div>
+          <div class="site-name-big">
+            <span class="r">uni</span><span class="p">party</span><span class="b">politics</span><span class="plain">.com</span>
+          </div>
+          <div class="tagline-big">Red Team. Blue Team. Same Owners.</div>
+        </div>
+        <div class="mast-right-bold">
+          <div class="eq-big">
+            <span class="pill-r-big">R</span>
+            <span class="pill-eq-big">=</span>
+            <span class="pill-d-big">D</span>
+          </div>
+          <div class="mast-sub-bold" id="last-updated">Updated every 2 hours</div>
+        </div>
       </div>
-      <div class="tagline">Red Team. Blue Team. Same Owners.</div>
     </div>
-    <div class="mast-right">
-      <div class="eq-badge">
-        <span class="pill-r">R</span>
-        <span>=</span>
-        <span class="pill-d">D</span>
+
+    <div class="ticker">
+      <div class="ticker-track">
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Senate votes 78–19 to reauthorize surveillance powers with zero reform amendments</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — $95B military aid passes 311–112 — defense stocks up 4% the next morning</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Debt ceiling raised for the 21st time; both parties blamed each other, both voted yes</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — 37 members of Congress traded pharma stocks while debating drug pricing legislation</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — FISA reauthorized again — no warrant requirement, no reform, bipartisan passage</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Senate votes 78–19 to reauthorize surveillance powers with zero reform amendments</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — $95B military aid passes 311–112 — defense stocks up 4% the next morning</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Debt ceiling raised for the 21st time; both parties blamed each other, both voted yes</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — 37 members of Congress traded pharma stocks while debating drug pricing legislation</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — FISA reauthorized again — no warrant requirement, no reform, bipartisan passage</span>
       </div>
-      <div class="mast-sub" id="last-updated">Updated every 2 hours</div>
     </div>
+
+    <nav>
+      <a href="/" class="active">The Betrayals</a>
+      <a href="/data.html">The Data</a>
+      <a href="/dossier.html">The Dossier</a>
+      <a href="/shame.html">Hall of Shame</a>
+      <a href="/receipts.html">The Receipts</a>
+    </nav>
+
+    <div class="hero-featured" id="hero-featured">
+      <div class="loading" style="color:#444; padding:40px 0;">Loading...</div>
+    </div>
+
+    <div class="content-grid">
+      <div class="articles-section">
+        <div class="slbl">Latest</div>
+        <div id="article-list">
+          <div class="loading" style="color:#444;">Loading articles...</div>
+        </div>
+      </div>
+
+      <div class="sidebar-bold">
+        <div class="slbl">By the numbers</div>
+        <div class="stat-block">
+          <div class="stat-lbl-bold">Shared donor dollars</div>
+          <div class="stat-num purple" id="stat-donors">—</div>
+          <div class="stat-desc">Top 50 donors gave to both parties</div>
+        </div>
+        <div class="stat-block">
+          <div class="stat-lbl-bold">Bipartisan yes votes this session</div>
+          <div class="stat-num blue" id="stat-votes">—</div>
+          <div class="stat-desc">On bills expanding government power</div>
+        </div>
+        <div class="stat-block">
+          <div class="stat-lbl-bold">Wars started since 2000</div>
+          <div class="stat-num red" id="stat-wars">—</div>
+          <div class="stat-desc">Under 3 R and 2 D presidents</div>
+        </div>
+
+        <div class="shame-section">
+          <div class="slbl">Hall of shame</div>
+          <div id="hall-of-shame">
+            <div class="loading" style="color:#444; font-size:12px;">Loading...</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bold">
+      <span class="footer-left-bold">Manufactured conflict. Coordinated power.</span>
+      <span class="footer-right-bold">#TeamUNIPARTY</span>
+    </div>
+
   </div>
-
-  <div class="ticker">
-    <div class="ticker-track">
-      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Senate votes 78–19 to reauthorize surveillance powers with zero reform amendments</span>
-      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — $95B military aid passes 311–112 — defense stocks up 4% the next morning</span>
-      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Debt ceiling raised for the 21st time; both parties blamed each other, both voted yes</span>
-      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — 37 members of Congress traded pharma stocks while debating drug pricing legislation</span>
-      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — FISA reauthorized again — no warrant requirement, no reform, bipartisan passage</span>
-      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Senate votes 78–19 to reauthorize surveillance powers with zero reform amendments</span>
-      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — $95B military aid passes 311–112 — defense stocks up 4% the next morning</span>
-      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Debt ceiling raised for the 21st time; both parties blamed each other, both voted yes</span>
-      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — 37 members of Congress traded pharma stocks while debating drug pricing legislation</span>
-      <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — FISA reauthorized again — no warrant requirement, no reform, bipartisan passage</span>
-    </div>
-  </div>
-
-  <nav>
-    <a href="/" class="active">The Betrayals</a>
-    <a href="/data.html">The Data</a>
-    <a href="/dossier.html">The Dossier</a>
-    <a href="/shame.html">Hall of Shame</a>
-    <a href="/receipts.html">The Receipts</a>
-  </nav>
-
-  <div class="page-body">
-    <div class="main">
-
-      <div class="section-lbl">Featured betrayal</div>
-      <div class="featured-card" id="featured-card">
-        <div class="loading">Loading...</div>
-      </div>
-
-      <div class="section-lbl">Latest</div>
-      <div class="article-list" id="article-list">
-        <div class="loading">Loading articles...</div>
-      </div>
-
-    </div>
-
-    <div class="sidebar">
-
-      <div class="section-lbl">By the numbers</div>
-
-      <div class="stat-card">
-        <div class="stat-lbl">Shared donor dollars</div>
-        <div class="stat-val purple" id="stat-donors">—</div>
-        <div class="stat-sub">Top 50 donors gave to both parties</div>
-      </div>
-
-      <div class="stat-card">
-        <div class="stat-lbl">Bipartisan yes votes this session</div>
-        <div class="stat-val blue" id="stat-votes">—</div>
-        <div class="stat-sub">On bills expanding government power</div>
-      </div>
-
-      <div class="stat-card">
-        <div class="stat-lbl">Wars started since 2000</div>
-        <div class="stat-val red" id="stat-wars">—</div>
-        <div class="stat-sub">Under 3 R and 2 D presidents</div>
-      </div>
-
-      <div class="section-lbl" style="margin-top:16px;">Hall of shame</div>
-      <div id="hall-of-shame">
-        <div class="loading">Loading...</div>
-      </div>
-
-    </div>
-  </div>
-
-  <footer>
-    <span class="footer-left">Manufactured conflict. Coordinated power.</span>
-    <span class="footer-right">#TeamUNIPARTY</span>
-  </footer>
 
   <script src="/js/main.js"></script>
+  <script>
+    // INTRO ANIMATION
+    const intro = document.getElementById('intro');
+    const site = document.getElementById('site');
+    const visited = sessionStorage.getItem('upp_visited');
+
+    if (visited) {
+      intro.style.display = 'none';
+      site.style.opacity = '1';
+    } else {
+      sessionStorage.setItem('upp_visited', '1');
+      setTimeout(() => {
+        intro.classList.add('done');
+        site.style.opacity = '1';
+        setTimeout(() => { intro.style.display = 'none'; }, 500);
+      }, 1800);
+    }
+
+    // OVERRIDE renderFeatured for hero layout
+    window.addEventListener('DOMContentLoaded', () => {});
+
+    async function loadAndRender() {
+      try {
+        const res = await fetch('/data/articles.json');
+        const data = await res.json();
+
+        // Hero featured
+        const hero = document.getElementById('hero-featured');
+        if (data.featured && hero) {
+          const f = data.featured;
+          const total = (f.votes_r || 0) + (f.votes_d || 0);
+          const rPct = total > 0 ? Math.round((f.votes_r / total) * 100) : 50;
+          const dPct = 100 - rPct;
+          hero.innerHTML = `
+            <div class="hero-kicker">${f.kicker || 'Bipartisan betrayal'}</div>
+            <div class="hero-hed">${f.headline}</div>
+            <div class="hero-dek">${f.dek}</div>
+            <div class="vote-strip">
+              <div class="vote-bar-hero">
+                <div class="vbh-r" style="width:${rPct}%">R: ${f.votes_r}</div>
+                <div class="vbh-d" style="width:${dPct}%">D: ${f.votes_d}</div>
+              </div>
+              <div class="vote-label-hero">${f.votes_yes} yes · ${f.votes_no} no · bipartisan passage</div>
+            </div>
+          `;
+        }
+
+        // Articles
+        const list = document.getElementById('article-list');
+        if (data.articles && list) {
+          list.innerHTML = data.articles.map((a, i) => `
+            <div class="art-card">
+              <div class="art-num">${String(i + 1).padStart(2, '0')}</div>
+              <div class="art-body">
+                <div class="art-hed-bold"><a href="${a.url || '#'}" target="_blank" rel="noopener">${a.headline}</a></div>
+                <div class="art-meta-row">
+                  <span class="cat-pill ${getCatClass(a.category)}">${getCatLabel(a.category)}</span>
+                  <span class="art-meta">${a.meta}</span>
+                </div>
+              </div>
+            </div>
+          `).join('');
+        }
+
+        // Stats
+        if (data.stats) {
+          const d = document.getElementById('stat-donors');
+          const v = document.getElementById('stat-votes');
+          const w = document.getElementById('stat-wars');
+          if (d) d.textContent = data.stats.shared_donor_dollars;
+          if (v) v.textContent = data.stats.bipartisan_yes_votes;
+          if (w) w.textContent = data.stats.wars_since_2000;
+        }
+
+        // Hall of shame
+        const shame = document.getElementById('hall-of-shame');
+        if (data.hall_of_shame && shame) {
+          shame.innerHTML = data.hall_of_shame.map(p => `
+            <div class="shame-entry">
+              <div class="av-bold ${p.party}">${p.initials}</div>
+              <div>
+                <div class="shame-name-bold">${p.name}</div>
+                <div class="shame-sin-bold">${p.sin}</div>
+              </div>
+            </div>
+          `).join('');
+        }
+
+        // Updated
+        if (data.updated) {
+          const el = document.getElementById('last-updated');
+          if (el) {
+            const d = new Date(data.updated);
+            el.textContent = 'Last updated: ' + d.toLocaleString('en-US', {
+              month: 'short', day: 'numeric', year: 'numeric',
+              hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
+            });
+          }
+        }
+
+      } catch (e) {
+        console.error('Load error:', e);
+      }
+    }
+
+    function getCatClass(cat) {
+      const map = { betrayal:'cp-betrayal', data:'cp-data', receipts:'cp-receipts', dossier:'cp-dossier', shame:'cp-shame' };
+      return map[cat] || 'cp-betrayal';
+    }
+    function getCatLabel(cat) {
+      const map = { betrayal:'Betrayal', data:'Data', receipts:'Receipts', dossier:'Dossier', shame:'Shame' };
+      return map[cat] || cat;
+    }
+
+    loadAndRender();
+  </script>
 </body>
 </html>
