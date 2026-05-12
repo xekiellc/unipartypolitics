@@ -11,9 +11,7 @@ const RSS_FEEDS = [
   'https://rss.politico.com/congress.xml',
   'https://feeds.foxnews.com/foxnews/politics',
   'https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml',
-  'https://www.opensecrets.org/news/feed',
   'https://reason.com/feed/',
-  'https://greenwald.substack.com/feed',
   'https://www.commondreams.org/rss.xml',
   'https://justthenews.com/feed'
 ];
@@ -22,9 +20,7 @@ function fetchUrl(url) {
   return new Promise((resolve, reject) => {
     const client = url.startsWith('https') ? https : http;
     const req = client.get(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; UniPartyBot/1.0)'
-      },
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; UniPartyBot/1.0)' },
       timeout: 10000
     }, (res) => {
       if (res.statusCode === 301 || res.statusCode === 302) {
@@ -42,8 +38,7 @@ function fetchUrl(url) {
 function parseRSS(xml, sourceUrl) {
   const articles = [];
   const items = xml.match(/<item>([\s\S]*?)<\/item>/g) || [];
-
-  for (const item of items.slice(0, 8)) {
+  for (const item of items.slice(0, 5)) {
     const title = (item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) ||
                    item.match(/<title>(.*?)<\/title>/) || [])[1];
     const desc = (item.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/) ||
@@ -51,13 +46,12 @@ function parseRSS(xml, sourceUrl) {
     const link = (item.match(/<link>(.*?)<\/link>/) ||
                   item.match(/<link\s+href="(.*?)"/) || [])[1];
     const pubDate = (item.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1];
-
     if (title && title !== 'undefined') {
       articles.push({
         title: title.replace(/<[^>]*>/g, '').trim(),
-        description: desc ? desc.replace(/<[^>]*>/g, '').trim().slice(0, 300) : '',
+        description: desc ? desc.replace(/<[^>]*>/g, '').trim().slice(0, 150) : '',
         url: link ? link.trim() : sourceUrl,
-        source: sourceUrl,
+        source: new URL(sourceUrl).hostname,
         publishedAt: pubDate || new Date().toISOString()
       });
     }
@@ -68,7 +62,6 @@ function parseRSS(xml, sourceUrl) {
 async function fetchAllFeeds() {
   const all = [];
   const seen = new Set();
-
   for (const feed of RSS_FEEDS) {
     try {
       console.log(`Fetching: ${feed}`);
@@ -85,9 +78,8 @@ async function fetchAllFeeds() {
       console.error(`Feed failed: ${feed} — ${e.message}`);
     }
   }
-
   console.log(`Total articles fetched: ${all.length}`);
-  return all.slice(0, 40);
+  return all.slice(0, 20);
 }
 
 function httpsPost(hostname, path, headers, body) {
@@ -121,45 +113,19 @@ function httpsPost(hostname, path, headers, body) {
 
 async function curateWithClaude(articles) {
   const articleList = articles.map((a, i) =>
-    `[${i}] ${a.title}\n${a.description}\nURL: ${a.url}`
+    `[${i}] ${a.title} (${a.source})\n${a.description}\nURL: ${a.url}`
   ).join('\n\n');
 
-  const prompt = `You are the editorial AI for unipartypolitics.com — a watchdog site exposing bipartisan corruption. Both Republican and Democrat. You cover: endless wars, surveillance expansion, drug price protection, Wall Street bailouts, insider trading, revolving door lobbying, debt spending, trade deals that gut workers, media consolidation.
+  const prompt = `You are the editorial AI for unipartypolitics.com — a watchdog site exposing bipartisan corruption. Cover: endless wars, surveillance, drug prices, Wall Street bailouts, insider trading, revolving door lobbying, debt, trade deals, media consolidation.
 
-Select and categorize the best articles that fit the uniparty theme — bipartisan failure, institutional corruption, both parties serving donors over voters.
+Select articles showing bipartisan failure — both parties serving donors over voters. Equal treatment of R and D mandatory.
 
-CATEGORIES:
-- betrayal: bipartisan votes, policy failures affecting all Americans
-- data: numbers, statistics, financial disclosures, stock trades, donor money
-- receipts: politicians saying one thing, doing another
-- dossier: systemic corruption, institutional power, investigative angles
-- shame: specific politicians caught in hypocrisy (both parties equally)
+CATEGORIES: betrayal, data, receipts, dossier, shame
 
-Return ONLY valid JSON, no markdown, no explanation:
-{
-  "featured": {
-    "category": "betrayal",
-    "kicker": "short kicker text",
-    "headline": "compelling headline",
-    "dek": "2-3 sentence summary with bipartisan angle",
-    "votes_r": 50,
-    "votes_d": 40,
-    "votes_yes": 90,
-    "votes_no": 10,
-    "source": "source name"
-  },
-  "articles": [
-    {
-      "id": 1,
-      "category": "betrayal",
-      "headline": "headline",
-      "meta": "topic · time ago",
-      "url": "url"
-    }
-  ]
-}
+Return ONLY this exact JSON structure, nothing else, no markdown:
+{"featured":{"category":"betrayal","kicker":"kicker text","headline":"headline","dek":"2-3 sentence summary","votes_r":50,"votes_d":40,"votes_yes":90,"votes_no":10,"source":"source"},"articles":[{"id":1,"category":"betrayal","headline":"headline","meta":"topic · X hours ago","url":"url"},{"id":2,"category":"data","headline":"headline","meta":"topic · X hours ago","url":"url"},{"id":3,"category":"receipts","headline":"headline","meta":"topic · X hours ago","url":"url"},{"id":4,"category":"dossier","headline":"headline","meta":"topic · X hours ago","url":"url"},{"id":5,"category":"betrayal","headline":"headline","meta":"topic · X hours ago","url":"url"}]}
 
-Select 1 featured and up to 8 articles. Only include stories with clear bipartisan betrayal angle. Equal treatment of both parties mandatory. Skip anything that only attacks one party.
+Use real headlines and URLs from the articles below. Pick 1 featured + 5 articles max.
 
 ARTICLES:
 ${articleList}`;
@@ -173,7 +139,7 @@ ${articleList}`;
     },
     {
       model: 'claude-sonnet-4-20250514',
-      max_tokens: 2000,
+      max_tokens: 1500,
       messages: [{ role: 'user', content: prompt }]
     }
   );
@@ -185,7 +151,7 @@ ${articleList}`;
     return JSON.parse(clean);
   } catch (e) {
     console.error('Claude JSON parse failed:', e.message);
-    console.error('Raw response:', text.slice(0, 500));
+    console.error('Raw response:', text.slice(0, 800));
     return null;
   }
 }
