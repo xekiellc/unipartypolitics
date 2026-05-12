@@ -1,66 +1,44 @@
-
 {
-  "updated": "2026-05-12T00:00:00Z",
+  "updated": "2026-05-12T17:02:28.063Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Bipartisan sellout · Surveillance state",
-    "headline": "FISA Section 702 reauthorized — again — with zero reform. 78 senators voted yes from both parties.",
-    "dek": "No warrant requirement added. No limits on domestic queries. Civil liberties groups from the left and right opposed it. Both party leaderships whipped for passage anyway.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "unipartypolitics.com"
+    "kicker": "Both parties fail again",
+    "headline": "Puerto Rico Lawmakers Call for Investigation Into Alleged Drugs-for-Votes Scheme After ProPublica Report",
+    "dek": "Bipartisan corruption exposed as lawmakers from both parties implicated in trading drugs for political support in federal territory.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Congress approved $95B foreign military aid — no floor debate, no amendments allowed",
-      "meta": "Defense spending · 2 hours ago",
-      "url": "#"
+      "headline": "A U.S. Senate Candidate Says Foreign Truckers Are Making America's Roads Unsafe. His Own Truckers Have Caused Harm.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "data",
-      "headline": "37 members of Congress traded pharma stocks while debating drug pricing legislation",
-      "meta": "Insider trading · 4 hours ago",
-      "url": "#"
+      "category": "betrayal",
+      "headline": "A Trump U.S. Attorney's Professional Misconduct Must Be Kept 'Private and Confidential'",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "receipts",
-      "headline": "\"I'll fight the banks\" — 14 senators who said it took $2.3M from banks last cycle",
-      "meta": "They said vs. they did · 6 hours ago",
-      "url": "#"
+      "category": "betrayal",
+      "headline": "Despite Court Order, NYPD Failed to Properly Monitor Stop-and-Frisks by Aggressive Unit",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "dossier",
-      "headline": "The revolving door: how Washington regulators become industry lobbyists in under six months",
-      "meta": "Deep dive · Yesterday",
-      "url": "#"
-    },
-    {
-      "id": 5,
       "category": "betrayal",
-      "headline": "Debt ceiling raised for the 21st time — both parties blamed each other, both voted yes",
-      "meta": "Fiscal policy · Yesterday",
-      "url": "#"
-    },
-    {
-      "id": 6,
-      "category": "data",
-      "headline": "Defense contractors donated $847M to congressional campaigns across both parties last cycle",
-      "meta": "Follow the money · 2 days ago",
-      "url": "#"
-    },
-    {
-      "id": 7,
-      "category": "receipts",
-      "headline": "Every promise made about drug prices since 2000 — and what actually passed into law",
-      "meta": "They said vs. they did · 2 days ago",
-      "url": "#"
+      "headline": "Dodging FOIA Could Now Mean Arrest and Strip Search, Depending on Who's Asking",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
