@@ -5,6 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>The Receipts — UniParty Politics</title>
   <meta name="description" content="They said vs. they did. The promises. The votes. The donors." />
+  <meta property="og:title" content="The Receipts — UniParty Politics" />
+  <meta property="og:description" content="They said it. We saved it. Here's what they did instead." />
+  <meta property="og:image" content="https://unipartypolitics.com/images/chained.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://unipartypolitics.com/images/chained.jpg" />
   <link rel="stylesheet" href="/css/style.css" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-F66YXXJ7P1"></script>
   <script>
@@ -14,6 +19,43 @@
     gtag('config', 'G-F66YXXJ7P1');
   </script>
   <style>
+    .page-hero {
+      width: 100%;
+      height: 220px;
+      position: relative;
+      overflow: hidden;
+    }
+    .page-hero img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 40%;
+      display: block;
+      filter: brightness(0.35);
+    }
+    .page-hero-overlay {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 20px;
+    }
+    .page-hero-title {
+      font-size: clamp(24px, 4vw, 40px);
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -0.02em;
+      margin-bottom: 6px;
+    }
+    .page-hero-sub {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
     .receipt-card {
       background: var(--bg2);
       border: 0.5px solid var(--border);
@@ -41,10 +83,7 @@
     @media (max-width: 600px) {
       .said-did-grid { grid-template-columns: 1fr; }
     }
-    .said-block, .did-block {
-      padding: 10px 12px;
-      border-radius: 6px;
-    }
+    .said-block, .did-block { padding: 10px 12px; border-radius: 6px; }
     .said-block { background: #052e16; border: 0.5px solid #166534; }
     .did-block { background: #450a0a; border: 0.5px solid #7f1d1d; }
     .block-label {
@@ -67,12 +106,7 @@
       justify-content: space-between;
       align-items: center;
     }
-    .party-tag {
-      font-size: 9px;
-      font-weight: 700;
-      padding: 2px 7px;
-      border-radius: 3px;
-    }
+    .party-tag { font-size: 9px; font-weight: 700; padding: 2px 7px; border-radius: 3px; }
   </style>
 </head>
 <body>
@@ -126,12 +160,19 @@
     <a href="/videos.html">Videos</a>
   </nav>
 
+  <div class="page-hero">
+    <img src="/images/chained.jpg" alt="The Receipts — UniParty Politics" />
+    <div class="page-hero-overlay">
+      <div class="page-hero-title">The Receipts</div>
+      <div class="page-hero-sub">They said it · We saved it · Here's what they did</div>
+    </div>
+  </div>
+
   <div class="page-body">
     <div class="main">
 
-      <div style="padding:0 0 20px 0; border-bottom:0.5px solid var(--border); margin-bottom:20px;">
-        <div class="page-title">The Receipts</div>
-        <div class="page-sub">They said it. We saved it. Here's what they did instead.</div>
+      <div style="padding:16px 0 20px 0; border-bottom:0.5px solid var(--border); margin-bottom:20px;">
+        <div class="page-sub">Every broken promise. Every contradicted vote. Every politician who said one thing and did another — on the record.</div>
       </div>
 
       <div class="section-lbl">Drug prices</div>
@@ -295,6 +336,9 @@
         <span>· Surveillance</span>
         <span>· Debt & spending</span>
         <span>· Trade deals</span>
+      </div>
+      <div style="margin-top:16px;">
+        <img src="/images/chained.jpg" alt="UniParty Politics" style="width:100%; border-radius:8px; opacity:0.5;" />
       </div>
     </div>
   </div>
