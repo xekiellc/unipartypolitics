@@ -28,33 +28,51 @@
       display: flex;
       flex-direction: column;
     }
-    .podcast-thumb {
+    .podcast-hero {
       width: 100%;
       aspect-ratio: 16/9;
-      overflow: hidden;
-      background: #111;
-      position: relative;
-    }
-    .podcast-thumb img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
-    .podcast-thumb-fallback {
-      width: 100%;
-      height: 100%;
       display: flex;
       align-items: center;
       justify-content: center;
-      background: #111;
-      font-size: 13px;
-      font-weight: 700;
-      letter-spacing: 0.08em;
-      color: #a855f7;
+      position: relative;
+      overflow: hidden;
+      text-decoration: none;
+    }
+    .podcast-hero-bg {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .podcast-hero-label {
+      position: relative;
+      z-index: 2;
+      font-size: clamp(13px, 2vw, 18px);
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
       text-align: center;
       padding: 12px;
+      line-height: 1.3;
     }
+    .podcast-play-btn {
+      position: absolute;
+      bottom: 12px;
+      right: 12px;
+      z-index: 2;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: rgba(147,51,234,0.9);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 13px;
+      color: #fff;
+      transition: background 0.15s;
+    }
+    .podcast-hero:hover .podcast-play-btn { background: #9333ea; }
     .podcast-body {
       padding: 14px;
       display: flex;
@@ -67,11 +85,7 @@
       color: var(--text);
       margin-bottom: 2px;
     }
-    .podcast-host {
-      font-size: 11px;
-      color: var(--text3);
-      margin-bottom: 8px;
-    }
+    .podcast-host { font-size: 11px; color: var(--text3); margin-bottom: 8px; }
     .podcast-lean {
       font-size: 9px;
       font-weight: 700;
@@ -94,11 +108,7 @@
       margin-bottom: 12px;
       flex: 1;
     }
-    .podcast-links {
-      display: flex;
-      gap: 8px;
-      flex-wrap: wrap;
-    }
+    .podcast-links { display: flex; gap: 8px; flex-wrap: wrap; }
     .podcast-btn {
       font-size: 10px;
       font-weight: 700;
@@ -114,6 +124,71 @@
     .podcast-btn:hover { border-color: var(--purple); color: var(--purple); }
     .podcast-btn.primary { border-color: var(--purple); color: var(--purple); }
     .podcast-btn.primary:hover { background: var(--purple); color: #fff; }
+
+    .featured-pod {
+      background: var(--bg2);
+      border: 0.5px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 24px;
+      display: flex;
+      flex-direction: column;
+    }
+    .featured-pod-banner {
+      width: 100%;
+      aspect-ratio: 16/5;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #1a0533 0%, #0d1a40 50%, #0a1a0a 100%);
+      position: relative;
+      text-decoration: none;
+      overflow: hidden;
+    }
+    .featured-pod-banner::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg, rgba(185,28,28,0.3) 0%, rgba(147,51,234,0.2) 50%, rgba(29,78,216,0.3) 100%);
+    }
+    .featured-pod-title {
+      position: relative;
+      z-index: 2;
+      font-size: clamp(20px, 4vw, 36px);
+      font-weight: 800;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+    .featured-pod-title span { color: #a855f7; }
+    .featured-pod-sub {
+      position: relative;
+      z-index: 2;
+      font-size: 11px;
+      color: rgba(255,255,255,0.5);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      text-align: center;
+      margin-top: 6px;
+    }
+    .featured-pod-cta {
+      position: absolute;
+      bottom: 16px;
+      right: 16px;
+      z-index: 2;
+      background: #9333ea;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      padding: 8px 16px;
+      border-radius: 3px;
+    }
+    .featured-pod-body { padding: 16px; }
+    .featured-pod-desc { font-size: 13px; color: var(--text2); line-height: 1.6; margin-bottom: 12px; }
+    .featured-pod-links { display: flex; gap: 10px; flex-wrap: wrap; }
   </style>
 </head>
 <body>
@@ -177,17 +252,22 @@
 
       <div class="section-lbl">Featured — Breaking Points</div>
 
-      <div class="video-featured" style="margin-bottom:24px;">
-        <div class="video-embed-wrap">
-          <iframe
-            src="https://www.youtube.com/embed/videoseries?list=PLs4hTtftqnlBbUABNMdHiNaGXN4TjUm-V"
-            title="Breaking Points"
-            allowfullscreen>
-          </iframe>
-        </div>
-        <div class="video-body">
-          <div class="video-title">Breaking Points with Krystal & Saagar</div>
-          <div class="video-desc">The flagship anti-uniparty podcast. Krystal Ball from the left, Saagar Enjeti from the right — both calling out the same corrupt system. Daily news analysis that refuses to pick a team. 2M+ YouTube subscribers.</div>
+      <div class="featured-pod">
+        <a href="https://www.youtube.com/@breakingpoints" target="_blank" rel="noopener" class="featured-pod-banner">
+          <div style="position:relative; z-index:2; text-align:center;">
+            <div class="featured-pod-title">Breaking <span>Points</span></div>
+            <div class="featured-pod-sub">Krystal Ball & Saagar Enjeti · 2M+ subscribers</div>
+          </div>
+          <div class="featured-pod-cta">Watch on YouTube →</div>
+        </a>
+        <div class="featured-pod-body">
+          <div class="featured-pod-desc">The flagship anti-uniparty podcast. Krystal Ball from the left, Saagar Enjeti from the right — both calling out the same corrupt system. Daily news analysis that refuses to pick a team. One of the only truly independent top political podcasts in the US.</div>
+          <div class="featured-pod-links">
+            <a href="https://www.youtube.com/@breakingpoints" target="_blank" rel="noopener" class="podcast-btn primary">YouTube →</a>
+            <a href="https://breakingpoints.com" target="_blank" rel="noopener" class="podcast-btn">Website →</a>
+            <a href="https://podcasts.apple.com/us/podcast/breaking-points-with-krystal-and-saagar/id1570045623" target="_blank" rel="noopener" class="podcast-btn">Apple Podcasts →</a>
+            <a href="https://open.spotify.com/show/6UqqaXoYkiU1HnUqWQnAEB" target="_blank" rel="noopener" class="podcast-btn">Spotify →</a>
+          </div>
         </div>
       </div>
 
@@ -196,34 +276,10 @@
       <div class="podcast-grid">
 
         <div class="podcast-card">
-          <div class="podcast-thumb">
-            <img
-              src="https://i.ytimg.com/vi/5lt2dJKQfik/maxresdefault.jpg"
-              alt="Breaking Points"
-              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" />
-            <div class="podcast-thumb-fallback" style="display:none;">BREAKING POINTS</div>
-          </div>
-          <div class="podcast-body">
-            <div class="podcast-name">Breaking Points</div>
-            <div class="podcast-host">Krystal Ball & Saagar Enjeti</div>
-            <span class="podcast-lean lean-independent">Independent</span>
-            <div class="podcast-desc">Left-right duo that agrees the system is rigged. Daily politics without the partisan cheerleading. One of the most-watched anti-establishment shows in the country.</div>
-            <div class="podcast-links">
-              <a href="https://www.youtube.com/@breakingpoints" target="_blank" rel="noopener" class="podcast-btn primary">YouTube →</a>
-              <a href="https://breakingpoints.com" target="_blank" rel="noopener" class="podcast-btn">Website →</a>
-              <a href="https://podcasts.apple.com/us/podcast/breaking-points-with-krystal-and-saagar/id1570045623" target="_blank" rel="noopener" class="podcast-btn">Apple →</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="podcast-card">
-          <div class="podcast-thumb">
-            <img
-              src="https://i.ytimg.com/vi/F3kzp0KVxXU/maxresdefault.jpg"
-              alt="System Update"
-              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" />
-            <div class="podcast-thumb-fallback" style="display:none;">SYSTEM UPDATE</div>
-          </div>
+          <a href="https://www.youtube.com/@SystemUpdatewithGlennGreenwald" target="_blank" rel="noopener" class="podcast-hero" style="background:linear-gradient(135deg,#0a1628,#1a0533);">
+            <div class="podcast-hero-label" style="color:#c084fc;">System<br/>Update</div>
+            <div class="podcast-play-btn">▶</div>
+          </a>
           <div class="podcast-body">
             <div class="podcast-name">System Update</div>
             <div class="podcast-host">Glenn Greenwald</div>
@@ -237,13 +293,10 @@
         </div>
 
         <div class="podcast-card">
-          <div class="podcast-thumb">
-            <img
-              src="https://i.ytimg.com/vi/2GpDMVXCE0g/maxresdefault.jpg"
-              alt="Useful Idiots"
-              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" />
-            <div class="podcast-thumb-fallback" style="display:none;">USEFUL IDIOTS</div>
-          </div>
+          <a href="https://www.youtube.com/@UsefulIdiotsPodcast" target="_blank" rel="noopener" class="podcast-hero" style="background:linear-gradient(135deg,#0c2a4a,#1a0533);">
+            <div class="podcast-hero-label" style="color:#7dd3fc;">Useful<br/>Idiots</div>
+            <div class="podcast-play-btn">▶</div>
+          </a>
           <div class="podcast-body">
             <div class="podcast-name">Useful Idiots</div>
             <div class="podcast-host">Matt Taibbi & Katie Halper</div>
@@ -257,18 +310,15 @@
         </div>
 
         <div class="podcast-card">
-          <div class="podcast-thumb">
-            <img
-              src="https://i.ytimg.com/vi/NeEvdDOKAKA/maxresdefault.jpg"
-              alt="Reason Podcast"
-              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" />
-            <div class="podcast-thumb-fallback" style="display:none;">REASON PODCAST</div>
-          </div>
+          <a href="https://www.youtube.com/@ReasonTV" target="_blank" rel="noopener" class="podcast-hero" style="background:linear-gradient(135deg,#14532d,#0a1628);">
+            <div class="podcast-hero-label" style="color:#86efac;">Reason<br/>Podcast</div>
+            <div class="podcast-play-btn">▶</div>
+          </a>
           <div class="podcast-body">
             <div class="podcast-name">The Reason Podcast</div>
             <div class="podcast-host">Reason Magazine</div>
             <span class="podcast-lean lean-libertarian">Libertarian</span>
-            <div class="podcast-desc">Libertarian take that skewers both parties equally on spending, surveillance, war, and civil liberties. One of the few outlets that was anti-Iraq War AND anti-endless COVID mandates.</div>
+            <div class="podcast-desc">Libertarian take that skewers both parties equally on spending, surveillance, war, and civil liberties. Anti-Iraq War AND anti-endless COVID mandates.</div>
             <div class="podcast-links">
               <a href="https://www.youtube.com/@ReasonTV" target="_blank" rel="noopener" class="podcast-btn primary">YouTube →</a>
               <a href="https://reason.com/podcasts" target="_blank" rel="noopener" class="podcast-btn">Website →</a>
@@ -277,13 +327,10 @@
         </div>
 
         <div class="podcast-card">
-          <div class="podcast-thumb">
-            <img
-              src="https://i.ytimg.com/vi/t3Lu1sqFyKo/maxresdefault.jpg"
-              alt="Jimmy Dore Show"
-              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" />
-            <div class="podcast-thumb-fallback" style="display:none;">JIMMY DORE SHOW</div>
-          </div>
+          <a href="https://www.youtube.com/@jimmy_dore" target="_blank" rel="noopener" class="podcast-hero" style="background:linear-gradient(135deg,#1a0533,#2d1f00);">
+            <div class="podcast-hero-label" style="color:#fcd34d;">Jimmy Dore<br/>Show</div>
+            <div class="podcast-play-btn">▶</div>
+          </a>
           <div class="podcast-body">
             <div class="podcast-name">The Jimmy Dore Show</div>
             <div class="podcast-host">Jimmy Dore</div>
@@ -297,18 +344,15 @@
         </div>
 
         <div class="podcast-card">
-          <div class="podcast-thumb">
-            <img
-              src="https://i.ytimg.com/vi/IFLMjrQxoTs/maxresdefault.jpg"
-              alt="Bad Faith Podcast"
-              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" />
-            <div class="podcast-thumb-fallback" style="display:none;">BAD FAITH</div>
-          </div>
+          <a href="https://www.youtube.com/@badfaithpodcast" target="_blank" rel="noopener" class="podcast-hero" style="background:linear-gradient(135deg,#0c2a4a,#0a1628);">
+            <div class="podcast-hero-label" style="color:#93c5fd;">Bad<br/>Faith</div>
+            <div class="podcast-play-btn">▶</div>
+          </a>
           <div class="podcast-body">
             <div class="podcast-name">Bad Faith</div>
             <div class="podcast-host">Briahna Joy Gray & Virgil Texas</div>
             <span class="podcast-lean lean-left">Left-leaning</span>
-            <div class="podcast-desc">Former Bernie Sanders press secretary who is equally critical of the Democratic establishment. Anti-war, pro-working class, zero tolerance for corporate Democrats.</div>
+            <div class="podcast-desc">Former Bernie Sanders press secretary equally critical of the Democratic establishment. Anti-war, pro-working class, zero tolerance for corporate Democrats.</div>
             <div class="podcast-links">
               <a href="https://www.youtube.com/@badfaithpodcast" target="_blank" rel="noopener" class="podcast-btn primary">YouTube →</a>
               <a href="https://badfaithpodcast.com" target="_blank" rel="noopener" class="podcast-btn">Website →</a>
@@ -317,13 +361,10 @@
         </div>
 
         <div class="podcast-card">
-          <div class="podcast-thumb">
-            <img
-              src="https://i.ytimg.com/vi/R_XBBgAnHbg/maxresdefault.jpg"
-              alt="Tucker Carlson"
-              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" />
-            <div class="podcast-thumb-fallback" style="display:none;">TUCKER CARLSON</div>
-          </div>
+          <a href="https://tuckercarlson.com" target="_blank" rel="noopener" class="podcast-hero" style="background:linear-gradient(135deg,#450a0a,#1a0533);">
+            <div class="podcast-hero-label" style="color:#fca5a5;">Tucker<br/>Carlson</div>
+            <div class="podcast-play-btn">▶</div>
+          </a>
           <div class="podcast-body">
             <div class="podcast-name">Tucker Carlson Network</div>
             <div class="podcast-host">Tucker Carlson</div>
@@ -337,13 +378,10 @@
         </div>
 
         <div class="podcast-card">
-          <div class="podcast-thumb">
-            <img
-              src="https://i.ytimg.com/vi/UNgqXA2ONOU/maxresdefault.jpg"
-              alt="Blocked and Reported"
-              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" />
-            <div class="podcast-thumb-fallback" style="display:none;">BLOCKED & REPORTED</div>
-          </div>
+          <a href="https://www.youtube.com/@blockedandreported" target="_blank" rel="noopener" class="podcast-hero" style="background:linear-gradient(135deg,#1a0533,#0a1628);">
+            <div class="podcast-hero-label" style="color:#c084fc;">Blocked &<br/>Reported</div>
+            <div class="podcast-play-btn">▶</div>
+          </a>
           <div class="podcast-body">
             <div class="podcast-name">Blocked & Reported</div>
             <div class="podcast-host">Katie Herzog & Jesse Singal</div>
@@ -352,6 +390,23 @@
             <div class="podcast-links">
               <a href="https://www.youtube.com/@blockedandreported" target="_blank" rel="noopener" class="podcast-btn primary">YouTube →</a>
               <a href="https://blockedandreported.substack.com" target="_blank" rel="noopener" class="podcast-btn">Substack →</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="podcast-card">
+          <a href="https://www.youtube.com/@TheInterceptMedia" target="_blank" rel="noopener" class="podcast-hero" style="background:linear-gradient(135deg,#0a1628,#14532d);">
+            <div class="podcast-hero-label" style="color:#86efac;">The<br/>Intercept</div>
+            <div class="podcast-play-btn">▶</div>
+          </a>
+          <div class="podcast-body">
+            <div class="podcast-name">The Intercept</div>
+            <div class="podcast-host">Intercept Media</div>
+            <span class="podcast-lean lean-independent">Independent</span>
+            <div class="podcast-desc">Hard-hitting investigative journalism on surveillance, war, and corruption. Founded by Glenn Greenwald and Jeremy Scahill after the Snowden revelations.</div>
+            <div class="podcast-links">
+              <a href="https://www.youtube.com/@TheInterceptMedia" target="_blank" rel="noopener" class="podcast-btn primary">YouTube →</a>
+              <a href="https://theintercept.com" target="_blank" rel="noopener" class="podcast-btn">Website →</a>
             </div>
           </div>
         </div>
@@ -380,7 +435,7 @@
       <div style="display:flex; flex-direction:column; gap:10px;">
         <div>
           <span class="podcast-lean lean-independent" style="margin:0 0 4px; display:inline-block;">Independent</span>
-          <div style="font-size:11px; color:var(--text3);">Breaking Points, System Update, Blocked & Reported, Jimmy Dore</div>
+          <div style="font-size:11px; color:var(--text3);">Breaking Points, System Update, Blocked & Reported, Jimmy Dore, The Intercept</div>
         </div>
         <div>
           <span class="podcast-lean lean-left" style="margin:0 0 4px; display:inline-block;">Left</span>
