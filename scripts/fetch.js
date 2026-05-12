@@ -1,35 +1,93 @@
-
 const https = require('https');
+const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
-const NEWSAPI_KEY = process.env.NEWSAPI_KEY;
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 
-const QUERIES = [
-  'congress bipartisan vote both parties',
-  'congressional stock trading insider',
-  'defense spending military contractor congress',
-  'pharma drug price congress vote',
-  'surveillance FISA warrantless both parties',
-  'lobbying revolving door washington',
-  'debt ceiling congress vote',
-  'foreign aid military bipartisan',
-  'campaign finance donor both parties',
-  'trade deal congress bipartisan'
+const RSS_FEEDS = [
+  'https://feeds.propublica.org/propublica/main',
+  'https://theintercept.com/feed/?rss',
+  'https://rss.politico.com/congress.xml',
+  'https://feeds.foxnews.com/foxnews/politics',
+  'https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml',
+  'https://www.opensecrets.org/news/feed',
+  'https://reason.com/feed/',
+  'https://greenwald.substack.com/feed',
+  'https://www.commondreams.org/rss.xml',
+  'https://justthenews.com/feed'
 ];
 
-function httpsGet(url) {
+function fetchUrl(url) {
   return new Promise((resolve, reject) => {
-    https.get(url, (res) => {
+    const client = url.startsWith('https') ? https : http;
+    const req = client.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; UniPartyBot/1.0)'
+      },
+      timeout: 10000
+    }, (res) => {
+      if (res.statusCode === 301 || res.statusCode === 302) {
+        return fetchUrl(res.headers.location).then(resolve).catch(reject);
+      }
       let data = '';
       res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        try { resolve(JSON.parse(data)); }
-        catch (e) { reject(e); }
-      });
-    }).on('error', reject);
+      res.on('end', () => resolve(data));
+    });
+    req.on('error', reject);
+    req.on('timeout', () => { req.destroy(); reject(new Error('Timeout')); });
   });
+}
+
+function parseRSS(xml, sourceUrl) {
+  const articles = [];
+  const items = xml.match(/<item>([\s\S]*?)<\/item>/g) || [];
+
+  for (const item of items.slice(0, 8)) {
+    const title = (item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) ||
+                   item.match(/<title>(.*?)<\/title>/) || [])[1];
+    const desc = (item.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/) ||
+                  item.match(/<description>(.*?)<\/description>/) || [])[1];
+    const link = (item.match(/<link>(.*?)<\/link>/) ||
+                  item.match(/<link\s+href="(.*?)"/) || [])[1];
+    const pubDate = (item.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1];
+
+    if (title && title !== 'undefined') {
+      articles.push({
+        title: title.replace(/<[^>]*>/g, '').trim(),
+        description: desc ? desc.replace(/<[^>]*>/g, '').trim().slice(0, 300) : '',
+        url: link ? link.trim() : sourceUrl,
+        source: sourceUrl,
+        publishedAt: pubDate || new Date().toISOString()
+      });
+    }
+  }
+  return articles;
+}
+
+async function fetchAllFeeds() {
+  const all = [];
+  const seen = new Set();
+
+  for (const feed of RSS_FEEDS) {
+    try {
+      console.log(`Fetching: ${feed}`);
+      const xml = await fetchUrl(feed);
+      const articles = parseRSS(xml, feed);
+      for (const a of articles) {
+        if (!seen.has(a.title)) {
+          seen.add(a.title);
+          all.push(a);
+        }
+      }
+      await new Promise(r => setTimeout(r, 200));
+    } catch (e) {
+      console.error(`Feed failed: ${feed} — ${e.message}`);
+    }
+  }
+
+  console.log(`Total articles fetched: ${all.length}`);
+  return all.slice(0, 40);
 }
 
 function httpsPost(hostname, path, headers, body) {
@@ -43,7 +101,8 @@ function httpsPost(hostname, path, headers, body) {
         ...headers,
         'Content-Type': 'application/json',
         'Content-Length': Buffer.byteLength(data)
-      }
+      },
+      timeout: 60000
     };
     const req = https.request(options, (res) => {
       let response = '';
@@ -54,66 +113,35 @@ function httpsPost(hostname, path, headers, body) {
       });
     });
     req.on('error', reject);
+    req.on('timeout', () => { req.destroy(); reject(new Error('Claude API timeout')); });
     req.write(data);
     req.end();
   });
 }
 
-async function fetchArticles() {
-  const articles = [];
-  const seen = new Set();
-
-  for (const query of QUERIES) {
-    try {
-      const encoded = encodeURIComponent(query);
-      const url = `https://newsapi.org/v2/everything?q=${encoded}&language=en&sortBy=publishedAt&pageSize=5&apiKey=${NEWSAPI_KEY}`;
-      const result = await httpsGet(url);
-      if (result.articles) {
-        for (const a of result.articles) {
-          if (!seen.has(a.url) && a.title && a.title !== '[Removed]') {
-            seen.add(a.url);
-            articles.push({
-              title: a.title,
-              description: a.description || '',
-              url: a.url,
-              source: a.source?.name || 'Unknown',
-              publishedAt: a.publishedAt
-            });
-          }
-        }
-      }
-      await new Promise(r => setTimeout(r, 300));
-    } catch (e) {
-      console.error(`Query failed: ${query}`, e.message);
-    }
-  }
-
-  return articles.slice(0, 40);
-}
-
 async function curateWithClaude(articles) {
   const articleList = articles.map((a, i) =>
-    `[${i}] ${a.title}\n${a.description}\nSource: ${a.source}\nURL: ${a.url}`
+    `[${i}] ${a.title}\n${a.description}\nURL: ${a.url}`
   ).join('\n\n');
 
-  const prompt = `You are the editorial AI for unipartypolitics.com — a watchdog site that exposes bipartisan corruption, both Republican and Democrat. You cover issues where BOTH parties fail the public: endless wars, surveillance expansion, drug price protection, Wall Street bailouts, insider trading, revolving door lobbying, debt spending, and trade deals that gut workers.
+  const prompt = `You are the editorial AI for unipartypolitics.com — a watchdog site exposing bipartisan corruption. Both Republican and Democrat. You cover: endless wars, surveillance expansion, drug price protection, Wall Street bailouts, insider trading, revolving door lobbying, debt spending, trade deals that gut workers, media consolidation.
 
-Here are ${articles.length} recent news articles. Select and categorize the best ones that fit the uniparty theme — stories showing bipartisan failure, institutional corruption, or both parties serving donors over voters.
+Select and categorize the best articles that fit the uniparty theme — bipartisan failure, institutional corruption, both parties serving donors over voters.
 
 CATEGORIES:
 - betrayal: bipartisan votes, policy failures affecting all Americans
 - data: numbers, statistics, financial disclosures, stock trades, donor money
-- receipts: politicians saying one thing and doing another
-- dossier: deep investigative angles, systemic corruption, institutional power
-- shame: specific politicians caught in hypocrisy or corruption (both parties equally)
+- receipts: politicians saying one thing, doing another
+- dossier: systemic corruption, institutional power, investigative angles
+- shame: specific politicians caught in hypocrisy (both parties equally)
 
 Return ONLY valid JSON, no markdown, no explanation:
 {
   "featured": {
     "category": "betrayal",
-    "kicker": "short kicker text here",
-    "headline": "compelling headline here",
-    "dek": "2-3 sentence summary explaining the bipartisan angle",
+    "kicker": "short kicker text",
+    "headline": "compelling headline",
+    "dek": "2-3 sentence summary with bipartisan angle",
     "votes_r": 50,
     "votes_d": 40,
     "votes_yes": 90,
@@ -124,14 +152,14 @@ Return ONLY valid JSON, no markdown, no explanation:
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "headline here",
+      "headline": "headline",
       "meta": "topic · time ago",
-      "url": "article url"
+      "url": "url"
     }
   ]
 }
 
-Select 1 featured story and up to 8 articles. Only include stories with a clear bipartisan betrayal angle. Equal treatment of both parties is mandatory. If a story only attacks one party, skip it.
+Select 1 featured and up to 8 articles. Only include stories with clear bipartisan betrayal angle. Equal treatment of both parties mandatory. Skip anything that only attacks one party.
 
 ARTICLES:
 ${articleList}`;
@@ -157,24 +185,21 @@ ${articleList}`;
     return JSON.parse(clean);
   } catch (e) {
     console.error('Claude JSON parse failed:', e.message);
-    console.error('Raw response:', text);
+    console.error('Raw response:', text.slice(0, 500));
     return null;
   }
 }
 
 async function main() {
   console.log('UniParty Politics pipeline starting...');
-  console.log('Fetching articles from NewsAPI...');
-
-  const articles = await fetchArticles();
-  console.log(`Fetched ${articles.length} articles`);
+  const articles = await fetchAllFeeds();
 
   if (articles.length === 0) {
     console.error('No articles fetched. Exiting.');
     process.exit(1);
   }
 
-  console.log('Sending to Claude for curation...');
+  console.log(`Sending ${articles.length} articles to Claude...`);
   const curated = await curateWithClaude(articles);
 
   if (!curated) {
