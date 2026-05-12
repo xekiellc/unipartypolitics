@@ -1,575 +1,380 @@
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UniParty Politics — Red Team. Blue Team. Same Owners.</title>
+  <meta name="description" content="Exposing bipartisan betrayal. Follow the power, not the party." />
+  <meta property="og:title" content="UniParty Politics — Red Team. Blue Team. Same Owners." />
+  <meta property="og:description" content="Exposing bipartisan betrayal. Follow the power, not the party." />
+  <meta property="og:url" content="https://unipartypolitics.com" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://unipartypolitics.com/images/hero.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="UniParty Politics — Red Team. Blue Team. Same Owners." />
+  <meta name="twitter:description" content="Exposing bipartisan betrayal. Follow the power, not the party." />
+  <meta name="twitter:image" content="https://unipartypolitics.com/images/hero.jpg" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-F66YXXJ7P1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-F66YXXJ7P1');
+  </script>
+  <style>
+    /* INTRO */
+    #intro { position: fixed; inset: 0; z-index: 9999; display: flex; align-items: center; justify-content: center; overflow: hidden; background: #000; }
+    #intro-red { position: absolute; top: 0; left: 0; width: 50%; height: 100%; background: #b91c1c; transform: translateX(-100%); animation: slideInRed 0.8s cubic-bezier(0.22,1,0.36,1) 0.3s forwards; }
+    #intro-blue { position: absolute; top: 0; right: 0; width: 50%; height: 100%; background: #1d4ed8; transform: translateX(100%); animation: slideInBlue 0.8s cubic-bezier(0.22,1,0.36,1) 0.3s forwards; }
+    #intro-flash { position: absolute; inset: 0; background: #9333ea; opacity: 0; animation: flash 0.8s ease 1.3s forwards; }
+    #intro-text { position: relative; z-index: 10; text-align: center; opacity: 0; animation: fadeInText 0.6s ease 1.1s forwards; }
+    #intro-text .eq { font-size: clamp(48px, 10vw, 120px); font-weight: 800; letter-spacing: -0.03em; line-height: 1; display: flex; align-items: center; justify-content: center; gap: 16px; }
+    #intro-text .eq .r { color: #fff; }
+    #intro-text .eq .sym { color: #d8b4fe; font-size: 0.7em; }
+    #intro-text .eq .d { color: #fff; }
+    #intro-text .tag { font-size: clamp(11px, 2vw, 16px); letter-spacing: 0.2em; text-transform: uppercase; color: rgba(255,255,255,0.6); margin-top: 12px; }
+    @keyframes slideInRed { to { transform: translateX(0); } }
+    @keyframes slideInBlue { to { transform: translateX(0); } }
+    @keyframes flash { 0% { opacity: 0; } 40% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes fadeInText { to { opacity: 1; } }
+    #intro.done { animation: introExit 0.6s cubic-bezier(0.22,1,0.36,1) forwards; }
+    @keyframes introExit { 0% { opacity: 1; transform: scale(1); } 100% { opacity: 0; transform: scale(1.04); pointer-events: none; } }
 
-:root {
-  --red: #b91c1c;
-  --red-dark: #7f1d1d;
-  --red-light: #fca5a5;
-  --blue: #1d4ed8;
-  --blue-dark: #1e3a5f;
-  --blue-light: #93c5fd;
-  --purple: #9333ea;
-  --purple-dark: #2d1057;
-  --purple-light: #d8b4fe;
-  --bg: #0e0e0e;
-  --bg2: #111111;
-  --bg3: #1a1a1a;
-  --border: #222222;
-  --text: #e5e5e5;
-  --text2: #a3a3a3;
-  --text3: #666666;
-}
+    /* MASTHEAD */
+    .masthead-wrap { background: #000; border-bottom: 1px solid #1a1a1a; }
+    .masthead-top { background: linear-gradient(90deg, #b91c1c 0%, #7c3aed 50%, #1d4ed8 100%); height: 4px; }
+    .masthead-inner { display: flex; align-items: center; justify-content: space-between; padding: 16px 24px 12px; }
+    .site-name-big { font-size: clamp(22px, 4vw, 40px); font-weight: 800; letter-spacing: -0.03em; line-height: 1; }
+    .site-name-big .r { color: #ef4444; }
+    .site-name-big .p { color: #a855f7; }
+    .site-name-big .b { color: #60a5fa; }
+    .site-name-big .plain { color: #e5e5e5; }
+    .tagline-big { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #555; margin-top: 5px; }
+    .mast-right-bold { display: flex; flex-direction: column; align-items: flex-end; gap: 5px; }
+    .eq-big { display: flex; align-items: center; gap: 10px; }
+    .pill-r-big { background: #7f1d1d; color: #fca5a5; font-size: 13px; font-weight: 800; padding: 6px 16px; border-radius: 3px; letter-spacing: 0.08em; }
+    .pill-eq-big { color: #9333ea; font-size: 24px; font-weight: 800; }
+    .pill-d-big { background: #1e3a5f; color: #93c5fd; font-size: 13px; font-weight: 800; padding: 6px 16px; border-radius: 3px; letter-spacing: 0.08em; }
+    .mast-sub-bold { font-size: 10px; color: #444; letter-spacing: 0.04em; }
 
-body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  background: var(--bg);
-  color: var(--text);
-  font-size: 15px;
-  line-height: 1.6;
-}
+    /* HOMEPAGE HERO — hero.jpg is portrait, center on the animals */
+    .hero-image-strip {
+      width: 100%;
+      height: 340px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero-image-strip img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 35%;
+      display: block;
+      filter: brightness(0.45);
+    }
+    .hero-image-overlay {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-end;
+      padding: 32px 24px;
+      text-align: center;
+      background: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.7) 100%);
+    }
+    .hero-overlay-tag { font-size: 11px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(255,255,255,0.5); margin-bottom: 8px; }
+    .hero-overlay-hed { font-size: clamp(20px, 3.5vw, 36px); font-weight: 800; color: #fff; letter-spacing: -0.01em; line-height: 1.2; }
+    .hero-overlay-hed span { color: #a855f7; }
 
-a { color: inherit; text-decoration: none; }
+    /* FEATURED */
+    .hero-featured { background: #000; border-bottom: 1px solid #1a1a1a; padding: 28px 24px; position: relative; overflow: hidden; }
+    .hero-featured::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, #b91c1c, #7c3aed, #1d4ed8); }
+    .hero-kicker { font-size: 10px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #9333ea; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
+    .hero-kicker::before { content: '▶'; font-size: 8px; color: #ef4444; }
+    .hero-hed { font-size: clamp(18px, 3vw, 32px); font-weight: 800; color: #f5f5f5; line-height: 1.2; letter-spacing: -0.02em; max-width: 800px; margin-bottom: 12px; }
+    .hero-dek { font-size: 14px; color: #888; line-height: 1.65; max-width: 680px; margin-bottom: 18px; }
+    .vote-strip { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+    .vote-bar-hero { display: flex; height: 26px; border-radius: 4px; overflow: hidden; min-width: 240px; flex: 1; max-width: 400px; }
+    .vbh-r { background: #7f1d1d; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: #fca5a5; letter-spacing: 0.04em; }
+    .vbh-d { background: #1e3a5f; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: #93c5fd; letter-spacing: 0.04em; }
+    .vote-label-hero { font-size: 11px; color: #555; }
 
-/* BLEED BAR */
-.bleed-bar {
-  display: flex;
-  height: 5px;
-}
-.bleed-r { background: var(--red); flex: 1; }
-.bleed-mid { background: var(--purple); width: 36px; flex-shrink: 0; }
-.bleed-d { background: var(--blue); flex: 1; }
+    /* CONTENT GRID */
+    .content-grid { display: grid; grid-template-columns: minmax(0,1fr) 260px; max-width: 1200px; margin: 0 auto; }
+    @media (max-width: 768px) {
+      .content-grid { grid-template-columns: 1fr; }
+      .sidebar-bold { display: none; }
+      .hero-featured { padding: 20px 16px; }
+      .masthead-inner { flex-direction: column; gap: 12px; align-items: flex-start; }
+      .hero-image-strip { height: 220px; }
+    }
 
-/* MASTHEAD */
-.masthead {
-  background: var(--bg);
-  padding: 18px 24px 14px;
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
-  border-bottom: 0.5px solid var(--border);
-}
-.site-name {
-  font-size: 28px;
-  font-weight: 600;
-  letter-spacing: -0.02em;
-  line-height: 1;
-}
-.name-r { color: var(--red); }
-.name-p { color: var(--purple); }
-.name-b { color: #60a5fa; }
-.name-plain { color: var(--text); }
-.tagline {
-  font-size: 11px;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--text3);
-  margin-top: 5px;
-}
-.mast-right {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 5px;
-}
-.eq-badge {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 18px;
-  color: var(--purple);
-  font-weight: 600;
-}
-.pill-r {
-  background: var(--red-dark);
-  color: var(--red-light);
-  font-size: 11px;
-  font-weight: 600;
-  padding: 4px 12px;
-  border-radius: 3px;
-  letter-spacing: 0.06em;
-}
-.pill-d {
-  background: var(--blue-dark);
-  color: var(--blue-light);
-  font-size: 11px;
-  font-weight: 600;
-  padding: 4px 12px;
-  border-radius: 3px;
-  letter-spacing: 0.06em;
-}
-.mast-sub {
-  font-size: 10px;
-  color: var(--text3);
-  letter-spacing: 0.03em;
-}
+    .articles-section { padding: 24px 20px; border-right: 0.5px solid #1a1a1a; }
+    .art-card { display: flex; gap: 14px; padding: 14px 0; border-bottom: 0.5px solid #1a1a1a; align-items: flex-start; }
+    .art-card:last-child { border-bottom: none; }
+    .art-num { font-size: 11px; font-weight: 700; color: #333; min-width: 20px; padding-top: 3px; }
+    .art-body { flex: 1; }
+    .art-hed-bold { font-size: 14px; font-weight: 600; color: #d4d4d4; line-height: 1.4; margin-bottom: 5px; }
+    .art-hed-bold a { color: inherit; text-decoration: none; }
+    .art-hed-bold a:hover { color: #a855f7; }
+    .art-meta-row { display: flex; align-items: center; gap: 8px; }
 
-/* TICKER */
-.ticker {
-  background: var(--bg2);
-  border-bottom: 0.5px solid var(--border);
-  padding: 7px 0;
-  overflow: hidden;
-  white-space: nowrap;
-}
-.ticker-track {
-  display: inline-flex;
-  gap: 60px;
-  animation: ticker 40s linear infinite;
-}
-.ticker-track span {
-  font-size: 11px;
-  color: var(--text3);
-  letter-spacing: 0.03em;
-}
-.tick-r { color: #ef4444; font-weight: 600; }
-.tick-d { color: #60a5fa; font-weight: 600; }
-@keyframes ticker {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
+    .sidebar-bold { background: #050505; padding: 20px 16px; border-left: 0.5px solid #1a1a1a; }
+    .stat-block { padding: 14px 0; border-bottom: 0.5px solid #111; }
+    .stat-block:last-child { border-bottom: none; }
+    .stat-lbl-bold { font-size: 9px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #444; margin-bottom: 4px; }
+    .stat-num { font-size: 32px; font-weight: 800; line-height: 1; margin-bottom: 3px; }
+    .stat-num.red { color: #ef4444; }
+    .stat-num.blue { color: #60a5fa; }
+    .stat-num.purple { color: #a855f7; }
+    .stat-desc { font-size: 11px; color: #444; line-height: 1.5; }
+    .shame-section { margin-top: 20px; }
+    .shame-entry { display: flex; align-items: flex-start; gap: 10px; padding: 10px 0; border-bottom: 0.5px solid #111; }
+    .shame-entry:last-child { border-bottom: none; }
+    .av-bold { width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 800; flex-shrink: 0; }
+    .av-bold.r { background: #7f1d1d; color: #fca5a5; }
+    .av-bold.d { background: #1e3a5f; color: #93c5fd; }
+    .shame-name-bold { font-size: 12px; font-weight: 700; color: #d4d4d4; }
+    .shame-sin-bold { font-size: 10px; color: #555; line-height: 1.4; margin-top: 2px; }
 
-/* NAV */
-nav {
-  background: var(--bg2);
-  display: flex;
-  border-bottom: 0.5px solid var(--border);
-  overflow-x: auto;
-}
-nav a {
-  font-size: 10px;
-  font-weight: 600;
-  color: var(--text3);
-  padding: 11px 12px;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  border-bottom: 2px solid transparent;
-  white-space: nowrap;
-  transition: color 0.15s;
-}
-nav a:hover { color: var(--purple-light); }
-nav a.active {
-  color: var(--purple-light);
-  border-bottom-color: var(--purple);
-  background: var(--bg);
-}
+    .footer-bold { background: #000; border-top: 1px solid #1a1a1a; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; }
+    .footer-left-bold { font-size: 11px; color: #333; font-style: italic; letter-spacing: 0.04em; }
+    .footer-right-bold { font-size: 12px; color: #9333ea; font-weight: 700; letter-spacing: 0.06em; }
+    .slbl { font-size: 9px; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: #444; margin-bottom: 14px; display: flex; align-items: center; gap: 8px; }
+    .slbl::after { content: ''; flex: 1; height: 0.5px; background: #1a1a1a; }
+  </style>
+</head>
+<body>
 
-/* LAYOUT */
-.page-body {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 220px;
-  max-width: 1200px;
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .page-body { grid-template-columns: 1fr; }
-  .sidebar { display: none; }
-  .masthead { flex-direction: column; gap: 12px; align-items: flex-start; }
-}
+  <div id="intro">
+    <div id="intro-red"></div>
+    <div id="intro-blue"></div>
+    <div id="intro-flash"></div>
+    <div id="intro-text">
+      <div class="eq">
+        <span class="r">R</span>
+        <span class="sym">=</span>
+        <span class="d">D</span>
+      </div>
+      <div class="tag">Red Team. Blue Team. Same Owners.</div>
+    </div>
+  </div>
 
-/* MAIN */
-.main { padding: 20px; border-right: 0.5px solid var(--border); }
+  <div id="site" style="opacity:0; transition: opacity 0.4s ease;">
 
-/* SECTION LABEL */
-.section-lbl {
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--text3);
-  margin-bottom: 12px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-.section-lbl::after {
-  content: '';
-  flex: 1;
-  height: 0.5px;
-  background: var(--border);
-}
+    <div class="masthead-wrap">
+      <div class="masthead-top"></div>
+      <div class="masthead-inner">
+        <div>
+          <div class="site-name-big">
+            <span class="r">uni</span><span class="p">party</span><span class="b">politics</span><span class="plain">.com</span>
+          </div>
+          <div class="tagline-big">Red Team. Blue Team. Same Owners.</div>
+        </div>
+        <div class="mast-right-bold">
+          <div class="eq-big">
+            <span class="pill-r-big">R</span>
+            <span class="pill-eq-big">=</span>
+            <span class="pill-d-big">D</span>
+          </div>
+          <div class="mast-sub-bold" id="last-updated">Updated every 2 hours</div>
+        </div>
+      </div>
+    </div>
 
-/* FEATURED CARD */
-.featured-card {
-  border: 0.5px solid var(--border);
-  border-radius: 10px;
-  overflow: hidden;
-  margin-bottom: 20px;
-}
-.feat-banner { display: flex; height: 4px; }
-.ban-r { background: var(--red); flex: 1; }
-.ban-p { background: var(--purple); width: 28px; }
-.ban-d { background: var(--blue); flex: 1; }
-.feat-body { padding: 16px; background: var(--bg2); }
-.feat-kicker {
-  font-size: 10px;
-  letter-spacing: 0.09em;
-  text-transform: uppercase;
-  color: var(--purple);
-  margin-bottom: 7px;
-}
-.feat-hed {
-  font-size: 17px;
-  font-weight: 600;
-  color: var(--text);
-  line-height: 1.35;
-  margin-bottom: 8px;
-}
-.feat-dek {
-  font-size: 13px;
-  color: var(--text2);
-  line-height: 1.6;
-  margin-bottom: 12px;
-}
-.vote-bar-wrap { margin-bottom: 6px; }
-.vote-bar {
-  display: flex;
-  height: 22px;
-  border-radius: 3px;
-  overflow: hidden;
-  margin-bottom: 5px;
-}
-.vb-r {
-  background: var(--red-dark);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 10px;
-  color: var(--red-light);
-  font-weight: 600;
-  min-width: 40px;
-}
-.vb-d {
-  background: var(--blue-dark);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 10px;
-  color: var(--blue-light);
-  font-weight: 600;
-  min-width: 40px;
-}
-.vote-label { font-size: 10px; color: var(--text3); }
-.feat-source { font-size: 11px; color: var(--text3); margin-top: 10px; }
+    <div class="hero-image-strip">
+      <img src="/images/hero.jpg" alt="UniParty Politics — Exposing the Illusion" />
+      <div class="hero-image-overlay">
+        <div class="hero-overlay-tag">Exposing the illusion of choice</div>
+        <div class="hero-overlay-hed">Red Team. Blue Team. <span>Same Owners.</span></div>
+      </div>
+    </div>
 
-/* ARTICLE ROWS */
-.article-list { display: flex; flex-direction: column; }
-.art-row {
-  display: flex;
-  gap: 12px;
-  padding: 12px 0;
-  border-bottom: 0.5px solid var(--border);
-  align-items: flex-start;
-}
-.art-row:last-child { border-bottom: none; }
-.cat-pill {
-  font-size: 9px;
-  font-weight: 700;
-  letter-spacing: 0.07em;
-  text-transform: uppercase;
-  padding: 3px 8px;
-  border-radius: 3px;
-  white-space: nowrap;
-  margin-top: 2px;
-  display: inline-block;
-  flex-shrink: 0;
-}
-.cp-betrayal { background: #2d1057; color: #c084fc; }
-.cp-data      { background: #0c2a4a; color: #7dd3fc; }
-.cp-receipts  { background: #450a0a; color: #fca5a5; }
-.cp-dossier   { background: #14532d; color: #86efac; }
-.cp-shame     { background: #3b1f1f; color: #fda4af; }
-.art-hed {
-  font-size: 13px;
-  font-weight: 600;
-  color: #d4d4d4;
-  line-height: 1.35;
-  margin-bottom: 4px;
-}
-.art-meta { font-size: 11px; color: var(--text3); }
+    <div class="ticker">
+      <div class="ticker-track">
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Senate votes 78–19 to reauthorize surveillance powers with zero reform amendments</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — $95B military aid passes 311–112 — defense stocks up 4% the next morning</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Debt ceiling raised for the 21st time; both parties blamed each other, both voted yes</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — 37 members traded pharma stocks while debating drug pricing legislation</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — FISA reauthorized again — no warrant requirement, no reform, bipartisan passage</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Senate votes 78–19 to reauthorize surveillance powers with zero reform amendments</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — $95B military aid passes 311–112 — defense stocks up 4% the next morning</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — Debt ceiling raised for the 21st time; both parties blamed each other, both voted yes</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — 37 members traded pharma stocks while debating drug pricing legislation</span>
+        <span><span class="tick-r">R</span> + <span class="tick-d">D</span> — FISA reauthorized again — no warrant requirement, no reform, bipartisan passage</span>
+      </div>
+    </div>
 
-/* SIDEBAR */
-.sidebar { background: #0a0a0a; padding: 16px; }
+    <nav>
+      <a href="/" class="active">The Betrayals</a>
+      <a href="/data.html">The Data</a>
+      <a href="/dossier.html">The Dossier</a>
+      <a href="/shame.html">Hall of Shame</a>
+      <a href="/podcasts.html">Podcasts</a>
+      <a href="/portfolio.html">Portfolio</a>
+      <a href="/receipts.html">The Receipts</a>
+      <a href="/videos.html">Videos</a>
+    </nav>
 
-.stat-card {
-  background: var(--bg2);
-  border: 0.5px solid var(--border);
-  border-radius: 8px;
-  padding: 10px 12px;
-  margin-bottom: 10px;
-}
-.stat-lbl {
-  font-size: 10px;
-  color: var(--text3);
-  letter-spacing: 0.07em;
-  text-transform: uppercase;
-  margin-bottom: 3px;
-}
-.stat-val {
-  font-size: 22px;
-  font-weight: 700;
-  line-height: 1.1;
-}
-.stat-val.red { color: #ef4444; }
-.stat-val.blue { color: #60a5fa; }
-.stat-val.purple { color: var(--purple); }
-.stat-sub { font-size: 10px; color: var(--text3); margin-top: 3px; }
+    <div class="hero-featured" id="hero-featured">
+      <div style="color:#444; padding:40px 0;">Loading...</div>
+    </div>
 
-.shame-row {
-  display: flex;
-  align-items: flex-start;
-  gap: 9px;
-  padding: 8px 0;
-  border-bottom: 0.5px solid #141414;
-}
-.shame-row:last-child { border-bottom: none; }
-.av {
-  width: 28px;
-  height: 28px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 9px;
-  font-weight: 700;
-  flex-shrink: 0;
-  margin-top: 1px;
-}
-.av-r { background: var(--red-dark); color: var(--red-light); }
-.av-d { background: var(--blue-dark); color: var(--blue-light); }
-.shame-name { font-size: 12px; font-weight: 600; color: #d4d4d4; }
-.shame-sin { font-size: 10px; color: var(--text3); line-height: 1.4; margin-top: 1px; }
+    <div class="content-grid">
+      <div class="articles-section">
+        <div class="slbl">Latest</div>
+        <div id="article-list">
+          <div style="color:#444; font-size:13px;">Loading articles...</div>
+        </div>
+      </div>
 
-/* FOOTER */
-footer {
-  background: #0a0a0a;
-  border-top: 0.5px solid var(--border);
-  padding: 12px 24px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.footer-left { font-size: 11px; color: var(--text3); font-style: italic; }
-.footer-right { font-size: 11px; color: var(--purple); font-weight: 600; }
+      <div class="sidebar-bold">
+        <div class="slbl">By the numbers</div>
+        <div class="stat-block">
+          <div class="stat-lbl-bold">Shared donor dollars</div>
+          <div class="stat-num purple" id="stat-donors">—</div>
+          <div class="stat-desc">Top 50 donors gave to both parties</div>
+        </div>
+        <div class="stat-block">
+          <div class="stat-lbl-bold">Bipartisan yes votes this session</div>
+          <div class="stat-num blue" id="stat-votes">—</div>
+          <div class="stat-desc">On bills expanding government power</div>
+        </div>
+        <div class="stat-block">
+          <div class="stat-lbl-bold">Wars started since 2000</div>
+          <div class="stat-num red" id="stat-wars">—</div>
+          <div class="stat-desc">Under 3 R and 2 D presidents</div>
+        </div>
+        <div class="shame-section">
+          <div class="slbl">Hall of shame</div>
+          <div id="hall-of-shame">
+            <div style="color:#444; font-size:12px;">Loading...</div>
+          </div>
+        </div>
+        <div style="margin-top:20px;">
+          <img src="/images/chained.jpg" alt="UniParty Politics" style="width:100%; border-radius:8px; opacity:0.55;" />
+        </div>
+      </div>
+    </div>
 
-/* LOADING STATE */
-.loading {
-  text-align: center;
-  padding: 40px;
-  color: var(--text3);
-  font-size: 13px;
-}
+    <div class="footer-bold">
+      <span class="footer-left-bold">Manufactured conflict. Coordinated power.</span>
+      <span class="footer-right-bold">#TeamUNIPARTY</span>
+    </div>
 
-/* INNER PAGES */
-.page-header {
-  padding: 24px;
-  border-bottom: 0.5px solid var(--border);
-  background: var(--bg2);
-}
-.page-title {
-  font-size: 22px;
-  font-weight: 600;
-  color: var(--text);
-  margin-bottom: 4px;
-}
-.page-sub { font-size: 13px; color: var(--text3); }
+  </div>
 
-/* PODCAST CARDS */
-.podcast-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 14px;
-  margin-bottom: 24px;
-}
-.podcast-card {
-  background: var(--bg2);
-  border: 0.5px solid var(--border);
-  border-radius: 10px;
-  overflow: hidden;
-}
-.podcast-thumb {
-  width: 100%;
-  aspect-ratio: 16/9;
-  background: #1a1a1a;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-}
-.podcast-thumb img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-.podcast-thumb-placeholder {
-  width: 100%;
-  aspect-ratio: 16/9;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 40px;
-  background: #111;
-}
-.podcast-body { padding: 12px 14px; }
-.podcast-name {
-  font-size: 14px;
-  font-weight: 600;
-  color: var(--text);
-  margin-bottom: 4px;
-}
-.podcast-host {
-  font-size: 11px;
-  color: var(--text3);
-  margin-bottom: 6px;
-}
-.podcast-desc {
-  font-size: 12px;
-  color: var(--text2);
-  line-height: 1.5;
-  margin-bottom: 10px;
-}
-.podcast-lean {
-  font-size: 9px;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  padding: 2px 8px;
-  border-radius: 3px;
-  display: inline-block;
-  margin-bottom: 10px;
-}
-.lean-left { background: #0c2a4a; color: #7dd3fc; }
-.lean-right { background: #450a0a; color: #fca5a5; }
-.lean-independent { background: #1a1a2e; color: #c084fc; }
-.lean-libertarian { background: #14532d; color: #86efac; }
-.podcast-listen {
-  display: inline-block;
-  font-size: 11px;
-  font-weight: 600;
-  color: var(--purple);
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  border: 0.5px solid var(--purple);
-  padding: 5px 12px;
-  border-radius: 3px;
-  transition: background 0.15s;
-}
-.podcast-listen:hover { background: var(--purple); color: #fff; }
-.podcast-embed {
-  width: 100%;
-  border: none;
-  border-top: 0.5px solid var(--border);
-}
+  <script src="/js/main.js"></script>
+  <script>
+    const intro = document.getElementById('intro');
+    const site = document.getElementById('site');
+    const visited = sessionStorage.getItem('upp_visited');
 
-/* VIDEO CARDS */
-.video-featured {
-  background: var(--bg2);
-  border: 0.5px solid var(--border);
-  border-radius: 10px;
-  overflow: hidden;
-  margin-bottom: 20px;
-}
-.video-embed-wrap {
-  position: relative;
-  width: 100%;
-  aspect-ratio: 16/9;
-  background: #000;
-}
-.video-embed-wrap iframe {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-.video-body { padding: 14px; }
-.video-title {
-  font-size: 16px;
-  font-weight: 600;
-  color: var(--text);
-  margin-bottom: 6px;
-  line-height: 1.35;
-}
-.video-desc {
-  font-size: 13px;
-  color: var(--text2);
-  line-height: 1.5;
-}
-.video-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 14px;
-}
-.video-card {
-  background: var(--bg2);
-  border: 0.5px solid var(--border);
-  border-radius: 10px;
-  overflow: hidden;
-  text-decoration: none;
-  display: block;
-  transition: border-color 0.15s;
-}
-.video-card:hover { border-color: var(--purple); }
-.video-thumb {
-  width: 100%;
-  aspect-ratio: 16/9;
-  background: #1a1a1a;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  overflow: hidden;
-}
-.video-thumb img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-.video-play {
-  position: absolute;
-  width: 44px;
-  height: 44px;
-  background: rgba(147,51,234,0.85);
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 16px;
-  color: #fff;
-}
-.video-card-body { padding: 12px 14px; }
-.video-card-title {
-  font-size: 13px;
-  font-weight: 600;
-  color: #d4d4d4;
-  line-height: 1.35;
-  margin-bottom: 4px;
-}
-.video-card-meta { font-size: 11px; color: var(--text3); }
+    if (visited) {
+      intro.style.display = 'none';
+      site.style.opacity = '1';
+    } else {
+      sessionStorage.setItem('upp_visited', '1');
+      setTimeout(() => {
+        intro.classList.add('done');
+        site.style.opacity = '1';
+        setTimeout(() => { intro.style.display = 'none'; }, 600);
+      }, 3200);
+    }
 
-/* PORTFOLIO */
-.portfolio-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 13px;
-}
-.portfolio-table th {
-  font-size: 9px;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--text3);
-  padding: 8px 12px;
-  text-align: left;
-  border-bottom: 0.5px solid var(--border);
-}
-.portfolio-table td {
-  padding: 10px 12px;
-  border-bottom: 0.5px solid #141414;
-  color: #d4d4d4;
-  vertical-align: top;
-}
-.portfolio-table tr:last-child td { border-bottom: none; }
-.portfolio-table tr:hover td { background: #0a0a0a; }
-.trade-buy { color: #86efac; font-weight: 600; }
-.trade-sell { color: #fca5a5; font-weight: 600; }
-.outperform { color: #86efac; font-weight: 700; }
-.underperform { color: #fca5a5; }
+    async function loadAndRender() {
+      try {
+        const res = await fetch('/data/articles.json');
+        const data = await res.json();
+
+        const hero = document.getElementById('hero-featured');
+        if (data.featured && hero) {
+          const f = data.featured;
+          const total = (f.votes_r || 0) + (f.votes_d || 0);
+          const rPct = total > 0 ? Math.round((f.votes_r / total) * 100) : 50;
+          const dPct = 100 - rPct;
+          hero.innerHTML = `
+            <div class="hero-kicker">${f.kicker || 'Bipartisan betrayal'}</div>
+            <div class="hero-hed">${f.headline}</div>
+            <div class="hero-dek">${f.dek}</div>
+            <div class="vote-strip">
+              <div class="vote-bar-hero">
+                <div class="vbh-r" style="width:${rPct}%">R: ${f.votes_r}</div>
+                <div class="vbh-d" style="width:${dPct}%">D: ${f.votes_d}</div>
+              </div>
+              <div class="vote-label-hero">${f.votes_yes} yes · ${f.votes_no} no · bipartisan passage</div>
+            </div>
+          `;
+        }
+
+        const list = document.getElementById('article-list');
+        if (data.articles && list) {
+          list.innerHTML = data.articles.map((a, i) => `
+            <div class="art-card">
+              <div class="art-num">${String(i + 1).padStart(2, '0')}</div>
+              <div class="art-body">
+                <div class="art-hed-bold"><a href="${a.url || '#'}" target="_blank" rel="noopener">${a.headline}</a></div>
+                <div class="art-meta-row">
+                  <span class="cat-pill ${getCatClass(a.category)}">${getCatLabel(a.category)}</span>
+                  <span class="art-meta">${a.meta}</span>
+                </div>
+              </div>
+            </div>
+          `).join('');
+        }
+
+        if (data.stats) {
+          const d = document.getElementById('stat-donors');
+          const v = document.getElementById('stat-votes');
+          const w = document.getElementById('stat-wars');
+          if (d) d.textContent = data.stats.shared_donor_dollars;
+          if (v) v.textContent = data.stats.bipartisan_yes_votes;
+          if (w) w.textContent = data.stats.wars_since_2000;
+        }
+
+        const shame = document.getElementById('hall-of-shame');
+        if (data.hall_of_shame && shame) {
+          shame.innerHTML = data.hall_of_shame.map(p => `
+            <div class="shame-entry">
+              <div class="av-bold ${p.party}">${p.initials}</div>
+              <div>
+                <div class="shame-name-bold">${p.name}</div>
+                <div class="shame-sin-bold">${p.sin}</div>
+              </div>
+            </div>
+          `).join('');
+        }
+
+        if (data.updated) {
+          const el = document.getElementById('last-updated');
+          if (el) {
+            const d = new Date(data.updated);
+            el.textContent = 'Last updated: ' + d.toLocaleString('en-US', {
+              month: 'short', day: 'numeric', year: 'numeric',
+              hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
+            });
+          }
+        }
+
+      } catch (e) {
+        console.error('Load error:', e);
+      }
+    }
+
+    function getCatClass(cat) {
+      const map = { betrayal:'cp-betrayal', data:'cp-data', receipts:'cp-receipts', dossier:'cp-dossier', shame:'cp-shame' };
+      return map[cat] || 'cp-betrayal';
+    }
+    function getCatLabel(cat) {
+      const map = { betrayal:'Betrayal', data:'Data', receipts:'Receipts', dossier:'Dossier', shame:'Shame' };
+      return map[cat] || cat;
+    }
+
+    loadAndRender();
+  </script>
+</body>
+</html>
