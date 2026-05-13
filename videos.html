@@ -7,9 +7,9 @@
   <meta name="description" content="Bipartisan hypocrisy caught on camera. Congressional hearing moments. They said it themselves." />
   <meta property="og:title" content="Videos — UniParty Politics" />
   <meta property="og:description" content="Bipartisan hypocrisy caught on camera. Congressional hearing moments. They said it themselves." />
-  <meta property="og:image" content="https://unipartypolitics.com/images/hero.jpg" />
+  <meta property="og:image" content="https://unipartypolitics.com/images/chained.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:image" content="https://unipartypolitics.com/images/hero.jpg" />
+  <meta name="twitter:image" content="https://unipartypolitics.com/images/chained.jpg" />
   <link rel="stylesheet" href="/css/style.css" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-F66YXXJ7P1"></script>
   <script>
@@ -19,150 +19,27 @@
     gtag('config', 'G-F66YXXJ7P1');
   </script>
   <style>
-    .page-hero {
-      width: 100%;
-      height: 220px;
-      position: relative;
-      overflow: hidden;
-    }
-    .page-hero img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center 30%;
-      display: block;
-      filter: brightness(0.35);
-    }
-    .page-hero-overlay {
-      position: absolute;
-      inset: 0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      padding: 20px;
-    }
-    .page-hero-title {
-      font-size: clamp(24px, 4vw, 40px);
-      font-weight: 800;
-      color: #fff;
-      letter-spacing: -0.02em;
-      margin-bottom: 6px;
-    }
-    .page-hero-sub {
-      font-size: 12px;
-      color: rgba(255,255,255,0.5);
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-    }
-    .video-hero-card {
-      background: var(--bg2);
-      border: 0.5px solid var(--border);
-      border-radius: 10px;
-      overflow: hidden;
-      margin-bottom: 24px;
-    }
-    .video-hero-banner {
-      width: 100%;
-      aspect-ratio: 16/6;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background: linear-gradient(135deg, #1a0533 0%, #0d1a40 50%, #0a1a0a 100%);
-      position: relative;
-      text-decoration: none;
-      overflow: hidden;
-    }
-    .video-hero-banner::before {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(90deg, rgba(185,28,28,0.35) 0%, rgba(147,51,234,0.2) 50%, rgba(29,78,216,0.35) 100%);
-    }
-    .video-hero-inner {
-      position: relative;
-      z-index: 2;
-      text-align: center;
-      padding: 20px;
-    }
-    .video-hero-label {
-      font-size: clamp(16px, 3vw, 28px);
-      font-weight: 800;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      color: #fff;
-      line-height: 1.2;
-      margin-bottom: 6px;
-    }
+    .page-hero { width: 100%; height: 240px; position: relative; overflow: hidden; }
+    .page-hero img { width: 100%; height: 100%; object-fit: cover; object-position: center center; display: block; filter: brightness(0.38); }
+    .page-hero-overlay { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 20px; background: linear-gradient(to bottom, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.5) 100%); }
+    .page-hero-title { font-size: clamp(26px, 4vw, 44px); font-weight: 800; color: #fff; letter-spacing: -0.02em; margin-bottom: 8px; text-shadow: 0 2px 20px rgba(0,0,0,0.8); }
+    .page-hero-sub { font-size: 12px; color: rgba(255,255,255,0.6); letter-spacing: 0.14em; text-transform: uppercase; text-shadow: 0 1px 10px rgba(0,0,0,0.8); }
+    .video-hero-card { background: var(--bg2); border: 0.5px solid var(--border); border-radius: 10px; overflow: hidden; margin-bottom: 24px; }
+    .video-hero-banner { width: 100%; aspect-ratio: 16/6; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #1a0533 0%, #0d1a40 50%, #0a1a0a 100%); position: relative; text-decoration: none; overflow: hidden; }
+    .video-hero-banner::before { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(185,28,28,0.35) 0%, rgba(147,51,234,0.2) 50%, rgba(29,78,216,0.35) 100%); }
+    .video-hero-inner { position: relative; z-index: 2; text-align: center; padding: 20px; }
+    .video-hero-label { font-size: clamp(16px, 3vw, 28px); font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; color: #fff; line-height: 1.2; margin-bottom: 6px; }
     .video-hero-label span { color: #a855f7; }
-    .video-hero-sub {
-      font-size: 11px;
-      color: rgba(255,255,255,0.5);
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-    }
-    .video-hero-cta {
-      position: absolute;
-      bottom: 14px;
-      right: 14px;
-      z-index: 2;
-      background: #9333ea;
-      color: #fff;
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: 0.08em;
-      padding: 7px 14px;
-      border-radius: 3px;
-    }
+    .video-hero-sub { font-size: 11px; color: rgba(255,255,255,0.5); letter-spacing: 0.1em; text-transform: uppercase; }
+    .video-hero-cta { position: absolute; bottom: 14px; right: 14px; z-index: 2; background: #9333ea; color: #fff; font-size: 11px; font-weight: 700; letter-spacing: 0.08em; padding: 7px 14px; border-radius: 3px; }
     .video-hero-body { padding: 14px 16px; }
     .video-hero-title { font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 6px; line-height: 1.35; }
     .video-hero-desc { font-size: 13px; color: var(--text2); line-height: 1.6; }
-    .vid-card {
-      background: var(--bg2);
-      border: 0.5px solid var(--border);
-      border-radius: 10px;
-      overflow: hidden;
-      text-decoration: none;
-      display: block;
-      transition: border-color 0.15s;
-    }
+    .vid-card { background: var(--bg2); border: 0.5px solid var(--border); border-radius: 10px; overflow: hidden; text-decoration: none; display: block; transition: border-color 0.15s; }
     .vid-card:hover { border-color: var(--purple); }
-    .vid-thumb {
-      width: 100%;
-      aspect-ratio: 16/9;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      position: relative;
-      overflow: hidden;
-    }
-    .vid-thumb-label {
-      position: relative;
-      z-index: 2;
-      font-size: clamp(11px, 1.8vw, 14px);
-      font-weight: 800;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      text-align: center;
-      padding: 10px;
-      line-height: 1.4;
-    }
-    .vid-play {
-      position: absolute;
-      bottom: 10px;
-      right: 10px;
-      width: 32px;
-      height: 32px;
-      border-radius: 50%;
-      background: rgba(147,51,234,0.9);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 11px;
-      color: #fff;
-      z-index: 3;
-    }
+    .vid-thumb { width: 100%; aspect-ratio: 16/9; display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; }
+    .vid-thumb-label { position: relative; z-index: 2; font-size: clamp(11px, 1.8vw, 14px); font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; text-align: center; padding: 10px; line-height: 1.4; }
+    .vid-play { position: absolute; bottom: 10px; right: 10px; width: 32px; height: 32px; border-radius: 50%; background: rgba(147,51,234,0.9); display: flex; align-items: center; justify-content: center; font-size: 11px; color: #fff; z-index: 3; }
     .vid-card-body { padding: 12px 14px; }
     .vid-card-title { font-size: 13px; font-weight: 600; color: #d4d4d4; line-height: 1.4; margin-bottom: 4px; }
     .vid-card-meta { font-size: 11px; color: var(--text3); }
@@ -221,7 +98,7 @@
   </nav>
 
   <div class="page-hero">
-    <img src="/images/hero.jpg" alt="Videos — UniParty Politics" />
+    <img src="/images/chained.jpg" alt="Videos — UniParty Politics" />
     <div class="page-hero-overlay">
       <div class="page-hero-title">Videos</div>
       <div class="page-hero-sub">Bipartisan hypocrisy · caught on camera</div>
@@ -254,7 +131,6 @@
       <div class="section-lbl">Congressional hearing moments</div>
 
       <div class="vid-grid">
-
         <a href="https://www.youtube.com/watch?v=OQSMr-3GGvQ" target="_blank" rel="noopener" class="vid-card">
           <div class="vid-thumb" style="background:linear-gradient(135deg,#0c2a4a,#1a0533);">
             <div class="vid-thumb-label" style="color:#7dd3fc;">Congress Grills Tech CEOs<br/>While Holding Their Stock</div>
@@ -265,7 +141,6 @@
             <div class="vid-card-meta">Antitrust hearings · Both parties</div>
           </div>
         </a>
-
         <a href="https://www.youtube.com/watch?v=VjA4u6qJEFo" target="_blank" rel="noopener" class="vid-card">
           <div class="vid-thumb" style="background:linear-gradient(135deg,#0a1628,#1a0533);">
             <div class="vid-thumb-label" style="color:#c084fc;">Both Sides Clap<br/>for the NSA</div>
@@ -276,7 +151,6 @@
             <div class="vid-card-meta">Intelligence committee · Bipartisan vote</div>
           </div>
         </a>
-
         <a href="https://www.youtube.com/watch?v=sP2-UbADRiI" target="_blank" rel="noopener" class="vid-card">
           <div class="vid-thumb" style="background:linear-gradient(135deg,#450a0a,#1a0533);">
             <div class="vid-thumb-label" style="color:#fca5a5;">$886B Defense Budget<br/>Both Parties Voted Yes</div>
@@ -287,13 +161,11 @@
             <div class="vid-card-meta">Armed Services committee · $886B approved</div>
           </div>
         </a>
-
       </div>
 
       <div class="section-lbl">They said vs. they did — on camera</div>
 
       <div class="vid-grid">
-
         <a href="https://www.youtube.com/watch?v=F3kzp0KVxXU" target="_blank" rel="noopener" class="vid-card">
           <div class="vid-thumb" style="background:linear-gradient(135deg,#14532d,#0a1628);">
             <div class="vid-thumb-label" style="color:#86efac;">Every President Promised<br/>Lower Drug Prices</div>
@@ -304,7 +176,6 @@
             <div class="vid-card-meta">Drug pricing · 20 years of broken promises</div>
           </div>
         </a>
-
         <a href="https://www.youtube.com/watch?v=t3Lu1sqFyKo" target="_blank" rel="noopener" class="vid-card">
           <div class="vid-thumb" style="background:linear-gradient(135deg,#450a0a,#0a1628);">
             <div class="vid-thumb-label" style="color:#fca5a5;">"We Will End the Wars"<br/>Broken Promises Supercut</div>
@@ -315,7 +186,6 @@
             <div class="vid-card-meta">Military intervention · Obama, Trump, Biden</div>
           </div>
         </a>
-
         <a href="https://www.youtube.com/watch?v=IFLMjrQxoTs" target="_blank" rel="noopener" class="vid-card">
           <div class="vid-thumb" style="background:linear-gradient(135deg,#0c2a4a,#450a0a);">
             <div class="vid-thumb-label" style="color:#93c5fd;">2008 Bailout Vote:<br/>Both Said No, Then Yes</div>
@@ -326,13 +196,11 @@
             <div class="vid-card-meta">Wall Street · $700B approved bipartisanly</div>
           </div>
         </a>
-
       </div>
 
       <div class="section-lbl">Anti-uniparty channels</div>
 
       <div class="vid-grid">
-
         <a href="https://www.youtube.com/@breakingpoints" target="_blank" rel="noopener" class="vid-card">
           <div class="vid-thumb" style="background:linear-gradient(135deg,#1a0533,#0d1a40);">
             <div class="vid-thumb-label" style="color:#c084fc;">Breaking Points</div>
@@ -343,7 +211,6 @@
             <div class="vid-card-meta">Daily · Left + Right · Anti-establishment · 2M subs</div>
           </div>
         </a>
-
         <a href="https://www.youtube.com/@SystemUpdatewithGlennGreenwald" target="_blank" rel="noopener" class="vid-card">
           <div class="vid-thumb" style="background:linear-gradient(135deg,#0a1628,#1a0533);">
             <div class="vid-thumb-label" style="color:#7dd3fc;">System Update<br/>Glenn Greenwald</div>
@@ -354,7 +221,6 @@
             <div class="vid-card-meta">Daily · Independent · Civil liberties focus</div>
           </div>
         </a>
-
         <a href="https://www.youtube.com/@jimmy_dore" target="_blank" rel="noopener" class="vid-card">
           <div class="vid-thumb" style="background:linear-gradient(135deg,#1a0533,#2d1f00);">
             <div class="vid-thumb-label" style="color:#fcd34d;">Jimmy Dore Show</div>
@@ -365,7 +231,6 @@
             <div class="vid-card-meta">Daily · Populist Independent · No filters</div>
           </div>
         </a>
-
         <a href="https://www.youtube.com/@ReasonTV" target="_blank" rel="noopener" class="vid-card">
           <div class="vid-thumb" style="background:linear-gradient(135deg,#14532d,#0a1628);">
             <div class="vid-thumb-label" style="color:#86efac;">Reason TV</div>
@@ -376,7 +241,6 @@
             <div class="vid-card-meta">Regular · Libertarian · Both parties equally</div>
           </div>
         </a>
-
         <a href="https://www.youtube.com/@TheInterceptMedia" target="_blank" rel="noopener" class="vid-card">
           <div class="vid-thumb" style="background:linear-gradient(135deg,#0a1628,#14532d);">
             <div class="vid-thumb-label" style="color:#86efac;">The Intercept</div>
@@ -387,7 +251,6 @@
             <div class="vid-card-meta">Investigative · Surveillance · War reporting</div>
           </div>
         </a>
-
         <a href="https://www.youtube.com/@UsefulIdiotsPodcast" target="_blank" rel="noopener" class="vid-card">
           <div class="vid-thumb" style="background:linear-gradient(135deg,#0c2a4a,#1a0533);">
             <div class="vid-thumb-label" style="color:#93c5fd;">Useful Idiots</div>
@@ -398,7 +261,6 @@
             <div class="vid-card-meta">Weekly · Left-independent · Anti-war</div>
           </div>
         </a>
-
       </div>
 
     </div>
@@ -434,7 +296,7 @@
         <a href="mailto:info@unipartypolitics.com" style="color:var(--purple);">info@unipartypolitics.com</a>
       </div>
       <div style="margin-top:16px;">
-        <img src="/images/hero.jpg" alt="UniParty Politics" style="width:100%; border-radius:8px; opacity:0.5;" />
+        <img src="/images/chained.jpg" alt="UniParty Politics" style="width:100%; border-radius:8px; opacity:0.55;" />
       </div>
     </div>
   </div>
