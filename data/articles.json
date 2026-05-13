@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-13T10:36:05.786Z",
+  "updated": "2026-05-13T14:49:13.404Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Senate candidate attacks foreign truckers while his own fleet causes harm",
-    "dek": "Political hypocrisy exposed as candidate rails against safety issues his own business perpetuates",
+    "dek": "Political hypocrisy exposed as candidate blames outsiders for safety issues while his own company's drivers have harmed Americans.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "A U.S. Senate Candidate Says Foreign Truckers Are Making America's Roads Unsafe. His Own Truckers Have Caused Harm.",
+      "headline": "NYPD ignores court order on stop-and-frisk monitoring",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "A Trump U.S. Attorney's Professional Misconduct Must Be Kept \"Private and Confidential\"",
+      "headline": "Trump prosecutor's misconduct kept secret from public",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Despite Court Order, NYPD Failed to Properly Monitor Stop-and-Frisks by Aggressive Unit",
+      "headline": "House GOP eyes another partisan bill despite gridlock",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "FBI Quietly Closed a Probe Into Mahmoud Khalil While He Was in ICE Detention",
+      "headline": "FBI quietly drops probe while suspect detained by ICE",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "California allows fired teacher to keep teaching after harassment",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
