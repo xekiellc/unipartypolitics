@@ -7,9 +7,9 @@
   <meta name="description" content="They said vs. they did. The promises. The votes. The donors." />
   <meta property="og:title" content="The Receipts — UniParty Politics" />
   <meta property="og:description" content="They said it. We saved it. Here's what they did instead." />
-  <meta property="og:image" content="https://unipartypolitics.com/images/chained.jpg" />
+  <meta property="og:image" content="https://unipartypolitics.com/images/hero.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:image" content="https://unipartypolitics.com/images/chained.jpg" />
+  <meta name="twitter:image" content="https://unipartypolitics.com/images/hero.jpg" />
   <link rel="stylesheet" href="/css/style.css" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-F66YXXJ7P1"></script>
   <script>
@@ -19,11 +19,50 @@
     gtag('config', 'G-F66YXXJ7P1');
   </script>
   <style>
-    .page-hero { width: 100%; height: 240px; position: relative; overflow: hidden; }
-    .page-hero img { width: 100%; height: 100%; object-fit: cover; object-position: center center; display: block; filter: brightness(0.38); }
-    .page-hero-overlay { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 20px; background: linear-gradient(to bottom, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.5) 100%); }
-    .page-hero-title { font-size: clamp(26px, 4vw, 44px); font-weight: 800; color: #fff; letter-spacing: -0.02em; margin-bottom: 8px; text-shadow: 0 2px 20px rgba(0,0,0,0.8); }
-    .page-hero-sub { font-size: 12px; color: rgba(255,255,255,0.6); letter-spacing: 0.14em; text-transform: uppercase; text-shadow: 0 1px 10px rgba(0,0,0,0.8); }
+    .page-hero {
+      width: 100%;
+      height: 220px;
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, #1a0010 0%, #0d0520 40%, #0a1428 100%);
+    }
+    .page-hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg, rgba(185,28,28,0.5) 0%, rgba(147,51,234,0.3) 50%, rgba(29,78,216,0.5) 100%);
+    }
+    .page-hero::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.15) 2px, rgba(0,0,0,0.15) 4px);
+    }
+    .page-hero-overlay {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 20px;
+      z-index: 2;
+    }
+    .page-hero-title {
+      font-size: clamp(26px, 4vw, 44px);
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -0.02em;
+      margin-bottom: 8px;
+      text-shadow: 0 2px 20px rgba(0,0,0,0.8);
+    }
+    .page-hero-sub {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
     .receipt-card { background: var(--bg2); border: 0.5px solid var(--border); border-radius: 10px; overflow: hidden; margin-bottom: 16px; }
     .receipt-banner { height: 4px; display: flex; }
     .rb-said { background: #16a34a; flex: 1; }
@@ -97,7 +136,6 @@
   </nav>
 
   <div class="page-hero">
-    <img src="/images/chained.jpg" alt="The Receipts — UniParty Politics" />
     <div class="page-hero-overlay">
       <div class="page-hero-title">The Receipts</div>
       <div class="page-hero-sub">They said it · We saved it · Here's what they did</div>
@@ -272,9 +310,6 @@
         <span>· Surveillance</span>
         <span>· Debt & spending</span>
         <span>· Trade deals</span>
-      </div>
-      <div style="margin-top:16px;">
-        <img src="/images/chained.jpg" alt="UniParty Politics" style="width:100%; border-radius:8px; opacity:0.55;" />
       </div>
     </div>
   </div>
