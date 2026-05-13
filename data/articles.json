@@ -1,51 +1,51 @@
 {
-  "updated": "2026-05-13T14:49:13.404Z",
+  "updated": "2026-05-13T18:06:16.257Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senate candidate attacks foreign truckers while his own fleet causes harm",
-    "dek": "Political hypocrisy exposed as candidate blames outsiders for safety issues while his own company's drivers have harmed Americans.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "ProPublica"
+    "headline": "Kennedy to support Senate crypto bill",
+    "dek": "RFK Jr. backs bipartisan cryptocurrency legislation that benefits wealthy investors while ordinary Americans face regulatory confusion and potential losses.",
+    "votes_r": 28,
+    "votes_d": 24,
+    "votes_yes": 52,
+    "votes_no": 46,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "NYPD ignores court order on stop-and-frisk monitoring",
+      "headline": "A Trump U.S. Attorney's Professional Misconduct Must Be Kept 'Private and Confidential'",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Trump prosecutor's misconduct kept secret from public",
+      "headline": "FBI Quietly Closed a Probe Into Mahmoud Khalil While He Was in ICE Detention",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "House GOP eyes another partisan bill despite gridlock",
+      "headline": "Despite Court Order, NYPD Failed to Properly Monitor Stop-and-Frisks by Aggressive Unit",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "FBI quietly drops probe while suspect detained by ICE",
+      "headline": "A U.S. Senate Candidate Says Foreign Truckers Are Making America's Roads Unsafe. His Own Truckers Have Caused Harm.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "California allows fired teacher to keep teaching after harassment",
+      "headline": "Miami Beach Official Hired Billboard Truck to Call Pro-Palestine Activists 'Jew Hater,' Lawsuit Alleges",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
