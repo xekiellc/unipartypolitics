@@ -25,7 +25,6 @@
     gtag('config', 'G-F66YXXJ7P1');
   </script>
   <style>
-    /* INTRO */
     #intro { position: fixed; inset: 0; z-index: 9999; display: flex; align-items: center; justify-content: center; overflow: hidden; background: #000; }
     #intro-red { position: absolute; top: 0; left: 0; width: 50%; height: 100%; background: #b91c1c; transform: translateX(-100%); animation: slideInRed 0.8s cubic-bezier(0.22,1,0.36,1) 0.3s forwards; }
     #intro-blue { position: absolute; top: 0; right: 0; width: 50%; height: 100%; background: #1d4ed8; transform: translateX(100%); animation: slideInBlue 0.8s cubic-bezier(0.22,1,0.36,1) 0.3s forwards; }
@@ -43,7 +42,6 @@
     #intro.done { animation: introExit 0.6s cubic-bezier(0.22,1,0.36,1) forwards; }
     @keyframes introExit { 0% { opacity: 1; transform: scale(1); } 100% { opacity: 0; transform: scale(1.04); pointer-events: none; } }
 
-    /* MASTHEAD */
     .masthead-wrap { background: #000; border-bottom: 1px solid #1a1a1a; }
     .masthead-top { background: linear-gradient(90deg, #b91c1c 0%, #7c3aed 50%, #1d4ed8 100%); height: 4px; }
     .masthead-inner { display: flex; align-items: center; justify-content: space-between; padding: 16px 24px 12px; }
@@ -60,20 +58,24 @@
     .pill-d-big { background: #1e3a5f; color: #93c5fd; font-size: 13px; font-weight: 800; padding: 6px 16px; border-radius: 3px; letter-spacing: 0.08em; }
     .mast-sub-bold { font-size: 10px; color: #444; letter-spacing: 0.04em; }
 
-    /* HOMEPAGE HERO — hero.jpg is portrait, center on the animals */
     .hero-image-strip {
       width: 100%;
-      height: 340px;
+      height: 320px;
       position: relative;
       overflow: hidden;
+      background: linear-gradient(135deg, #1a0010 0%, #0d0520 40%, #0a1428 100%);
     }
-    .hero-image-strip img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center 35%;
-      display: block;
-      filter: brightness(0.45);
+    .hero-image-strip::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg, rgba(185,28,28,0.5) 0%, rgba(147,51,234,0.3) 50%, rgba(29,78,216,0.5) 100%);
+    }
+    .hero-image-strip::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.15) 2px, rgba(0,0,0,0.15) 4px);
     }
     .hero-image-overlay {
       position: absolute;
@@ -84,13 +86,12 @@
       justify-content: flex-end;
       padding: 32px 24px;
       text-align: center;
-      background: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.7) 100%);
+      z-index: 2;
     }
-    .hero-overlay-tag { font-size: 11px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(255,255,255,0.5); margin-bottom: 8px; }
-    .hero-overlay-hed { font-size: clamp(20px, 3.5vw, 36px); font-weight: 800; color: #fff; letter-spacing: -0.01em; line-height: 1.2; }
+    .hero-overlay-tag { font-size: 11px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(255,255,255,0.4); margin-bottom: 10px; }
+    .hero-overlay-hed { font-size: clamp(22px, 4vw, 42px); font-weight: 800; color: #fff; letter-spacing: -0.02em; line-height: 1.2; }
     .hero-overlay-hed span { color: #a855f7; }
 
-    /* FEATURED */
     .hero-featured { background: #000; border-bottom: 1px solid #1a1a1a; padding: 28px 24px; position: relative; overflow: hidden; }
     .hero-featured::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, #b91c1c, #7c3aed, #1d4ed8); }
     .hero-kicker { font-size: 10px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #9333ea; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
@@ -103,7 +104,6 @@
     .vbh-d { background: #1e3a5f; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: #93c5fd; letter-spacing: 0.04em; }
     .vote-label-hero { font-size: 11px; color: #555; }
 
-    /* CONTENT GRID */
     .content-grid { display: grid; grid-template-columns: minmax(0,1fr) 260px; max-width: 1200px; margin: 0 auto; }
     @media (max-width: 768px) {
       .content-grid { grid-template-columns: 1fr; }
@@ -187,7 +187,6 @@
     </div>
 
     <div class="hero-image-strip">
-      <img src="/images/hero.jpg" alt="UniParty Politics — Exposing the Illusion" />
       <div class="hero-image-overlay">
         <div class="hero-overlay-tag">Exposing the illusion of choice</div>
         <div class="hero-overlay-hed">Red Team. Blue Team. <span>Same Owners.</span></div>
@@ -254,9 +253,6 @@
           <div id="hall-of-shame">
             <div style="color:#444; font-size:12px;">Loading...</div>
           </div>
-        </div>
-        <div style="margin-top:20px;">
-          <img src="/images/chained.jpg" alt="UniParty Politics" style="width:100%; border-radius:8px; opacity:0.55;" />
         </div>
       </div>
     </div>
