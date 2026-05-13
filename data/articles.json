@@ -1,21 +1,21 @@
 {
-  "updated": "2026-05-13T21:40:12.307Z",
+  "updated": "2026-05-13T23:11:28.796Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Lawmakers' prescription data at risk after data breach",
-    "dek": "Congressional security failures expose sensitive medical information of House and Senate members across party lines.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Florida defends new congressional map amid gerrymandering allegations",
+    "dek": "State officials claim no partisan bias while critics point to systematic manipulation of electoral districts benefiting incumbents.",
+    "votes_r": 28,
+    "votes_d": 31,
+    "votes_yes": 59,
+    "votes_no": 18,
     "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "A Trump U.S. Attorney's Professional Misconduct Must Be Kept 'Private and Confidential'",
+      "headline": "Trump U.S. Attorney's Professional Misconduct Must Be Kept 'Private and Confidential'",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
@@ -36,16 +36,16 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "A U.S. Senate Candidate Says Foreign Truckers Are Making America's Roads Unsafe. His Own Truckers Have Caused Harm.",
+      "headline": "Lawmakers' prescription data at risk after data breach",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Miami Beach Official Hired Billboard Truck to Call Pro-Palestine Activists 'Jew Hater,' Lawsuit Alleges",
+      "headline": "A U.S. Senate Candidate Says Foreign Truckers Are Making America's Roads Unsafe. His Own Truckers Have Caused Harm.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
