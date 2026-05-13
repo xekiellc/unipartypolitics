@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-12T23:07:53.627Z",
+  "updated": "2026-05-13T03:56:59.091Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Puerto Rico lawmakers call for investigation into alleged drugs-for-votes scheme",
-    "dek": "Bipartisan corruption probe launched after ProPublica exposes vote-buying operation involving both major parties in Puerto Rico.",
+    "headline": "Puerto Rico lawmakers probe alleged drugs-for-votes scheme",
+    "dek": "Bipartisan corruption investigation launched after ProPublica exposes electoral manipulation involving both major parties in Puerto Rico.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,39 +13,39 @@
   },
   "articles": [
     {
-      "id": 1,
+      "id": 4,
       "category": "betrayal",
-      "headline": "Senate candidate's truckers cause harm while blaming foreign drivers",
+      "headline": "Puerto Rico Lawmakers Call for Investigation Into Alleged Drugs-for-Votes Scheme After ProPublica Report",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 8,
+      "category": "betrayal",
+      "headline": "A Trump U.S. Attorney's Professional Misconduct Must Be Kept \"Private and Confidential\"",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Despite Court Order, NYPD Failed to Properly Monitor Stop-and-Frisks by Aggressive Unit",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "NYPD ignores court order on stop-and-frisk monitoring",
+      "headline": "A U.S. Senate Candidate Says Foreign Truckers Are Making America's Roads Unsafe. His Own Truckers Have Caused Harm.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 0,
       "category": "betrayal",
-      "headline": "FBI quietly closed probe while subject was in ICE detention",
+      "headline": "He Was Fired for Sexually Harassing Students. California Allowed Him to Keep Teaching Anyway.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Trump U.S. attorney's misconduct kept confidential",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Raskin alleges Blanche oversaw payouts to FBI agents accused of misconduct",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
