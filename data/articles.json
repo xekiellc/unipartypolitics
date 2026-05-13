@@ -1,44 +1,44 @@
 {
-  "updated": "2026-05-13T06:53:20.145Z",
+  "updated": "2026-05-13T10:36:05.786Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Nebraska Dem drops out to support independent as parties manipulate elections",
-    "dek": "Democratic party orchestrates candidate withdrawal to boost independent candidate, exposing how both parties manipulate electoral processes behind closed doors.",
+    "headline": "Senate candidate attacks foreign truckers while his own fleet causes harm",
+    "dek": "Political hypocrisy exposed as candidate rails against safety issues his own business perpetuates",
     "votes_r": 0,
-    "votes_d": 1,
-    "votes_yes": 1,
+    "votes_d": 0,
+    "votes_yes": 0,
     "votes_no": 0,
-    "source": "Politico"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "A Trump U.S. Attorney's Professional Misconduct Must Be Kept 'Private and Confidential'",
+      "headline": "A U.S. Senate Candidate Says Foreign Truckers Are Making America's Roads Unsafe. His Own Truckers Have Caused Harm.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "FBI Quietly Closed a Probe Into Mahmoud Khalil While He Was in ICE Detention",
+      "headline": "A Trump U.S. Attorney's Professional Misconduct Must Be Kept \"Private and Confidential\"",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Senate Candidate Says Foreign Truckers Are Unsafe While His Own Truckers Cause Harm",
+      "headline": "Despite Court Order, NYPD Failed to Properly Monitor Stop-and-Frisks by Aggressive Unit",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Puerto Rico Lawmakers Call for Investigation Into Alleged Drugs-for-Votes Scheme",
+      "headline": "FBI Quietly Closed a Probe Into Mahmoud Khalil While He Was in ICE Detention",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
