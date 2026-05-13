@@ -1,14 +1,14 @@
 {
-  "updated": "2026-05-13T18:06:16.257Z",
+  "updated": "2026-05-13T21:40:12.307Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Kennedy to support Senate crypto bill",
-    "dek": "RFK Jr. backs bipartisan cryptocurrency legislation that benefits wealthy investors while ordinary Americans face regulatory confusion and potential losses.",
-    "votes_r": 28,
-    "votes_d": 24,
-    "votes_yes": 52,
-    "votes_no": 46,
+    "headline": "Lawmakers' prescription data at risk after data breach",
+    "dek": "Congressional security failures expose sensitive medical information of House and Senate members across party lines.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "Politico"
   },
   "articles": [
@@ -22,16 +22,16 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "FBI Quietly Closed a Probe Into Mahmoud Khalil While He Was in ICE Detention",
+      "headline": "He Was Fired for Sexually Harassing Students. California Allowed Him to Keep Teaching Anyway.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Despite Court Order, NYPD Failed to Properly Monitor Stop-and-Frisks by Aggressive Unit",
+      "headline": "Speaker calls allegations against Chuck Edwards 'serious'",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
