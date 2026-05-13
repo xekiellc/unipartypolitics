@@ -7,9 +7,9 @@
   <meta name="description" content="Anti-uniparty voices from left, right, and independent. If you call out both parties, you're on our list." />
   <meta property="og:title" content="Podcasts — UniParty Politics" />
   <meta property="og:description" content="Anti-uniparty voices from left, right, and independent. If you call out both parties, you're on our list." />
-  <meta property="og:image" content="https://unipartypolitics.com/images/hero.jpg" />
+  <meta property="og:image" content="https://unipartypolitics.com/images/chained.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:image" content="https://unipartypolitics.com/images/hero.jpg" />
+  <meta name="twitter:image" content="https://unipartypolitics.com/images/chained.jpg" />
   <link rel="stylesheet" href="/css/style.css" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-F66YXXJ7P1"></script>
   <script>
@@ -19,193 +19,39 @@
     gtag('config', 'G-F66YXXJ7P1');
   </script>
   <style>
-    .page-hero {
-      width: 100%;
-      height: 220px;
-      position: relative;
-      overflow: hidden;
-    }
-    .page-hero img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center 30%;
-      display: block;
-      filter: brightness(0.35);
-    }
-    .page-hero-overlay {
-      position: absolute;
-      inset: 0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      padding: 20px;
-    }
-    .page-hero-title {
-      font-size: clamp(24px, 4vw, 40px);
-      font-weight: 800;
-      color: #fff;
-      letter-spacing: -0.02em;
-      margin-bottom: 6px;
-    }
-    .page-hero-sub {
-      font-size: 12px;
-      color: rgba(255,255,255,0.5);
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-    }
-    .podcast-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 16px;
-      margin-bottom: 24px;
-    }
-    .podcast-card {
-      background: var(--bg2);
-      border: 0.5px solid var(--border);
-      border-radius: 10px;
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-    }
-    .podcast-hero {
-      width: 100%;
-      aspect-ratio: 16/9;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      position: relative;
-      overflow: hidden;
-      text-decoration: none;
-    }
-    .podcast-hero-label {
-      position: relative;
-      z-index: 2;
-      font-size: clamp(13px, 2vw, 18px);
-      font-weight: 800;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      text-align: center;
-      padding: 12px;
-      line-height: 1.3;
-    }
-    .podcast-play-btn {
-      position: absolute;
-      bottom: 12px;
-      right: 12px;
-      z-index: 2;
-      width: 36px;
-      height: 36px;
-      border-radius: 50%;
-      background: rgba(147,51,234,0.9);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 13px;
-      color: #fff;
-      transition: background 0.15s;
-    }
+    .page-hero { width: 100%; height: 240px; position: relative; overflow: hidden; }
+    .page-hero img { width: 100%; height: 100%; object-fit: cover; object-position: center center; display: block; filter: brightness(0.38); }
+    .page-hero-overlay { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 20px; background: linear-gradient(to bottom, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.5) 100%); }
+    .page-hero-title { font-size: clamp(26px, 4vw, 44px); font-weight: 800; color: #fff; letter-spacing: -0.02em; margin-bottom: 8px; text-shadow: 0 2px 20px rgba(0,0,0,0.8); }
+    .page-hero-sub { font-size: 12px; color: rgba(255,255,255,0.6); letter-spacing: 0.14em; text-transform: uppercase; text-shadow: 0 1px 10px rgba(0,0,0,0.8); }
+    .podcast-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-bottom: 24px; }
+    .podcast-card { background: var(--bg2); border: 0.5px solid var(--border); border-radius: 10px; overflow: hidden; display: flex; flex-direction: column; }
+    .podcast-hero { width: 100%; aspect-ratio: 16/9; display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; text-decoration: none; }
+    .podcast-hero-label { position: relative; z-index: 2; font-size: clamp(13px, 2vw, 18px); font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; text-align: center; padding: 12px; line-height: 1.3; }
+    .podcast-play-btn { position: absolute; bottom: 12px; right: 12px; z-index: 2; width: 36px; height: 36px; border-radius: 50%; background: rgba(147,51,234,0.9); display: flex; align-items: center; justify-content: center; font-size: 13px; color: #fff; transition: background 0.15s; }
     .podcast-hero:hover .podcast-play-btn { background: #9333ea; }
-    .podcast-body {
-      padding: 14px;
-      display: flex;
-      flex-direction: column;
-      flex: 1;
-    }
+    .podcast-body { padding: 14px; display: flex; flex-direction: column; flex: 1; }
     .podcast-name { font-size: 15px; font-weight: 700; color: var(--text); margin-bottom: 2px; }
     .podcast-host { font-size: 11px; color: var(--text3); margin-bottom: 8px; }
-    .podcast-lean {
-      font-size: 9px;
-      font-weight: 700;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      padding: 2px 8px;
-      border-radius: 3px;
-      display: inline-block;
-      margin-bottom: 10px;
-      align-self: flex-start;
-    }
+    .podcast-lean { font-size: 9px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; padding: 2px 8px; border-radius: 3px; display: inline-block; margin-bottom: 10px; align-self: flex-start; }
     .lean-left { background: #0c2a4a; color: #7dd3fc; }
     .lean-right { background: #450a0a; color: #fca5a5; }
     .lean-independent { background: #1a1a2e; color: #c084fc; }
     .lean-libertarian { background: #14532d; color: #86efac; }
     .podcast-desc { font-size: 12px; color: var(--text2); line-height: 1.6; margin-bottom: 12px; flex: 1; }
     .podcast-links { display: flex; gap: 8px; flex-wrap: wrap; }
-    .podcast-btn {
-      font-size: 10px;
-      font-weight: 700;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      padding: 5px 12px;
-      border-radius: 3px;
-      border: 0.5px solid var(--border);
-      color: var(--text2);
-      transition: all 0.15s;
-      white-space: nowrap;
-    }
+    .podcast-btn { font-size: 10px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 5px 12px; border-radius: 3px; border: 0.5px solid var(--border); color: var(--text2); transition: all 0.15s; white-space: nowrap; }
     .podcast-btn:hover { border-color: var(--purple); color: var(--purple); }
     .podcast-btn.primary { border-color: var(--purple); color: var(--purple); }
     .podcast-btn.primary:hover { background: var(--purple); color: #fff; }
-    .featured-pod {
-      background: var(--bg2);
-      border: 0.5px solid var(--border);
-      border-radius: 10px;
-      overflow: hidden;
-      margin-bottom: 24px;
-    }
-    .featured-pod-banner {
-      width: 100%;
-      aspect-ratio: 16/5;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background: linear-gradient(135deg, #1a0533 0%, #0d1a40 50%, #0a1a0a 100%);
-      position: relative;
-      text-decoration: none;
-      overflow: hidden;
-    }
-    .featured-pod-banner::before {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(90deg, rgba(185,28,28,0.3) 0%, rgba(147,51,234,0.2) 50%, rgba(29,78,216,0.3) 100%);
-    }
-    .featured-pod-inner {
-      position: relative;
-      z-index: 2;
-      text-align: center;
-      padding: 20px;
-    }
-    .featured-pod-title {
-      font-size: clamp(20px, 4vw, 36px);
-      font-weight: 800;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      color: #fff;
-    }
+    .featured-pod { background: var(--bg2); border: 0.5px solid var(--border); border-radius: 10px; overflow: hidden; margin-bottom: 24px; }
+    .featured-pod-banner { width: 100%; aspect-ratio: 16/5; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #1a0533 0%, #0d1a40 50%, #0a1a0a 100%); position: relative; text-decoration: none; overflow: hidden; }
+    .featured-pod-banner::before { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(185,28,28,0.3) 0%, rgba(147,51,234,0.2) 50%, rgba(29,78,216,0.3) 100%); }
+    .featured-pod-inner { position: relative; z-index: 2; text-align: center; padding: 20px; }
+    .featured-pod-title { font-size: clamp(20px, 4vw, 36px); font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; color: #fff; }
     .featured-pod-title span { color: #a855f7; }
-    .featured-pod-sub {
-      font-size: 11px;
-      color: rgba(255,255,255,0.5);
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      margin-top: 6px;
-    }
-    .featured-pod-cta {
-      position: absolute;
-      bottom: 16px;
-      right: 16px;
-      z-index: 2;
-      background: #9333ea;
-      color: #fff;
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: 0.08em;
-      padding: 8px 16px;
-      border-radius: 3px;
-    }
+    .featured-pod-sub { font-size: 11px; color: rgba(255,255,255,0.5); letter-spacing: 0.1em; text-transform: uppercase; margin-top: 6px; }
+    .featured-pod-cta { position: absolute; bottom: 16px; right: 16px; z-index: 2; background: #9333ea; color: #fff; font-size: 11px; font-weight: 700; letter-spacing: 0.08em; padding: 8px 16px; border-radius: 3px; }
     .featured-pod-body { padding: 16px; }
     .featured-pod-desc { font-size: 13px; color: var(--text2); line-height: 1.6; margin-bottom: 12px; }
     .featured-pod-links { display: flex; gap: 10px; flex-wrap: wrap; }
@@ -263,7 +109,7 @@
   </nav>
 
   <div class="page-hero">
-    <img src="/images/hero.jpg" alt="Podcasts — UniParty Politics" />
+    <img src="/images/chained.jpg" alt="Podcasts — UniParty Politics" />
     <div class="page-hero-overlay">
       <div class="page-hero-title">Podcasts</div>
       <div class="page-hero-sub">If you call out both parties · you're on our list</div>
@@ -485,7 +331,7 @@
         <a href="mailto:info@unipartypolitics.com" style="color:var(--purple);">info@unipartypolitics.com</a>
       </div>
       <div style="margin-top:16px;">
-        <img src="/images/hero.jpg" alt="UniParty Politics" style="width:100%; border-radius:8px; opacity:0.5;" />
+        <img src="/images/chained.jpg" alt="UniParty Politics" style="width:100%; border-radius:8px; opacity:0.55;" />
       </div>
     </div>
   </div>
