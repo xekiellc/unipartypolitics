@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>The Data — UniParty Politics</title>
-  <meta name="description" content="Vote records, donor money, congressional stock trades. Follow the power." />
-  <meta property="og:title" content="The Data — UniParty Politics" />
-  <meta property="og:description" content="Vote records, donor money, congressional stock trades. Numbers don't lie — politicians do." />
-  <meta property="og:image" content="https://unipartypolitics.com/images/chained.jpg" />
+  <title>The Dossier — UniParty Politics</title>
+  <meta name="description" content="Deep-dive editorial investigations into bipartisan corruption and institutional power." />
+  <meta property="og:title" content="The Dossier — UniParty Politics" />
+  <meta property="og:description" content="Deep-dive investigations into the machinery of bipartisan power. The politics behind the politics." />
+  <meta property="og:image" content="https://unipartypolitics.com/images/hero.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:image" content="https://unipartypolitics.com/images/chained.jpg" />
+  <meta name="twitter:image" content="https://unipartypolitics.com/images/hero.jpg" />
   <link rel="stylesheet" href="/css/style.css" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-F66YXXJ7P1"></script>
   <script>
@@ -19,11 +19,50 @@
     gtag('config', 'G-F66YXXJ7P1');
   </script>
   <style>
-    .page-hero { width: 100%; height: 240px; position: relative; overflow: hidden; }
-    .page-hero img { width: 100%; height: 100%; object-fit: cover; object-position: center center; display: block; filter: brightness(0.38); }
-    .page-hero-overlay { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 20px; background: linear-gradient(to bottom, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.5) 100%); }
-    .page-hero-title { font-size: clamp(26px, 4vw, 44px); font-weight: 800; color: #fff; letter-spacing: -0.02em; margin-bottom: 8px; text-shadow: 0 2px 20px rgba(0,0,0,0.8); }
-    .page-hero-sub { font-size: 12px; color: rgba(255,255,255,0.6); letter-spacing: 0.14em; text-transform: uppercase; text-shadow: 0 1px 10px rgba(0,0,0,0.8); }
+    .page-hero {
+      width: 100%;
+      height: 220px;
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, #1a0010 0%, #0d0520 40%, #0a1428 100%);
+    }
+    .page-hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg, rgba(185,28,28,0.5) 0%, rgba(147,51,234,0.3) 50%, rgba(29,78,216,0.5) 100%);
+    }
+    .page-hero::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.15) 2px, rgba(0,0,0,0.15) 4px);
+    }
+    .page-hero-overlay {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 20px;
+      z-index: 2;
+    }
+    .page-hero-title {
+      font-size: clamp(26px, 4vw, 44px);
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -0.02em;
+      margin-bottom: 8px;
+      text-shadow: 0 2px 20px rgba(0,0,0,0.8);
+    }
+    .page-hero-sub {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
   </style>
 </head>
 <body>
@@ -68,8 +107,8 @@
 
   <nav>
     <a href="/">The Betrayals</a>
-    <a href="/data.html" class="active">The Data</a>
-    <a href="/dossier.html">The Dossier</a>
+    <a href="/data.html">The Data</a>
+    <a href="/dossier.html" class="active">The Dossier</a>
     <a href="/shame.html">Hall of Shame</a>
     <a href="/podcasts.html">Podcasts</a>
     <a href="/portfolio.html">Portfolio</a>
@@ -78,10 +117,9 @@
   </nav>
 
   <div class="page-hero">
-    <img src="/images/chained.jpg" alt="The Data — UniParty Politics" />
     <div class="page-hero-overlay">
-      <div class="page-hero-title">The Data</div>
-      <div class="page-hero-sub">Numbers don't lie — politicians do</div>
+      <div class="page-hero-title">The Dossier</div>
+      <div class="page-hero-sub">The politics behind the politics</div>
     </div>
   </div>
 
@@ -89,106 +127,79 @@
     <div class="main">
 
       <div style="padding:16px 0 20px 0; border-bottom:0.5px solid var(--border); margin-bottom:20px;">
-        <div class="page-sub">Vote records, donor money, and congressional stock trades. Follow the power, not the party.</div>
+        <div class="page-sub">Deep-dive investigations into the machinery of bipartisan power. Both parties. Same donors. Same outcomes.</div>
       </div>
 
-      <div class="section-lbl">Donor money — both sides</div>
+      <div class="section-lbl">Featured investigation</div>
 
-      <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:12px; margin-bottom:24px;">
-        <div class="stat-card">
-          <div class="stat-lbl">Defense industry</div>
-          <div class="stat-val red">$847M</div>
-          <div class="stat-sub">Split across R and D candidates last cycle</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-lbl">Pharma & health</div>
-          <div class="stat-val blue">$612M</div>
-          <div class="stat-sub">Both parties' top 5 donor categories</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-lbl">Wall Street & finance</div>
-          <div class="stat-val purple">$1.1B</div>
-          <div class="stat-sub">Largest single donor bloc to both parties</div>
+      <div class="featured-card" style="margin-bottom:24px;">
+        <div class="feat-banner"><div class="ban-r"></div><div class="ban-p"></div><div class="ban-d"></div></div>
+        <div class="feat-body">
+          <div class="feat-kicker">Deep dive · Institutional corruption</div>
+          <div class="feat-hed">The Revolving Door: How Washington Regulators Become Industry Lobbyists in Under Six Months</div>
+          <div class="feat-dek">The pattern is consistent across administrations. A senior official at the FDA, SEC, or Pentagon spends years building relationships, learning the system, gaining security clearances — then walks directly into a seven-figure lobbying role at the industry they were supposed to regulate. Both parties staff the agencies. Both parties produce the lobbyists. The door never stops spinning.</div>
+          <div class="feat-source">unipartypolitics.com · Ongoing investigation</div>
         </div>
       </div>
 
-      <div class="section-lbl">Congressional stock trades</div>
+      <div class="section-lbl">All investigations</div>
 
       <div class="article-list">
         <div class="art-row">
-          <div><span class="cat-pill cp-data">Data</span></div>
+          <div><span class="cat-pill cp-dossier">Dossier</span></div>
           <div>
-            <div class="art-hed">37 members traded pharma stocks during drug pricing debate — both parties represented</div>
-            <div class="art-meta">Source: SEC filings via Capitol Trades · 2026</div>
+            <div class="art-hed">The Defense Contractor Feedback Loop: How the Pentagon budget writes itself</div>
+            <div class="art-meta">Military industrial complex · Series Part 1</div>
           </div>
         </div>
         <div class="art-row">
-          <div><span class="cat-pill cp-data">Data</span></div>
+          <div><span class="cat-pill cp-dossier">Dossier</span></div>
           <div>
-            <div class="art-hed">Defense committee members outperformed the S&amp;P 500 by 14% in years they voted on military budgets</div>
-            <div class="art-meta">Source: Unusual Whales analysis · 2025</div>
+            <div class="art-hed">Too Big to Jail: Why no banker went to prison after 2008 — and who protected them</div>
+            <div class="art-meta">Financial system · Series Part 1</div>
           </div>
         </div>
         <div class="art-row">
-          <div><span class="cat-pill cp-data">Data</span></div>
+          <div><span class="cat-pill cp-dossier">Dossier</span></div>
           <div>
-            <div class="art-hed">Tech antitrust subcommittee members held an average of $280K in Big Tech stock during hearings</div>
-            <div class="art-meta">Source: OpenSecrets · 2024</div>
+            <div class="art-hed">The Surveillance State Both Parties Built: From the Patriot Act to FISA 702</div>
+            <div class="art-meta">Civil liberties · Timeline investigation</div>
           </div>
         </div>
         <div class="art-row">
-          <div><span class="cat-pill cp-data">Data</span></div>
+          <div><span class="cat-pill cp-dossier">Dossier</span></div>
           <div>
-            <div class="art-hed">STOCK Act violations: 78 members reported late trades in 2024 — fines average $200, a rounding error</div>
-            <div class="art-meta">Source: Business Insider investigation · 2024</div>
+            <div class="art-hed">NAFTA to TPP: How both parties dismantled American manufacturing and called it progress</div>
+            <div class="art-meta">Trade policy · Historical investigation</div>
           </div>
         </div>
-      </div>
-
-      <div class="section-lbl" style="margin-top:24px;">Key data sources</div>
-
-      <div style="display:flex; flex-direction:column; gap:10px;">
-        <div class="stat-card" style="display:flex; justify-content:space-between; align-items:center;">
+        <div class="art-row">
+          <div><span class="cat-pill cp-dossier">Dossier</span></div>
           <div>
-            <div class="stat-lbl">OpenSecrets</div>
-            <div style="font-size:13px; color:var(--text2);">Campaign finance, lobbying, revolving door</div>
+            <div class="art-hed">Perpetual War Inc.: A bipartisan timeline of military interventions since 2001</div>
+            <div class="art-meta">Foreign policy · Timeline investigation</div>
           </div>
-          <a href="https://opensecrets.org" target="_blank" rel="noopener" style="font-size:11px; color:var(--purple); font-weight:600;">VISIT →</a>
         </div>
-        <div class="stat-card" style="display:flex; justify-content:space-between; align-items:center;">
+        <div class="art-row">
+          <div><span class="cat-pill cp-dossier">Dossier</span></div>
           <div>
-            <div class="stat-lbl">ProPublica Congress API</div>
-            <div style="font-size:13px; color:var(--text2);">Full voting records, bill sponsorship</div>
+            <div class="art-hed">The Drug Pricing Protection Racket: How Medicare was legally barred from negotiating prices</div>
+            <div class="art-meta">Healthcare · Legislative investigation</div>
           </div>
-          <a href="https://projects.propublica.org/api-docs/congress-api/" target="_blank" rel="noopener" style="font-size:11px; color:var(--purple); font-weight:600;">VISIT →</a>
         </div>
-        <div class="stat-card" style="display:flex; justify-content:space-between; align-items:center;">
+        <div class="art-row">
+          <div><span class="cat-pill cp-dossier">Dossier</span></div>
           <div>
-            <div class="stat-lbl">Unusual Whales</div>
-            <div style="font-size:13px; color:var(--text2);">Congressional stock trade tracker</div>
+            <div class="art-hed">Six Corporations, One Narrative: The bipartisan consolidation of American media</div>
+            <div class="art-meta">Media & information · Industry investigation</div>
           </div>
-          <a href="https://unusualwhales.com/politics" target="_blank" rel="noopener" style="font-size:11px; color:var(--purple); font-weight:600;">VISIT →</a>
         </div>
-        <div class="stat-card" style="display:flex; justify-content:space-between; align-items:center;">
+        <div class="art-row">
+          <div><span class="cat-pill cp-dossier">Dossier</span></div>
           <div>
-            <div class="stat-lbl">GovTrack</div>
-            <div style="font-size:13px; color:var(--text2);">Bill tracking, bipartisan vote analysis</div>
+            <div class="art-hed">The Debt Ceiling Theater: How both parties use fiscal crisis as a fundraising tool</div>
+            <div class="art-meta">Fiscal policy · Legislative investigation</div>
           </div>
-          <a href="https://govtrack.us" target="_blank" rel="noopener" style="font-size:11px; color:var(--purple); font-weight:600;">VISIT →</a>
-        </div>
-        <div class="stat-card" style="display:flex; justify-content:space-between; align-items:center;">
-          <div>
-            <div class="stat-lbl">House Stock Watcher</div>
-            <div style="font-size:13px; color:var(--text2);">Real-time House member trade disclosures</div>
-          </div>
-          <a href="https://housestockwatcher.com" target="_blank" rel="noopener" style="font-size:11px; color:var(--purple); font-weight:600;">VISIT →</a>
-        </div>
-        <div class="stat-card" style="display:flex; justify-content:space-between; align-items:center;">
-          <div>
-            <div class="stat-lbl">Senate Stock Watcher</div>
-            <div style="font-size:13px; color:var(--text2);">Real-time Senate member trade disclosures</div>
-          </div>
-          <a href="https://senatestockwatcher.com" target="_blank" rel="noopener" style="font-size:11px; color:var(--purple); font-weight:600;">VISIT →</a>
         </div>
       </div>
 
@@ -211,16 +222,17 @@
         <div class="stat-val red">7</div>
         <div class="stat-sub">Under 3 R and 2 D presidents</div>
       </div>
-      <div class="section-lbl" style="margin-top:16px;">Quick links</div>
-      <div style="display:flex; flex-direction:column; gap:8px;">
-        <a href="https://opensecrets.org" target="_blank" rel="noopener" style="font-size:12px; color:var(--purple);">OpenSecrets →</a>
-        <a href="https://unusualwhales.com/politics" target="_blank" rel="noopener" style="font-size:12px; color:var(--purple);">Unusual Whales →</a>
-        <a href="https://govtrack.us" target="_blank" rel="noopener" style="font-size:12px; color:var(--purple);">GovTrack →</a>
-        <a href="https://housestockwatcher.com" target="_blank" rel="noopener" style="font-size:12px; color:var(--purple);">House Stock Watcher →</a>
-        <a href="https://senatestockwatcher.com" target="_blank" rel="noopener" style="font-size:12px; color:var(--purple);">Senate Stock Watcher →</a>
-      </div>
-      <div style="margin-top:16px;">
-        <img src="/images/chained.jpg" alt="UniParty Politics" style="width:100%; border-radius:8px; opacity:0.55;" />
+      <div class="section-lbl" style="margin-top:16px;">Investigation topics</div>
+      <div style="display:flex; flex-direction:column; gap:8px; font-size:12px; color:var(--text3);">
+        <span>· Revolving door</span>
+        <span>· Defense spending</span>
+        <span>· Surveillance state</span>
+        <span>· Trade policy</span>
+        <span>· Drug pricing</span>
+        <span>· Media consolidation</span>
+        <span>· Banking & finance</span>
+        <span>· Perpetual war</span>
+        <span>· Debt ceiling theater</span>
       </div>
     </div>
   </div>
