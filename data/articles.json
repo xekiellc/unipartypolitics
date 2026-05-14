@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-14T10:26:17.065Z",
+  "updated": "2026-05-14T14:28:45.753Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "House Democrats prep for years of redistricting hardball after court losses",
-    "dek": "Democrats plan aggressive gerrymandering tactics while Republicans continue same practices, proving both parties prioritize power over fair representation.",
+    "headline": "Democrats plot redistricting revenge while Republicans cement gerrymandering gains",
+    "dek": "Both parties abandon fair elections principles, with Democrats now embracing the same partisan map-drawing tactics they once criticized Republicans for using.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -22,30 +22,23 @@
     {
       "id": 2,
       "category": "betrayal",
+      "headline": "'Crush their souls': Democrats ditch the niceties after GOP gains upper hand on redistricting",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
       "headline": "A Unique Oregon Law Allows It to Block Healthcare Deals. In Five Years, the State Hasn't Done So Once.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 4,
       "category": "betrayal",
       "headline": "Lutnick sought to clean up Epstein revelations in closed testimony to House committee",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "He Was Fired for Sexually Harassing Students. California Allowed Him to Keep Teaching Anyway.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "FBI Quietly Closed a Probe Into Mahmoud Khalil While He Was in ICE Detention",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
     }
   ],
   "stats": {
