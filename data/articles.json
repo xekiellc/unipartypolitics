@@ -1,23 +1,23 @@
 {
-  "updated": "2026-05-14T21:19:53.684Z",
+  "updated": "2026-05-14T23:02:49.578Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Ways and Means chief says he's focused on bipartisanship",
-    "dek": "House committee leader pushes bipartisan cooperation while both parties continue to serve special interests over constituents.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "House barely rejects limits on Iran war as GOP defections grow",
+    "dek": "Bipartisan establishment unites to preserve unchecked war powers while claiming to represent constituents who oppose endless conflicts.",
+    "votes_r": 28,
+    "votes_d": 31,
+    "votes_yes": 59,
+    "votes_no": 156,
     "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "This California Congressional Hopeful Opposes a Billionaire Tax. So Do His Tech CEO Backers.",
+      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
@@ -29,23 +29,23 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
+      "headline": "Key Jeffries ally endorses aggressive tactics to create more blue seats",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "DOJ Escalates War on Trans Youth Healthcare With Criminal Subpoenas",
+      "headline": "This California Congressional Hopeful Opposes a Billionaire Tax. So Do His Tech CEO Backers.",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "VA secretary to testify after House threatens to penalize him",
+      "headline": "DOJ Escalates War on Trans Youth Healthcare With Criminal Subpoenas",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
