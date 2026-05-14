@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-14T06:50:43.103Z",
+  "updated": "2026-05-14T10:26:17.065Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Lawmakers' prescription data at risk after data breach",
-    "dek": "Congressional members from both parties had sensitive medical information exposed, highlighting systemic cybersecurity failures across government.",
+    "headline": "House Democrats prep for years of redistricting hardball after court losses",
+    "dek": "Democrats plan aggressive gerrymandering tactics while Republicans continue same practices, proving both parties prioritize power over fair representation.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "A Trump U.S. Attorney's Professional Misconduct Must Be Kept 'Private and Confidential'",
+      "headline": "Scott Wiener Opposes a California Billionaire Tax. So Do His Tech CEO Backers.",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
+      "headline": "A Unique Oregon Law Allows It to Block Healthcare Deals. In Five Years, the State Hasn't Done So Once.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
       "headline": "Lutnick sought to clean up Epstein revelations in closed testimony to House committee",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "FBI Quietly Closed a Probe Into Mahmoud Khalil While He Was in ICE Detention",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 4,
       "category": "betrayal",
-      "headline": "A U.S. Senate Candidate Says Foreign Truckers Are Making America's Roads Unsafe. His Own Truckers Have Caused Harm.",
+      "headline": "He Was Fired for Sexually Harassing Students. California Allowed Him to Keep Teaching Anyway.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "He Was Fired for Sexually Harassing Students. California Allowed Him to Keep Teaching Anyway.",
+      "headline": "FBI Quietly Closed a Probe Into Mahmoud Khalil While He Was in ICE Detention",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
