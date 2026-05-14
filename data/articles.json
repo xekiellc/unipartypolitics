@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-14T19:59:33.489Z",
+  "updated": "2026-05-14T21:19:53.684Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Ways and Means chief says he's focused on bipartisanship",
-    "dek": "Another empty promise of bipartisan cooperation while real issues go unaddressed and special interests continue to benefit.",
+    "dek": "House committee leader pushes bipartisan cooperation while both parties continue to serve special interests over constituents.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,9 +15,9 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
+      "headline": "This California Congressional Hopeful Opposes a Billionaire Tax. So Do His Tech CEO Backers.",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
@@ -29,21 +29,21 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "DOJ Escalates War on Trans Youth Healthcare With Criminal Subpoenas",
+      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "This California Congressional Hopeful Opposes a Billionaire Tax. So Do His Tech CEO Backers.",
+      "headline": "DOJ Escalates War on Trans Youth Healthcare With Criminal Subpoenas",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "White House, Senate skeptical about House's amended housing bill",
+      "headline": "VA secretary to testify after House threatens to penalize him",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
