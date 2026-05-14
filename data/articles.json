@@ -1,51 +1,51 @@
 {
-  "updated": "2026-05-13T23:11:28.796Z",
+  "updated": "2026-05-14T03:56:18.002Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Florida defends new congressional map amid gerrymandering allegations",
-    "dek": "State officials claim no partisan bias while critics point to systematic manipulation of electoral districts benefiting incumbents.",
-    "votes_r": 28,
-    "votes_d": 31,
-    "votes_yes": 59,
-    "votes_no": 18,
-    "source": "Politico"
+    "headline": "Trump U.S. Attorney's misconduct shielded while Congress ignores systemic problems",
+    "dek": "Professional misconduct kept confidential as lawmakers' own prescription data gets breached and officials face mounting allegations.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "The Intercept"
   },
   "articles": [
     {
-      "id": 1,
+      "id": 9,
       "category": "betrayal",
-      "headline": "Trump U.S. Attorney's Professional Misconduct Must Be Kept 'Private and Confidential'",
+      "headline": "A Trump U.S. Attorney's Professional Misconduct Must Be Kept \"Private and Confidential\"",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 2,
+      "id": 10,
       "category": "betrayal",
-      "headline": "He Was Fired for Sexually Harassing Students. California Allowed Him to Keep Teaching Anyway.",
+      "headline": "Lutnick sought to clean up Epstein revelations in closed testimony to House committee",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://politico.com"
     },
     {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Speaker calls allegations against Chuck Edwards 'serious'",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 4,
+      "id": 13,
       "category": "betrayal",
       "headline": "Lawmakers' prescription data at risk after data breach",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://politico.com"
     },
     {
-      "id": 5,
+      "id": 14,
       "category": "betrayal",
-      "headline": "A U.S. Senate Candidate Says Foreign Truckers Are Making America's Roads Unsafe. His Own Truckers Have Caused Harm.",
+      "headline": "Speaker calls allegations against Chuck Edwards 'serious'",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://politico.com"
+    },
+    {
+      "id": 6,
+      "category": "betrayal",
+      "headline": "FBI Quietly Closed a Probe Into Mahmoud Khalil While He Was in ICE Detention",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
