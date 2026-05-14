@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-14T14:28:45.753Z",
+  "updated": "2026-05-14T17:59:42.709Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Democrats plot redistricting revenge while Republicans cement gerrymandering gains",
-    "dek": "Both parties abandon fair elections principles, with Democrats now embracing the same partisan map-drawing tactics they once criticized Republicans for using.",
+    "headline": "Democrats ditch principles on redistricting after GOP gains advantage",
+    "dek": "After years of condemning gerrymandering, Democrats now plot 'redistricting revenge' and vow to 'crush their souls' when they control the maps.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,28 +15,35 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Scott Wiener Opposes a California Billionaire Tax. So Do His Tech CEO Backers.",
+      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "'Crush their souls': Democrats ditch the niceties after GOP gains upper hand on redistricting",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 3,
       "category": "betrayal",
       "headline": "A Unique Oregon Law Allows It to Block Healthcare Deals. In Five Years, the State Hasn't Done So Once.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "This California Congressional Hopeful Opposes a Billionaire Tax. So Do His Tech CEO Backers.",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 4,
       "category": "betrayal",
-      "headline": "Lutnick sought to clean up Epstein revelations in closed testimony to House committee",
+      "headline": "Senators discuss tweaks to $1B request",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Max Miller sues ex-wife and her legal team for domestic abuse allegations",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
