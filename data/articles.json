@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-15T17:47:16.402Z",
+  "updated": "2026-05-15T19:47:11.852Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Oregon refuses to use healthcare oversight powers it fought to create",
-    "dek": "Despite unique law allowing state to block harmful healthcare deals, Oregon officials haven't acted once in five years of corporate consolidation.",
+    "headline": "Oregon refuses to block healthcare deals despite unique legal power",
+    "dek": "State regulators given unprecedented authority to stop harmful healthcare consolidation haven't used it once in five years.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,35 +15,28 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "California Democrat takes anti-tax stance while backed by tech billionaires",
+      "headline": "California Democrat takes anti-tax stance backed by tech billionaires",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Trump's counterterrorism czar targets leftists while ignoring far-right violence",
+      "headline": "Colorado regulators privately admit widespread illegal hemp sales",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "DOJ escalates war on trans healthcare with criminal subpoenas",
+      "headline": "DHS relationship with Congress remains broken under Biden",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
       "headline": "American citizen detained three times by immigration agents",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Colorado regulators admit extent of illegal hemp sales in private meeting",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
