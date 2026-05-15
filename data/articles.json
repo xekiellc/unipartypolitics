@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-15T21:12:36.453Z",
+  "updated": "2026-05-15T23:01:15.196Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Oregon refuses to block healthcare deals despite unique regulatory power",
-    "dek": "State officials with rare authority to stop harmful healthcare consolidation haven't used it once in five years, leaving patients vulnerable.",
+    "headline": "Oregon refuses to block healthcare deals despite unique authority",
+    "dek": "State regulators given unprecedented power to stop harmful healthcare mergers haven't used it once in five years.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -16,34 +16,34 @@
       "id": 1,
       "category": "betrayal",
       "headline": "Why Have Immigration Agents Detained This American Citizen Three Times?",
-      "meta": "Immigration · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Colorado Regulators Acknowledge Extent of Illegal Hemp Sales in Private",
-      "meta": "Regulation · today",
+      "headline": "Colorado Marijuana Regulators Acknowledge the Extent of Illegal Hemp Sales",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Counterterrorism Strategy Targets Leftists While Ignoring Far-Right Violence",
-      "meta": "Security · today",
+      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "CDC Failed to Alert New York About Hantavirus-Plagued Cruise Passenger",
-      "meta": "Health · today",
+      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "DHS-Congress Relations Remain Fractured Despite Reform Promises",
+      "headline": "Mullin has more work to do to repair the relationship between DHS and Congress",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
