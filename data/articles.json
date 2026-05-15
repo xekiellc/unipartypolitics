@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-15T19:47:11.852Z",
+  "updated": "2026-05-15T21:12:36.453Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Oregon refuses to block healthcare deals despite unique legal power",
-    "dek": "State regulators given unprecedented authority to stop harmful healthcare consolidation haven't used it once in five years.",
+    "headline": "Oregon refuses to block healthcare deals despite unique regulatory power",
+    "dek": "State officials with rare authority to stop harmful healthcare consolidation haven't used it once in five years, leaving patients vulnerable.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "California Democrat takes anti-tax stance backed by tech billionaires",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Why Have Immigration Agents Detained This American Citizen Three Times?",
+      "meta": "Immigration · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Colorado regulators privately admit widespread illegal hemp sales",
-      "meta": "Politics · today",
+      "headline": "Colorado Regulators Acknowledge Extent of Illegal Hemp Sales in Private",
+      "meta": "Regulation · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "DHS relationship with Congress remains broken under Biden",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Counterterrorism Strategy Targets Leftists While Ignoring Far-Right Violence",
+      "meta": "Security · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "American citizen detained three times by immigration agents",
+      "headline": "CDC Failed to Alert New York About Hantavirus-Plagued Cruise Passenger",
+      "meta": "Health · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "DHS-Congress Relations Remain Fractured Despite Reform Promises",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
