@@ -1,50 +1,50 @@
 {
-  "updated": "2026-05-15T08:56:26.214Z",
+  "updated": "2026-05-15T11:59:24.410Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "House barely rejects limits on Iran war as GOP defections grow",
-    "dek": "Bipartisan war hawks unite to maintain executive war powers while few from either party stand against potential military escalation.",
+    "dek": "Bipartisan resistance emerges to congressional war powers oversight as both parties enable executive overreach on military action.",
     "votes_r": 28,
     "votes_d": 31,
     "votes_yes": 59,
-    "votes_no": 156,
+    "votes_no": 201,
     "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
-      "meta": "Security State · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "This California Congressional Hopeful Opposes a Billionaire Tax. So Do His Tech CEO Backers.",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "DOJ Escalates War on Trans Youth Healthcare With Criminal Subpoenas",
-      "meta": "Civil Rights · today",
-      "url": "https://theintercept.com"
+      "headline": "A Unique Oregon Law Allows It to Block Healthcare Deals. In Five Years, the State Hasn't Done So Once.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "A Unique Oregon Law Allows It to Block Healthcare Deals. In Five Years, the State Hasn't Done So Once.",
-      "meta": "Corporate Power · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Nervous Republicans weigh their options amid White House's ballroom lobbying blitz",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "This California Congressional Hopeful Opposes a Billionaire Tax. So Do His Tech CEO Backers.",
-      "meta": "Money in Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "House Ethics panel investigating Chuck Edwards for sexual misconduct",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "House Ethics panel investigating Chuck Edwards for sexual misconduct",
-      "meta": "Corruption · today",
+      "headline": "Key Jeffries ally endorses aggressive tactics to create more blue seats",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
   ],
