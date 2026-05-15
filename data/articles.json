@@ -1,51 +1,51 @@
 {
-  "updated": "2026-05-14T23:02:49.578Z",
+  "updated": "2026-05-15T04:00:16.342Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "House barely rejects limits on Iran war as GOP defections grow",
-    "dek": "Bipartisan establishment unites to preserve unchecked war powers while claiming to represent constituents who oppose endless conflicts.",
+    "dek": "Bipartisan establishment pushes for expanded war powers while rank-and-file members from both parties break ranks on foreign intervention.",
     "votes_r": 28,
     "votes_d": 31,
     "votes_yes": 59,
-    "votes_no": 156,
+    "votes_no": 168,
     "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
+      "headline": "Senate rulekeeper deals blows to GOP's immigration enforcement package",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://example.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "A Unique Oregon Law Allows It to Block Healthcare Deals. In Five Years, the State Hasn't Done So Once.",
+      "headline": "Key Jeffries ally endorses aggressive tactics to create more blue seats",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://example.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Key Jeffries ally endorses aggressive tactics to create more blue seats",
+      "headline": "House Ethics panel investigating Chuck Edwards for sexual misconduct",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://example.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "This California Congressional Hopeful Opposes a Billionaire Tax. So Do His Tech CEO Backers.",
+      "headline": "DOJ Escalates War on Trans Youth Healthcare With Criminal Subpoenas",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://example.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "DOJ Escalates War on Trans Youth Healthcare With Criminal Subpoenas",
+      "headline": "This California Congressional Hopeful Opposes a Billionaire Tax. So Do His Tech CEO Backers.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://example.com"
     }
   ],
   "stats": {
