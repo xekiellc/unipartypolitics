@@ -1,49 +1,42 @@
 {
-  "updated": "2026-05-15T11:59:24.410Z",
+  "updated": "2026-05-15T14:30:13.764Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "House barely rejects limits on Iran war as GOP defections grow",
-    "dek": "Bipartisan resistance emerges to congressional war powers oversight as both parties enable executive overreach on military action.",
-    "votes_r": 28,
-    "votes_d": 31,
-    "votes_yes": 59,
-    "votes_no": 201,
-    "source": "Politico"
+    "headline": "Oregon refuses to use healthcare blocking power while costs soar",
+    "dek": "Despite unique law allowing state to block harmful healthcare deals, Oregon officials haven't used it once in five years.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "This California Congressional Hopeful Opposes a Billionaire Tax. So Do His Tech CEO Backers.",
+      "headline": "California Congressional Hopeful Opposes Billionaire Tax, Backed by Tech CEOs",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "A Unique Oregon Law Allows It to Block Healthcare Deals. In Five Years, the State Hasn't Done So Once.",
+      "headline": "Colorado Regulators Admit Illegal Hemp Sales Run Rampant",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Nervous Republicans weigh their options amid White House's ballroom lobbying blitz",
+      "headline": "Trump's Counterterrorism Strategy Targets Leftists, Ignores Far-Right",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "House Ethics panel investigating Chuck Edwards for sexual misconduct",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Key Jeffries ally endorses aggressive tactics to create more blue seats",
+      "headline": "House GOP Weighs Options Amid White House Lobbying Pressure",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
