@@ -1,15 +1,15 @@
 {
-  "updated": "2026-05-16T13:45:34.088Z",
+  "updated": "2026-05-16T15:02:28.214Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Oregon refuses to use healthcare deal blocking powers despite monopoly concerns",
-    "dek": "Despite unique legal authority to stop harmful healthcare mergers, Oregon officials haven't blocked a single deal in five years of consolidation.",
+    "headline": "Counterterrorism strategy targets leftists while ignoring far-right violence",
+    "dek": "New blueprint shows bipartisan failure to address actual domestic terror threats while targeting political opponents.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
     {
@@ -22,7 +22,7 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
+      "headline": "Oregon Law Allows Blocking Healthcare Deals. State Hasn't Used It Once in Five Years.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
@@ -36,16 +36,9 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "In a Private Meeting, Colorado Marijuana Regulators Acknowledge the Extent of Illegal Hemp Sales",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "How Trump's New Counterterrorism Strategy Puts You at Risk",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Republicans revise ballroom security funding after parliamentarian meeting",
+      "meta": "Politics �� today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
