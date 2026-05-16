@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-16T19:14:31.637Z",
+  "updated": "2026-05-16T20:57:13.368Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "A Unique Oregon Law Allows It to Block Healthcare Deals. In Five Years, the State Hasn't Done So Once.",
-    "dek": "Despite having unprecedented power to stop harmful healthcare mergers, Oregon officials have rubber-stamped every deal while patients suffer.",
+    "headline": "Oregon healthcare law sits unused while deals proceed unchecked",
+    "dek": "Despite unique authority to block harmful healthcare mergers, state regulators haven't used their power once in five years.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Why Have Immigration Agents Detained This American Citizen Three Times?",
+      "headline": "American citizen detained three times by immigration agents",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
+      "headline": "Colorado regulators admit illegal hemp sales problem in private",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "In a Private Meeting, Colorado Marijuana Regulators Acknowledge the Extent of Illegal Hemp Sales",
+      "headline": "Counterterrorism strategy targets leftists while ignoring far-right violence",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
+      "id": 4,
       "category": "betrayal",
-      "headline": "Trump pushes to attach his SAVE act to must-pass bipartisan bills",
+      "headline": "CDC failed to warn New York about hantavirus cruise passenger",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
