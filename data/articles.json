@@ -1,15 +1,15 @@
 {
-  "updated": "2026-05-16T09:46:47.869Z",
+  "updated": "2026-05-16T11:07:00.982Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Oregon refuses to use healthcare blocking powers despite monopoly concerns",
-    "dek": "State regulators given unique authority to stop harmful healthcare deals haven't used it once in five years, letting consolidation continue unchecked.",
+    "headline": "Counterterrorism strategy targets leftists while ignoring far-right violence",
+    "dek": "Trump's counterterrorism blueprint reveals partisan blind spots that put Americans at risk from actual threats.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
     {
@@ -22,7 +22,7 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence",
+      "headline": "Oregon Law Allows Blocking Healthcare Deals, State Never Uses It",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
@@ -36,9 +36,9 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "DOJ Escalates War on Trans Youth Healthcare With Criminal Subpoenas",
+      "headline": "Republicans revise ballroom security funding after parliamentarian meeting",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
