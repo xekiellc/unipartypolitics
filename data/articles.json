@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-16T06:26:38.265Z",
+  "updated": "2026-05-16T09:46:47.869Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Oregon fails to block single healthcare deal despite unique authority",
-    "dek": "State regulators given unprecedented power to stop harmful healthcare mergers haven't used it once in five years.",
+    "headline": "Oregon refuses to use healthcare blocking powers despite monopoly concerns",
+    "dek": "State regulators given unique authority to stop harmful healthcare deals haven't used it once in five years, letting consolidation continue unchecked.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -29,19 +29,12 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Internal Pentagon Report Reveals Hegseth Is Willfully Putting Civilians in Danger",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
       "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 5,
+      "id": 4,
       "category": "betrayal",
       "headline": "DOJ Escalates War on Trans Youth Healthcare With Criminal Subpoenas",
       "meta": "Politics · today",
