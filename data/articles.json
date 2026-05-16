@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-15T23:01:15.196Z",
+  "updated": "2026-05-16T03:41:14.213Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Oregon refuses to block healthcare deals despite unique authority",
-    "dek": "State regulators given unprecedented power to stop harmful healthcare mergers haven't used it once in five years.",
+    "headline": "Oregon refuses to use healthcare blocking powers despite corporate deals",
+    "dek": "State officials have unique authority to stop harmful healthcare mergers but haven't used it once in five years.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Why Have Immigration Agents Detained This American Citizen Three Times?",
+      "headline": "American citizen detained three times by immigration agents",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Colorado Marijuana Regulators Acknowledge the Extent of Illegal Hemp Sales",
+      "headline": "Colorado regulators acknowledge illegal hemp sales in private",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence",
+      "headline": "Counterterrorism strategy targets leftists while ignoring far-right violence",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
+      "headline": "Pentagon report reveals Hegseth endangering civilians",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Mullin has more work to do to repair the relationship between DHS and Congress",
+      "headline": "CDC failed to warn New York about hantavirus cruise passenger",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
