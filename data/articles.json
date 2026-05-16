@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-16T17:05:03.710Z",
+  "updated": "2026-05-16T19:14:31.637Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Oregon refuses to block healthcare deals despite having unique power",
-    "dek": "State regulators given authority to stop harmful healthcare consolidation haven't used it once in five years, letting corporate interests prevail over patient protection.",
+    "headline": "A Unique Oregon Law Allows It to Block Healthcare Deals. In Five Years, the State Hasn't Done So Once.",
+    "dek": "Despite having unprecedented power to stop harmful healthcare mergers, Oregon officials have rubber-stamped every deal while patients suffer.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -22,23 +22,30 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence",
+      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Colorado Marijuana Regulators Acknowledge Extent of Illegal Hemp Sales",
+      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
+      "headline": "In a Private Meeting, Colorado Marijuana Regulators Acknowledge the Extent of Illegal Hemp Sales",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Trump pushes to attach his SAVE act to must-pass bipartisan bills",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
