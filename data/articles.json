@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-16T20:57:13.368Z",
+  "updated": "2026-05-16T22:54:33.780Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Oregon healthcare law sits unused while deals proceed unchecked",
-    "dek": "Despite unique authority to block harmful healthcare mergers, state regulators haven't used their power once in five years.",
+    "headline": "Oregon refuses to use healthcare blocking powers despite monopoly concerns",
+    "dek": "Despite unique legal authority to stop harmful healthcare mergers, state officials haven't blocked a single deal in five years of operation.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "American citizen detained three times by immigration agents",
+      "headline": "Why Have Immigration Agents Detained This American Citizen Three Times?",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Colorado regulators admit illegal hemp sales problem in private",
+      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Counterterrorism strategy targets leftists while ignoring far-right violence",
+      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "CDC failed to warn New York about hantavirus cruise passenger",
+      "headline": "Trump pushes to attach his SAVE act to must-pass bipartisan bills",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
