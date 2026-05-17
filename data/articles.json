@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-17T04:00:39.710Z",
+  "updated": "2026-05-17T08:28:31.802Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Oregon refuses to block healthcare deals despite unique legal authority",
-    "dek": "State regulators haven't used their powerful healthcare oversight law once in five years, allowing consolidation to proceed unchecked.",
+    "headline": "Oregon healthcare regulators refuse to block any deals despite unique authority",
+    "dek": "State law gives Oregon power to stop harmful healthcare mergers, but officials haven't used it once in five years of consolidation.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Why Have Immigration Agents Detained This American Citizen Three Times?",
+      "headline": "Counterterrorism strategy targets leftists while ignoring far-right violence",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Colorado Marijuana Regulators Acknowledge Extent of Illegal Hemp Sales",
+      "headline": "American citizen detained three times by immigration agents",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence",
+      "headline": "CDC fails to notify New York about hantavirus cruise passenger",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
+      "headline": "Colorado regulators admit extent of illegal hemp sales in private meeting",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "How Trump's New Counterterrorism Strategy Puts You at Risk",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://propublica.org"
     }
   ],
   "stats": {
