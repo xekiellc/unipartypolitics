@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-17T19:17:28.388Z",
+  "updated": "2026-05-17T21:00:58.632Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Oregon Healthcare Monopoly Law Goes Unused Despite Corporate Consolidation",
-    "dek": "State regulators haven't blocked a single healthcare deal in five years despite unique legal authority to stop monopolistic mergers.",
+    "headline": "Oregon healthcare regulators rubber-stamp corporate deals despite blocking powers",
+    "dek": "State given unique authority to stop harmful healthcare mergers hasn't used it once in five years, letting corporations consolidate unchecked.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -22,7 +22,7 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Colorado Regulators Acknowledge Extent of Illegal Hemp Sales in Private",
+      "headline": "Colorado Marijuana Regulators Acknowledge Extent of Illegal Hemp Sales in Private",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Senate Parliamentarian Nixes Ballroom Security Funding",
+      "headline": "Trump Pushes SAVE Act Attachment to Must-Pass Bipartisan Bills",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
