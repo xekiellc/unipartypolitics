@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-17T13:44:37.786Z",
+  "updated": "2026-05-17T15:02:43.784Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "Oregon refuses to use healthcare oversight powers while deals consolidate market",
-    "dek": "Despite unique legal authority to block harmful healthcare mergers, Oregon officials haven't stopped a single deal in five years.",
+    "kicker": "Regulatory capture",
+    "headline": "Oregon Refuses to Block Any Healthcare Deals Despite Having Unique Authority",
+    "dek": "State law gives Oregon power to stop harmful healthcare consolidation, but officials haven't used it once in five years.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -16,28 +16,28 @@
       "id": 1,
       "category": "betrayal",
       "headline": "Why Have Immigration Agents Detained This American Citizen Three Times?",
-      "meta": "Politics · today",
+      "meta": "Immigration · ProPublica",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Trump's Counterterrorism Strategy Targets Leftists While Ignoring Far-Right Violence",
+      "meta": "Security · The Intercept",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "In a Private Meeting, Colorado Marijuana Regulators Acknowledge the Extent of Illegal Hemp Sales",
-      "meta": "Politics · today",
+      "headline": "Colorado Regulators Acknowledge Extent of Illegal Hemp Sales in Private Meeting",
+      "meta": "Regulation · ProPublica",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
-      "meta": "Politics · today",
+      "headline": "CDC Failed to Alert New York About Hantavirus-Plagued Cruise Resident",
+      "meta": "Health · The Intercept",
       "url": "https://theintercept.com"
     }
   ],
