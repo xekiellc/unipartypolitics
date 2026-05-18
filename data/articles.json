@@ -1,23 +1,23 @@
 {
-  "updated": "2026-05-18T15:46:46.840Z",
+  "updated": "2026-05-18T18:05:33.072Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "Republicans and Democrats unite in dealmaking mode as legislative time runs out",
-    "dek": "Bipartisan scramble reveals how both parties prioritize backroom deals over transparent governance when facing deadlines.",
+    "kicker": "Dark Money Exposed",
+    "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
+    "dek": "Investigation reveals how both parties use shadowy front groups to funnel anonymous corporate cash into elections while publicly claiming to support transparency.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "Politico"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms",
+      "headline": "Republicans and Democrats are in dealmaking mode as time runs out for legislative action",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
@@ -29,23 +29,23 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Internal Pentagon Report Reveals Hegseth Is Willfully Putting Civilians in Danger",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "In a Private Meeting, Colorado Marijuana Regulators Acknowledge the Extent of Illegal Hemp Sales",
+      "headline": "Why Have Immigration Agents Detained This American Citizen Three Times?",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
+      "id": 4,
       "category": "betrayal",
       "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Oily Sludge Is Flooding Their Dream Home. Oklahoma Regulators Say They Can't Help.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
