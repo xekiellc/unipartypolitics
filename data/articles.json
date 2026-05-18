@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-17T22:57:54.914Z",
+  "updated": "2026-05-18T04:13:44.834Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Oregon Healthcare Regulators Fail to Block Single Deal Despite Oversight Powers",
-    "dek": "State officials given unique authority to stop harmful healthcare mergers haven't used it once in five years of operation.",
+    "headline": "Oregon refuses to block any healthcare deals despite unique regulatory power",
+    "dek": "State law gives Oregon unprecedented authority to stop harmful healthcare mergers, but officials haven't used it once in five years.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -29,16 +29,16 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Colorado Marijuana Regulators Acknowledge Extent of Illegal Hemp Sales in Private",
+      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
+      "headline": "Trump pushes to attach his SAVE act to must-pass bipartisan bills",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
