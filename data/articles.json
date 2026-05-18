@@ -1,51 +1,51 @@
 {
-  "updated": "2026-05-18T18:05:33.072Z",
+  "updated": "2026-05-18T21:18:10.392Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Dark Money Exposed",
-    "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
-    "dek": "Investigation reveals how both parties use shadowy front groups to funnel anonymous corporate cash into elections while publicly claiming to support transparency.",
+    "kicker": "Both parties fail again",
+    "headline": "Capitol agenda: Inside the scramble to notch bipartisan wins",
+    "dek": "Behind closed doors, both parties work together to prioritize political theater over meaningful reform for American families.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "Politico"
   },
   "articles": [
     {
-      "id": 1,
-      "category": "betrayal",
-      "headline": "Republicans and Democrats are in dealmaking mode as time runs out for legislative action",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 2,
+      "id": 13,
       "category": "betrayal",
       "headline": "Capitol agenda: Inside the scramble to notch bipartisan wins",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 3,
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 2,
       "category": "betrayal",
       "headline": "Why Have Immigration Agents Detained This American Citizen Three Times?",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
+      "id": 11,
+      "category": "betrayal",
+      "headline": "House Oversight interviews Epstein prison guard",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 8,
       "category": "betrayal",
       "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Oily Sludge Is Flooding Their Dream Home. Oklahoma Regulators Say They Can't Help.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
