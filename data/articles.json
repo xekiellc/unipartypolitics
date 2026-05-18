@@ -1,17 +1,31 @@
 {
-  "updated": "2026-05-18T04:13:44.834Z",
+  "updated": "2026-05-18T10:17:23.736Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "Oregon refuses to block any healthcare deals despite unique regulatory power",
-    "dek": "State law gives Oregon unprecedented authority to stop harmful healthcare mergers, but officials haven't used it once in five years.",
+    "kicker": "Dark Money Exposed",
+    "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
+    "dek": "Investigation reveals how anonymous donors from both parties funnel millions through shadowy organizations to influence elections while voters remain in the dark.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
     {
       "id": 1,
       "category": "betrayal",
@@ -20,23 +34,9 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 2,
+      "id": 11,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Trump pushes to attach his SAVE act to must-pass bipartisan bills",
+      "headline": "Election season is almost here. Congress is rushing to legislate first.",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
