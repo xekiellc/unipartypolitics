@@ -1,44 +1,51 @@
 {
-  "updated": "2026-05-18T10:17:23.736Z",
+  "updated": "2026-05-18T15:46:46.840Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Dark Money Exposed",
-    "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
-    "dek": "Investigation reveals how anonymous donors from both parties funnel millions through shadowy organizations to influence elections while voters remain in the dark.",
+    "kicker": "Both parties fail again",
+    "headline": "Republicans and Democrats unite in dealmaking mode as legislative time runs out",
+    "dek": "Bipartisan scramble reveals how both parties prioritize backroom deals over transparent governance when facing deadlines.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "Politico"
   },
   "articles": [
     {
-      "id": 5,
+      "id": 1,
       "category": "betrayal",
-      "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
+      "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "Capitol agenda: Inside the scramble to notch bipartisan wins",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Internal Pentagon Report Reveals Hegseth Is Willfully Putting Civilians in Danger",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Counterterrorism Czar's Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
+      "headline": "In a Private Meeting, Colorado Marijuana Regulators Acknowledge the Extent of Illegal Hemp Sales",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 1,
+      "id": 5,
       "category": "betrayal",
-      "headline": "Why Have Immigration Agents Detained This American Citizen Three Times?",
+      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 11,
-      "category": "betrayal",
-      "headline": "Election season is almost here. Congress is rushing to legislate first.",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
