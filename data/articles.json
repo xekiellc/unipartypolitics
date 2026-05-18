@@ -1,51 +1,51 @@
 {
-  "updated": "2026-05-18T21:18:10.392Z",
+  "updated": "2026-05-18T23:10:03.562Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Capitol agenda: Inside the scramble to notch bipartisan wins",
-    "dek": "Behind closed doors, both parties work together to prioritize political theater over meaningful reform for American families.",
+    "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms",
+    "dek": "Dark money groups from both parties funnel millions through shell organizations to hide their true donors and influence elections",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "Politico"
+    "source": "The Intercept"
   },
   "articles": [
     {
-      "id": 13,
+      "id": 1,
       "category": "betrayal",
       "headline": "Capitol agenda: Inside the scramble to notch bipartisan wins",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 2,
       "category": "betrayal",
-      "headline": "Why Have Immigration Agents Detained This American Citizen Three Times?",
+      "headline": "House GOP leaders plan housing bill vote despite Trump ultimatum",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
-      "id": 11,
+      "id": 3,
       "category": "betrayal",
       "headline": "House Oversight interviews Epstein prison guard",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 8,
+      "id": 4,
       "category": "betrayal",
-      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
+      "headline": "Internal Pentagon Report Reveals Hegseth Is Willfully Putting Civilians in Danger",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "More Than 100,000 American Kids Have Had a Parent Detained in Immigration Sweeps, Report Estimates",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
