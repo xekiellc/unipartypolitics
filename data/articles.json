@@ -1,50 +1,50 @@
 {
-  "updated": "2026-05-19T09:57:45.101Z",
+  "updated": "2026-05-19T12:48:40.795Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Dark money floods elections",
-    "headline": "Secret Front Groups Fuel 2026 Midterm Spending Spree",
-    "dek": "Both parties benefit from untraceable corporate cash as transparency advocates are ignored by leadership on both sides.",
+    "kicker": "Both parties fail again",
+    "headline": "Convicted felon gets $1M yearly for obsolete internet while you pay",
+    "dek": "Government contract corruption spans administrations as taxpayers fund million-dollar payments to convicted criminals for worthless services.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
-      "id": 1,
+      "id": 0,
+      "category": "betrayal",
+      "headline": "This Convicted Felon Gets $1 Million a Year to Sell Obsolete Internet Service. You Pay for It.",
+      "meta": "Corruption · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 6,
+      "category": "betrayal",
+      "headline": "Xavier Becerra Pushed to Inflate a Black Man's IQ to Execute Him as California AG",
+      "meta": "Democrat Corruption · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Trump's \"Anti-Weaponization\" Fund Is a Handout to His Hardcore Supporters",
+      "meta": "Republican Corruption · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 7,
       "category": "betrayal",
       "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
-      "meta": "Politics · today",
+      "meta": "Dark Money · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Internal Pentagon Report Reveals Hegseth Is Willfully Putting Civilians in Danger",
-      "meta": "Defense · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "CDC Didn't Tell New York About Resident on Hantavirus-Plagued Cruise",
-      "meta": "Health · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "More Than 100,000 American Kids Have Had a Parent Detained in Immigration Sweeps, Report Estimates",
-      "meta": "Immigration · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
       "headline": "With a Chance at Freedom, They Faced an Unexpected Obstacle: Their Own Lawyers",
-      "meta": "Justice · today",
+      "meta": "Justice System · today",
       "url": "https://feeds.propublica.org"
     }
   ],
