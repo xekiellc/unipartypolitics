@@ -1,50 +1,50 @@
 {
-  "updated": "2026-05-19T12:48:40.795Z",
+  "updated": "2026-05-19T16:52:28.516Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Convicted felon gets $1M yearly for obsolete internet while you pay",
-    "dek": "Government contract corruption spans administrations as taxpayers fund million-dollar payments to convicted criminals for worthless services.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "ProPublica"
+    "headline": "Bipartisan Senate duo unveils sweeping antisemitism bill",
+    "dek": "Senators from both parties push legislation that could restrict free speech under the guise of fighting antisemitism, raising constitutional concerns.",
+    "votes_r": 8,
+    "votes_d": 7,
+    "votes_yes": 15,
+    "votes_no": 3,
+    "source": "Politico"
   },
   "articles": [
     {
-      "id": 0,
+      "id": 1,
       "category": "betrayal",
       "headline": "This Convicted Felon Gets $1 Million a Year to Sell Obsolete Internet Service. You Pay for It.",
-      "meta": "Corruption · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 6,
+      "id": 2,
       "category": "betrayal",
       "headline": "Xavier Becerra Pushed to Inflate a Black Man's IQ to Execute Him as California AG",
-      "meta": "Democrat Corruption · today",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Trump's \"Anti-Weaponization\" Fund Is a Handout to His Hardcore Supporters",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Trump's \"Anti-Weaponization\" Fund Is a Handout to His Hardcore Supporters",
-      "meta": "Republican Corruption · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 7,
-      "category": "betrayal",
-      "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
-      "meta": "Dark Money · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
       "headline": "With a Chance at Freedom, They Faced an Unexpected Obstacle: Their Own Lawyers",
-      "meta": "Justice System · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
