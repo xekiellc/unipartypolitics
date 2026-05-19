@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-19T21:41:05.086Z",
+  "updated": "2026-05-19T23:10:23.343Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Bipartisan Senate duo unveils sweeping antisemitism bill",
-    "dek": "Senators from both parties push controversial legislation that critics warn could stifle free speech and legitimate criticism.",
+    "dek": "Senate introduces broad legislation that could restrict free speech under guise of fighting antisemitism, with support from both parties.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -16,36 +16,36 @@
       "id": 1,
       "category": "betrayal",
       "headline": "This Convicted Felon Gets $1 Million a Year to Sell Obsolete Internet Service. You Pay for It.",
-      "meta": "Corruption · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
       "headline": "Xavier Becerra Pushed to Inflate a Black Man's IQ to Execute Him as California AG",
-      "meta": "Justice · today",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
       "headline": "Trump's $1.8 billion 'lawfare' fund is making Republicans nervous",
-      "meta": "Corruption · today",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
       "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
-      "meta": "Dark Money · today",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "With a Chance at Freedom, They Faced an Unexpected Obstacle: Their Own Lawyers",
-      "meta": "Justice · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Senate GOP could ditch Secret Service funding tied to White House ballroom",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
