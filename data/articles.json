@@ -1,14 +1,14 @@
 {
-  "updated": "2026-05-19T16:52:28.516Z",
+  "updated": "2026-05-19T19:58:58.634Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Bipartisan Senate duo unveils sweeping antisemitism bill",
-    "dek": "Senators from both parties push legislation that could restrict free speech under the guise of fighting antisemitism, raising constitutional concerns.",
-    "votes_r": 8,
-    "votes_d": 7,
-    "votes_yes": 15,
-    "votes_no": 3,
+    "dek": "Another bipartisan effort that likely expands government power while both parties claim to protect civil liberties elsewhere.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "Politico"
   },
   "articles": [
@@ -29,14 +29,14 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
+      "headline": "Trump's \"Anti-Weaponization\" Fund Is a Handout to His Hardcore Supporters",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Trump's \"Anti-Weaponization\" Fund Is a Handout to His Hardcore Supporters",
+      "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
