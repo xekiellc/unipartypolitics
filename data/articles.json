@@ -1,51 +1,51 @@
 {
-  "updated": "2026-05-19T23:10:23.343Z",
+  "updated": "2026-05-20T04:08:30.356Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Bipartisan Senate duo unveils sweeping antisemitism bill",
-    "dek": "Senate introduces broad legislation that could restrict free speech under guise of fighting antisemitism, with support from both parties.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "Politico"
+    "headline": "Democrats and Republicans unite to protect surveillance state",
+    "dek": "While parties fight publicly, both sides consistently vote to expand government surveillance powers over citizens.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
-      "id": 1,
+      "id": 0,
       "category": "betrayal",
       "headline": "This Convicted Felon Gets $1 Million a Year to Sell Obsolete Internet Service. You Pay for It.",
-      "meta": "Politics · today",
+      "meta": "Government Waste · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 9,
+      "category": "betrayal",
+      "headline": "Xavier Becerra Pushed to Inflate a Black Man's IQ to Execute Him as California AG",
+      "meta": "Justice System · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 8,
+      "category": "betrayal",
+      "headline": "Trump's 'Anti-Weaponization' Fund Is a Handout to His Hardcore Supporters",
+      "meta": "Campaign Finance · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 11,
+      "category": "betrayal",
+      "headline": "Senate GOP could ditch Secret Service funding tied to White House ballroom",
+      "meta": "Government Spending · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Xavier Becerra Pushed to Inflate a Black Man's IQ to Execute Him as California AG",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Trump's $1.8 billion 'lawfare' fund is making Republicans nervous",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms.",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Senate GOP could ditch Secret Service funding tied to White House ballroom",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "With a Chance at Freedom, They Faced an Unexpected Obstacle: Their Own Lawyers",
+      "meta": "Legal System · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
