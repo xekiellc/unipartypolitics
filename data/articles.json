@@ -1,50 +1,50 @@
 {
-  "updated": "2026-05-20T04:08:30.356Z",
+  "updated": "2026-05-20T09:46:29.595Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Democrats and Republicans unite to protect surveillance state",
-    "dek": "While parties fight publicly, both sides consistently vote to expand government surveillance powers over citizens.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Convicted Felon Gets $1 Million Annually for Obsolete Internet While Kids Face Family Separation",
+    "dek": "Federal programs funnel millions to connected contractors while immigration enforcement tears families apart - both parties enable the dysfunction.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
-      "id": 0,
+      "id": 1,
       "category": "betrayal",
       "headline": "This Convicted Felon Gets $1 Million a Year to Sell Obsolete Internet Service. You Pay for It.",
-      "meta": "Government Waste · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 9,
-      "category": "betrayal",
-      "headline": "Xavier Becerra Pushed to Inflate a Black Man's IQ to Execute Him as California AG",
-      "meta": "Justice System · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 8,
-      "category": "betrayal",
-      "headline": "Trump's 'Anti-Weaponization' Fund Is a Handout to His Hardcore Supporters",
-      "meta": "Campaign Finance · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 11,
-      "category": "betrayal",
-      "headline": "Senate GOP could ditch Secret Service funding tied to White House ballroom",
-      "meta": "Government Spending · today",
-      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
+      "headline": "More Than 100,000 American Kids Have Had a Parent Detained in Immigration Sweeps, Report Estimates",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Xavier Becerra Pushed to Inflate a Black Man's IQ to Execute Him as California AG",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Trump's $1.8 billion 'lawfare' fund is making Republicans nervous",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
       "headline": "With a Chance at Freedom, They Faced an Unexpected Obstacle: Their Own Lawyers",
-      "meta": "Legal System · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
