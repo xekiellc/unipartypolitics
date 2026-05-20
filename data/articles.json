@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-20T20:25:19.157Z",
+  "updated": "2026-05-20T23:18:06.365Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "GOP preparing to strip out ballroom security funding",
-    "dek": "Republicans abandon bipartisan security measures while Democrats remain silent on critical infrastructure protection needs.",
+    "headline": "Senators consider taking legislative action on prediction markets",
+    "dek": "Bipartisan group of senators exploring new regulations that could benefit Wall Street while restricting public access to political betting markets.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -36,16 +36,16 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "False Testimony Sent Tony Carruthers to Death Row. Tennessee Is About to Kill Him.",
-      "meta": "Politics �� today",
-      "url": "https://theintercept.com"
+      "headline": "Ballroom won't be funded after Senate GOP drops $1 billion Trump security request",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "The End of the Voting Rights Act Isn't Just a Black Problem",
+      "headline": "This Gun Shop Stayed Open Despite Repeated Violations. Then a Cop Was Killed With One of Its Guns.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
