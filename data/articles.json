@@ -1,50 +1,50 @@
 {
-  "updated": "2026-05-20T16:56:45.715Z",
+  "updated": "2026-05-20T20:25:19.157Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Convicted felon gets $1M annually for obsolete internet while voters lose rights",
-    "dek": "While government contractors profit from taxpayer-funded schemes, bipartisan neglect enables voting rights erosion and corruption across red and blue states.",
+    "headline": "GOP preparing to strip out ballroom security funding",
+    "dek": "Republicans abandon bipartisan security measures while Democrats remain silent on critical infrastructure protection needs.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
       "headline": "This Convicted Felon Gets $1 Million a Year to Sell Obsolete Internet Service. You Pay for It.",
-      "meta": "Corruption · ProPublica",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
       "headline": "Ken Paxton Wanted to Crack Down on Forum Shopping. Now Lawyers Say He's Improperly Seeking Out Favorable Courts.",
-      "meta": "Hypocrisy · ProPublica",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "The End of the Voting Rights Act Isn't Just a 'Black Problem'",
-      "meta": "Rights · The Intercept",
-      "url": "https://theintercept.com"
+      "headline": "House GOP cancels war powers vote",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "This Gun Shop Stayed Open Despite Repeated Violations. Then a Cop Was Killed With One of Its Guns.",
-      "meta": "Regulation Failure · ProPublica",
-      "url": "https://feeds.propublica.org"
+      "headline": "False Testimony Sent Tony Carruthers to Death Row. Tennessee Is About to Kill Him.",
+      "meta": "Politics �� today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Trump's 'Anti-Weaponization' Fund Is a Handout to His Hardcore Supporters",
-      "meta": "Grift · The Intercept",
+      "headline": "The End of the Voting Rights Act Isn't Just a Black Problem",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
   ],
