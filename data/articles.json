@@ -1,50 +1,50 @@
 {
-  "updated": "2026-05-21T12:49:13.822Z",
+  "updated": "2026-05-21T16:41:43.216Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties enable corruption",
-    "headline": "This Convicted Felon Gets $1 Million a Year to Sell Obsolete Internet Service. You Pay for It.",
-    "dek": "Government contracts continue flowing to criminal operators while both parties ignore systematic waste of taxpayer funds.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "ProPublica"
+    "kicker": "Both parties fail again",
+    "headline": "Bipartisan House effort aims to kill 'anti-weaponization' fund",
+    "dek": "Republicans and Democrats unite to eliminate oversight funding, protecting government agencies from accountability measures.",
+    "votes_r": 28,
+    "votes_d": 31,
+    "votes_yes": 59,
+    "votes_no": 15,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
-      "meta": "Government Waste · ProPublica",
+      "headline": "This Convicted Felon Gets $1 Million a Year to Sell Obsolete Internet Service. You Pay for It.",
+      "meta": "Government Waste · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Ken Paxton Wanted to Crack Down on Forum Shopping. Now Lawyers Say He's Improperly Seeking Out Favorable Courts.",
-      "meta": "Hypocrisy · ProPublica",
+      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
+      "meta": "Law Enforcement · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "This Gun Shop Stayed Open Despite Repeated Violations. Then a Cop Was Killed With One of Its Guns.",
-      "meta": "Regulatory Failure · ProPublica",
-      "url": "https://feeds.propublica.org"
+      "headline": "House ponders reconciliation delay",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "False Testimony Sent Tony Carruthers to Death Row. Tennessee Is About to Kill Him.",
-      "meta": "Justice System · The Intercept",
+      "headline": "ICE Recruitment Tweets Are So Racist That Cops Feared They Could Incite Neo-Nazi Violence",
+      "meta": "Immigration · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Thomas Massie Loses His Seat in a Win for Trump — and AIPAC",
-      "meta": "Money in Politics · The Intercept",
+      "headline": "The End of the Voting Rights Act Isn't Just a 'Black Problem'",
+      "meta": "Civil Rights · today",
       "url": "https://theintercept.com"
     }
   ],
