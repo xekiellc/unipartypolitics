@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-20T23:18:06.365Z",
+  "updated": "2026-05-21T04:17:25.545Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Senators consider taking legislative action on prediction markets",
-    "dek": "Bipartisan group of senators exploring new regulations that could benefit Wall Street while restricting public access to political betting markets.",
+    "dek": "Bipartisan push to regulate prediction markets raises questions about protecting established interests over innovation.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "This Convicted Felon Gets $1 Million a Year to Sell Obsolete Internet Service. You Pay for It.",
+      "headline": "Ken Paxton Wanted to Crack Down on Forum Shopping. Now Lawyers Say He's Improperly Seeking Out Favorable Courts.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Ken Paxton Wanted to Crack Down on Forum Shopping. Now Lawyers Say He's Improperly Seeking Out Favorable Courts.",
+      "headline": "This Convicted Felon Gets $1 Million a Year to Sell Obsolete Internet Service. You Pay for It.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "House GOP cancels war powers vote",
+      "headline": "This Gun Shop Stayed Open Despite Repeated Violations. Then a Cop Was Killed With One of Its Guns.",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Ballroom won't be funded after Senate GOP drops $1 billion Trump security request",
+      "headline": "The End of the Voting Rights Act Isn't Just a 'Black Problem'",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "This Gun Shop Stayed Open Despite Repeated Violations. Then a Cop Was Killed With One of Its Guns.",
+      "headline": "House GOP cancels war powers vote",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
