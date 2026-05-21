@@ -1,4 +1,3 @@
-
 name: UniParty Politics Pipeline
 
 on:
@@ -32,3 +31,15 @@ jobs:
           git add data/articles.json
           git diff --staged --quiet || git commit -m "Pipeline update: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
+
+      - name: Post to Voxxee
+        run: |
+          curl -s -X POST https://xenchee.netlify.app/.netlify/functions/pipeline-post \
+            -H "Content-Type: application/json" \
+            -H "x-pipeline-secret: ${{ secrets.PIPELINE_SECRET }}" \
+            -d '{
+              "slug": "uniparty-politics",
+              "title": "🏛️ UniParty Politics — Red Team. Blue Team. Same Owners.",
+              "summary": "Political watchdog news exposing the uniparty consensus across both sides of the aisle.",
+              "url": "https://unipartypolitics.com"
+            }'
