@@ -1,49 +1,49 @@
 {
-  "updated": "2026-05-21T20:01:39.143Z",
+  "updated": "2026-05-21T23:08:14.994Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Bipartisan House effort aims to kill 'anti-weaponization' fund",
-    "dek": "House members from both parties work together to eliminate oversight funding while avoiding real accountability measures.",
+    "headline": "DNC Autopsy Ignores Gaza While GOP Advances Anti-Weaponization Fund",
+    "dek": "Democrats refuse to address foreign policy failures in election review while Republicans push partisan DOJ funding schemes.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "Politico"
+    "source": "The Intercept/Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
+      "headline": "Trump Administration Facing Scrutiny for Billion-Dollar Border Wall Contracts",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
+      "headline": "Sheriff's Office Claims Racial Profiling Reforms Too Costly While Misusing $163 Million",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
+      "headline": "Ken Paxton Seeks Favorable Courts After Condemning Forum Shopping",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Ken Paxton Wanted to Crack Down on Forum Shopping. Now Lawyers Say He's Improperly Seeking Out Favorable Courts.",
+      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at All",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "House could leave town, blowing Trump's deadline for immigration funding bill",
+      "headline": "House Rejects Women's History Museum Bill After Partisan Split",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
