@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-22T12:27:01.271Z",
+  "updated": "2026-05-22T16:30:14.315Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Money talks louder than principles",
-    "headline": "AIPAC, AI, Crypto and Gambling Hide Massive Election Spending",
-    "dek": "Special interests from both major lobbying groups spent billions influencing elections while obscuring their funding sources from voters.",
+    "kicker": "Both parties fail again",
+    "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
+    "dek": "Corporate interests and foreign lobbies obscure massive campaign contributions while both parties look the other way on transparency.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -34,16 +34,16 @@
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
+      "id": 2,
       "category": "betrayal",
-      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
+      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 2,
+      "id": 3,
       "category": "betrayal",
-      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
+      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
