@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-22T21:18:54.972Z",
+  "updated": "2026-05-22T23:08:20.756Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
-    "dek": "Special interests use dark money to influence both Republican and Democratic candidates while voters remain in the dark about funding sources.",
+    "dek": "Corporate interests obscure massive political spending while both parties benefit from hidden donations across multiple industries.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,37 +13,30 @@
   },
   "articles": [
     {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 6,
+      "id": 1,
       "category": "betrayal",
       "headline": "Corporate Interests Paid for Haley Stevens' Trip to Portugal — and Her Campaign Ads",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
+      "id": 2,
       "category": "betrayal",
-      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
+      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
-      "id": 2,
+      "id": 3,
       "category": "betrayal",
       "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 1,
+      "id": 4,
       "category": "betrayal",
-      "headline": "Louisiana's Tough-on-Crime Policies Stand to Cost Taxpayers Millions More for Years to Come",
+      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
