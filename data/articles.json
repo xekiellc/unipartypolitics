@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-22T04:12:45.535Z",
+  "updated": "2026-05-22T09:39:54.908Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "DNC ignores Gaza while GOP enables racist ICE recruitment",
-    "dek": "Democrats avoid accountability on foreign policy disasters while Republicans allow federal agencies to incite extremist violence.",
+    "headline": "Corporate Interests Paid for Haley Stevens' Trip to Portugal — and Her Campaign Ads",
+    "dek": "Democratic congresswoman accepts corporate funding for international travel while both parties continue taking money from special interests.",
     "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
+    "votes_d": 1,
+    "votes_yes": 1,
     "votes_no": 0,
     "source": "The Intercept"
   },
@@ -22,30 +22,30 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "ICE Recruitment Tweets Are So Racist That Cops Feared They Could Incite Neo-Nazi Violence",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
       "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
+      "id": 3,
       "category": "betrayal",
       "headline": "Ken Paxton Wanted to Crack Down on Forum Shopping. Now Lawyers Say He's Improperly Seeking Out Favorable Courts.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "House rejects Smithsonian women's history museum bill after partisan split",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
