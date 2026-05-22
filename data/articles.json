@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-22T19:56:50.354Z",
+  "updated": "2026-05-22T21:18:54.972Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties take the money",
+    "kicker": "Both parties fail again",
     "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
-    "dek": "Special interests from multiple industries are concealing massive campaign expenditures while both parties benefit from the hidden cash flow.",
+    "dek": "Special interests use dark money to influence both Republican and Democratic candidates while voters remain in the dark about funding sources.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -27,11 +27,11 @@
       "url": "https://theintercept.com"
     },
     {
-      "id": 7,
+      "id": 3,
       "category": "betrayal",
-      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
+      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
@@ -41,9 +41,9 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 1,
       "category": "betrayal",
-      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
+      "headline": "Louisiana's Tough-on-Crime Policies Stand to Cost Taxpayers Millions More for Years to Come",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
