@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-23T15:06:39.797Z",
+  "updated": "2026-05-23T17:09:26.243Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Corporate lobbies hide massive election spending while parties look away",
-    "dek": "AIPAC, crypto, AI and gambling interests obscured billions in campaign contributions as both Republicans and Democrats stayed silent on disclosure.",
+    "headline": "AIPAC, AI, Crypto and Gambling Hide Massive Election Spending",
+    "dek": "Corporate interests from multiple industries funnel dark money through both parties while avoiding transparency requirements.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -27,6 +27,13 @@
       "url": "https://theintercept.com"
     },
     {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 3,
       "category": "betrayal",
       "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
@@ -34,11 +41,11 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 2,
+      "id": 7,
       "category": "betrayal",
-      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
+      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
