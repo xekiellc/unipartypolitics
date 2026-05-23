@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-23T19:20:07.670Z",
+  "updated": "2026-05-23T21:00:36.111Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "AIPAC, AI, Crypto and Gambling Hide Big Election Spends",
-    "dek": "Corporate interests across multiple industries obscure massive political donations affecting both Republican and Democratic candidates.",
+    "kicker": "Both parties sell out",
+    "headline": "AIPAC, AI, Crypto and Gambling Hide Massive Election Spending",
+    "dek": "Special interests from multiple industries funnel dark money to candidates across party lines while voters remain in the dark about influence operations.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -27,16 +27,16 @@
       "url": "https://theintercept.com"
     },
     {
-      "id": 2,
+      "id": 3,
       "category": "betrayal",
-      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
+      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 2,
       "category": "betrayal",
-      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
+      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
