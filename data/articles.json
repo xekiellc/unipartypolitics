@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-23T21:00:36.111Z",
+  "updated": "2026-05-23T22:57:48.728Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties sell out",
-    "headline": "AIPAC, AI, Crypto and Gambling Hide Massive Election Spending",
-    "dek": "Special interests from multiple industries funnel dark money to candidates across party lines while voters remain in the dark about influence operations.",
+    "kicker": "Corporate cash flows freely",
+    "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
+    "dek": "Special interests obscure massive political spending while both parties benefit from the dark money system.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -27,11 +27,11 @@
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
+      "id": 7,
       "category": "betrayal",
-      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
+      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
@@ -41,11 +41,11 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 7,
+      "id": 3,
       "category": "betrayal",
-      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
+      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
