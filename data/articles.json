@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-23T09:59:50.248Z",
+  "updated": "2026-05-23T11:22:55.847Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC, AI, Crypto and Gambling Hide Massive Election Spending",
-    "dek": "Corporate interests across multiple industries secretly funded campaigns while both parties looked the other way on transparency.",
+    "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
+    "dek": "Corporate interests from multiple industries secretly funnel millions into campaigns while both parties look the other way on transparency.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -27,6 +27,13 @@
       "url": "https://theintercept.com"
     },
     {
+      "id": 7,
+      "category": "betrayal",
+      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 2,
       "category": "betrayal",
       "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
@@ -39,13 +46,6 @@
       "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 7,
-      "category": "betrayal",
-      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
     }
   ],
   "stats": {
