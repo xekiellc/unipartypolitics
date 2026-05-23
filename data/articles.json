@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-23T06:39:10.253Z",
+  "updated": "2026-05-23T09:59:50.248Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail voters",
-    "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
-    "dek": "Special interests across industries funnel dark money into campaigns while both parties look the other way on transparency reforms.",
+    "kicker": "Both parties fail again",
+    "headline": "AIPAC, AI, Crypto and Gambling Hide Massive Election Spending",
+    "dek": "Corporate interests across multiple industries secretly funded campaigns while both parties looked the other way on transparency.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,7 +13,14 @@
   },
   "articles": [
     {
-      "id": 1,
+      "id": 5,
+      "category": "betrayal",
+      "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 6,
       "category": "betrayal",
       "headline": "Corporate Interests Paid for Haley Stevens' Trip to Portugal — and Her Campaign Ads",
       "meta": "Politics · today",
@@ -22,9 +29,9 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
+      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
@@ -34,11 +41,11 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
+      "id": 7,
       "category": "betrayal",
-      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
+      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
