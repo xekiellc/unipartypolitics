@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-24T08:38:22.898Z",
+  "updated": "2026-05-24T11:20:44.721Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
-    "dek": "Corporate interests funnel dark money through both parties while Democrats ignore Gaza in post-election autopsy",
+    "dek": "Corporate interests secretly funnel millions into campaigns while both parties look the other way on transparency reforms.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,32 +13,32 @@
   },
   "articles": [
     {
-      "id": 5,
+      "id": 6,
       "category": "betrayal",
       "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 6,
+      "id": 7,
       "category": "betrayal",
       "headline": "Corporate Interests Paid for Haley Stevens' Trip to Portugal — and Her Campaign Ads",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 7,
+      "id": 8,
       "category": "betrayal",
       "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 2,
+      "id": 5,
       "category": "betrayal",
-      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
+      "headline": "Judge Sanctioned Private Prison Giant for Destroying Evidence in ICE Death Suit",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
