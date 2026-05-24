@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-24T11:20:44.721Z",
+  "updated": "2026-05-24T23:02:36.215Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
-    "dek": "Corporate interests secretly funnel millions into campaigns while both parties look the other way on transparency reforms.",
+    "headline": "AIPAC, AI, Crypto, and Gambling Hide Massive Election Spending",
+    "dek": "Corporate interests pour dark money into campaigns while both parties look the other way on transparency reforms.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,14 +15,14 @@
     {
       "id": 6,
       "category": "betrayal",
-      "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
+      "headline": "AIPAC, AI, Crypto, and Gambling Are Hiding Their Big Election Spends",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 7,
       "category": "betrayal",
-      "headline": "Corporate Interests Paid for Haley Stevens' Trip to Portugal — and Her Campaign Ads",
+      "headline": "Corporate Interests Paid for Haley Stevens's Trip to Portugal — and Her Campaign Ads",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
@@ -34,18 +34,18 @@
       "url": "https://theintercept.com"
     },
     {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Judge Sanctioned Private Prison Giant for Destroying Evidence in ICE Death Suit",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 3,
       "category": "betrayal",
       "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 13,
+      "category": "betrayal",
+      "headline": "House rejects Smithsonian women's history museum bill after partisan split",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
