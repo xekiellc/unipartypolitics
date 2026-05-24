@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-23T22:57:48.728Z",
+  "updated": "2026-05-24T04:11:15.939Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Corporate cash flows freely",
+    "kicker": "Both parties fail again",
     "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
-    "dek": "Special interests obscure massive political spending while both parties benefit from the dark money system.",
+    "dek": "Corporate interests funnel millions through dark money groups to influence both Republican and Democratic candidates while voters remain in the dark.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,39 +13,39 @@
   },
   "articles": [
     {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 6,
+      "id": 1,
       "category": "betrayal",
       "headline": "Corporate Interests Paid for Haley Stevens' Trip to Portugal — and Her Campaign Ads",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 7,
-      "category": "betrayal",
-      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 2,
       "category": "betrayal",
-      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
+      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
+      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "GOP calls off votes after contentious meeting on 'anti-weaponization' fund",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
