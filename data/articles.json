@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-25T21:15:49.620Z",
+  "updated": "2026-05-25T23:11:59.165Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC, AI, Crypto, and Gambling Hide Massive Election Spending",
-    "dek": "Special interests pour dark money into campaigns while both parties look the other way on transparency reforms.",
+    "headline": "AIPAC, AI, Crypto, and Gambling Are Hiding Their Big Election Spends",
+    "dek": "Special interests conceal massive campaign contributions while both parties look the other way on transparency reforms.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -34,18 +34,18 @@
       "url": "https://theintercept.com"
     },
     {
-      "id": 2,
+      "id": 1,
       "category": "betrayal",
-      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
+      "headline": "Louisiana's Tough-on-Crime Policies Stand to Cost Taxpayers Millions More for Years to Come",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
+      "id": 3,
       "category": "betrayal",
-      "headline": "Judge Sanctioned Private Prison Giant for Destroying Evidence in ICE Death Suit",
+      "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
