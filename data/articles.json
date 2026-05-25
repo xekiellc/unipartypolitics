@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-24T23:02:36.215Z",
+  "updated": "2026-05-25T04:22:43.020Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
+    "kicker": "Both parties cash in",
     "headline": "AIPAC, AI, Crypto, and Gambling Hide Massive Election Spending",
-    "dek": "Corporate interests pour dark money into campaigns while both parties look the other way on transparency reforms.",
+    "dek": "Corporate interests funnel millions through dark money channels while both parties look the other way on transparency reforms.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -27,11 +27,11 @@
       "url": "https://theintercept.com"
     },
     {
-      "id": 8,
+      "id": 2,
       "category": "betrayal",
-      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
+      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
@@ -41,11 +41,11 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 13,
+      "id": 1,
       "category": "betrayal",
-      "headline": "House rejects Smithsonian women's history museum bill after partisan split",
+      "headline": "Louisiana's Tough-on-Crime Policies Stand to Cost Taxpayers Millions More for Years to Come",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
