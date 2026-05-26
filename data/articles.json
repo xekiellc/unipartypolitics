@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-26T21:50:52.598Z",
+  "updated": "2026-05-26T23:14:47.429Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
-    "dek": "While Americans struggle with inflation and economic hardship, lawmakers from both parties prioritize their own compensation increases.",
+    "kicker": "Both parties cash in",
+    "headline": "Members of Congress won a battle to increase their pay while Americans struggle",
+    "dek": "Bipartisan effort to boost congressional salaries passes as constituents face economic hardship and government dysfunction.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,23 +15,23 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
+      "headline": "AIPAC, AI, Crypto, and Gambling Are Hiding Their Big Election Spends",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "AIPAC, AI, Crypto, and Gambling Are Hiding Their Big Election Spends",
+      "headline": "Corporate Interests Paid for Haley Stevens's Trip to Portugal — and Her Campaign Ads",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Corporate Interests Paid for Haley Stevens's Trip to Portugal — and Her Campaign Ads",
+      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
