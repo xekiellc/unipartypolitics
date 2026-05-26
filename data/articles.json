@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-26T15:55:14.607Z",
+  "updated": "2026-05-26T18:32:23.478Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC, AI, Crypto, and Gambling Hide Massive Election Spending",
-    "dek": "Corporate interests pour millions into campaigns while both parties look the other way on transparency.",
+    "headline": "AIPAC, AI, Crypto, and Gambling Hide Big Election Spends",
+    "dek": "Corporate interests across multiple industries obscure massive political expenditures while both parties benefit from opaque funding schemes.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -22,23 +22,23 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Corporate Interests Paid for Haley Stevens's Trip to Portugal — and Her Campaign Ads",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
       "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
+      "id": 3,
       "category": "betrayal",
-      "headline": "Judge Sanctioned Private Prison Giant for Destroying Evidence in ICE Death Suit",
+      "headline": "Corporate Interests Paid for Haley Stevens's Trip to Portugal — and Her Campaign Ads",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "The House Democrat taking a big risk to land an AI deal",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
