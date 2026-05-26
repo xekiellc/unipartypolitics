@@ -1,30 +1,30 @@
 {
-  "updated": "2026-05-26T18:32:23.478Z",
+  "updated": "2026-05-26T21:50:52.598Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC, AI, Crypto, and Gambling Hide Big Election Spends",
-    "dek": "Corporate interests across multiple industries obscure massive political expenditures while both parties benefit from opaque funding schemes.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
+    "dek": "While Americans struggle with inflation and economic hardship, lawmakers from both parties prioritize their own compensation increases.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
+      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
+      "headline": "AIPAC, AI, Crypto, and Gambling Are Hiding Their Big Election Spends",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
@@ -36,16 +36,16 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "The House Democrat taking a big risk to land an AI deal",
+      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
+      "headline": "The House Democrat taking a big risk to land an AI deal",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
