@@ -1,51 +1,51 @@
 {
-  "updated": "2026-05-26T04:08:12.163Z",
+  "updated": "2026-05-26T10:08:45.354Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC, AI, Crypto, and Gambling Hide Massive Election Spending",
-    "dek": "Corporate interests funnel millions into campaigns while both parties ignore transparency rules and voter concerns.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
+    "dek": "While Americans struggle with inflation, lawmakers from both parties prioritize raising their own salaries despite widespread public opposition.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "Politico"
   },
   "articles": [
     {
-      "id": 6,
+      "id": 1,
       "category": "betrayal",
       "headline": "AIPAC, AI, Crypto, and Gambling Are Hiding Their Big Election Spends",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 7,
+      "id": 2,
       "category": "betrayal",
       "headline": "Corporate Interests Paid for Haley Stevens's Trip to Portugal — and Her Campaign Ads",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 8,
+      "id": 3,
       "category": "betrayal",
-      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "The Trump Administration Is Facing Scrutiny for How It's Handing Out Billion-Dollar Border Wall Contracts",
+      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 4,
       "category": "betrayal",
       "headline": "This Sheriff's Office Says Racial Profiling Reforms Are Too Costly. Auditors Found It Misused $163 Million.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "DNC Autopsy of 2024 Loss Doesn't Mention Gaza or Israel at all",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
