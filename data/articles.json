@@ -1,14 +1,14 @@
 {
-  "updated": "2026-05-27T15:59:35.916Z",
+  "updated": "2026-05-27T18:31:51.084Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties cash in",
-    "headline": "Congress members push through pay increases while voters struggle",
-    "dek": "Bipartisan effort succeeds in boosting congressional salaries despite economic hardship facing constituents nationwide.",
-    "votes_r": 28,
-    "votes_d": 31,
-    "votes_yes": 59,
-    "votes_no": 18,
+    "headline": "Members of Congress win battle to increase their pay amid public struggles",
+    "dek": "Lawmakers from both parties push through pay raises while constituents face economic hardship and government dysfunction.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "Politico"
   },
   "articles": [
@@ -22,19 +22,26 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Judge Sanctioned Private Prison Giant for Destroying Evidence in ICE Death Suit",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
       "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Judge Sanctioned Private Prison Giant for Destroying Evidence in ICE Death Suit",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 4,
+      "category": "betrayal",
+      "headline": "U.S. Lawmakers Demand Reforms to Immigration Officers' Use of Tear Gas and Pepper Spray",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
       "category": "betrayal",
       "headline": "The House Democrat taking a big risk to land an AI deal",
       "meta": "Politics · today",
