@@ -1,14 +1,14 @@
 {
-  "updated": "2026-05-27T10:06:45.943Z",
+  "updated": "2026-05-27T15:59:35.916Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
-    "dek": "While Americans struggle with inflation and economic hardship, lawmakers from both parties quietly push through congressional pay raises.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "kicker": "Both parties cash in",
+    "headline": "Congress members push through pay increases while voters struggle",
+    "dek": "Bipartisan effort succeeds in boosting congressional salaries despite economic hardship facing constituents nationwide.",
+    "votes_r": 28,
+    "votes_d": 31,
+    "votes_yes": 59,
+    "votes_no": 18,
     "source": "Politico"
   },
   "articles": [
@@ -22,26 +22,19 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
       "headline": "Judge Sanctioned Private Prison Giant for Destroying Evidence in ICE Death Suit",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
+      "id": 3,
       "category": "betrayal",
-      "headline": "U.S. Lawmakers Demand Reforms to Immigration Officers' Use of Tear Gas and Pepper Spray",
+      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
+      "id": 4,
       "category": "betrayal",
       "headline": "The House Democrat taking a big risk to land an AI deal",
       "meta": "Politics · today",
