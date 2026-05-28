@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-28T10:15:53.747Z",
+  "updated": "2026-05-28T16:14:14.594Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "Members of Congress win battle to increase their pay while Americans struggle",
-    "dek": "Lawmakers from both parties quietly secured pay raises for themselves amid economic hardship for constituents.",
+    "kicker": "Both parties cash in",
+    "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
+    "dek": "While Americans struggle with inflation and economic hardship, lawmakers from both parties quietly secured pay raises for themselves.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,37 +13,30 @@
   },
   "articles": [
     {
-      "id": 1,
+      "id": 0,
       "category": "betrayal",
       "headline": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 2,
+      "id": 4,
       "category": "betrayal",
       "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 5,
       "category": "betrayal",
-      "headline": "The House Democrat taking a big risk to land an AI deal",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Company Behind California Chemical Leak Was Building F-35 Parts Amid Rush of Orders From U.S. and Israel",
+      "headline": "Ex-Trump Campaign Chief Funneled Millions of Israeli Government Money to His Longtime Allies' Companies",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 5,
+      "id": 12,
       "category": "betrayal",
-      "headline": "Donald Trump's revenge tour might not end in 2026",
+      "headline": "The House Democrat taking a big risk to land an AI deal",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
