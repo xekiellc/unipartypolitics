@@ -1,42 +1,49 @@
 {
-  "updated": "2026-05-28T04:11:30.030Z",
+  "updated": "2026-05-28T10:15:53.747Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Members of Congress win battle to increase their pay as Americans struggle",
-    "dek": "Bipartisan effort to boost congressional salaries moves forward while constituents face economic hardship nationwide.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Members of Congress win battle to increase their pay while Americans struggle",
+    "dek": "Lawmakers from both parties quietly secured pay raises for themselves amid economic hardship for constituents.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
+      "headline": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Judge Sanctioned Private Prison Giant for Destroying Evidence in ICE Death Suit",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "U.S. Lawmakers Demand Reforms to Immigration Officers' Use of Tear Gas and Pepper Spray",
+      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
+      "id": 3,
       "category": "betrayal",
       "headline": "The House Democrat taking a big risk to land an AI deal",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Company Behind California Chemical Leak Was Building F-35 Parts Amid Rush of Orders From U.S. and Israel",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Donald Trump's revenge tour might not end in 2026",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
