@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-28T20:31:37.784Z",
+  "updated": "2026-05-28T23:22:32.129Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties cash in",
+    "kicker": "Both parties fail again",
     "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
-    "dek": "Lawmakers from both parties quietly secured pay raises while Americans struggle with inflation and economic hardship.",
+    "dek": "While Americans struggle with inflation and economic hardship, lawmakers from both parties quietly secured pay raises for themselves.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,35 +13,35 @@
   },
   "articles": [
     {
-      "id": 0,
+      "id": 1,
       "category": "betrayal",
       "headline": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
+      "id": 2,
       "category": "betrayal",
       "headline": "Ex-Trump Campaign Chief Funneled Millions of Israeli Government Money to His Longtime Allies' Companies",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 11,
+      "id": 3,
       "category": "betrayal",
-      "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
+      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
-      "id": 12,
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Graham Platner Is Forcing Centrist Dems to Reckon With 'Vote Blue No Matter Who'",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
       "category": "betrayal",
       "headline": "The House Democrat taking a big risk to land an AI deal",
       "meta": "Politics · today",
