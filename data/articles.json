@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-28T16:14:14.594Z",
+  "updated": "2026-05-28T20:31:37.784Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties cash in",
     "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
-    "dek": "While Americans struggle with inflation and economic hardship, lawmakers from both parties quietly secured pay raises for themselves.",
+    "dek": "Lawmakers from both parties quietly secured pay raises while Americans struggle with inflation and economic hardship.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -32,6 +32,13 @@
       "headline": "Ex-Trump Campaign Chief Funneled Millions of Israeli Government Money to His Longtime Allies' Companies",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 11,
+      "category": "betrayal",
+      "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 12,
