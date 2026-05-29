@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-29T21:57:15.456Z",
+  "updated": "2026-05-29T23:22:25.137Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "White House intervened for $620M deal tied to Trump Jr. while lawmakers ignore systemic corruption",
-    "dek": "Executive power used for connected deals as Congress focuses on partisan theater instead of addressing widespread corporate abuse in healthcare and detention systems.",
+    "kicker": "Both parties enable corporate cronyism",
+    "headline": "White House secured $620M deal for Trump Jr.-tied company",
+    "dek": "Executive branch intervention highlights how political connections drive massive government contracts regardless of party.",
     "votes_r": 0,
     "votes_d": 0,
-    "votes_yes": 0,
+    "votes_yes": 1,
     "votes_no": 0,
     "source": "ProPublica"
   },
@@ -16,13 +16,6 @@
       "id": 2,
       "category": "betrayal",
       "headline": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 0,
-      "category": "betrayal",
-      "headline": "More Than $100 Million Was Billed for Medically Questionable Vascular Procedures, Government Watchdog Finds",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
