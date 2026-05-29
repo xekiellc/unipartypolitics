@@ -1,14 +1,14 @@
 {
-  "updated": "2026-05-29T04:13:25.289Z",
+  "updated": "2026-05-29T10:05:04.067Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties cash in",
     "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
-    "dek": "Lawmakers prioritize their own compensation while ordinary Americans struggle with inflation and economic hardship.",
-    "votes_r": 28,
-    "votes_d": 31,
-    "votes_yes": 59,
-    "votes_no": 38,
+    "dek": "While Americans struggle with inflation and economic hardship, lawmakers from both parties quietly secured pay raises for themselves.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "Politico"
   },
   "articles": [
@@ -20,28 +20,28 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 2,
+      "id": 5,
+      "category": "betrayal",
+      "headline": "The Race to Build AI Data Centers — Before the People Can Protest",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 6,
+      "category": "betrayal",
+      "headline": "Graham Platner Is Forcing Centrist Dems to Reckon With \"Vote Blue No Matter Who\"",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 7,
       "category": "betrayal",
       "headline": "Ex-Trump Campaign Chief Funneled Millions of Israeli Government Money to His Longtime Allies' Companies",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Graham Platner Is Forcing Centrist Dems to Reckon With 'Vote Blue No Matter Who'",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
+      "id": 12,
       "category": "betrayal",
       "headline": "The House Democrat taking a big risk to land an AI deal",
       "meta": "Politics · today",
