@@ -1,14 +1,14 @@
 {
-  "updated": "2026-05-29T10:05:04.067Z",
+  "updated": "2026-05-29T15:56:13.862Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties cash in",
+    "kicker": "Both parties fail again",
     "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
-    "dek": "While Americans struggle with inflation and economic hardship, lawmakers from both parties quietly secured pay raises for themselves.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "dek": "While Americans struggle with inflation and economic hardship, both parties quietly push through congressional pay raises.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "Politico"
   },
   "articles": [
@@ -20,32 +20,32 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "The Race to Build AI Data Centers — Before the People Can Protest",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 6,
-      "category": "betrayal",
-      "headline": "Graham Platner Is Forcing Centrist Dems to Reckon With \"Vote Blue No Matter Who\"",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 7,
+      "id": 2,
       "category": "betrayal",
       "headline": "Ex-Trump Campaign Chief Funneled Millions of Israeli Government Money to His Longtime Allies' Companies",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 12,
+      "id": 3,
       "category": "betrayal",
-      "headline": "The House Democrat taking a big risk to land an AI deal",
+      "headline": "Graham Platner Is Forcing Centrist Dems to Reckon With 'Vote Blue No Matter Who'",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "After Uvalde, Texas Stuffed Schools Full of Cops. They Brutalized Students.",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "More Than $100 Million Was Billed for Medically Questionable Vascular Procedures, Government Watchdog Finds",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
