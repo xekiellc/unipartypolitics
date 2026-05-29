@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-29T18:39:13.174Z",
+  "updated": "2026-05-29T21:57:15.456Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "White House secures $620M deal for Trump Jr.-tied company while schools crumble",
-    "dek": "Federal intervention benefits connected company as Alaska schools need billions in repairs with minimal funding approved.",
+    "headline": "White House intervened for $620M deal tied to Trump Jr. while lawmakers ignore systemic corruption",
+    "dek": "Executive power used for connected deals as Congress focuses on partisan theater instead of addressing widespread corporate abuse in healthcare and detention systems.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,39 +13,39 @@
   },
   "articles": [
     {
-      "id": 1,
-      "category": "betrayal",
-      "headline": "White House Intervened to Get $620M Deal for Trump Jr.-Tied Company",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
       "id": 2,
       "category": "betrayal",
-      "headline": "Alaska Schools Get $148M for Repairs—A Fraction of What's Needed",
+      "headline": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 0,
       "category": "betrayal",
-      "headline": "Lawmakers Demand Reforms After ICE Brutality Against Detainees",
+      "headline": "More Than $100 Million Was Billed for Medically Questionable Vascular Procedures, Government Watchdog Finds",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 6,
+      "category": "betrayal",
+      "headline": "ICE Pepper-Sprayed, Beat Detainees for Protesting 'Horrific Conditions' In Delaney Hall Jail",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
+      "id": 7,
       "category": "betrayal",
-      "headline": "Texas Stuffed Schools With Cops After Uvalde—They Brutalized Students",
+      "headline": "After Uvalde, Texas Stuffed Schools Full of Cops. They Brutalized Students.",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 5,
+      "id": 1,
       "category": "betrayal",
-      "headline": "Centrist Dems Forced to Reckon With 'Vote Blue No Matter Who'",
+      "headline": "Alaska's Deteriorating Schools Could Receive More Than $148 Million for Repairs. It's a Fraction of What They Need.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
