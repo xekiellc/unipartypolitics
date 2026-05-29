@@ -1,51 +1,51 @@
 {
-  "updated": "2026-05-29T15:56:13.862Z",
+  "updated": "2026-05-29T18:39:13.174Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Members of Congress won a battle to increase their pay. The war will go on.",
-    "dek": "While Americans struggle with inflation and economic hardship, both parties quietly push through congressional pay raises.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
-    "source": "Politico"
+    "headline": "White House secures $620M deal for Trump Jr.-tied company while schools crumble",
+    "dek": "Federal intervention benefits connected company as Alaska schools need billions in repairs with minimal funding approved.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
+      "headline": "White House Intervened to Get $620M Deal for Trump Jr.-Tied Company",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Ex-Trump Campaign Chief Funneled Millions of Israeli Government Money to His Longtime Allies' Companies",
+      "headline": "Alaska Schools Get $148M for Repairs—A Fraction of What's Needed",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Graham Platner Is Forcing Centrist Dems to Reckon With 'Vote Blue No Matter Who'",
+      "headline": "Lawmakers Demand Reforms After ICE Brutality Against Detainees",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "After Uvalde, Texas Stuffed Schools Full of Cops. They Brutalized Students.",
+      "headline": "Texas Stuffed Schools With Cops After Uvalde—They Brutalized Students",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "More Than $100 Million Was Billed for Medically Questionable Vascular Procedures, Government Watchdog Finds",
+      "headline": "Centrist Dems Forced to Reckon With 'Vote Blue No Matter Who'",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
