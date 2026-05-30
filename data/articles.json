@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-30T06:53:14.960Z",
+  "updated": "2026-05-30T10:06:01.689Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Corporate cronyism exposed",
-    "headline": "White House intervened to secure $620M deal for Trump Jr.-linked company",
-    "dek": "Executive branch used influence to benefit connected business interests, highlighting how both parties enable corporate favoritism when in power.",
+    "kicker": "Both parties fail again",
+    "headline": "White House secures $620M deal for Trump Jr.-tied company while lawmakers demand immigration reforms",
+    "dek": "Executive intervention benefits connected company as bipartisan calls for ICE accountability go unheeded.",
     "votes_r": 0,
     "votes_d": 0,
-    "votes_yes": 1,
+    "votes_yes": 0,
     "votes_no": 0,
     "source": "ProPublica"
   },
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "White House intervened to secure $620M deal for Trump Jr.-linked company",
+      "headline": "White House Intervened to Get $620M Deal for Company Tied to Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "After Uvalde, Texas stuffed schools full of cops who brutalized students",
+      "headline": "ICE Pepper-Sprayed, Beat Detainees for Protesting Horrific Conditions",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "ICE pepper-sprayed, beat detainees protesting horrific jail conditions",
+      "headline": "After Uvalde, Texas Stuffed Schools Full of Cops. They Brutalized Students.",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Lawmakers demand reforms after immigration officers' tear gas abuse",
+      "headline": "Bondi shifts responsibility for Epstein files' release to Todd Blanche",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "$100M billed for medically questionable procedures, watchdog finds",
+      "headline": "The Race to Build AI Data Centers — Before the People Can Protest",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
