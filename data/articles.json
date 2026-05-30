@@ -1,49 +1,42 @@
 {
-  "updated": "2026-05-30T10:06:01.689Z",
+  "updated": "2026-05-30T13:53:17.452Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "White House secures $620M deal for Trump Jr.-tied company while lawmakers demand immigration reforms",
-    "dek": "Executive intervention benefits connected company as bipartisan calls for ICE accountability go unheeded.",
+    "kicker": "Both parties enable abuse",
+    "headline": "ICE pepper-sprayed, beat detainees for protesting horrific conditions",
+    "dek": "Bipartisan support for immigration enforcement enables systematic abuse of vulnerable detainees with little oversight or accountability.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "White House Intervened to Get $620M Deal for Company Tied to Donald Trump Jr.",
+      "headline": "White House intervened to get $620 million deal for company tied to Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "ICE Pepper-Sprayed, Beat Detainees for Protesting Horrific Conditions",
+      "headline": "After Uvalde, Texas stuffed schools full of cops. They brutalized students.",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "After Uvalde, Texas Stuffed Schools Full of Cops. They Brutalized Students.",
+      "headline": "Alaska's deteriorating schools could receive $148 million for repairs — a fraction of what they need",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Bondi shifts responsibility for Epstein files' release to Todd Blanche",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "The Race to Build AI Data Centers — Before the People Can Protest",
+      "headline": "The race to build AI data centers — before the people can protest",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
