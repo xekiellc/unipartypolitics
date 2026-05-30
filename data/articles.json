@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-30T19:26:38.969Z",
+  "updated": "2026-05-30T21:07:08.907Z",
   "featured": {
-    "category": "corruption",
-    "kicker": "Bipartisan neglect",
-    "headline": "Alaska schools crumble as lawmakers offer token repairs",
-    "dek": "State receives fraction of needed funding while politicians from both parties ignore infrastructure crisis affecting students.",
+    "category": "betrayal",
+    "kicker": "Both parties enable corruption",
+    "headline": "White House intervened for $620M deal tied to Trump Jr. while lawmakers ignore systemic abuse",
+    "dek": "Executive corruption meets legislative inaction as both parties fail to address immigration violence and corporate favoritism.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,32 +13,39 @@
   },
   "articles": [
     {
-      "id": 1,
-      "category": "corruption",
-      "headline": "White House intervened for $620M deal tied to Trump Jr.",
+      "id": 2,
+      "category": "betrayal",
+      "headline": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "brutality",
-      "headline": "ICE brutalized detainees protesting jail conditions",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "failure",
-      "headline": "Texas schools stuffed with cops who brutalized students",
+      "category": "betrayal",
+      "headline": "U.S. Lawmakers Demand Reforms to Immigration Officers' Use of Tear Gas and Pepper Spray",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 7,
+      "category": "betrayal",
+      "headline": "ICE Pepper-Sprayed, Beat Detainees for Protesting 'Horrific Conditions' In Delaney Hall Jail",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
-      "category": "corruption",
-      "headline": "Over $100M billed for questionable medical procedures",
+      "id": 8,
+      "category": "betrayal",
+      "headline": "After Uvalde, Texas Stuffed Schools Full of Cops. They Brutalized Students.",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 12,
+      "category": "betrayal",
+      "headline": "Bondi shifts responsibility for Epstein files' release to Todd Blanche, making him Democrats' next target",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
