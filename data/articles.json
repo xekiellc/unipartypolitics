@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-30T03:58:45.443Z",
+  "updated": "2026-05-30T06:53:14.960Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "White House secures $620M deal for Trump Jr.-tied company while lawmakers ignore broader corruption",
-    "dek": "Bipartisan silence on corporate favoritism exposes how both parties protect connected interests over public accountability.",
+    "kicker": "Corporate cronyism exposed",
+    "headline": "White House intervened to secure $620M deal for Trump Jr.-linked company",
+    "dek": "Executive branch used influence to benefit connected business interests, highlighting how both parties enable corporate favoritism when in power.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 1,
@@ -13,37 +13,37 @@
   },
   "articles": [
     {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 7,
-      "category": "betrayal",
-      "headline": "After Uvalde, Texas Stuffed Schools Full of Cops. They Brutalized Students.",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 6,
-      "category": "betrayal",
-      "headline": "ICE Pepper-Sprayed, Beat Detainees for Protesting 'Horrific Conditions' In Delaney Hall Jail",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 1,
       "category": "betrayal",
-      "headline": "Alaska's Deteriorating Schools Could Receive More Than $148 Million for Repairs. It's a Fraction of What They Need.",
+      "headline": "White House intervened to secure $620M deal for Trump Jr.-linked company",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 0,
+      "id": 2,
       "category": "betrayal",
-      "headline": "More Than $100 Million Was Billed for Medically Questionable Vascular Procedures, Government Watchdog Finds",
+      "headline": "After Uvalde, Texas stuffed schools full of cops who brutalized students",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "ICE pepper-sprayed, beat detainees protesting horrific jail conditions",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Lawmakers demand reforms after immigration officers' tear gas abuse",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "$100M billed for medically questionable procedures, watchdog finds",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
