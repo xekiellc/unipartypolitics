@@ -1,51 +1,44 @@
 {
-  "updated": "2026-05-30T17:15:58.599Z",
+  "updated": "2026-05-30T19:26:38.969Z",
   "featured": {
-    "category": "betrayal",
-    "kicker": "Both parties enable abuse",
-    "headline": "ICE pepper-sprayed, beat detainees for protesting horrific conditions",
-    "dek": "Bipartisan support for immigration enforcement enables systematic abuse of detained migrants with little oversight.",
-    "votes_r": 45,
-    "votes_d": 38,
-    "votes_yes": 83,
-    "votes_no": 14,
-    "source": "The Intercept"
+    "category": "corruption",
+    "kicker": "Bipartisan neglect",
+    "headline": "Alaska schools crumble as lawmakers offer token repairs",
+    "dek": "State receives fraction of needed funding while politicians from both parties ignore infrastructure crisis affecting students.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "White House intervened to get $620M deal for company tied to Donald Trump Jr.",
+      "category": "corruption",
+      "headline": "White House intervened for $620M deal tied to Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "After Uvalde, Texas stuffed schools full of cops. They brutalized students.",
+      "category": "brutality",
+      "headline": "ICE brutalized detainees protesting jail conditions",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "More than $100 million billed for medically questionable vascular procedures",
+      "category": "failure",
+      "headline": "Texas schools stuffed with cops who brutalized students",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Alaska's deteriorating schools could receive $148M for repairs - a fraction of what they need",
+      "category": "corruption",
+      "headline": "Over $100M billed for questionable medical procedures",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "The race to build AI data centers before the people can protest",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
     }
   ],
   "stats": {
