@@ -1,51 +1,51 @@
 {
-  "updated": "2026-05-30T15:14:52.550Z",
+  "updated": "2026-05-30T17:15:58.599Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "White House intervenes for $620M deal tied to Trump Jr. while lawmakers demand immigration reforms",
-    "dek": "Bipartisan failure as executive corruption meets legislative inaction on Border Patrol abuse of detainees and miscarriage victims.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "ProPublica"
+    "kicker": "Both parties enable abuse",
+    "headline": "ICE pepper-sprayed, beat detainees for protesting horrific conditions",
+    "dek": "Bipartisan support for immigration enforcement enables systematic abuse of detained migrants with little oversight.",
+    "votes_r": 45,
+    "votes_d": 38,
+    "votes_yes": 83,
+    "votes_no": 14,
+    "source": "The Intercept"
   },
   "articles": [
     {
-      "id": 2,
+      "id": 1,
       "category": "betrayal",
-      "headline": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
+      "headline": "White House intervened to get $620M deal for company tied to Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "After Uvalde, Texas stuffed schools full of cops. They brutalized students.",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "U.S. Lawmakers Demand Reforms to Immigration Officers' Use of Tear Gas and Pepper Spray",
+      "headline": "More than $100 million billed for medically questionable vascular procedures",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 7,
+      "id": 4,
       "category": "betrayal",
-      "headline": "ICE Pepper-Sprayed, Beat Detainees for Protesting 'Horrific Conditions' In Delaney Hall Jail",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 8,
-      "category": "betrayal",
-      "headline": "After Uvalde, Texas Stuffed Schools Full of Cops. They Brutalized Students.",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 1,
-      "category": "betrayal",
-      "headline": "Alaska's Deteriorating Schools Could Receive More Than $148 Million for Repairs. It's a Fraction of What They Need.",
+      "headline": "Alaska's deteriorating schools could receive $148M for repairs - a fraction of what they need",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "The race to build AI data centers before the people can protest",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
