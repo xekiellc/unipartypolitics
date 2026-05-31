@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-31T15:23:50.962Z",
+  "updated": "2026-05-31T17:15:29.403Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "White House intervened for $620M deal tied to Trump Jr. while lawmakers ignore systemic corruption",
-    "dek": "Executive branch corruption meets legislative inaction as both parties prioritize connections over accountability.",
+    "headline": "White House intervenes for $620M Trump Jr. company deal",
+    "dek": "Government watchdogs expose how political connections secured massive contract while both parties ignored oversight failures.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,32 +13,39 @@
   },
   "articles": [
     {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 0,
+      "id": 1,
       "category": "betrayal",
       "headline": "More Than $100 Million Was Billed for Medically Questionable Vascular Procedures, Government Watchdog Finds",
-      "meta": "Politics · today",
+      "meta": "Healthcare · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 8,
+      "id": 2,
+      "category": "betrayal",
+      "headline": "Alaska's Deteriorating Schools Could Receive More Than $148 Million for Repairs. It's a Fraction of What They Need.",
+      "meta": "Education · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
       "category": "betrayal",
       "headline": "ICE Pepper-Sprayed, Beat Detainees for Protesting 'Horrific Conditions' in Delaney Hall Jail",
-      "meta": "Politics · today",
+      "meta": "Immigration · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 9,
+      "id": 4,
       "category": "betrayal",
       "headline": "After Uvalde, Texas Stuffed Schools Full of Cops. They Brutalized Students.",
-      "meta": "Politics · today",
+      "meta": "Education · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "U.S. Lawmakers Demand Reforms to Immigration Officers' Use of Tear Gas and Pepper Spray",
+      "meta": "Immigration · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
