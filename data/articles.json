@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-31T13:58:28.235Z",
+  "updated": "2026-05-31T15:23:50.962Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "White House intervenes for $620M Trump Jr.-linked deal while schools crumble",
-    "dek": "Federal government prioritizes corporate connections over infrastructure as Alaska schools need billions in repairs but receive fraction of funding.",
+    "headline": "White House intervened for $620M deal tied to Trump Jr. while lawmakers ignore systemic corruption",
+    "dek": "Executive branch corruption meets legislative inaction as both parties prioritize connections over accountability.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -20,9 +20,9 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 1,
+      "id": 0,
       "category": "betrayal",
-      "headline": "Alaska's Deteriorating Schools Could Receive More Than $148 Million for Repairs. It's a Fraction of What They Need.",
+      "headline": "More Than $100 Million Was Billed for Medically Questionable Vascular Procedures, Government Watchdog Finds",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
