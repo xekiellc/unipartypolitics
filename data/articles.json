@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-31T11:43:09.417Z",
+  "updated": "2026-05-31T13:58:28.235Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "White House corruption exposed",
-    "headline": "Trump White House intervened for $620M deal tied to Don Jr.",
-    "dek": "Administration officials bypassed normal procurement processes to secure massive contract for company with Trump family connections.",
+    "kicker": "Both parties fail again",
+    "headline": "White House intervenes for $620M Trump Jr.-linked deal while schools crumble",
+    "dek": "Federal government prioritizes corporate connections over infrastructure as Alaska schools need billions in repairs but receive fraction of funding.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -20,16 +20,16 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 1,
       "category": "betrayal",
-      "headline": "U.S. Lawmakers Demand Reforms to Immigration Officers' Use of Tear Gas and Pepper Spray",
+      "headline": "Alaska's Deteriorating Schools Could Receive More Than $148 Million for Repairs. It's a Fraction of What They Need.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 8,
       "category": "betrayal",
-      "headline": "ICE Pepper-Sprayed, Beat Detainees for Protesting \"Horrific Conditions\" In Delaney Hall Jail",
+      "headline": "ICE Pepper-Sprayed, Beat Detainees for Protesting 'Horrific Conditions' in Delaney Hall Jail",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
@@ -39,13 +39,6 @@
       "headline": "After Uvalde, Texas Stuffed Schools Full of Cops. They Brutalized Students.",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
-    },
-    {
-      "id": 1,
-      "category": "betrayal",
-      "headline": "Alaska's Deteriorating Schools Could Receive More Than $148 Million for Repairs. It's a Fraction of What They Need.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
