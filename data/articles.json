@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-01T11:47:53.163Z",
+  "updated": "2026-06-01T17:53:45.365Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "White House intervenes for $620 million Trump Jr.-linked deal",
-    "dek": "Presidential administration uses government power to secure massive contract for company with family ties, exposing systemic corruption.",
+    "headline": "White House intervenes for Trump-connected $620M deal while reversing gun trafficking crackdown",
+    "dek": "Biden administration helps secure massive contract for company tied to Donald Trump Jr. while Trump dismantles previous gun safety measures.",
     "votes_r": 0,
     "votes_d": 0,
-    "votes_yes": 1,
+    "votes_yes": 0,
     "votes_no": 0,
     "source": "ProPublica"
   },
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Trump reverses Biden gun trafficking crackdown with no oversight",
+      "headline": "White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "$100+ million billed for questionable medical procedures goes unchecked",
+      "headline": "How Trump Reversed Biden's Crackdown on Gun Trafficking",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "ICE brutally beats detainees protesting jail conditions",
+      "headline": "Philly Cops Admit That They're Tracking First Amendment Activity Critical of AI",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Texas floods schools with cops who brutalize students after Uvalde",
+      "headline": "New York Comptroller's Trip to Israel Raised Ethical Concerns, State Commission Said",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Alaska schools get fraction of needed repair funding",
+      "headline": "NY-12's 'AI guy' hasn't always voted in favor of tech guardrail legislation",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
