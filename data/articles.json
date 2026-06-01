@@ -1,44 +1,51 @@
 {
-  "updated": "2026-06-01T04:54:03.186Z",
+  "updated": "2026-06-01T11:47:53.163Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "White House secures $620M deal for Trump Jr.-tied company while lawmakers demand ICE reforms",
-    "dek": "Executive favoritism and congressional inaction on immigration abuse expose systemic corruption across party lines.",
+    "headline": "White House intervenes for $620 million Trump Jr.-linked deal",
+    "dek": "Presidential administration uses government power to secure massive contract for company with family ties, exposing systemic corruption.",
     "votes_r": 0,
     "votes_d": 0,
-    "votes_yes": 0,
+    "votes_yes": 1,
     "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
+      "id": 1,
+      "category": "betrayal",
+      "headline": "Trump reverses Biden gun trafficking crackdown with no oversight",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 2,
       "category": "betrayal",
-      "headline": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
+      "headline": "$100+ million billed for questionable medical procedures goes unchecked",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "U.S. Lawmakers Demand Reforms to Immigration Officers' Use of Tear Gas and Pepper Spray",
+      "headline": "ICE brutally beats detainees protesting jail conditions",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Texas floods schools with cops who brutalize students after Uvalde",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Alaska schools get fraction of needed repair funding",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 8,
-      "category": "betrayal",
-      "headline": "ICE Pepper-Sprayed, Beat Detainees for Protesting 'Horrific Conditions' in Delaney Hall Jail",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 9,
-      "category": "betrayal",
-      "headline": "After Uvalde, Texas Stuffed Schools Full of Cops. They Brutalized Students.",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
     }
   ],
   "stats": {
