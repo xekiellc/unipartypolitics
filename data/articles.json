@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-01T23:39:13.928Z",
+  "updated": "2026-06-02T04:42:16.296Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
-    "dek": "Police surveillance of constitutionally protected speech shows bipartisan failure to protect civil liberties across administrations.",
+    "headline": "Philly Cops Admit That They're Tracking \"First Amendment Activity\" Critical of AI",
+    "dek": "Police surveillance of constitutionally protected speech continues under both Republican and Democratic leadership with bipartisan silence.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -29,21 +29,21 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "NY-12's 'AI guy' hasn't always voted in favor of tech guardrail legislation",
+      "headline": "DOJ's 'Anti-Weaponization Fund' backtrack fails to calm Senate Republicans",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "U.S. Lawmakers Demand Reforms to Immigration Officers' Use of Tear Gas and Pepper Spray",
+      "headline": "More Than $100 Million Was Billed for Medically Questionable Vascular Procedures, Government Watchdog Finds",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "'No One Is Watching': How Trump Reversed Biden's Crackdown on Gun Trafficking",
+      "headline": "Alaska's Deteriorating Schools Could Receive More Than $148 Million for Repairs. It's a Fraction of What They Need.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
