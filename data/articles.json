@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-02T20:57:23.276Z",
+  "updated": "2026-06-02T23:52:20.041Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senate Republicans propose 3-year extension of key surveillance power",
-    "dek": "Republicans push to extend controversial surveillance authorities while Democrats remain largely silent on civil liberties protections.",
+    "headline": "Senate Republicans move to extend spy powers as Trump intel pick inflames Democrats",
+    "dek": "Bipartisan support emerges for surveillance expansion while both parties posture over intelligence appointments",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,39 +13,39 @@
   },
   "articles": [
     {
-      "id": 1,
+      "id": 13,
       "category": "betrayal",
-      "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
+      "headline": "Senate Republicans move to extend spy powers as Trump intel pick inflames Democrats",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
-      "id": 2,
+      "id": 5,
       "category": "betrayal",
       "headline": "The Pentagon Is Running an AI Propaganda Mill Targeting Latin America",
       "meta": "Defense · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
+      "id": 6,
       "category": "betrayal",
-      "headline": "New York Comptroller's Trip to Israel Raised Ethical Concerns, State Commission Said",
-      "meta": "Ethics · today",
+      "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
+      "meta": "Civil Rights · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
+      "id": 2,
       "category": "betrayal",
-      "headline": "'Anti-Weaponization Fund' is dead, acting AG says",
+      "headline": "'No One Is Watching': How Trump Reversed Biden's Crackdown on Gun Trafficking",
       "meta": "Justice · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
+      "id": 1,
       "category": "betrayal",
-      "headline": "Mullin refuses to commit to following court orders for DHS",
-      "meta": "Immigration · today",
-      "url": "https://rss.politico.com"
+      "headline": "After the Trump DOJ Halted Police Reform, This City Stepped In. Then Officers Shot and Killed Katelyn Hall.",
+      "meta": "Police · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
