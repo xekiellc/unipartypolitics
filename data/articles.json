@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-02T10:46:52.247Z",
+  "updated": "2026-06-02T16:45:23.175Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
-    "dek": "Police surveillance of constitutional rights continues under both Democratic city leadership and federal oversight failures.",
+    "headline": "Pentagon runs AI propaganda mill while cops track free speech",
+    "dek": "Military targets Latin America with AI disinformation as Philadelphia police admit to surveilling First Amendment activities.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,35 +15,35 @@
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
+      "headline": "The Pentagon Is Running an AI Propaganda Mill Targeting Latin America",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 6,
       "category": "betrayal",
+      "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 7,
+      "category": "betrayal",
       "headline": "New York Comptroller's Trip to Israel Raised Ethical Concerns, State Commission Said",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 2,
+      "id": 12,
       "category": "betrayal",
-      "headline": "'No One Is Watching': How Trump Reversed Biden's Crackdown on Gun Trafficking",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 10,
-      "category": "betrayal",
-      "headline": "DOJ's 'Anti-Weaponization Fund' backtrack fails to calm Senate Republicans",
+      "headline": "DOJ's 'Anti-Weaponization Fund' backfire fails to calm Senate Republicans",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 14,
       "category": "betrayal",
-      "headline": "NY-12's 'AI guy' hasn't always voted in favor of tech guardrail legislation",
+      "headline": "Trump administration retreats on 'Anti-Weaponization Fund'",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
