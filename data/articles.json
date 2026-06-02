@@ -1,50 +1,50 @@
 {
-  "updated": "2026-06-02T16:45:23.175Z",
+  "updated": "2026-06-02T20:57:23.276Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon runs AI propaganda mill while cops track free speech",
-    "dek": "Military targets Latin America with AI disinformation as Philadelphia police admit to surveilling First Amendment activities.",
+    "headline": "Senate Republicans propose 3-year extension of key surveillance power",
+    "dek": "Republicans push to extend controversial surveillance authorities while Democrats remain largely silent on civil liberties protections.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "Politico"
   },
   "articles": [
     {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "The Pentagon Is Running an AI Propaganda Mill Targeting Latin America",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 6,
+      "id": 1,
       "category": "betrayal",
       "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
-      "meta": "Politics · today",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 7,
+      "id": 2,
+      "category": "betrayal",
+      "headline": "The Pentagon Is Running an AI Propaganda Mill Targeting Latin America",
+      "meta": "Defense · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
       "category": "betrayal",
       "headline": "New York Comptroller's Trip to Israel Raised Ethical Concerns, State Commission Said",
-      "meta": "Politics · today",
+      "meta": "Ethics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 12,
+      "id": 4,
       "category": "betrayal",
-      "headline": "DOJ's 'Anti-Weaponization Fund' backfire fails to calm Senate Republicans",
-      "meta": "Politics · today",
+      "headline": "'Anti-Weaponization Fund' is dead, acting AG says",
+      "meta": "Justice · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 14,
+      "id": 5,
       "category": "betrayal",
-      "headline": "Trump administration retreats on 'Anti-Weaponization Fund'",
-      "meta": "Politics · today",
+      "headline": "Mullin refuses to commit to following court orders for DHS",
+      "meta": "Immigration · today",
       "url": "https://rss.politico.com"
     }
   ],
