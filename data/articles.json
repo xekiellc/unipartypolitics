@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-02T04:42:16.296Z",
+  "updated": "2026-06-02T10:46:52.247Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Philly Cops Admit That They're Tracking \"First Amendment Activity\" Critical of AI",
-    "dek": "Police surveillance of constitutionally protected speech continues under both Republican and Democratic leadership with bipartisan silence.",
+    "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
+    "dek": "Police surveillance of constitutional rights continues under both Democratic city leadership and federal oversight failures.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,39 +13,39 @@
   },
   "articles": [
     {
-      "id": 1,
+      "id": 5,
       "category": "betrayal",
-      "headline": "The White House Intervened to Get a $620 Million Deal for a Company Tied to Donald Trump Jr.",
+      "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
-      "id": 2,
+      "id": 6,
       "category": "betrayal",
       "headline": "New York Comptroller's Trip to Israel Raised Ethical Concerns, State Commission Said",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
+      "id": 2,
+      "category": "betrayal",
+      "headline": "'No One Is Watching': How Trump Reversed Biden's Crackdown on Gun Trafficking",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 10,
       "category": "betrayal",
       "headline": "DOJ's 'Anti-Weaponization Fund' backtrack fails to calm Senate Republicans",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 4,
+      "id": 14,
       "category": "betrayal",
-      "headline": "More Than $100 Million Was Billed for Medically Questionable Vascular Procedures, Government Watchdog Finds",
+      "headline": "NY-12's 'AI guy' hasn't always voted in favor of tech guardrail legislation",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Alaska's Deteriorating Schools Could Receive More Than $148 Million for Repairs. It's a Fraction of What They Need.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
