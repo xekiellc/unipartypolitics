@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-03T17:01:51.535Z",
+  "updated": "2026-06-03T21:22:38.111Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon runs AI propaganda mill while cops track First Amendment activity",
-    "dek": "Bipartisan surveillance state expands as Republicans enable military propaganda and Democrats ignore constitutional violations.",
+    "headline": "Pentagon runs AI propaganda mill targeting Latin America while Congress eyes bipartisan AI expansion",
+    "dek": "As lawmakers craft bipartisan AI legislation, Pentagon deploys artificial intelligence for propaganda operations across Latin America with little oversight.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,35 +15,35 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Lawmakers Demand Answers After the White House Initiated a $620M Loan to a Firm Tied to Donald Trump Jr.",
+      "headline": "White House Backs $620M Loan to Firm Tied to Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 7,
-      "category": "betrayal",
-      "headline": "The Pentagon Is Running an AI Propaganda Mill Targeting Latin America",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 8,
-      "category": "betrayal",
-      "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "A Low-Income Housing Program Is Pouring Billions Into Housing Many People Can't Afford",
+      "headline": "Low-Income Housing Program Pours Billions Into Unaffordable Units",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 9,
+      "id": 3,
       "category": "betrayal",
-      "headline": "New York Comptroller's Trip to Israel Raised Ethical Concerns, State Commission Said",
+      "headline": "Establishment Dems Block Progressive Challengers in California Primaries",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Philly Cops Admit Tracking 'First Amendment Activity' Critical of AI",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "New York Comptroller's Israel Trip Raised Ethical Concerns",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
