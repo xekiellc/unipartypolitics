@@ -1,42 +1,49 @@
 {
-  "updated": "2026-06-03T04:51:12.319Z",
+  "updated": "2026-06-03T11:11:42.174Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senate Republicans move to extend spy powers as Trump intel pick inflames Democrats",
-    "dek": "Both parties continue expanding surveillance state while offering only performative opposition to protect civil liberties.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "House works 43 days less than Senate while surveillance expands",
+    "dek": "Congressional dysfunction reaches new lows as both chambers avoid critical oversight while expanding government powers.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
+      "headline": "Lawmakers Demand Answers After the White House Initiated a $620M Loan to a Firm Tied to Donald Trump Jr.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "A Low-Income Housing Program Is Pouring Billions Into Housing Many People Can't Afford",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
       "headline": "The Pentagon Is Running an AI Propaganda Mill Targeting Latin America",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 2,
+      "id": 4,
       "category": "betrayal",
-      "headline": "Philly Cops Admit That They're Tracking \"First Amendment Activity\" Critical of AI",
+      "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
+      "id": 5,
       "category": "betrayal",
-      "headline": "\"No One Is Watching\": How Trump Reversed Biden's Crackdown on Gun Trafficking",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Senate postpones committee action on government funding bills",
+      "headline": "43 days and counting: Why the House is working way less than the Senate",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
