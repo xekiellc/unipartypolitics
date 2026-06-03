@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-03T11:11:42.174Z",
+  "updated": "2026-06-03T17:01:51.535Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "House works 43 days less than Senate while surveillance expands",
-    "dek": "Congressional dysfunction reaches new lows as both chambers avoid critical oversight while expanding government powers.",
+    "headline": "Pentagon runs AI propaganda mill while cops track First Amendment activity",
+    "dek": "Bipartisan surveillance state expands as Republicans enable military propaganda and Democrats ignore constitutional violations.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "Politico"
+    "source": "The Intercept"
   },
   "articles": [
     {
@@ -20,6 +20,20 @@
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 7,
+      "category": "betrayal",
+      "headline": "The Pentagon Is Running an AI Propaganda Mill Targeting Latin America",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 8,
+      "category": "betrayal",
+      "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 2,
       "category": "betrayal",
       "headline": "A Low-Income Housing Program Is Pouring Billions Into Housing Many People Can't Afford",
@@ -27,25 +41,11 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 9,
       "category": "betrayal",
-      "headline": "The Pentagon Is Running an AI Propaganda Mill Targeting Latin America",
+      "headline": "New York Comptroller's Trip to Israel Raised Ethical Concerns, State Commission Said",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Philly Cops Admit That They're Tracking 'First Amendment Activity' Critical of AI",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "43 days and counting: Why the House is working way less than the Senate",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
