@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-03T21:22:38.111Z",
+  "updated": "2026-06-03T23:50:08.335Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "Pentagon runs AI propaganda mill targeting Latin America while Congress eyes bipartisan AI expansion",
-    "dek": "As lawmakers craft bipartisan AI legislation, Pentagon deploys artificial intelligence for propaganda operations across Latin America with little oversight.",
+    "kicker": "Pentagon propaganda exposed",
+    "headline": "Military runs AI disinformation campaign targeting Latin America",
+    "dek": "Defense Department secretly deployed artificial intelligence to spread pro-US messaging across Latin American social media platforms.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "White House Backs $620M Loan to Firm Tied to Donald Trump Jr.",
+      "headline": "White House approves $620M loan to Trump Jr.-tied firm",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Low-Income Housing Program Pours Billions Into Unaffordable Units",
+      "headline": "Low-income housing billions fund unaffordable units",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Establishment Dems Block Progressive Challengers in California Primaries",
+      "headline": "Police track First Amendment activities with AI surveillance",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Philly Cops Admit Tracking 'First Amendment Activity' Critical of AI",
+      "headline": "Bipartisan House AI bill negotiations continue behind closed doors",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "New York Comptroller's Israel Trip Raised Ethical Concerns",
+      "headline": "George Santos lawyers in talks with DOJ amid new probe",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
