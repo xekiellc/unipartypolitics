@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-03T23:50:08.335Z",
+  "updated": "2026-06-04T04:45:20.000Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Pentagon propaganda exposed",
-    "headline": "Military runs AI disinformation campaign targeting Latin America",
-    "dek": "Defense Department secretly deployed artificial intelligence to spread pro-US messaging across Latin American social media platforms.",
+    "kicker": "Both parties fail again",
+    "headline": "Lawmakers Demand Answers After the White House Initiated a $620M Loan to a Firm Tied to Donald Trump Jr.",
+    "dek": "A massive government loan to a Trump-connected firm raises questions about political favoritism and oversight failures across administrations.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "White House approves $620M loan to Trump Jr.-tied firm",
+      "headline": "Lawmakers Demand Answers After the White House Initiated a $620M Loan to a Firm Tied to Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Low-income housing billions fund unaffordable units",
+      "headline": "A Low-Income Housing Program Is Pouring Billions Into Housing Many People Can't Afford",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 8,
       "category": "betrayal",
-      "headline": "Police track First Amendment activities with AI surveillance",
+      "headline": "The Pentagon Is Running an AI Propaganda Mill Targeting Latin America",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
+      "id": 9,
       "category": "betrayal",
-      "headline": "Bipartisan House AI bill negotiations continue behind closed doors",
+      "headline": "Philly Cops Admit That They're Tracking \"First Amendment Activity\" Critical of AI",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
-      "id": 5,
+      "id": 14,
       "category": "betrayal",
-      "headline": "George Santos lawyers in talks with DOJ amid new probe",
+      "headline": "Negotiators aiming to unveil draft of bipartisan House AI bill by week's end",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
