@@ -1,51 +1,51 @@
 {
-  "updated": "2026-06-04T04:45:20.000Z",
+  "updated": "2026-06-06T04:02:11.883Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Lawmakers Demand Answers After the White House Initiated a $620M Loan to a Firm Tied to Donald Trump Jr.",
-    "dek": "A massive government loan to a Trump-connected firm raises questions about political favoritism and oversight failures across administrations.",
+    "headline": "Spy-law extension at risk after Senate votes against launching debate",
+    "dek": "Senate blocks debate on surveillance law reform while both parties continue to support expanded government spying powers without meaningful oversight.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "Politico"
   },
   "articles": [
     {
+      "id": 10,
+      "category": "betrayal",
+      "headline": "Spy-law extension at risk after Senate votes against launching debate",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 7,
+      "category": "betrayal",
+      "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 8,
+      "category": "betrayal",
+      "headline": "The Real \"Divide\" Among Democrats Over Israel Is Between Party Leadership and Voters",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 1,
       "category": "betrayal",
-      "headline": "Lawmakers Demand Answers After the White House Initiated a $620M Loan to a Firm Tied to Donald Trump Jr.",
+      "headline": "North Carolina Democrats Propose Changes to Block GOP Power Transfers and Secrecy",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "A Low-Income Housing Program Is Pouring Billions Into Housing Many People Can't Afford",
+      "headline": "These Republican Lawmakers Challenged Abortion Bans. Then They Faced Backlash.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 8,
-      "category": "betrayal",
-      "headline": "The Pentagon Is Running an AI Propaganda Mill Targeting Latin America",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 9,
-      "category": "betrayal",
-      "headline": "Philly Cops Admit That They're Tracking \"First Amendment Activity\" Critical of AI",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 14,
-      "category": "betrayal",
-      "headline": "Negotiators aiming to unveil draft of bipartisan House AI bill by week's end",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
