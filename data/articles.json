@@ -1,24 +1,17 @@
 {
-  "updated": "2026-06-06T04:02:11.883Z",
+  "updated": "2026-06-06T08:41:27.625Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Spy-law extension at risk after Senate votes against launching debate",
-    "dek": "Senate blocks debate on surveillance law reform while both parties continue to support expanded government spying powers without meaningful oversight.",
+    "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
+    "dek": "Democratic leadership enables endless military engagement while ignoring voter opposition to foreign interventions.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "Politico"
+    "source": "The Intercept"
   },
   "articles": [
-    {
-      "id": 10,
-      "category": "betrayal",
-      "headline": "Spy-law extension at risk after Senate votes against launching debate",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
     {
       "id": 7,
       "category": "betrayal",
@@ -41,11 +34,18 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 2,
+      "id": 10,
       "category": "betrayal",
-      "headline": "These Republican Lawmakers Challenged Abortion Bans. Then They Faced Backlash.",
+      "headline": "Spy-law extension at risk after Senate votes against launching debate",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 14,
+      "category": "betrayal",
+      "headline": "Bondi punts blame for the Epstein files to Todd Blanche",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
