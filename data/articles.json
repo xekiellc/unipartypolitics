@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-06T08:41:27.625Z",
+  "updated": "2026-06-06T11:38:28.313Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
-    "dek": "Democratic leadership enables endless military engagement while ignoring voter opposition to foreign interventions.",
+    "dek": "Democratic leadership contradicts voter preferences while enabling military action, exposing gap between party rhetoric and actions.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,20 +13,6 @@
   },
   "articles": [
     {
-      "id": 7,
-      "category": "betrayal",
-      "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 8,
-      "category": "betrayal",
-      "headline": "The Real \"Divide\" Among Democrats Over Israel Is Between Party Leadership and Voters",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 1,
       "category": "betrayal",
       "headline": "North Carolina Democrats Propose Changes to Block GOP Power Transfers and Secrecy",
@@ -34,14 +20,28 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 10,
+      "id": 2,
+      "category": "betrayal",
+      "headline": "These Republican Lawmakers Challenged Abortion Bans. Then They Faced Backlash.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "The Real 'Divide' Among Democrats Over Israel Is Between Party Leadership and Voters",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
       "category": "betrayal",
       "headline": "Spy-law extension at risk after Senate votes against launching debate",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 14,
+      "id": 5,
       "category": "betrayal",
       "headline": "Bondi punts blame for the Epstein files to Todd Blanche",
       "meta": "Politics · today",
