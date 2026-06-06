@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-06T17:20:27.836Z",
+  "updated": "2026-06-06T19:40:28.783Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
-    "dek": "Democratic leadership continues military support despite growing voter opposition and calls for accountability on foreign intervention.",
+    "dek": "Democratic leadership continues military support while claiming anti-war stance, exposing gap between voter demands and party actions.",
     "votes_r": 0,
-    "votes_d": 0,
+    "votes_d": 435,
     "votes_yes": 0,
     "votes_no": 0,
     "source": "The Intercept"
@@ -36,14 +36,14 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Bondi punts blame for the Epstein files to Todd Blanche",
+      "headline": "Spy-law extension at risk after Senate votes against launching debate",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "House members keep losing their bids for higher office. Some think they know why.",
+      "headline": "Bondi punts blame for the Epstein files to Todd Blanche",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
