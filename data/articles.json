@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-06T23:08:55.480Z",
+  "updated": "2026-06-07T04:39:03.131Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
-    "dek": "Democratic leadership continues military support despite growing voter opposition and member concerns about expanding Middle East conflicts.",
+    "dek": "Democratic leadership continues military support despite growing voter opposition to foreign interventions.",
     "votes_r": 0,
-    "votes_d": 45,
+    "votes_d": 0,
     "votes_yes": 0,
-    "votes_no": 12,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "The Real 'Divide' Among Democrats Over Israel Is Between Party Leadership and Voters",
+      "headline": "The Real \"Divide\" Among Democrats Over Israel Is Between Party Leadership and Voters",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
