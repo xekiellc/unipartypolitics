@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-07T11:53:18.699Z",
+  "updated": "2026-06-07T14:07:10.594Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Spy-law extension at risk after Senate votes against launching debate",
-    "dek": "Senate dysfunction on display as surveillance powers hang in limbo while both parties play politics with national security.",
+    "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
+    "dek": "Democrats talk tough on war powers but refuse to take meaningful action to prevent escalation in Middle East conflicts.",
     "votes_r": 0,
-    "votes_d": 0,
+    "votes_d": 435,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "Politico"
+    "source": "The Intercept"
   },
   "articles": [
     {
@@ -29,21 +29,21 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
+      "headline": "Bondi punts blame for the Epstein files to Todd Blanche",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Senate GOP passes immigration enforcement bill",
+      "headline": "House members keep losing their bids for higher office. Some think they know why.",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "House members keep losing their bids for higher office. Some think they know why.",
+      "headline": "Spy-law extension at risk after Senate votes against launching debate",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
