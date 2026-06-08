@@ -1,44 +1,51 @@
 {
-  "updated": "2026-06-08T16:05:59.475Z",
+  "updated": "2026-06-08T20:26:08.837Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "ProPublica"
+    "headline": "Congress pushes permanent U.S.-Israel defense tech integration",
+    "dek": "Bipartisan support for legislation that would permanently integrate American and Israeli defense technologies with minimal oversight.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "North Carolina Democrats Propose Changes to Block GOP Power Transfers and Secrecy",
+      "headline": "Trump Administration Killed Criminal Investigation of GOP Senator's Coal Companies",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
+      "headline": "North Carolina Democrats Propose Changes to Block GOP Power Transfers and Secrecy",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Spy-powers deal is latest Hill casualty of Trump's impetuous decisionmaking",
+      "headline": "Capitol agenda: Five days to save FISA",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "These Republican Lawmakers Challenged Abortion Bans. Then They Faced Backlash.",
+      "headline": "Aaron Schock's pursuit of a second chance — and a gold mine",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Spy-powers deal is latest Hill casualty of Trump's impetuous decisionmaking",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
