@@ -1,51 +1,44 @@
 {
-  "updated": "2026-06-08T04:44:16.522Z",
+  "updated": "2026-06-08T11:08:57.693Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
-    "dek": "Democrats criticize potential Iran conflict while refusing to take concrete action to halt ongoing military destruction in Lebanon.",
+    "headline": "Congress thought it had a spy-powers deal. Then Trump came in.",
+    "dek": "Bipartisan surveillance legislation falls apart as both parties prioritize politics over privacy rights and meaningful reform.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "North Carolina Democrats Propose Changes to Block GOP Power Transfers and Secrecy",
+      "headline": "Spy-law extension at risk after Senate votes against launching debate",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://example.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "These Republican Lawmakers Challenged Abortion Bans. Then They Faced Backlash.",
+      "headline": "North Carolina Democrats Propose Changes to Block GOP Power Transfers and Secrecy",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://example.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Spy-law extension at risk after Senate votes against launching debate",
+      "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://example.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Trump's next GOP loyalty test: Ending the changing of the clocks",
+      "headline": "What does Josh Gottheimer want now?",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Bondi punts blame for the Epstein files to Todd Blanche",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://example.com"
     }
   ],
   "stats": {
