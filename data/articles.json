@@ -1,44 +1,44 @@
 {
-  "updated": "2026-06-08T11:08:57.693Z",
+  "updated": "2026-06-08T16:05:59.475Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress thought it had a spy-powers deal. Then Trump came in.",
-    "dek": "Bipartisan surveillance legislation falls apart as both parties prioritize politics over privacy rights and meaningful reform.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "Politico"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Spy-law extension at risk after Senate votes against launching debate",
+      "headline": "North Carolina Democrats Propose Changes to Block GOP Power Transfers and Secrecy",
       "meta": "Politics · today",
-      "url": "https://example.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "North Carolina Democrats Propose Changes to Block GOP Power Transfers and Secrecy",
+      "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
       "meta": "Politics · today",
-      "url": "https://example.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "House Dems Coming Around on Iran War — But Won't Vote to Stop Israel's Destruction of Lebanon",
+      "headline": "Spy-powers deal is latest Hill casualty of Trump's impetuous decisionmaking",
       "meta": "Politics · today",
-      "url": "https://example.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "What does Josh Gottheimer want now?",
+      "headline": "These Republican Lawmakers Challenged Abortion Bans. Then They Faced Backlash.",
       "meta": "Politics · today",
-      "url": "https://example.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
