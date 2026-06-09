@@ -1,51 +1,51 @@
 {
-  "updated": "2026-06-09T20:13:24.020Z",
+  "updated": "2026-06-09T23:21:15.473Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress tries to permanently integrate U.S. and Israeli defense tech",
-    "dek": "Bipartisan support grows for legislation that would deepen military industrial complex ties despite oversight concerns.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Congress pushes permanent U.S.-Israel defense tech integration",
+    "dek": "Bipartisan lawmakers advance legislation to permanently merge American and Israeli defense technologies despite oversight concerns.",
+    "votes_r": 28,
+    "votes_d": 24,
+    "votes_yes": 52,
+    "votes_no": 8,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "U.S. Senator pushed to cut firefighting aircraft inspections same month his former company failed one",
+      "headline": "U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Trump administration killed criminal investigation of GOP senator's coal companies",
+      "headline": "Trump Administration Killed Criminal Investigation of GOP Senator's Coal Companies",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Indian billionaire targeted by Trump poured money into startup secretly backed by Donald Trump Jr.",
+      "headline": "Indian Billionaire Targeted by Trump Pours Money Into Startup Secretly Backed by Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Ted Lieu slams bipartisan AI proposal",
+      "headline": "20 House Republicans Cross Party Lines to Pass Pro-Union Bill",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Longtime Epstein assistant says she set up phone calls between Epstein and Trump",
+      "headline": "BLM Protester With Longest Federal Sentence Vanishes in Prison",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
