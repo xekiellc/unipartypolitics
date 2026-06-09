@@ -1,44 +1,51 @@
 {
-  "updated": "2026-06-09T16:33:54.344Z",
+  "updated": "2026-06-09T20:13:24.020Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress Is Trying to Permanently Integrate U.S. and Israeli Defense Tech",
-    "dek": "Bipartisan effort pushes through defense integration with minimal debate or oversight of implications.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Congress tries to permanently integrate U.S. and Israeli defense tech",
+    "dek": "Bipartisan support grows for legislation that would deepen military industrial complex ties despite oversight concerns.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "A U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
+      "headline": "U.S. Senator pushed to cut firefighting aircraft inspections same month his former company failed one",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Trump Administration Killed Criminal Investigation of GOP Senator's Coal Companies",
+      "headline": "Trump administration killed criminal investigation of GOP senator's coal companies",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
+      "headline": "Indian billionaire targeted by Trump poured money into startup secretly backed by Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Democratic Socialist Overcomes GOP-Funded Opponent to Advance in Los Angeles Mayor Race",
+      "headline": "Ted Lieu slams bipartisan AI proposal",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Longtime Epstein assistant says she set up phone calls between Epstein and Trump",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
