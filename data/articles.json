@@ -1,17 +1,24 @@
 {
-  "updated": "2026-06-09T04:05:42.381Z",
+  "updated": "2026-06-09T09:56:11.280Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "Congress integrates U.S. and Israeli defense tech permanently",
-    "dek": "Bipartisan effort pushes through defense integration with no public debate on implications for American sovereignty.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
-    "source": "The Intercept"
+    "kicker": "Corporate Influence",
+    "headline": "Senator pushed to cut aircraft inspections same month his former company failed one",
+    "dek": "ProPublica investigation reveals how a U.S. Senator worked to reduce safety oversight for an industry where his former company was struggling with compliance.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "ProPublica"
   },
   "articles": [
+    {
+      "id": 0,
+      "category": "betrayal",
+      "headline": "A U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
     {
       "id": 1,
       "category": "betrayal",
@@ -20,32 +27,25 @@
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "North Carolina Democrats Propose Changes to Block GOP Power Transfers and Secrecy",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
+      "id": 6,
       "category": "betrayal",
       "headline": "Congress Is Trying to Permanently Integrate U.S. and Israeli Defense Tech",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
+      "id": 11,
       "category": "betrayal",
-      "headline": "Republicans hope Trump retreats on Pulte to save spy law",
+      "headline": "Senate funding action stalled amid partisan stalemate on totals",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Senate funding action stalled amid partisan stalemate on totals",
+      "headline": "Democratic Socialist Overcomes GOP-Funded Opponent to Advance in Los Angeles Mayor Race",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
