@@ -1,51 +1,51 @@
 {
-  "updated": "2026-06-09T09:56:11.280Z",
+  "updated": "2026-06-09T12:44:57.913Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Corporate Influence",
-    "headline": "Senator pushed to cut aircraft inspections same month his former company failed one",
-    "dek": "ProPublica investigation reveals how a U.S. Senator worked to reduce safety oversight for an industry where his former company was struggling with compliance.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "ProPublica"
+    "kicker": "Both parties fail again",
+    "headline": "Congress pushes permanent U.S.-Israel defense tech integration",
+    "dek": "Bipartisan effort to permanently merge American and Israeli defense technology systems advances despite oversight concerns.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "The Intercept"
   },
   "articles": [
     {
-      "id": 0,
-      "category": "betrayal",
-      "headline": "A U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
       "id": 1,
       "category": "betrayal",
-      "headline": "Trump Administration Killed Criminal Investigation of GOP Senator's Coal Companies",
+      "headline": "U.S. Senator pushed to cut firefighting inspections as former company failed one",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 6,
+      "id": 2,
       "category": "betrayal",
-      "headline": "Congress Is Trying to Permanently Integrate U.S. and Israeli Defense Tech",
+      "headline": "Trump killed criminal probe of GOP Senator's coal companies",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
-      "id": 11,
+      "id": 3,
       "category": "betrayal",
-      "headline": "Senate funding action stalled amid partisan stalemate on totals",
+      "headline": "Indian billionaire targeted by Trump pours money into Don Jr.-backed startup",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Government fails to stop raw milk profiteer making people sick",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Democratic Socialist Overcomes GOP-Funded Opponent to Advance in Los Angeles Mayor Race",
+      "headline": "Republicans hope Trump retreats to save spy law",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
