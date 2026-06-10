@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-10T04:17:04.763Z",
+  "updated": "2026-06-10T10:13:57.669Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties enable corruption",
-    "headline": "Congress tries to permanently integrate U.S. and Israeli defense tech",
-    "dek": "Bipartisan effort pushes through defense integration despite transparency concerns and lack of public debate on foreign entanglements.",
+    "kicker": "Both parties fail again",
+    "headline": "Congress pushes permanent U.S.-Israeli defense tech integration",
+    "dek": "Bipartisan support grows for deeper military-industrial ties despite concerns over oversight and accountability.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -22,23 +22,30 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
+      "headline": "A U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Indian Billionaire Targeted by Trump Poured Money Into Startup Secretly Backed by Donald Trump Jr.",
+      "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "20 House Republicans Cross Party Lines to Pass Pro-Union Bill",
+      "headline": "Top Pentagon Official Admits Boat Strike May Have Killed Victims of Human Trafficking",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "In California, a Former Biden Official and Fox News Personality Will Face Off for Governor",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
