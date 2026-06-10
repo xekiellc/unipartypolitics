@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-10T10:13:57.669Z",
+  "updated": "2026-06-10T15:51:49.640Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Congress pushes permanent U.S.-Israeli defense tech integration",
-    "dek": "Bipartisan support grows for deeper military-industrial ties despite concerns over oversight and accountability.",
+    "dek": "Bipartisan push to permanently merge defense technologies raises concerns about oversight and accountability.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -16,36 +16,36 @@
       "id": 1,
       "category": "betrayal",
       "headline": "Trump Administration Killed Criminal Investigation of GOP Senator's Coal Companies",
-      "meta": "Politics · today",
+      "meta": "Politics · ProPublica",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "A U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
-      "meta": "Politics · today",
+      "headline": "U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
+      "meta": "Politics · ProPublica",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
-      "meta": "Politics · today",
+      "headline": "Indian Billionaire Targeted by Trump Pours Money Into Startup Secretly Backed by Donald Trump Jr.",
+      "meta": "Politics · ProPublica",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
       "headline": "Top Pentagon Official Admits Boat Strike May Have Killed Victims of Human Trafficking",
-      "meta": "Politics · today",
+      "meta": "Politics · The Intercept",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "In California, a Former Biden Official and Fox News Personality Will Face Off for Governor",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Trump asks Congress for 'short-term' spy law extension",
+      "meta": "Politics · Politico",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
