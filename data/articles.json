@@ -1,50 +1,50 @@
 {
-  "updated": "2026-06-10T18:34:22.624Z",
+  "updated": "2026-06-10T22:09:27.702Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress moves toward permanent U.S.-Israeli defense tech integration",
-    "dek": "Bipartisan push to merge defense technologies raises questions about foreign influence and lack of oversight in military spending.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Trump asks Congress for 'short-term' spy law extension",
+    "dek": "Surveillance powers set to continue with bipartisan support despite privacy concerns and calls for reform.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Trump Administration Killed Criminal Investigation of GOP Senator's Coal Companies",
-      "meta": "Politics · ProPublica",
+      "headline": "A U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
-      "meta": "Politics · ProPublica",
+      "headline": "Trump Administration Killed Criminal Investigation of GOP Senator's Coal Companies",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Indian Billionaire Targeted by Trump Then Poured Money Into Startup Secretly Backed by Donald Trump Jr.",
-      "meta": "Politics · ProPublica",
+      "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Top Pentagon Official Admits Boat Strike May Have Killed Victims of Human Trafficking",
-      "meta": "Politics · The Intercept",
+      "headline": "Momentum Builds to Rein In Domestic Spying Law — Whether or Not Bill Pulte Survives as Intel Chief",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Trump asks Congress for 'short-term' spy law extension",
-      "meta": "Politics · Politico",
+      "headline": "House will vote Thursday on expected-to-fail surveillance patch",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
   ],
