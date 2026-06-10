@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-10T15:51:49.640Z",
+  "updated": "2026-06-10T18:34:22.624Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress pushes permanent U.S.-Israeli defense tech integration",
-    "dek": "Bipartisan push to permanently merge defense technologies raises concerns about oversight and accountability.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Congress moves toward permanent U.S.-Israeli defense tech integration",
+    "dek": "Bipartisan push to merge defense technologies raises questions about foreign influence and lack of oversight in military spending.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Indian Billionaire Targeted by Trump Pours Money Into Startup Secretly Backed by Donald Trump Jr.",
+      "headline": "Indian Billionaire Targeted by Trump Then Poured Money Into Startup Secretly Backed by Donald Trump Jr.",
       "meta": "Politics · ProPublica",
       "url": "https://feeds.propublica.org"
     },
