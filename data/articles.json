@@ -1,40 +1,40 @@
 {
-  "updated": "2026-06-11T10:48:29.848Z",
+  "updated": "2026-06-11T16:13:29.831Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "House will vote Thursday on expected-to-fail surveillance patch",
-    "dek": "Congress continues bipartisan surveillance overreach while reform efforts remain token gestures designed to fail.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Spy law on track to lapse after House rejects extension",
+    "dek": "House members from both parties unable to reach compromise on surveillance powers reform, leaving critical oversight gaps.",
+    "votes_r": 28,
+    "votes_d": 31,
+    "votes_yes": 59,
+    "votes_no": 198,
     "source": "Politico"
   },
   "articles": [
     {
-      "id": 4,
+      "id": 1,
       "category": "betrayal",
       "headline": "A U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 2,
       "category": "betrayal",
       "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 7,
+      "id": 3,
       "category": "betrayal",
-      "headline": "Momentum Builds to Rein In Domestic Spying Law — Whether or Not Bill Pulte Survives as Intel Chief",
+      "headline": "ICE Defied Direct Order From Federal Judge and Re-Detained Elderly Palestinian",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 10,
+      "id": 4,
       "category": "betrayal",
       "headline": "Hakeem Jeffries says Democrats will prioritize affordability. Not all of his members agree.",
       "meta": "Politics · today",
