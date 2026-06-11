@@ -1,44 +1,51 @@
 {
-  "updated": "2026-06-11T16:13:29.831Z",
+  "updated": "2026-06-11T20:28:59.156Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Spy law on track to lapse after House rejects extension",
-    "dek": "House members from both parties unable to reach compromise on surveillance powers reform, leaving critical oversight gaps.",
-    "votes_r": 28,
-    "votes_d": 31,
-    "votes_yes": 59,
-    "votes_no": 198,
-    "source": "Politico"
+    "headline": "Senator pushed to cut aircraft inspections while former company failed safety check",
+    "dek": "Republican senator advocated for reduced oversight the same month his previous company failed a firefighting aircraft inspection.",
+    "votes_r": 1,
+    "votes_d": 0,
+    "votes_yes": 1,
+    "votes_no": 0,
+    "source": "ProPublica"
   },
   "articles": [
     {
-      "id": 1,
+      "id": 4,
       "category": "betrayal",
       "headline": "A U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 2,
+      "id": 3,
       "category": "betrayal",
       "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 8,
       "category": "betrayal",
       "headline": "ICE Defied Direct Order From Federal Judge and Re-Detained Elderly Palestinian",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
+      "id": 14,
       "category": "betrayal",
-      "headline": "Hakeem Jeffries says Democrats will prioritize affordability. Not all of his members agree.",
+      "headline": "Spy law on track to lapse after Congress rejects extension",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
+    },
+    {
+      "id": 0,
+      "category": "betrayal",
+      "headline": "Lawmaker Pushes for Ban on Special Treatment for Convicted Drug Traffickers After ProPublica Report",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
