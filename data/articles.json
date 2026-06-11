@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-10T22:09:27.702Z",
+  "updated": "2026-06-11T04:39:45.266Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Trump asks Congress for 'short-term' spy law extension",
-    "dek": "Surveillance powers set to continue with bipartisan support despite privacy concerns and calls for reform.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "House will vote Thursday on expected-to-fail surveillance patch",
+    "dek": "Lawmakers prepare another doomed attempt at surveillance reform while expanding government powers remains bipartisan priority.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "Politico"
   },
   "articles": [
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "House will vote Thursday on expected-to-fail surveillance patch",
+      "headline": "Lawmakers once saw Bill Gates as a benevolent innovator. After Epstein, they aren't sure.",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
