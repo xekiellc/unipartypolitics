@@ -1,44 +1,44 @@
 {
-  "updated": "2026-06-12T15:29:19.265Z",
+  "updated": "2026-06-12T18:11:57.758Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Indian billionaire targeted by Trump pours money into Trump Jr.-backed startup",
-    "dek": "Despite being targeted by the Trump administration, Indian billionaire invests in company secretly backed by Donald Trump Jr., exposing pay-to-play politics across party lines.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "ProPublica"
+    "headline": "House passes domestic spy law extension despite bipartisan concerns",
+    "dek": "Despite Dem leaders' opposition, surveillance powers extended with minimal oversight reforms from both parties.",
+    "votes_r": 126,
+    "votes_d": 147,
+    "votes_yes": 273,
+    "votes_no": 151,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Indian billionaire targeted by Trump pours money into Trump Jr.-backed startup",
+      "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Lawmaker pushes for ban on special treatment for convicted drug traffickers",
+      "headline": "ICE Should Show It Hasn't Been 'Infiltrated by Violent Extremists,' Senator Urges",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Raw milk profiteer makes people sick while government fails to act",
+      "headline": "Hakeem Jeffries Finally Finds a Spine: Dem Leaders Rallied Against Extending Domestic Spy Law",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Hakeem Jeffries finally finds spine on domestic spy law extension",
+      "headline": "House Oversight requests Alan Dershowitz testify in Epstein probe",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
