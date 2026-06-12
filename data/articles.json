@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-12T18:11:57.758Z",
+  "updated": "2026-06-12T21:54:20.776Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "House passes domestic spy law extension despite bipartisan concerns",
-    "dek": "Despite Dem leaders' opposition, surveillance powers extended with minimal oversight reforms from both parties.",
-    "votes_r": 126,
-    "votes_d": 147,
-    "votes_yes": 273,
-    "votes_no": 151,
+    "headline": "ICE infiltrated by violent extremists while Congress stays silent",
+    "dek": "Senator urges action on extremist infiltration of immigration enforcement as both parties avoid accountability measures.",
+    "votes_r": 0,
+    "votes_d": 1,
+    "votes_yes": 1,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
@@ -22,19 +22,26 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "ICE Should Show It Hasn't Been 'Infiltrated by Violent Extremists,' Senator Urges",
+      "headline": "Hakeem Jeffries Finally Finds a Spine: Dem Leaders Rallied Against Extending Domestic Spy Law",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Hakeem Jeffries Finally Finds a Spine: Dem Leaders Rallied Against Extending Domestic Spy Law",
+      "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "The Right's \"Election Fraud\" Cry for Midterms Previewed in Primaries",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
+      "id": 5,
       "category": "betrayal",
       "headline": "House Oversight requests Alan Dershowitz testify in Epstein probe",
       "meta": "Politics · today",
