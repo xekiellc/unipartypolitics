@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T04:42:12.297Z",
+  "updated": "2026-06-12T10:23:27.391Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senate pushes firefighting cuts while taking startup money",
-    "dek": "Senator pushed to reduce aircraft inspections for former company while Trump associates profit from billionaire investments",
+    "headline": "Indian billionaire targeted by Trump pours money into Trump Jr. startup",
+    "dek": "ProPublica reveals how an Indian businessman went from being sanctioned to secretly funding Donald Trump Jr.'s business venture.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,35 +13,28 @@
   },
   "articles": [
     {
-      "id": 1,
-      "category": "betrayal",
-      "headline": "A U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
+      "id": 4,
       "category": "betrayal",
       "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 7,
       "category": "betrayal",
-      "headline": "ICE Defied Direct Order From Federal Judge and Re-Detained Elderly Palestinian",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Momentum Builds to Rein In Domestic Spying Law — Whether or Not Bill Pulte Survives as Intel Chief",
+      "headline": "Hakeem Jeffries Finally Finds a Spine: Dem Leaders Rallied Against Extending Domestic Spy Law",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
+      "category": "betrayal",
+      "headline": "The Right's \"Election Fraud\" Cry for Midterms Previewed in Primaries",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 1,
       "category": "betrayal",
       "headline": "Lawmaker Pushes for Ban on Special Treatment for Convicted Drug Traffickers After ProPublica Report",
       "meta": "Politics · today",
