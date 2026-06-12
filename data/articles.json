@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T21:54:20.776Z",
+  "updated": "2026-06-12T23:23:21.861Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "ICE infiltrated by violent extremists while Congress stays silent",
-    "dek": "Senator urges action on extremist infiltration of immigration enforcement as both parties avoid accountability measures.",
+    "headline": "ICE Should Show It Hasn't Been \"Infiltrated by Violent Extremists,\" Senator Urges",
+    "dek": "Bipartisan silence on extremist infiltration of immigration enforcement while both parties claim to support law and order reform.",
     "votes_r": 0,
     "votes_d": 1,
     "votes_yes": 1,
@@ -29,23 +29,16 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
+      "headline": "House Oversight requests Alan Dershowitz testify in Epstein probe",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "The Right's \"Election Fraud\" Cry for Midterms Previewed in Primaries",
+      "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "House Oversight requests Alan Dershowitz testify in Epstein probe",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
