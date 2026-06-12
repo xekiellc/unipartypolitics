@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-11T23:41:45.241Z",
+  "updated": "2026-06-12T04:42:12.297Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "A U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
-    "dek": "Senator uses position to benefit former employer while public safety hangs in balance, exposing revolving door corruption.",
+    "headline": "Senate pushes firefighting cuts while taking startup money",
+    "dek": "Senator pushed to reduce aircraft inspections for former company while Trump associates profit from billionaire investments",
     "votes_r": 0,
-    "votes_d": 1,
+    "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
     "source": "ProPublica"
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
+      "headline": "A U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed One",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
+      "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
       "headline": "ICE Defied Direct Order From Federal Judge and Re-Detained Elderly Palestinian",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Momentum Builds to Rein In Domestic Spying Law — Whether or Not Bill Pulte Survives as Intel Chief",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
       "category": "betrayal",
       "headline": "Lawmaker Pushes for Ban on Special Treatment for Convicted Drug Traffickers After ProPublica Report",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Spy law on track to lapse after Congress rejects extension",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
