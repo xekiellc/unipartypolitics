@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T10:23:27.391Z",
+  "updated": "2026-06-12T15:29:19.265Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Indian billionaire targeted by Trump pours money into Trump Jr. startup",
-    "dek": "ProPublica reveals how an Indian businessman went from being sanctioned to secretly funding Donald Trump Jr.'s business venture.",
+    "headline": "Indian billionaire targeted by Trump pours money into Trump Jr.-backed startup",
+    "dek": "Despite being targeted by the Trump administration, Indian billionaire invests in company secretly backed by Donald Trump Jr., exposing pay-to-play politics across party lines.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,32 +13,32 @@
   },
   "articles": [
     {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 7,
-      "category": "betrayal",
-      "headline": "Hakeem Jeffries Finally Finds a Spine: Dem Leaders Rallied Against Extending Domestic Spy Law",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "The Right's \"Election Fraud\" Cry for Midterms Previewed in Primaries",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 1,
       "category": "betrayal",
-      "headline": "Lawmaker Pushes for Ban on Special Treatment for Convicted Drug Traffickers After ProPublica Report",
+      "headline": "Indian billionaire targeted by Trump pours money into Trump Jr.-backed startup",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "Lawmaker pushes for ban on special treatment for convicted drug traffickers",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Raw milk profiteer makes people sick while government fails to act",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Hakeem Jeffries finally finds spine on domestic spy law extension",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
