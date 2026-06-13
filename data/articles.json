@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-13T19:44:49.148Z",
+  "updated": "2026-06-13T21:21:32.791Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Indian billionaire targeted by Trump pours money into Donald Trump Jr.-backed startup",
-    "dek": "After being targeted by the Trump administration, an Indian billionaire secretly invested in a company backed by Donald Trump Jr., exposing pay-to-play politics.",
+    "headline": "D.C. Mayor Candidates Are Fixating on Teen Hangouts — and Turning the Cops on Them",
+    "dek": "Bipartisan push for increased police surveillance of youth gathering spaces shows both parties' authoritarian tendencies.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Palestine activists sentenced as terrorists without terrorism convictions",
+      "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "ICE infiltrated by violent extremists, senator warns",
+      "headline": "They Weren't Convicted of Terrorism, But These Palestine Activists Got Sentenced as Terrorists Anyway",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "D.C. mayor candidates turn cops on teen hangouts",
+      "headline": "ICE Should Show It Hasn't Been 'Infiltrated by Violent Extremists,' Senator Urges",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "House Oversight demands Dershowitz testify in Epstein probe",
+      "headline": "House Oversight requests Alan Dershowitz testify in Epstein probe",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Government fails to stop raw milk profiteer making people sick",
+      "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
