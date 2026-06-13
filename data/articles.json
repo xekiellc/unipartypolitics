@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-13T17:38:03.943Z",
+  "updated": "2026-06-13T19:44:49.148Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "D.C. Mayor Candidates Are Fixating on Teen Hangouts — and Turning the Cops on Them",
-    "dek": "Democratic and Republican mayoral candidates unite behind failed tough-on-crime policies targeting youth instead of addressing root causes.",
+    "headline": "Indian billionaire targeted by Trump pours money into Donald Trump Jr.-backed startup",
+    "dek": "After being targeted by the Trump administration, an Indian billionaire secretly invested in a company backed by Donald Trump Jr., exposing pay-to-play politics.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
+      "headline": "Palestine activists sentenced as terrorists without terrorism convictions",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "They Weren't Convicted of Terrorism, But These Palestine Activists Got Sentenced as Terrorists Anyway",
+      "headline": "ICE infiltrated by violent extremists, senator warns",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "ICE Should Show It Hasn't Been 'Infiltrated by Violent Extremists,' Senator Urges",
+      "headline": "D.C. mayor candidates turn cops on teen hangouts",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Indiana Banned Press From Executions for 'Dignity.' It Actually Serves Repression.",
+      "headline": "House Oversight demands Dershowitz testify in Epstein probe",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
+      "headline": "Government fails to stop raw milk profiteer making people sick",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
