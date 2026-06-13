@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T23:23:21.861Z",
+  "updated": "2026-06-13T04:21:01.826Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "ICE Should Show It Hasn't Been \"Infiltrated by Violent Extremists,\" Senator Urges",
-    "dek": "Bipartisan silence on extremist infiltration of immigration enforcement while both parties claim to support law and order reform.",
+    "headline": "ICE infiltrated by violent extremists as both parties look away",
+    "dek": "Senator calls for investigation into extremist infiltration of immigration enforcement while leadership from both parties remains silent.",
     "votes_r": 0,
     "votes_d": 1,
     "votes_yes": 1,
@@ -13,32 +13,39 @@
   },
   "articles": [
     {
-      "id": 1,
+      "id": 5,
       "category": "betrayal",
+      "headline": "ICE Should Show It Hasn't Been \"Infiltrated by Violent Extremists,\" Senator Urges",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "corruption",
       "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 2,
-      "category": "betrayal",
+      "id": 8,
+      "category": "surveillance",
       "headline": "Hakeem Jeffries Finally Finds a Spine: Dem Leaders Rallied Against Extending Domestic Spy Law",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
-      "category": "betrayal",
+      "id": 10,
+      "category": "scandal",
       "headline": "House Oversight requests Alan Dershowitz testify in Epstein probe",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
+      "id": 11,
+      "category": "infighting",
+      "headline": "Cornyn tells Mike Lee to lay off John Thune",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
