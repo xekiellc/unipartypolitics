@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T11:57:06.245Z",
+  "updated": "2026-06-13T14:19:52.111Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
-    "dek": "ProPublica exposes how political targeting can quickly turn into profitable partnerships when money talks louder than principles.",
+    "dek": "ProPublica exposes how foreign influence and family profiteering transcend party lines in Washington's corrupt ecosystem.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,28 +15,35 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Hakeem Jeffries Finally Finds a Spine: Dem Leaders Rallied Against Extending Domestic Spy Law",
+      "headline": "House Oversight requests Alan Dershowitz testify in Epstein probe",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Lawmaker Pushes for Ban on Special Treatment for Convicted Drug Traffickers After ProPublica Report",
+      "headline": "ICE Should Show It Hasn't Been 'Infiltrated by Violent Extremists,' Senator Urges",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
+      "category": "betrayal",
+      "headline": "D.C. Mayor Candidates Are Fixating on Teen Hangouts — and Turning the Cops on Them",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
       "category": "betrayal",
       "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
+      "id": 5,
       "category": "betrayal",
-      "headline": "ICE Should Show It Hasn't Been 'Infiltrated by Violent Extremists,' Senator Urges",
+      "headline": "Indiana Banned Press From Executions for 'Dignity.' It Actually Serves Repression.",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
