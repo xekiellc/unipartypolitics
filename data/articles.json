@@ -1,51 +1,44 @@
 {
-  "updated": "2026-06-13T09:25:30.677Z",
+  "updated": "2026-06-13T11:57:06.245Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "ICE infiltrated by violent extremists as both parties ignore oversight",
-    "dek": "Senator urges action on extremist infiltration of immigration enforcement while bipartisan leadership remains silent on systemic problems.",
+    "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
+    "dek": "ProPublica exposes how political targeting can quickly turn into profitable partnerships when money talks louder than principles.",
     "votes_r": 0,
-    "votes_d": 1,
-    "votes_yes": 1,
+    "votes_d": 0,
+    "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
       "category": "betrayal",
       "headline": "Hakeem Jeffries Finally Finds a Spine: Dem Leaders Rallied Against Extending Domestic Spy Law",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
+      "id": 2,
       "category": "betrayal",
-      "headline": "D.C. Mayor Candidates Are Fixating on Teen Hangouts — and Turning the Cops on Them",
+      "headline": "Lawmaker Pushes for Ban on Special Treatment for Convicted Drug Traffickers After ProPublica Report",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
+      "id": 3,
       "category": "betrayal",
-      "headline": "House Oversight requests Alan Dershowitz testify in Epstein probe",
+      "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "ICE Should Show It Hasn't Been 'Infiltrated by Violent Extremists,' Senator Urges",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
