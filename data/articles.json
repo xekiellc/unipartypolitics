@@ -1,42 +1,42 @@
 {
-  "updated": "2026-06-14T15:51:00.287Z",
+  "updated": "2026-06-14T17:25:07.415Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Trump billionaire targets and extremist infiltration expose bipartisan corruption",
-    "dek": "Indian billionaire targeted by Trump pours money into Trump Jr. startup while ICE faces calls to address violent extremist infiltration.",
+    "headline": "ICE Should Show It Hasn't Been 'Infiltrated by Violent Extremists,' Senator Urges",
+    "dek": "Bipartisan neglect allows extremist infiltration of federal immigration enforcement agency to continue unchecked.",
     "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
+    "votes_d": 1,
+    "votes_yes": 1,
     "votes_no": 0,
-    "source": "ProPublica/The Intercept"
+    "source": "The Intercept"
   },
   "articles": [
     {
-      "id": 4,
+      "id": 1,
       "category": "betrayal",
       "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 8,
-      "category": "betrayal",
-      "headline": "ICE Should Show It Hasn't Been \"Infiltrated by Violent Extremists,\" Senator Urges",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 10,
+      "id": 2,
       "category": "betrayal",
       "headline": "House Oversight requests Alan Dershowitz testify in Epstein probe",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 1,
+      "id": 3,
       "category": "betrayal",
-      "headline": "Lawmaker Pushes for Ban on Special Treatment for Convicted Drug Traffickers After ProPublica Report",
+      "headline": "They Weren't Convicted of Terrorism, But These Palestine Activists Got Sentenced as Terrorists Anyway",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
