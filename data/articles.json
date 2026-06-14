@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T23:12:17.359Z",
+  "updated": "2026-06-14T04:48:26.012Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Indian billionaire targeted by Trump pours money into Donald Trump Jr. startup",
-    "dek": "After facing Trump administration pressure, foreign businessman secretly invests in venture backed by former president's son.",
+    "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
+    "dek": "ProPublica exposes how political targeting can be quietly reversed through family business connections, showing how the system works for those with money and access.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -13,39 +13,39 @@
   },
   "articles": [
     {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "An Indian Billionaire Was Targeted by Trump. Then He Poured Money Into a Startup Secretly Backed by Donald Trump Jr.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
+      "id": 1,
       "category": "betrayal",
       "headline": "They Weren't Convicted of Terrorism, But These Palestine Activists Got Sentenced as Terrorists Anyway",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 6,
+      "id": 2,
       "category": "betrayal",
       "headline": "Indiana Banned Press From Executions for 'Dignity.' It Actually Serves Repression.",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 7,
+      "id": 3,
       "category": "betrayal",
-      "headline": "ICE Should Show It Hasn't Been 'Infiltrated by Violent Extremists,' Senator Urges",
+      "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
-      "id": 9,
+      "id": 4,
       "category": "betrayal",
       "headline": "D.C. Mayor Candidates Are Fixating on Teen Hangouts — and Turning the Cops on Them",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "What You Need to Know About How Tear Gas Harms Kids",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
