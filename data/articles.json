@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T19:45:12.944Z",
+  "updated": "2026-06-14T21:20:00.322Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "ICE Should Show It Hasn't Been \"Infiltrated by Violent Extremists,\" Senator Urges",
-    "dek": "Bipartisan silence on extremist infiltration of federal agencies while both parties claim to support law enforcement reform.",
+    "dek": "Bipartisan inaction as concerns mount over extremist infiltration of federal immigration enforcement agency.",
     "votes_r": 0,
     "votes_d": 1,
     "votes_yes": 1,
@@ -22,21 +22,21 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "House Oversight requests Alan Dershowitz testify in Epstein probe",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
       "headline": "They Weren't Convicted of Terrorism, But These Palestine Activists Got Sentenced as Terrorists Anyway",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "House Oversight requests Alan Dershowitz testify in Epstein probe",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
       "id": 4,
       "category": "betrayal",
-      "headline": "Indiana Banned Press From Executions for \"Dignity.\" It Actually Serves Repression.",
+      "headline": "The Right's \"Election Fraud\" Cry for Midterms Previewed in Primaries",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
