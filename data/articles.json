@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-14T21:20:00.322Z",
+  "updated": "2026-06-14T23:14:47.132Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "ICE Should Show It Hasn't Been \"Infiltrated by Violent Extremists,\" Senator Urges",
-    "dek": "Bipartisan inaction as concerns mount over extremist infiltration of federal immigration enforcement agency.",
+    "headline": "Trump-linked billionaire deal exposes bipartisan corruption patterns",
+    "dek": "Indian billionaire targeted by Trump later invested in startup secretly backed by Donald Trump Jr., highlighting pay-to-play politics across administrations.",
     "votes_r": 0,
-    "votes_d": 1,
-    "votes_yes": 1,
+    "votes_d": 0,
+    "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
@@ -22,7 +22,7 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "They Weren't Convicted of Terrorism, But These Palestine Activists Got Sentenced as Terrorists Anyway",
+      "headline": "ICE Should Show It Hasn't Been 'Infiltrated by Violent Extremists,' Senator Urges",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
@@ -36,9 +36,16 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "The Right's \"Election Fraud\" Cry for Midterms Previewed in Primaries",
+      "headline": "They Weren't Convicted of Terrorism, But These Palestine Activists Got Sentenced as Terrorists Anyway",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
