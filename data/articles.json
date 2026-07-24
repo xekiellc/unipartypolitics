@@ -1,42 +1,49 @@
 {
-  "updated": "2026-07-24T10:24:25.724Z",
+  "updated": "2026-07-24T19:37:46.049Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "GOP Rep. called Israeli–U.S. defense tech integration 'dangerous.' The House passed it anyway.",
-    "dek": "Republican and Democrat lawmakers united to pass contested defense technology legislation despite bipartisan warnings about national security risks.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Trump's Crypto Corruption Puts Centrist Democrats in Bind",
+    "dek": "Centrist Democrats face pressure over whether to break with party leadership and support crypto legislation tied to Trump's financial interests, exposing fault lines of political convenience over principle.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Trump's crypto corruption puts centrist Democrats in bind",
+      "headline": "Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "U.S. website gave false approval to green card applicants — then blamed glitch and took it away",
+      "headline": "Jes Staley Tells House Oversight He Spoke With JPMorgan CEO About Epstein's Crimes",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "How the government's obligation to keep foreign workers safe collided with its efforts to keep farms afloat",
+      "headline": "How the Government's Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Senate adding Iran sanctions to Russia bill",
+      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "House Members Brace for Unfriendly Questions on the Campaign Trail",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
