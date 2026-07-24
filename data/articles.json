@@ -1,51 +1,51 @@
 {
-  "updated": "2026-06-15T12:30:11.679Z",
+  "updated": "2026-07-24T03:20:00.572Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "ICE Should Show It Hasn't Been 'Infiltrated by Violent Extremists,' Senator Urges",
-    "dek": "Bipartisan concerns emerge over extremist infiltration of federal immigration enforcement with little accountability from either party.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Lawmaker Pushes for Ban on Special Treatment for Convicted Drug Traffickers After ProPublica Report",
+      "category": "corruption",
+      "headline": "Trump's Crypto Corruption Puts Centrist Democrats in Bind",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "He Profits Off Raw Milk That's Making People Sick. The Government Isn't Stopping Him.",
+      "headline": "GOP Rep. Called Israeli–U.S. Defense Tech Integration 'Dangerous.' The House Passed It Anyway.",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
+      "category": "government waste",
+      "headline": "On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "An Army Whistleblower Believed in Pete Hegseth — Until the Military Covered Up Her Child's Abuse",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Indiana Banned Press From Executions for 'Dignity.' It Actually Serves Repression.",
+      "category": "corruption",
+      "headline": "Jes Staley Tells House Oversight He Spoke With JPMorgan CEO About Epstein's Crimes",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "House Oversight requests Alan Dershowitz testify in Epstein probe",
+      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
