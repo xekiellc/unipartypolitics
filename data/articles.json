@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T03:20:00.572Z",
+  "updated": "2026-07-24T06:30:54.315Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -28,24 +28,24 @@
     },
     {
       "id": 3,
-      "category": "government waste",
-      "headline": "On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "category": "negligence",
+      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
+      "meta": "Immigration · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "Jes Staley Tells House Oversight He Spoke With JPMorgan CEO About Epstein's Crimes",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "waste",
+      "headline": "On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet",
+      "meta": "Government Waste · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "negligence",
+      "headline": "How the Government's Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
+      "meta": "Labor · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
