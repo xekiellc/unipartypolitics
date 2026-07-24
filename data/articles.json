@@ -1,51 +1,44 @@
 {
-  "updated": "2026-07-24T06:30:54.315Z",
+  "updated": "2026-07-24T10:24:25.724Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "ProPublica"
+    "headline": "GOP Rep. called Israeli–U.S. defense tech integration 'dangerous.' The House passed it anyway.",
+    "dek": "Republican and Democrat lawmakers united to pass contested defense technology legislation despite bipartisan warnings about national security risks.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "Trump's Crypto Corruption Puts Centrist Democrats in Bind",
+      "category": "betrayal",
+      "headline": "Trump's crypto corruption puts centrist Democrats in bind",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "GOP Rep. Called Israeli–U.S. Defense Tech Integration 'Dangerous.' The House Passed It Anyway.",
+      "headline": "U.S. website gave false approval to green card applicants — then blamed glitch and took it away",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "negligence",
-      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
-      "meta": "Immigration · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "How the government's obligation to keep foreign workers safe collided with its efforts to keep farms afloat",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "waste",
-      "headline": "On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet",
-      "meta": "Government Waste · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "negligence",
-      "headline": "How the Government's Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
-      "meta": "Labor · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "Senate adding Iran sanctions to Russia bill",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
