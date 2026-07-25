@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T17:05:34.688Z",
+  "updated": "2026-07-25T19:16:25.127Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,38 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "worker protection",
-      "headline": "How the Government's Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
-      "meta": "ProPublica · today",
+      "category": "corruption",
+      "headline": "Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "accountability",
-      "headline": "Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It.",
-      "meta": "ProPublica · today",
+      "headline": "How the Government's Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "oversight",
-      "headline": "Comer: 1 NDA produced by Leon Black to House Oversight 'unacceptable'",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
+      "category": "government",
+      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "redistricting",
-      "headline": "Inside Trump officials' quiet maneuvering in Louisiana's redistricting shakeup",
-      "meta": "Politico · today",
+      "category": "oversight",
+      "headline": "Comer: 1 NDA produced by Leon Black to House Oversight 'unacceptable'",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
-      "category": "immigration",
-      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "category": "power",
+      "headline": "Inside Trump Officials' Quiet Maneuvering in Louisiana's Redistricting Shakeup",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
