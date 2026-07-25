@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-24T23:06:23.584Z",
+  "updated": "2026-07-25T03:18:37.238Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Trump's Crypto Corruption Puts Centrist Democrats in Bind",
-    "dek": "Centrist Democrats face pressure over whether to break with party lines and support Trump-aligned crypto legislation, exposing how financial industry interests cut across both parties.",
+    "dek": "Centrist Democrats face pressure over crypto legislation as Trump's conflicts of interest expose how both parties struggle to hold the line against financial corruption.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -29,16 +29,23 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "House Members Brace for Unfriendly Questions on the Campaign Trail",
+      "headline": "Inside Trump Officials' Quiet Maneuvering in Louisiana's Redistricting Shakeup",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Capitol Agenda: A Grueling Summer Campaign Begins",
+      "headline": "House Members Brace for Unfriendly Questions on the Campaign Trail",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
