@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T13:47:44.298Z",
+  "updated": "2026-07-25T17:05:34.688Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,38 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It.",
-      "meta": "Politics · today",
+      "category": "worker protection",
+      "headline": "How the Government's Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "How the Government's Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
-      "meta": "Politics · today",
+      "category": "accountability",
+      "headline": "Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Not Everyone at ICE Went Along With Trump's Order to Reinstate Vehicle Stops",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "oversight",
+      "headline": "Comer: 1 NDA produced by Leon Black to House Oversight 'unacceptable'",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "redistricting",
+      "headline": "Inside Trump officials' quiet maneuvering in Louisiana's redistricting shakeup",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Inside Trump Officials' Quiet Maneuvering in Louisiana's Redistricting Shakeup",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "immigration",
+      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
