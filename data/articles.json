@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T10:05:32.744Z",
+  "updated": "2026-07-26T13:41:06.722Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,36 +14,36 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "accountability",
       "headline": "Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
+      "category": "worker rights",
       "headline": "How the Government's Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Leaked Email Reveals New Requirements for ICE Vehicle Stops",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
+      "category": "immigration",
       "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
+      "id": 4,
+      "category": "oversight",
+      "headline": "Comer: 1 NDA produced by Leon Black to House Oversight 'unacceptable'",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
       "id": 5,
-      "category": "betrayal",
-      "headline": "House Members Brace for Unfriendly Questions on the Campaign Trail",
+      "category": "redistricting",
+      "headline": "Inside Trump Officials' Quiet Maneuvering in Louisiana's Redistricting Shakeup",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
