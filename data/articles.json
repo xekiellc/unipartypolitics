@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-27T17:47:15.527Z",
+  "updated": "2026-07-27T19:43:13.647Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "GOP and Democratic establishment unite against Muslim-American candidate",
-    "dek": "Abdul El-Sayed faces coordinated Islamophobic attacks from both Republican operatives and Democratic party insiders, exposing how both parties gatekeep political outsiders.",
+    "headline": "Democratic Establishment and GOP Unite Against Muslim Candidate With Islamophobic Attacks",
+    "dek": "Both Republican operatives and Democratic establishment figures launched coordinated Islamophobic attacks against Abdul El-Sayed, exposing how both parties weaponize bigotry when convenient.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,28 +15,35 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Fetterman says Democrats were 'horribly wrong' to try eliminating Senate filibuster",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "House Investigation of BreakThrough News Is an Attack on All Journalism",
+      "headline": "Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic Establishment",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
+      "id": 2,
+      "category": "corruption",
+      "headline": "Texas Republican Is Under House Ethics Investigation",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
       "id": 3,
-      "category": "betrayal",
-      "headline": "How the Government's Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
+      "category": "hypocrisy",
+      "headline": "Ken Paxton Touts His Efforts to Fight Voter Fraud — His Senate Opponent Now Accuses Him of Committing It",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "A bipartisan House duo's final pitch for pre-midterm AI action",
+      "headline": "How the Government's Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "hypocrisy",
+      "headline": "Fetterman Says Democrats Were 'Horribly Wrong' to Try Eliminating Senate Filibuster",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
