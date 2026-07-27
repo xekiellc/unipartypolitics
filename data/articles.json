@@ -1,49 +1,42 @@
 {
-  "updated": "2026-07-27T14:48:44.290Z",
+  "updated": "2026-07-27T17:47:15.527Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Bipartisan House duo pushes AI action with no accountability measures",
-    "dek": "Republican and Democrat lawmakers fast-track AI legislation before midterms while civil liberties and oversight provisions remain absent from the bill.",
+    "headline": "GOP and Democratic establishment unite against Muslim-American candidate",
+    "dek": "Abdul El-Sayed faces coordinated Islamophobic attacks from both Republican operatives and Democratic party insiders, exposing how both parties gatekeep political outsiders.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "Politico"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Democratic establishment joins GOP in Islamophobic attacks on Abdul El-Sayed",
+      "headline": "Fetterman says Democrats were 'horribly wrong' to try eliminating Senate filibuster",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Fetterman threatens to leave Democrats — proving party loyalty means nothing when attention is on the line",
+      "headline": "House Investigation of BreakThrough News Is an Attack on All Journalism",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Government let foreign farm workers suffer while prioritizing agricultural industry profits",
+      "headline": "How the Government's Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Rubio's Cuba report slammed by own side as pretext for military aggression",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Hakeem Jeffries rolls out midterm pitch as Democrats offer voters familiar empty promises",
+      "headline": "A bipartisan House duo's final pitch for pre-midterm AI action",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
