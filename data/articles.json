@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-27T19:43:13.647Z",
+  "updated": "2026-07-27T21:16:35.938Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Democratic Establishment and GOP Unite Against Muslim Candidate With Islamophobic Attacks",
-    "dek": "Both Republican operatives and Democratic establishment figures launched coordinated Islamophobic attacks against Abdul El-Sayed, exposing how both parties weaponize bigotry when convenient.",
+    "headline": "GOP and Democratic Establishment Unite Against Muslim Candidate",
+    "dek": "Abdul El-Sayed faces coordinated Islamophobic attacks from both Republican operatives and Democratic party insiders, exposing how both parties suppress outsider candidates.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,23 +15,23 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic Establishment",
+      "headline": "Fetterman Says Democrats Were 'Horribly Wrong' to Try Eliminating Senate Filibuster",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "Texas Republican Is Under House Ethics Investigation",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "hypocrisy",
-      "headline": "Ken Paxton Touts His Efforts to Fight Voter Fraud — His Senate Opponent Now Accuses Him of Committing It",
+      "category": "betrayal",
+      "headline": "Congressional Black Caucus Members Break With Jeffries in Michigan House Race",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
@@ -42,10 +42,10 @@
     },
     {
       "id": 5,
-      "category": "hypocrisy",
-      "headline": "Fetterman Says Democrats Were 'Horribly Wrong' to Try Eliminating Senate Filibuster",
+      "category": "betrayal",
+      "headline": "House Investigation of BreakThrough News Is an Attack on All Journalism",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
