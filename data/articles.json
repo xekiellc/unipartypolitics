@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-27T11:30:50.483Z",
+  "updated": "2026-07-27T14:48:44.290Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Democratic establishment joins GOP in Islamophobic attacks on progressive candidate",
-    "dek": "Abdul El-Sayed faced coordinated attacks from both Republican operatives and Democratic Party insiders, exposing how both parties work to crush outsider candidates who threaten establishment power.",
+    "headline": "Bipartisan House duo pushes AI action with no accountability measures",
+    "dek": "Republican and Democrat lawmakers fast-track AI legislation before midterms while civil liberties and oversight provisions remain absent from the bill.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Bipartisan House duo makes final pitch for pre-midterm AI action — with no civil liberties protections attached",
+      "headline": "Democratic establishment joins GOP in Islamophobic attacks on Abdul El-Sayed",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Ken Paxton touts voter fraud fight while facing accusations of committing it himself",
+      "headline": "Fetterman threatens to leave Democrats — proving party loyalty means nothing when attention is on the line",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "How government failed foreign farm workers — choosing farm industry profits over human safety",
+      "headline": "Government let foreign farm workers suffer while prioritizing agricultural industry profits",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Rubio's Cuba report designed to justify military attack, says Democratic congressman",
+      "headline": "Rubio's Cuba report slammed by own side as pretext for military aggression",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Trump officials quietly maneuver inside Louisiana redistricting — with little Democratic resistance",
+      "headline": "Hakeem Jeffries rolls out midterm pitch as Democrats offer voters familiar empty promises",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
