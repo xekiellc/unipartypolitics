@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-28T21:12:50.639Z",
+  "updated": "2026-07-28T23:05:04.292Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Democratic Establishment joins GOP in Islamophobic attacks on Abdul El-Sayed",
-    "dek": "Both Republican operatives and Democratic party insiders have launched coordinated attacks against a Muslim candidate, exposing how both parties weaponize bigotry to protect establishment power.",
+    "headline": "Democratic Establishment Joins GOP in Islamophobic Attacks on Arab-American Candidate",
+    "dek": "Abdul El-Sayed faces coordinated attacks from both Republican operatives and Democratic Party insiders, exposing how both parties weaponize bigotry to protect establishment interests.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "MAGA influencer diverts civics charity funds to himself",
-      "meta": "Politics · today",
+      "headline": "MAGA Influencer Diverts Kids' Civics Charity Funds to Himself",
+      "meta": "Corruption · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Federal judges chastise Trump DOJ for unlawful and unethical conduct",
+      "headline": "Fetterman Threatens to Leave Democrats — Proving Party Loyalty Was Always Performative",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Ken Paxton crusades against voter fraud while facing accusations of committing it",
-      "meta": "Politics · today",
+      "headline": "Ken Paxton Crusades Against Voter Fraud While Allegedly Committing It Himself",
+      "meta": "Elections · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Fetterman threatens to leave Democrats — proving the party has no coherent identity",
-      "meta": "Politics · today",
+      "headline": "House Investigation of Journalism Outlet Signals Bipartisan Threat to Press Freedom",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "House investigation of BreakThrough News signals bipartisan assault on independent journalism",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Trump's America First Agenda Quietly Dismantles U.S. Scientific Leadership",
+      "meta": "Policy · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
