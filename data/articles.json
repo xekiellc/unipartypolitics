@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-28T06:31:51.627Z",
+  "updated": "2026-07-28T10:40:34.994Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Democratic establishment joins GOP in Islamophobic attacks on Abdul El-Sayed",
-    "dek": "Both Republican operatives and Democratic Party insiders have launched coordinated attacks against a Muslim candidate, exposing how both parties weaponize bigotry when political power is threatened.",
+    "dek": "Both Republican operatives and Democratic party insiders have launched coordinated attacks against a Muslim candidate, exposing how both parties close ranks against outsiders.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Fetterman threatens to leave Democrats — but his record shows the party already left voters behind",
+      "headline": "MAGA influencer diverts kids' civics charity funds to himself",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "House investigation of BreakThrough News signals both parties' war on inconvenient journalism",
+      "headline": "Federal judges slam Trump DOJ for unlawful and unethical conduct",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "Texas Republican under House Ethics investigation as Congress looks the other way",
+      "category": "betrayal",
+      "headline": "Ken Paxton crusades against voter fraud — while accused of committing it himself",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Government let foreign farm workers get hurt to keep agricultural donors happy",
+      "headline": "Fetterman threatens to bolt Democrats — proving party loyalty was always performative",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "corruption",
-      "headline": "Ken Paxton crusades against voter fraud while facing accusations of committing it himself",
+      "category": "betrayal",
+      "headline": "House investigation of BreakThrough News signals bipartisan war on independent journalism",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
