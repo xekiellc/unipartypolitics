@@ -1,51 +1,51 @@
 {
-  "updated": "2026-07-27T23:09:31.847Z",
+  "updated": "2026-07-28T02:56:40.995Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic Establishment",
-    "dek": "Both Republican operatives and Democratic Party insiders have targeted El-Sayed with Islamophobic rhetoric, exposing how both parties sideline minority candidates who challenge the status quo.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Democratic establishment joins GOP in Islamophobic attacks on Abdul El-Sayed",
+    "dek": "Both Republican and Democratic party insiders have launched politically motivated attacks against a Muslim candidate, exposing how both parties protect their establishment interests over democratic values.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Fetterman Says Democrats Were 'Horribly Wrong' to Try Eliminating Senate Filibuster",
+      "headline": "Fetterman threatens to leave Democrats — exposing how personal brand trumps party principle",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Congressional Black Caucus Members Break With Jeffries, Endorse Against Thanedar in Michigan House Race",
+      "headline": "House investigation of BreakThrough News is an attack on all journalism",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Texas Republican Is Under House Ethics Investigation",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "How the Government's Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
+      "headline": "Government obligation to keep foreign workers safe collided with efforts to keep farms afloat",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
+      "id": 4,
       "category": "betrayal",
-      "headline": "House Investigation of BreakThrough News Is an Attack on All Journalism",
+      "headline": "Rubio's paranoid Cuba report designed to justify military attack, says Democratic rep",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Texas Republican under House Ethics investigation as Congress ethics crisis deepens",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
