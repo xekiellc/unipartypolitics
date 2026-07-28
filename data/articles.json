@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-28T02:56:40.995Z",
+  "updated": "2026-07-28T06:31:51.627Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Democratic establishment joins GOP in Islamophobic attacks on Abdul El-Sayed",
-    "dek": "Both Republican and Democratic party insiders have launched politically motivated attacks against a Muslim candidate, exposing how both parties protect their establishment interests over democratic values.",
+    "dek": "Both Republican operatives and Democratic Party insiders have launched coordinated attacks against a Muslim candidate, exposing how both parties weaponize bigotry when political power is threatened.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Fetterman threatens to leave Democrats — exposing how personal brand trumps party principle",
+      "headline": "Fetterman threatens to leave Democrats — but his record shows the party already left voters behind",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "House investigation of BreakThrough News is an attack on all journalism",
+      "headline": "House investigation of BreakThrough News signals both parties' war on inconvenient journalism",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Government obligation to keep foreign workers safe collided with efforts to keep farms afloat",
+      "category": "corruption",
+      "headline": "Texas Republican under House Ethics investigation as Congress looks the other way",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Rubio's paranoid Cuba report designed to justify military attack, says Democratic rep",
+      "headline": "Government let foreign farm workers get hurt to keep agricultural donors happy",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Texas Republican under House Ethics investigation as Congress ethics crisis deepens",
+      "category": "corruption",
+      "headline": "Ken Paxton crusades against voter fraud while facing accusations of committing it himself",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
