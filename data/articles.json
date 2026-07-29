@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-29T06:36:17.605Z",
+  "updated": "2026-07-29T10:44:40.905Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Democratic Establishment and GOP Unite to Attack Muslim Candidate With Islamophobic Smears",
-    "dek": "Abdul El-Sayed faces coordinated attacks from both Republican operatives and the Democratic establishment, exposing how both parties close ranks against outsiders.",
+    "headline": "Democratic establishment and GOP unite to attack Muslim candidate with Islamophobic smears",
+    "dek": "Abdul El-Sayed faces coordinated attacks from both Republican operatives and Democratic party insiders, exposing how both parties work together to shut out progressive outsiders.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "MAGA Influencer Diverts Kids' Civics Charity Funds to Himself",
+      "headline": "MAGA influencer's civics charity funnels donations back to himself",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Fetterman Threatens to Leave Democrats — Exposing the Party's Hollow Big Tent",
+      "headline": "Federal judges blast Trump DOJ for unlawful and unethical conduct",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Ken Paxton Crusades Against Voter Fraud While Accused of Committing It Himself",
+      "headline": "Fetterman may bolt Democrats — proving party loyalty was always just a performance",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Federal Judges Slam Trump DOJ for Unlawful and Unethical Conduct",
+      "headline": "Ken Paxton crusades against voter fraud while opponent accuses him of committing it",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "House Democrats and Republicans Join Forces to Investigate Independent Journalism Outlet",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
     }
   ],
   "stats": {
