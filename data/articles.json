@@ -1,44 +1,23 @@
 {
-  "updated": "2026-07-29T10:44:40.905Z",
+  "updated": "2026-07-29T14:22:16.805Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Democratic establishment and GOP unite to attack Muslim candidate with Islamophobic smears",
-    "dek": "Abdul El-Sayed faces coordinated attacks from both Republican operatives and Democratic party insiders, exposing how both parties work together to shut out progressive outsiders.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "MAGA influencer's civics charity funnels donations back to himself",
+      "headline": "Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic Establishment",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "Federal judges blast Trump DOJ for unlawful and unethical conduct",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Fetterman may bolt Democrats — proving party loyalty was always just a performance",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Ken Paxton crusades against voter fraud while opponent accuses him of committing it",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "theintercept.com"
     }
   ],
   "stats": {
