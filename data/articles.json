@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T14:22:16.805Z",
+  "updated": "2026-07-29T23:02:19.654Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,10 +14,38 @@
   "articles": [
     {
       "id": 1,
+      "category": "corruption",
+      "headline": "This MAGA Influencer Runs a Charity to Teach Kids Civics. Much of the Money Goes to Him Instead.",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 2,
+      "category": "accountability",
+      "headline": "Federal Judges Chastise Trump's Justice Department for 'Unlawful,' 'Unethical' and 'Unseemly' Conduct",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "systemic failure",
+      "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
       "category": "betrayal",
-      "headline": "Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic Establishment",
-      "meta": "Politics · today",
-      "url": "theintercept.com"
+      "headline": "Republicans Start Pondering Another Debt Limit Hike as Midterms Loom",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "power grab",
+      "headline": "House Investigation of BreakThrough News Is an Attack on All Journalism",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
