@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-28T23:05:04.292Z",
+  "updated": "2026-07-29T03:15:46.249Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Democratic Establishment Joins GOP in Islamophobic Attacks on Arab-American Candidate",
-    "dek": "Abdul El-Sayed faces coordinated attacks from both Republican operatives and Democratic Party insiders, exposing how both parties weaponize bigotry to protect establishment interests.",
+    "headline": "Democratic establishment joins GOP in Islamophobic attacks on Muslim candidate",
+    "dek": "Abdul El-Sayed faces coordinated attacks from both Republican operatives and Democratic party insiders, exposing how both parties suppress outsider candidates.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,36 +15,36 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "MAGA Influencer Diverts Kids' Civics Charity Funds to Himself",
-      "meta": "Corruption · today",
+      "headline": "MAGA influencer diverts kids' civics charity money to himself",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Fetterman Threatens to Leave Democrats — Proving Party Loyalty Was Always Performative",
+      "headline": "Fetterman mulls leaving Democrats — exposing party's hollow big tent claims",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Ken Paxton Crusades Against Voter Fraud While Allegedly Committing It Himself",
-      "meta": "Elections · today",
+      "headline": "Ken Paxton crusades against voter fraud while allegedly committing it himself",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "House Investigation of Journalism Outlet Signals Bipartisan Threat to Press Freedom",
-      "meta": "Civil Liberties · today",
+      "headline": "House targets independent outlet BreakThrough News in press freedom crackdown",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Trump's America First Agenda Quietly Dismantles U.S. Scientific Leadership",
-      "meta": "Policy · today",
+      "headline": "Trump DOJ conduct called unlawful and unethical by federal judges",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
