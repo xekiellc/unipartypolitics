@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-30T19:41:24.742Z",
+  "updated": "2026-07-30T21:16:27.378Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Andy Beshear set out to expand drug treatment in Kentucky — fraud and abuse followed",
+    "dek": "A Democratic governor's flagship addiction recovery program became a haven for fraud and abuse, showing that good intentions mean little without accountability.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
+      "category": "betrayal",
+      "headline": "This MAGA influencer runs a civics charity for kids — much of the money goes to him instead",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
@@ -28,24 +28,10 @@
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "This MAGA Influencer Runs a Charity to Teach Kids Civics. Much of the Money Goes to Him Instead.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "accountability",
-      "headline": "Federal Judges Chastise Trump's Justice Department for 'Unlawful,' 'Unethical' and 'Unseemly' Conduct",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
       "category": "betrayal",
-      "headline": "Senate Education Committee Blocks Parts of Trump's Education Department Breakup",
+      "headline": "Federal judges chastise Trump's Justice Department for 'unlawful,' 'unethical' and 'unseemly' conduct",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
