@@ -1,37 +1,51 @@
 {
-  "updated": "2026-07-30T21:16:27.378Z",
+  "updated": "2026-07-30T23:12:26.181Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Andy Beshear set out to expand drug treatment in Kentucky — fraud and abuse followed",
-    "dek": "A Democratic governor's flagship addiction recovery program became a haven for fraud and abuse, showing that good intentions mean little without accountability.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "This MAGA influencer runs a civics charity for kids — much of the money goes to him instead",
+      "category": "corruption",
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Finance Republicans kill bid to stop Trump IRS audit-immunity deal",
+      "headline": "This MAGA Influencer Runs a Charity to Teach Kids Civics. Much of the Money Goes to Him Instead.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "accountability",
+      "headline": "Federal Judges Chastise Trump's Justice Department for 'Unlawful,' 'Unethical' and 'Unseemly' Conduct",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Top Senators Consider Blocking Trump's Grant Shakeup in Spending Stopgap",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Federal judges chastise Trump's Justice Department for 'unlawful,' 'unethical' and 'unseemly' conduct",
+      "id": 5,
+      "category": "accountability",
+      "headline": "Senate Committee Votes to Block Part of Trump's Education Department Breakup",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
