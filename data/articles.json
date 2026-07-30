@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T10:29:57.099Z",
+  "updated": "2026-07-30T14:17:27.837Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -21,7 +21,7 @@
     },
     {
       "id": 2,
-      "category": "corruption",
+      "category": "accountability",
       "headline": "This MAGA Influencer Runs a Charity to Teach Kids Civics. Much of the Money Goes to Him Instead.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
@@ -35,17 +35,10 @@
     },
     {
       "id": 4,
-      "category": "lobbying",
-      "headline": "Inside the Lobbying Fight Threatening Congress' College Sports Overhaul",
+      "category": "safety",
+      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 5,
-      "category": "healthcare",
-      "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
