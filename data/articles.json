@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T02:48:32.522Z",
+  "updated": "2026-07-30T06:32:30.790Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,37 +14,37 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "This MAGA Influencer Runs a Charity to Teach Kids Civics. Much of the Money Goes to Him Instead.",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "fiscal failure",
+      "headline": "Republicans start pondering another debt limit hike as midterms loom",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "category": "corruption",
+      "headline": "This MAGA Influencer Runs a Charity to Teach Kids Civics. Much of the Money Goes to Him Instead.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Republicans Start Pondering Another Debt Limit Hike as Midterms Loom",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
+      "category": "broken system",
+      "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
       "headline": "Federal Judges Chastise Trump's Justice Department for 'Unlawful,' 'Unethical' and 'Unseemly' Conduct",
-      "meta": "ProPublica · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
+      "category": "press freedom",
       "headline": "House Investigation of BreakThrough News Is an Attack on All Journalism",
-      "meta": "The Intercept · today",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
   ],
