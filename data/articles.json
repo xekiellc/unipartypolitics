@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T06:32:30.790Z",
+  "updated": "2026-07-30T10:29:57.099Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,10 +14,10 @@
   "articles": [
     {
       "id": 1,
-      "category": "fiscal failure",
-      "headline": "Republicans start pondering another debt limit hike as midterms loom",
+      "category": "corruption",
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
@@ -28,22 +28,22 @@
     },
     {
       "id": 3,
-      "category": "broken system",
-      "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
+      "category": "judiciary",
       "headline": "Federal Judges Chastise Trump's Justice Department for 'Unlawful,' 'Unethical' and 'Unseemly' Conduct",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 4,
+      "category": "lobbying",
+      "headline": "Inside the Lobbying Fight Threatening Congress' College Sports Overhaul",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
       "id": 5,
-      "category": "press freedom",
-      "headline": "House Investigation of BreakThrough News Is an Attack on All Journalism",
+      "category": "healthcare",
+      "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
