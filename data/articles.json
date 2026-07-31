@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T19:42:45.530Z",
+  "updated": "2026-07-31T21:12:36.368Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,21 +14,21 @@
   "articles": [
     {
       "id": 1,
-      "category": "accountability",
+      "category": "betrayal",
       "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "oversight",
+      "category": "negligence",
       "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "category": "broken system",
+      "category": "betrayal",
       "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
       "meta": "The Intercept · today",
       "url": "https://theintercept.com"
