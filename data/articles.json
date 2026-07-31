@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-31T10:45:05.035Z",
+  "updated": "2026-07-31T14:21:43.676Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud",
-    "dek": "A federal watchdog report reveals corporate actors drive most healthcare fraud, yet both parties continue scapegoating immigrants while leaving corporate accountability untouched.",
+    "headline": "Corporations, not immigrants, driving massive healthcare fraud while both parties look away",
+    "dek": "A federal watchdog report reveals corporations are responsible for the vast majority of healthcare fraud, yet bipartisan political narratives continue to scapegoat immigrants instead of holding corporate actors accountable.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,29 +15,29 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
-      "meta": "Politics · today",
+      "headline": "California lawmakers failed twice to fix teacher misconduct warning system",
+      "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "This MAGA Influencer Runs a Charity to Teach Kids Civics. Much of the Money Goes to Him Instead.",
-      "meta": "Politics · today",
+      "headline": "Andy Beshear's drug treatment expansion plagued by fraud and abuse in Kentucky",
+      "meta": "Healthcare · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Top Senators Consider Blocking Trump's Grant Shakeup in Spending Stopgap",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Senators push federal regulator to prove school bus safety data is even accurate",
+      "meta": "Safety · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
-      "meta": "Politics · today",
+      "headline": "Fauci's diary isn't why Covid ravaged the US — our broken healthcare system is",
+      "meta": "Healthcare · today",
       "url": "https://theintercept.com"
     }
   ],
