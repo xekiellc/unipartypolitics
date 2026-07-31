@@ -1,42 +1,49 @@
 {
-  "updated": "2026-07-31T03:31:19.500Z",
+  "updated": "2026-07-31T06:49:17.528Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Andy Beshear set out to make drug treatment widely available in Kentucky. Fraud and abuse followed.",
-    "dek": "A Democratic governor's signature healthcare initiative became a breeding ground for exploitation, raising questions about oversight failures at every level.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "This MAGA influencer runs a charity to teach kids civics. Much of the money goes to him instead.",
+      "category": "corruption",
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Federal judges chastise Trump's Justice Department for 'unlawful,' 'unethical' and 'unseemly' conduct",
+      "headline": "This MAGA Influencer Runs a Charity to Teach Kids Civics. Much of the Money Goes to Him Instead.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Top senators consider blocking Trump's grant shakeup in spending stopgap",
+      "category": "accountability",
+      "headline": "Federal Judges Chastise Trump's Justice Department for \"Unlawful,\" \"Unethical\" and \"Unseemly\" Conduct",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Senate committee votes to block part of Trump's Education Department breakup",
+      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "accountability",
+      "headline": "Top Senators Consider Blocking Trump's Grant Shakeup in Spending Stopgap",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
