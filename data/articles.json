@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T21:12:36.368Z",
+  "updated": "2026-07-31T23:07:44.863Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -16,36 +16,36 @@
       "id": 1,
       "category": "betrayal",
       "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
-      "meta": "ProPublica · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "corruption",
       "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
-      "meta": "ProPublica · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "negligence",
-      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "accountability",
+      "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows",
-      "meta": "The Intercept · today",
+      "category": "failure",
+      "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "category": "neglect",
+      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
