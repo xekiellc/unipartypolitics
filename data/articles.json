@@ -1,44 +1,51 @@
 {
-  "updated": "2026-08-01T15:05:23.315Z",
+  "updated": "2026-08-01T17:06:30.078Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Corporations, not immigrants, behind most healthcare fraud — and Congress looks the other way",
-    "dek": "A federal watchdog report reveals corporations drive the vast majority of healthcare fraud, yet bipartisan lawmakers have done little to hold them accountable.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "For the second time, lawmakers failed to fix California's warning system for teacher misconduct",
-      "meta": "Education · today",
+      "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Andy Beshear set out to make drug treatment widely available in Kentucky. Fraud and abuse followed.",
+      "category": "corruption",
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Trump's Truth Social API is a blatantly corrupt favor to Wall Street",
-      "meta": "Finance · today",
-      "url": "https://theintercept.com"
+      "category": "accountability",
+      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
+      "category": "corruption",
+      "headline": "Trump's Truth Social API Is a Blatantly Corrupt Favor to Wall Street",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
       "category": "betrayal",
-      "headline": "Senators push federal regulator to prove school bus safety data is accurate",
-      "meta": "Safety · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
