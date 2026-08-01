@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-01T10:03:56.750Z",
+  "updated": "2026-08-01T15:05:23.315Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Corporations, not immigrants, driving healthcare fraud while both parties look away",
-    "dek": "A federal watchdog report reveals corporations account for the vast majority of healthcare fraud, yet lawmakers from both parties have prioritized immigration enforcement over corporate accountability.",
+    "headline": "Corporations, not immigrants, behind most healthcare fraud — and Congress looks the other way",
+    "dek": "A federal watchdog report reveals corporations drive the vast majority of healthcare fraud, yet bipartisan lawmakers have done little to hold them accountable.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -21,24 +21,24 @@
     },
     {
       "id": 2,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "Andy Beshear set out to make drug treatment widely available in Kentucky. Fraud and abuse followed.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "accountability",
-      "headline": "Senators push federal regulator to prove school bus safety data is accurate",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "Trump's Truth Social API is a blatantly corrupt favor to Wall Street",
       "meta": "Finance · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Senators push federal regulator to prove school bus safety data is accurate",
+      "meta": "Safety · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
