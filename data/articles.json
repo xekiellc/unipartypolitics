@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-01T19:17:33.179Z",
+  "updated": "2026-08-01T21:02:18.204Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
-    "dek": "Federal oversight of school bus safety has gone unchallenged for years as both parties in the Senate failed to demand accountability from regulators tasked with protecting children.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "dek": "A bipartisan failure of federal oversight left school bus safety data unverified for years, with lawmakers from both parties now scrambling to demand basic accountability.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
@@ -28,7 +28,7 @@
     },
     {
       "id": 3,
-      "category": "corruption",
+      "category": "corporate capture",
       "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows",
       "meta": "Healthcare · today",
       "url": "https://theintercept.com"
