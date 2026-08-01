@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-01T03:31:48.615Z",
+  "updated": "2026-08-01T06:34:43.441Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Corporations, not immigrants, driving healthcare fraud while both parties look away",
-    "dek": "A federal watchdog report reveals corporations are responsible for the vast majority of healthcare fraud, exposing how both parties have misdirected blame and failed to hold powerful interests accountable.",
+    "headline": "Corporations, Not Immigrants, Drive Healthcare Fraud While Congress Looks Away",
+    "dek": "A federal watchdog report reveals corporate actors behind the vast majority of healthcare fraud, yet bipartisan lawmakers have repeatedly failed to hold them accountable.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,30 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "For the second time, lawmakers failed to fix California's warning system for teacher misconduct",
+      "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Andy Beshear set out to make drug treatment widely available in Kentucky. Fraud and abuse followed.",
-      "meta": "Politics · today",
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
+      "meta": "Healthcare · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Fauci's diary isn't the key to why Covid ravaged the U.S. — our broken healthcare system is",
-      "meta": "Health · today",
-      "url": "https://theintercept.com"
+      "category": "neglect",
+      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
+      "meta": "Safety · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Senators push federal regulator to prove school bus safety data is accurate",
-      "meta": "Policy · today",
-      "url": "https://feeds.propublica.org"
+      "category": "broken system",
+      "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
+      "meta": "Health Policy · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
