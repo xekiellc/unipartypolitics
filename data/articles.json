@@ -1,50 +1,43 @@
 {
-  "updated": "2026-07-31T23:07:44.863Z",
+  "updated": "2026-08-01T03:31:48.615Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "ProPublica"
+    "headline": "Corporations, not immigrants, driving healthcare fraud while both parties look away",
+    "dek": "A federal watchdog report reveals corporations are responsible for the vast majority of healthcare fraud, exposing how both parties have misdirected blame and failed to hold powerful interests accountable.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
-      "meta": "Politics · today",
+      "headline": "For the second time, lawmakers failed to fix California's warning system for teacher misconduct",
+      "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "corruption",
-      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
+      "category": "betrayal",
+      "headline": "Andy Beshear set out to make drug treatment widely available in Kentucky. Fraud and abuse followed.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "accountability",
-      "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "Fauci's diary isn't the key to why Covid ravaged the U.S. — our broken healthcare system is",
+      "meta": "Health · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "failure",
-      "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "neglect",
-      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "Senators push federal regulator to prove school bus safety data is accurate",
+      "meta": "Policy · today",
       "url": "https://feeds.propublica.org"
     }
   ],
