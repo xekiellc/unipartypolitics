@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-01T21:02:18.204Z",
+  "updated": "2026-08-01T22:58:56.569Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
-    "dek": "A bipartisan failure of federal oversight left school bus safety data unverified for years, with lawmakers from both parties now scrambling to demand basic accountability.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
-    "source": "ProPublica"
+    "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud",
+    "dek": "A federal watchdog report reveals corporate actors dominate healthcare fraud while both parties have deflected blame onto immigrants for years.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "The Intercept"
   },
   "articles": [
     {
@@ -21,23 +21,23 @@
     },
     {
       "id": 2,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "corporate capture",
-      "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows",
-      "meta": "Healthcare · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "Trump's Truth Social API Is a Blatantly Corrupt Favor to Wall Street",
-      "meta": "Finance · today",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
   ],
