@@ -1,43 +1,43 @@
 {
-  "updated": "2026-08-01T06:34:43.441Z",
+  "updated": "2026-08-01T10:03:56.750Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Corporations, Not Immigrants, Drive Healthcare Fraud While Congress Looks Away",
-    "dek": "A federal watchdog report reveals corporate actors behind the vast majority of healthcare fraud, yet bipartisan lawmakers have repeatedly failed to hold them accountable.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Corporations, not immigrants, driving healthcare fraud while both parties look away",
+    "dek": "A federal watchdog report reveals corporations account for the vast majority of healthcare fraud, yet lawmakers from both parties have prioritized immigration enforcement over corporate accountability.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
+      "headline": "For the second time, lawmakers failed to fix California's warning system for teacher misconduct",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
-      "meta": "Healthcare · today",
+      "category": "corruption",
+      "headline": "Andy Beshear set out to make drug treatment widely available in Kentucky. Fraud and abuse followed.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "neglect",
-      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
-      "meta": "Safety · today",
+      "category": "accountability",
+      "headline": "Senators push federal regulator to prove school bus safety data is accurate",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "broken system",
-      "headline": "Fauci's Diary Isn't the Key to Why Covid Ravaged the U.S. — Our Broken Healthcare System Is",
-      "meta": "Health Policy · today",
+      "category": "corruption",
+      "headline": "Trump's Truth Social API is a blatantly corrupt favor to Wall Street",
+      "meta": "Finance · today",
       "url": "https://theintercept.com"
     }
   ],
