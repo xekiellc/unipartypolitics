@@ -1,44 +1,44 @@
 {
-  "updated": "2026-08-02T03:32:20.635Z",
+  "updated": "2026-08-02T06:38:17.402Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Government fails students again",
-    "headline": "Lawmakers failed twice to fix California's teacher misconduct warning system",
-    "dek": "Bipartisan inaction left a broken system in place, allowing educators with misconduct records to slip through the cracks undetected.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "kicker": "Both parties fail again",
+    "headline": "Lawmakers from both parties failed to fix California's teacher misconduct warning system",
+    "dek": "For the second time, a bipartisan legislature let a broken system protecting students from predatory teachers slide without meaningful reform.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "corruption",
-      "headline": "Andy Beshear set out to expand drug treatment in Kentucky — fraud and abuse followed",
+      "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
-      "category": "corporate power",
-      "headline": "Corporations, not immigrants, responsible for vast majority of healthcare fraud, OIG report shows",
+      "category": "betrayal",
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Available in Kentucky. Fraud and Abuse Followed.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Trump's Truth Social API is a blatantly corrupt favor to Wall Street",
+      "category": "accountability",
+      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "safety",
-      "headline": "Senators push federal regulator to prove school bus safety data is accurate",
+      "category": "corruption",
+      "headline": "Trump's Truth Social API Is a Blatantly Corrupt Favor to Wall Street",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
