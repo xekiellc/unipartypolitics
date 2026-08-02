@@ -1,42 +1,42 @@
 {
-  "updated": "2026-08-02T13:40:18.274Z",
+  "updated": "2026-08-02T15:06:52.605Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Government accountability failure",
-    "headline": "California lawmakers failed twice to fix teacher misconduct warning system",
-    "dek": "Both Republican and Democrat legislators repeatedly ignored reforms that would protect students from educators with misconduct records.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "kicker": "Both parties fail again",
+    "headline": "Lawmakers from both parties failed to fix California's teacher misconduct warning system",
+    "dek": "For the second time, a bipartisan legislature let a broken system protecting students from predatory teachers go unreformed.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "corruption",
-      "headline": "Andy Beshear's drug treatment expansion plagued by fraud and abuse",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "corporate power",
-      "headline": "Corporations, not immigrants, responsible for vast majority of healthcare fraud, federal report shows",
+      "headline": "Trump's Truth Social API Is a Blatantly Corrupt Favor to Wall Street",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
+      "id": 2,
+      "category": "fraud",
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 3,
-      "category": "corruption",
-      "headline": "Trump's Truth Social API is a blatantly corrupt favor to Wall Street",
+      "category": "corporate corruption",
+      "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "accountability",
-      "headline": "Senators push federal regulator to prove school bus safety data is accurate",
+      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
