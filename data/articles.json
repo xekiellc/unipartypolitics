@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-02T15:06:52.605Z",
+  "updated": "2026-08-02T17:06:26.557Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Lawmakers from both parties failed to fix California's teacher misconduct warning system",
-    "dek": "For the second time, a bipartisan legislature let a broken system protecting students from predatory teachers go unreformed.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "California lawmakers failed twice to fix teacher misconduct warning system",
+    "dek": "For the second time, bipartisan inaction left a broken system in place that fails to protect students from misconduct by educators.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
@@ -21,7 +21,7 @@
     },
     {
       "id": 2,
-      "category": "fraud",
+      "category": "failure",
       "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
@@ -35,7 +35,7 @@
     },
     {
       "id": 4,
-      "category": "accountability",
+      "category": "negligence",
       "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
