@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-03T17:56:05.461Z",
+  "updated": "2026-08-03T19:47:44.153Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "FCC Commissioners face ethics complaints for taking luxury gifts from Paramount",
-    "dek": "Regulators from both parties accepted lavish gifts from a major media conglomerate they were tasked with overseeing, raising serious questions about regulatory capture at the FCC.",
+    "headline": "FCC Commissioners from both parties took luxury gifts from Paramount while regulating media mergers",
+    "dek": "Ethics complaints reveal bipartisan corruption at the FCC, where commissioners accepted luxury gifts from a major media conglomerate they were tasked with overseeing.",
     "votes_r": 3,
     "votes_d": 2,
     "votes_yes": 5,
@@ -15,36 +15,36 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "For the second time, lawmakers failed to fix California's warning system for teacher misconduct",
+      "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Maryland Democrats kick off latest redistricting effort after a year of infighting",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Senate finalizes funding patch that would block Trump's grant overhaul",
+      "headline": "Maryland Democrats Kick Off Latest Redistricting Effort After a Year of Infighting",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "NYPD used high-tech surveillance to find Gaza paint splatter protester, docs show",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Chuck Edwards Recommended for Censure by House Ethics Committee",
+      "meta": "Congress · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Andy Beshear set out to make drug treatment widely available in Kentucky. Fraud and abuse followed.",
-      "meta": "Politics · today",
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
+      "meta": "Governance · today",
       "url": "https://feeds.propublica.org"
     }
   ],
