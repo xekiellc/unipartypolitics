@@ -1,50 +1,50 @@
 {
-  "updated": "2026-08-03T19:47:44.153Z",
+  "updated": "2026-08-03T21:10:14.371Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "FCC Commissioners from both parties took luxury gifts from Paramount while regulating media mergers",
-    "dek": "Ethics complaints reveal bipartisan corruption at the FCC, where commissioners accepted luxury gifts from a major media conglomerate they were tasked with overseeing.",
-    "votes_r": 3,
-    "votes_d": 2,
-    "votes_yes": 5,
+    "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester",
+    "dek": "Law enforcement deployed advanced surveillance tools against a low-level protester, raising bipartisan civil liberties concerns neither party has moved to address.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
-      "meta": "Politics · today",
+      "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
+      "meta": "Corruption · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Maryland Democrats Kick Off Latest Redistricting Effort After a Year of Infighting",
+      "headline": "Chuck Edwards Recommended for Censure by House Ethics Committee",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
+      "meta": "Failure · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 4,
       "category": "betrayal",
-      "headline": "Chuck Edwards Recommended for Censure by House Ethics Committee",
-      "meta": "Congress · today",
+      "headline": "Maryland Dems Kick Off Latest Redistricting Effort After a Year of Infighting",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
-      "meta": "Governance · today",
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Available in Kentucky. Fraud and Abuse Followed.",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     }
   ],
