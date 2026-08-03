@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-03T11:32:46.511Z",
+  "updated": "2026-08-03T14:52:12.930Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "FCC Commissioners took luxury gifts from Paramount while regulating the industry",
-    "dek": "Ethics complaints reveal how regulatory capture crosses party lines, with commissioners from both parties accepting gifts from the very corporations they oversee.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "ProPublica"
+    "headline": "Senate passes funding patch blocking Trump grant overhaul with bipartisan votes",
+    "dek": "Republican and Democratic senators joined forces on a stopgap measure that critics say kicks hard fiscal decisions down the road while protecting entrenched spending interests.",
+    "votes_r": 45,
+    "votes_d": 38,
+    "votes_yes": 83,
+    "votes_no": 14,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Lawmakers failed — again — to fix California's broken system for reporting teacher misconduct",
-      "meta": "Politics · today",
+      "category": "corruption",
+      "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
+      "meta": "Regulation · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "corruption",
-      "headline": "Corporations, not immigrants, responsible for vast majority of healthcare fraud, federal report shows",
-      "meta": "Politics · today",
+      "category": "surveillance",
+      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "Andy Beshear set out to expand drug treatment in Kentucky. Fraud and abuse followed.",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
+      "meta": "State Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Trump's Truth Social API is a blatantly corrupt favor to Wall Street",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "corruption",
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
+      "meta": "Healthcare · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Border community suffers without a voice as Trump's tariff war with Canada drags on",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "category": "corruption",
+      "headline": "Trump's Truth Social API Is a Blatantly Corrupt Favor to Wall Street",
+      "meta": "Finance · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
