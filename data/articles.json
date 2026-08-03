@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-02T22:59:49.410Z",
+  "updated": "2026-08-03T03:32:46.175Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Lawmakers failed twice to fix California's warning system for teacher misconduct",
-    "dek": "California legislators from both parties have repeatedly blocked reforms to a broken system that lets predatory teachers move between school districts undetected.",
+    "headline": "Lawmakers from both parties failed to fix California's teacher misconduct warning system",
+    "dek": "For the second time, a bipartisan legislature let a broken system protecting students from predatory teachers go unreformed.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,28 +15,28 @@
     {
       "id": 1,
       "category": "corruption",
-      "headline": "Andy Beshear set out to make drug treatment widely available in Kentucky. Fraud and abuse followed.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "corruption",
-      "headline": "Trump's Truth Social API is a blatantly corrupt favor to Wall Street",
+      "headline": "Trump's Truth Social API Is a Blatantly Corrupt Favor to Wall Street",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
+      "id": 2,
+      "category": "fraud",
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 3,
-      "category": "accountability",
-      "headline": "Corporations, not immigrants, are responsible for vast majority of healthcare fraud, OIG report shows",
+      "category": "corporate corruption",
+      "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "oversight",
-      "headline": "Senators push federal regulator to prove school bus safety data is accurate",
+      "category": "accountability",
+      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
