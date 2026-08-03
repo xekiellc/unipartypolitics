@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-03T21:10:14.371Z",
+  "updated": "2026-08-03T23:08:27.592Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester",
-    "dek": "Law enforcement deployed advanced surveillance tools against a low-level protester, raising bipartisan civil liberties concerns neither party has moved to address.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Senate easily advances stopgap funding deal past first hurdle",
+    "dek": "Both parties voted to keep the government funded without addressing structural spending reforms or fiscal accountability measures demanded by taxpayers.",
+    "votes_r": 45,
+    "votes_d": 38,
+    "votes_yes": 83,
+    "votes_no": 14,
+    "source": "Politico"
   },
   "articles": [
     {
@@ -22,30 +22,30 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Chuck Edwards Recommended for Censure by House Ethics Committee",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
+      "meta": "Surveillance · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
       "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
-      "meta": "Failure · today",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Maryland Dems Kick Off Latest Redistricting Effort After a Year of Infighting",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
+      "meta": "Government Failure · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Andy Beshear Set Out to Make Drug Treatment Available in Kentucky. Fraud and Abuse Followed.",
-      "meta": "Accountability · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Chuck Edwards Recommended for Censure by House Ethics Committee",
+      "meta": "Ethics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
