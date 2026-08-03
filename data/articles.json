@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-03T14:52:12.930Z",
+  "updated": "2026-08-03T17:56:05.461Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senate passes funding patch blocking Trump grant overhaul with bipartisan votes",
-    "dek": "Republican and Democratic senators joined forces on a stopgap measure that critics say kicks hard fiscal decisions down the road while protecting entrenched spending interests.",
-    "votes_r": 45,
-    "votes_d": 38,
-    "votes_yes": 83,
-    "votes_no": 14,
-    "source": "Politico"
+    "headline": "FCC Commissioners face ethics complaints for taking luxury gifts from Paramount",
+    "dek": "Regulators from both parties accepted lavish gifts from a major media conglomerate they were tasked with overseeing, raising serious questions about regulatory capture at the FCC.",
+    "votes_r": 3,
+    "votes_d": 2,
+    "votes_yes": 5,
+    "votes_no": 0,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
-      "meta": "Regulation · today",
+      "category": "betrayal",
+      "headline": "For the second time, lawmakers failed to fix California's warning system for teacher misconduct",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "surveillance",
-      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "Maryland Democrats kick off latest redistricting effort after a year of infighting",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
-      "meta": "State Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Senate finalizes funding patch that would block Trump's grant overhaul",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
-      "meta": "Healthcare · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "NYPD used high-tech surveillance to find Gaza paint splatter protester, docs show",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "corruption",
-      "headline": "Trump's Truth Social API Is a Blatantly Corrupt Favor to Wall Street",
-      "meta": "Finance · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "Andy Beshear set out to make drug treatment widely available in Kentucky. Fraud and abuse followed.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
