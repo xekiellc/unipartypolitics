@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-03T03:32:46.175Z",
+  "updated": "2026-08-03T07:33:56.846Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Lawmakers from both parties failed to fix California's teacher misconduct warning system",
-    "dek": "For the second time, a bipartisan legislature let a broken system protecting students from predatory teachers go unreformed.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "ProPublica"
   },
   "articles": [
@@ -21,21 +21,28 @@
     },
     {
       "id": 2,
+      "category": "failure",
+      "headline": "Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
       "category": "fraud",
       "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
-      "category": "corporate corruption",
+      "id": 4,
+      "category": "corruption",
       "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
-      "category": "accountability",
+      "id": 5,
+      "category": "failure",
       "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
