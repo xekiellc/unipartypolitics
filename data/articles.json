@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-03T07:33:56.846Z",
+  "updated": "2026-08-03T11:32:46.511Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "FCC Commissioners took luxury gifts from Paramount while regulating the industry",
+    "dek": "Ethics complaints reveal how regulatory capture crosses party lines, with commissioners from both parties accepting gifts from the very corporations they oversee.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "Trump's Truth Social API Is a Blatantly Corrupt Favor to Wall Street",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 2,
-      "category": "failure",
-      "headline": "Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
+      "category": "betrayal",
+      "headline": "Lawmakers failed — again — to fix California's broken system for reporting teacher misconduct",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 2,
+      "category": "corruption",
+      "headline": "Corporations, not immigrants, responsible for vast majority of healthcare fraud, federal report shows",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 3,
-      "category": "fraud",
-      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
+      "category": "corruption",
+      "headline": "Andy Beshear set out to expand drug treatment in Kentucky. Fraud and abuse followed.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows",
+      "category": "betrayal",
+      "headline": "Trump's Truth Social API is a blatantly corrupt favor to Wall Street",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "failure",
-      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
+      "category": "betrayal",
+      "headline": "Border community suffers without a voice as Trump's tariff war with Canada drags on",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
