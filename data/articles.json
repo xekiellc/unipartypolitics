@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-04T19:44:03.869Z",
+  "updated": "2026-08-04T21:17:30.374Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "FCC commissioners from both parties took luxury gifts from Paramount",
-    "dek": "Ethics complaints filed against commissioners appointed by both Republican and Democratic administrations for accepting undisclosed perks from a company they regulate.",
+    "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
+    "dek": "Bipartisan FCC leadership accepted lavish perks from a major media conglomerate while tasked with regulating the industry.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -14,38 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "environment",
-      "headline": "EPA hails Omaha lead cleanup as success — but toxic levels remain in many yards",
-      "meta": "ProPublica · today",
+      "category": "betrayal",
+      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis While His Own River Authority Falls Apart",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "environment",
-      "headline": "The EPA doesn't retest homes in the country's largest residential lead Superfund site. So ProPublica did.",
-      "meta": "ProPublica · today",
+      "headline": "The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead.",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Abbott blasted Corpus Christi over its water crisis — while his own river authority falls apart",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "military",
+      "headline": "The Pentagon Found a New Way to Undercount U.S. Casualties in Iran",
+      "meta": "Defense · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "surveillance",
-      "headline": "NYPD used high-tech surveillance to track down Gaza paint splatter protester",
-      "meta": "The Intercept · today",
+      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "pentagon",
-      "headline": "The Pentagon found a new way to undercount U.S. casualties in Iran",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "category": "ethics",
+      "headline": "House Ethics Says It Will Probe Max Miller Allegations",
+      "meta": "Congress · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
