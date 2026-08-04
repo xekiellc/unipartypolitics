@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-04T14:28:59.929Z",
+  "updated": "2026-08-04T17:53:58.785Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
-    "dek": "Bipartisan FCC leadership accepted lavish perks from a major media conglomerate while overseeing its regulatory fate, raising serious questions about captured government oversight.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "dek": "Regulators from both parties accepted lavish gifts from a company they oversee, raising serious questions about captured government and bipartisan corruption at the FCC.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "cover-up",
+      "category": "betrayal",
       "headline": "The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead.",
       "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "negligence",
+      "category": "betrayal",
       "headline": "The Pentagon Found a New Way to Undercount U.S. Casualties in Iran",
       "meta": "National Security · today",
       "url": "https://theintercept.com"
@@ -29,21 +29,21 @@
     {
       "id": 3,
       "category": "betrayal",
+      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
       "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
       "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
-      "category": "negligence",
-      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
-      "meta": "Infrastructure · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
       "id": 5,
-      "category": "cover-up",
-      "headline": "The EPA Doesn't Typically Retest Homes in the Country's Largest Residential Lead Superfund Site. So We Did.",
+      "category": "betrayal",
+      "headline": "Solar Developer Cancels Washington State Project on Sacred Indigenous Land",
       "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     }
