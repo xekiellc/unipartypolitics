@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-04T21:17:30.374Z",
+  "updated": "2026-08-04T23:07:27.267Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
-    "dek": "Bipartisan FCC leadership accepted lavish perks from a major media conglomerate while tasked with regulating the industry.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "dek": "Regulators from both parties accepted lavish gifts from a company they are supposed to oversee, raising serious questions about regulatory capture in Washington.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis While His Own River Authority Falls Apart",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "environment",
       "headline": "The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead.",
       "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
-      "category": "military",
+      "id": 2,
+      "category": "betrayal",
       "headline": "The Pentagon Found a New Way to Undercount U.S. Casualties in Iran",
-      "meta": "Defense · today",
+      "meta": "National Security · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "surveillance",
-      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "Pressley Breaks With Jeffries Over Missouri Primary Race",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
-      "category": "ethics",
-      "headline": "House Ethics Says It Will Probe Max Miller Allegations",
-      "meta": "Congress · today",
-      "url": "https://rss.politico.com"
+      "category": "betrayal",
+      "headline": "BLM Protester Transferred Thousands of Miles Away After Organizing Against Solitary Confinement",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
