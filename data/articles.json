@@ -1,51 +1,44 @@
 {
-  "updated": "2026-08-03T23:08:27.592Z",
+  "updated": "2026-08-04T03:15:33.917Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senate easily advances stopgap funding deal past first hurdle",
-    "dek": "Both parties voted to keep the government funded without addressing structural spending reforms or fiscal accountability measures demanded by taxpayers.",
-    "votes_r": 45,
-    "votes_d": 38,
-    "votes_yes": 83,
-    "votes_no": 14,
-    "source": "Politico"
+    "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
+    "dek": "Regulators from both parties accepted luxury gifts from a company they oversee, raising serious questions about regulatory capture at the highest levels of telecommunications oversight.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
-      "meta": "Corruption · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Senate Easily Advances Stopgap Funding Deal Past First Hurdle",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
-      "meta": "Surveillance · today",
-      "url": "https://theintercept.com"
+      "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "For the Second Time, Lawmakers Failed to Fix California's Warning System for Teacher Misconduct",
-      "meta": "Accountability · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
       "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
-      "meta": "Government Failure · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Chuck Edwards Recommended for Censure by House Ethics Committee",
-      "meta": "Ethics · today",
-      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
