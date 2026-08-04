@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-04T03:15:33.917Z",
+  "updated": "2026-08-04T06:32:18.856Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
-    "dek": "Regulators from both parties accepted luxury gifts from a company they oversee, raising serious questions about regulatory capture at the highest levels of telecommunications oversight.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "ProPublica"
+    "headline": "Congress advances stopgap funding deal with broad bipartisan support",
+    "dek": "Senate leaders from both parties rallied behind a short-term funding patch, bypassing deeper debates over spending reform and government accountability.",
+    "votes_r": 45,
+    "votes_d": 38,
+    "votes_yes": 83,
+    "votes_no": 14,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Senate Easily Advances Stopgap Funding Deal Past First Hurdle",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "corruption",
+      "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
+      "meta": "Regulation · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
@@ -28,16 +28,23 @@
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
-      "meta": "Politics · today",
+      "category": "corruption",
+      "headline": "Trump's Truth Social API Is a Blatantly Corrupt Favor to Wall Street",
+      "meta": "Finance · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
+      "category": "surveillance",
+      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "failure",
       "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
-      "meta": "Politics · today",
+      "meta": "Health · today",
       "url": "https://feeds.propublica.org"
     }
   ],
