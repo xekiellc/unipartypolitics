@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-05T14:21:50.849Z",
+  "updated": "2026-08-05T17:46:15.337Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon found new way to undercount U.S. casualties in Iran",
-    "dek": "Military accountability gaps persist across administrations as the Pentagon obscures the true human cost of overseas operations from the American public.",
+    "headline": "EPA heralds Omaha lead cleanup as success while toxic levels persist in hundreds of yards",
+    "dek": "A federal agency celebrated bipartisan-backed remediation efforts as a win — but independent testing reveals the government left families exposed to dangerous lead contamination.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "AIPAC defeats Cori Bush, backs establishment Democrat Wesley Bell in Missouri primary",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Lead contamination still plagues Omaha as city cleans some yards but not others",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Greg Abbott blasted Corpus Christi for water crisis while his own appointed river authority falls apart",
+      "headline": "Greg Abbott blasted Corpus Christi over water crisis while his own appointees let a river authority fall apart",
       "meta": "Politics · today",
-      "url": "feeds.propublica.org"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "EPA heralds Omaha lead cleanup as success — but toxic levels remain in many yards",
+      "headline": "AIPAC defeats Cori Bush again — with Wesley Bell as its vehicle in Missouri",
       "meta": "Politics · today",
-      "url": "feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "BLM protester transferred thousands of miles away after organizing against solitary confinement",
-      "meta": "Politics · today",
-      "url": "theintercept.com"
+      "headline": "EPA doesn't retest homes in the country's largest residential lead superfund site — so journalists did",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Lead contamination persists in Omaha as city cleans up some yards but not others",
-      "meta": "Politics · today",
-      "url": "feeds.propublica.org"
+      "headline": "BLM protester transferred thousands of miles away after organizing against solitary confinement",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
