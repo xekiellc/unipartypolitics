@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-05T19:43:06.255Z",
+  "updated": "2026-08-05T21:17:22.204Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "EPA hails lead cleanup as success while toxic contamination persists in hundreds of yards",
-    "dek": "Federal regulators from administrations of both parties declared victory on the country's largest residential lead superfund site while ProPublica found many homes still test above toxic levels.",
+    "headline": "AIPAC money shapes both parties as establishment Democrats crush progressive challengers",
+    "dek": "Corporate PAC spending crosses party lines to defeat insurgent candidates, exposing how both parties protect donor interests over voters.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Lead contamination still plagues Omaha as city cleans some yards but not others",
+      "headline": "Wesley Bell Again Defeats Cori Bush — With Plenty of Help From AIPAC",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 2,
+      "category": "environment",
+      "headline": "The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead.",
       "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "Abbott blasts Corpus Christi water crisis while his own appointed river authority crumbles",
+      "id": 3,
+      "category": "accountability",
+      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "AIPAC defeats progressive Cori Bush again, buying outcomes in Democratic primaries",
-      "meta": "Elections · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 4,
-      "category": "betrayal",
-      "headline": "BLM protester shipped thousands of miles away after organizing against solitary confinement",
-      "meta": "Civil Rights · today",
-      "url": "https://theintercept.com"
+      "category": "accountability",
+      "headline": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Hegseth Army chief pick hits Senate snag as Republican infighting stalls Pentagon agenda",
-      "meta": "Defense · today",
-      "url": "https://rss.politico.com"
+      "headline": "The EPA Doesn't Typically Retest Homes in the Country's Largest Residential Lead Superfund Site. So We Did.",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
