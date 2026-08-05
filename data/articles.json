@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-05T06:32:54.169Z",
+  "updated": "2026-08-05T10:42:08.452Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "FCC Commissioners from both parties face ethics complaints for taking luxury gifts from Paramount",
-    "dek": "Bipartisan corruption at the FCC as commissioners across party lines accepted lavish gifts from a major media conglomerate they are tasked with regulating.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
-    "source": "ProPublica"
+    "headline": "Pentagon found new way to undercount U.S. casualties in Iran",
+    "dek": "Military accountability failures span administrations as the Defense Department obscures the true cost of conflict from the American public.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The EPA heralds its Omaha cleanup as a success — but toxic lead levels remain in many yards",
+      "headline": "EPA heralds Omaha lead cleanup as success — but toxic levels remain in many yards",
       "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Greg Abbott blasted Corpus Christi for its water crisis while a river authority he controls falls apart",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "BLM protester transferred thousands of miles away after organizing against solitary confinement",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "The Pentagon found a new way to undercount U.S. casualties in Iran",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
+      "headline": "Greg Abbott blasted Corpus Christi for water crisis while river authority he controls falls apart",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "The EPA doesn't retest homes in the country's largest residential lead Superfund site — so ProPublica did",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "AIPAC money helped Wesley Bell defeat Cori Bush — again",
+      "meta": "Elections · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Solar developer cancels Washington state project on sacred Indigenous land",
-      "meta": "Policy · today",
-      "url": "https://theintercept.com"
+      "headline": "Lead contamination persists in Omaha — and the city isn't cleaning up all affected yards",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
