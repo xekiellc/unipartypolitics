@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-05T17:46:15.337Z",
+  "updated": "2026-08-05T19:43:06.255Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "EPA heralds Omaha lead cleanup as success while toxic levels persist in hundreds of yards",
-    "dek": "A federal agency celebrated bipartisan-backed remediation efforts as a win — but independent testing reveals the government left families exposed to dangerous lead contamination.",
+    "headline": "EPA hails lead cleanup as success while toxic contamination persists in hundreds of yards",
+    "dek": "Federal regulators from administrations of both parties declared victory on the country's largest residential lead superfund site while ProPublica found many homes still test above toxic levels.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -22,30 +22,30 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Greg Abbott blasted Corpus Christi over water crisis while his own appointees let a river authority fall apart",
+      "headline": "Abbott blasts Corpus Christi water crisis while his own appointed river authority crumbles",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "AIPAC defeats Cori Bush again — with Wesley Bell as its vehicle in Missouri",
-      "meta": "Politics · today",
+      "headline": "AIPAC defeats progressive Cori Bush again, buying outcomes in Democratic primaries",
+      "meta": "Elections · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "EPA doesn't retest homes in the country's largest residential lead superfund site — so journalists did",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "BLM protester shipped thousands of miles away after organizing against solitary confinement",
+      "meta": "Civil Rights · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "BLM protester transferred thousands of miles away after organizing against solitary confinement",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
+      "headline": "Hegseth Army chief pick hits Senate snag as Republican infighting stalls Pentagon agenda",
+      "meta": "Defense · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
