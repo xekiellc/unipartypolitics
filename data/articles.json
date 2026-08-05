@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-05T10:42:08.452Z",
+  "updated": "2026-08-05T14:21:50.849Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Pentagon found new way to undercount U.S. casualties in Iran",
-    "dek": "Military accountability failures span administrations as the Defense Department obscures the true cost of conflict from the American public.",
+    "dek": "Military accountability gaps persist across administrations as the Pentagon obscures the true human cost of overseas operations from the American public.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "EPA heralds Omaha lead cleanup as success — but toxic levels remain in many yards",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "AIPAC defeats Cori Bush, backs establishment Democrat Wesley Bell in Missouri primary",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "BLM protester transferred thousands of miles away after organizing against solitary confinement",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
+      "headline": "Greg Abbott blasted Corpus Christi for water crisis while his own appointed river authority falls apart",
+      "meta": "Politics · today",
+      "url": "feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Greg Abbott blasted Corpus Christi for water crisis while river authority he controls falls apart",
+      "headline": "EPA heralds Omaha lead cleanup as success — but toxic levels remain in many yards",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "AIPAC money helped Wesley Bell defeat Cori Bush — again",
-      "meta": "Elections · today",
-      "url": "https://theintercept.com"
+      "headline": "BLM protester transferred thousands of miles away after organizing against solitary confinement",
+      "meta": "Politics · today",
+      "url": "theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Lead contamination persists in Omaha — and the city isn't cleaning up all affected yards",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Lead contamination persists in Omaha as city cleans up some yards but not others",
+      "meta": "Politics · today",
+      "url": "feeds.propublica.org"
     }
   ],
   "stats": {
