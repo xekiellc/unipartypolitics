@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-04T23:07:27.267Z",
+  "updated": "2026-08-05T02:56:04.491Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
-    "dek": "Regulators from both parties accepted lavish gifts from a company they are supposed to oversee, raising serious questions about regulatory capture in Washington.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "dek": "Bipartisan FCC leadership accepted lavish gifts from a major media conglomerate they are charged with regulating, raising serious conflicts of interest.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
@@ -36,16 +36,16 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Pressley Breaks With Jeffries Over Missouri Primary Race",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Solar Developer Cancels Washington State Project on Sacred Indigenous Land",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "BLM Protester Transferred Thousands of Miles Away After Organizing Against Solitary Confinement",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
+      "headline": "Pressley Breaks With Jeffries Over Missouri Primary Race",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
