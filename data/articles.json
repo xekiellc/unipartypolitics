@@ -1,50 +1,57 @@
 {
-  "updated": "2026-08-06T10:44:43.303Z",
+  "updated": "2026-08-06T14:25:26.928Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senate's summer recess threatened by legislative pileup — but members still plan to flee",
-    "dek": "Republican and Democratic senators alike prioritize vacation over unfinished business, leaving critical legislation in limbo while Americans wait.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
-    "source": "Politico"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Black residents warned of abusive cops for years. Then police shot and killed a toddler.",
-      "meta": "Civil Rights · today",
-      "url": "https://theintercept.com"
+      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "He's eligible for up to $480,000 after being wrongly imprisoned for 42 years. The state says no.",
-      "meta": "Justice · today",
+      "headline": "The EPA Doesn't Typically Retest Homes in the Country's Largest Residential Lead Superfund Site. So We Did.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "The EPA doesn't typically retest homes in the country's largest residential lead superfund site. So ProPublica did.",
-      "meta": "Environment · today",
+      "headline": "Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others?",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Greg Abbott blasted Corpus Christi for its water crisis — while a river authority he controls falls apart",
+      "headline": "He's Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "The Pentagon is posting cryptic Biblical messages on social media",
-      "meta": "National Security · today",
+      "headline": "The Pentagon Is Posting Cryptic Biblical Messages on Social Media",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 6,
+      "category": "betrayal",
+      "headline": "Black Residents Warned of Abusive Cops for Years. Then Police Shot and Killed a Toddler.",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
   ],
