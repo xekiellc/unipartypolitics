@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-05T21:17:22.204Z",
+  "updated": "2026-08-06T03:13:57.539Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC money shapes both parties as establishment Democrats crush progressive challengers",
-    "dek": "Corporate PAC spending crosses party lines to defeat insurgent candidates, exposing how both parties protect donor interests over voters.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Wesley Bell Again Defeats Cori Bush — With Plenty of Help From AIPAC",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "environment",
+      "headline": "Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others?",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "environment",
-      "headline": "The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead.",
-      "meta": "Environment · today",
+      "category": "betrayal",
+      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "accountability",
-      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
-      "meta": "Politics · today",
+      "category": "environment",
+      "headline": "The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "accountability",
-      "headline": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "Wesley Bell Again Defeats Cori Bush — With Plenty of Help From AIPAC",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "The EPA Doesn't Typically Retest Homes in the Country's Largest Residential Lead Superfund Site. So We Did.",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "category": "politics",
+      "headline": "The Most Expensive Democratic Senate Primary Has a Winner",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
