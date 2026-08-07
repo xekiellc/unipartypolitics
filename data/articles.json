@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-07T10:57:45.506Z",
+  "updated": "2026-08-07T14:57:57.759Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Crypto bill ethics counteroffer includes divestment requirement for Trump",
-    "dek": "Bipartisan negotiations over crypto legislation expose how both parties have allowed conflicts of interest to go unchecked while shaping financial regulation.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "Politico"
+    "headline": "Congress might give ICE sweeping new powers to pursue minor crimes",
+    "dek": "A bipartisan failure to check executive overreach as lawmakers on both sides allow federal immigration enforcement to expand far beyond its original mandate.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "He's Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No.",
+      "headline": "Crypto bill ethics standoff exposes how both parties protect lawmakers enriching themselves",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 2,
+      "category": "neglect",
+      "headline": "He spent 42 years wrongly imprisoned. The state still says he gets nothing.",
       "meta": "Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "Black Residents Warned of Abusive Cops for Years. Then Police Shot and Killed a Toddler.",
-      "meta": "Accountability · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others?",
-      "meta": "Environment · today",
+      "category": "hypocrisy",
+      "headline": "Democrat who accused Ken Paxton of voter fraud faces questions about his own voter registration",
+      "meta": "Elections · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "The Pentagon Is Posting Cryptic Biblical Messages on Social Media",
-      "meta": "Government · today",
-      "url": "https://theintercept.com"
+      "category": "neglect",
+      "headline": "Lead contamination plagues Omaha neighborhoods while the city picks and chooses who gets help",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "House Democrats Demand Answers From Trump's VA on Vets Struggling to Access Mental Healthcare",
-      "meta": "Veterans · today",
-      "url": "https://feeds.propublica.org"
+      "category": "accountability",
+      "headline": "Pentagon posts cryptic biblical messages on official social media as civilian oversight erodes",
+      "meta": "Defense · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
