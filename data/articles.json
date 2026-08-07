@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-07T09:05:23.492Z",
+  "updated": "2026-08-07T10:57:45.506Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Crypto bill ethics counteroffer includes divestment requirement for Trump",
-    "dek": "Bipartisan negotiations on crypto legislation reveal how both parties are scrambling to address conflicts of interest while still advancing a bill that critics say benefits politically connected insiders.",
+    "dek": "Bipartisan negotiations over crypto legislation expose how both parties have allowed conflicts of interest to go unchecked while shaping financial regulation.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,36 +15,36 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The Pentagon Is Posting Cryptic Biblical Messages on Social Media",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "He's Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No.",
+      "meta": "Justice · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
       "headline": "Black Residents Warned of Abusive Cops for Years. Then Police Shot and Killed a Toddler.",
-      "meta": "Politics · today",
+      "meta": "Accountability · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
-      "meta": "Politics · today",
+      "headline": "Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others?",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "He's Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "The Pentagon Is Posting Cryptic Biblical Messages on Social Media",
+      "meta": "Government · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others?",
-      "meta": "Politics · today",
+      "headline": "House Democrats Demand Answers From Trump's VA on Vets Struggling to Access Mental Healthcare",
+      "meta": "Veterans · today",
       "url": "https://feeds.propublica.org"
     }
   ],
