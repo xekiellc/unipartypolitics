@@ -1,50 +1,50 @@
 {
-  "updated": "2026-08-07T00:07:04.090Z",
+  "updated": "2026-08-07T04:29:18.133Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Black residents warned of abusive cops for years. Then police shot and killed a toddler.",
-    "dek": "Years of documented warnings about police misconduct were ignored by officials from both parties before a fatal shooting of a child exposed systemic failures in oversight and accountability.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Crypto bill ethics counteroffer still lets lawmakers profit while writing the rules",
+    "dek": "A bipartisan crypto bill moves forward with only a divestment requirement added, leaving both parties free to shape legislation over assets they hold.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The EPA doesn't typically retest homes in the country's largest residential lead superfund site. So we did.",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Black residents warned of abusive cops for years. Then police shot and killed a toddler.",
+      "meta": "Civil Rights · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Lead contamination is still a problem in Omaha. Why is the city cleaning up some yards and not others?",
-      "meta": "Politics · today",
+      "headline": "Greg Abbott blasted Corpus Christi for its water crisis — while a river authority he controls falls apart",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Greg Abbott blasted Corpus Christi for its water crisis. A river authority he controls is falling apart.",
-      "meta": "Politics · today",
+      "headline": "The EPA doesn't retest homes in the country's largest residential lead superfund site. So ProPublica did.",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "He's eligible for up to $480,000 after being wrongly imprisoned for 42 years. The state says no.",
+      "headline": "He's eligible for $480,000 after 42 years wrongly imprisoned. The state says no.",
       "meta": "Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "The Pentagon is posting cryptic biblical messages on social media",
-      "meta": "National Security · today",
+      "headline": "The Pentagon is posting cryptic biblical messages on official social media accounts",
+      "meta": "Government · today",
       "url": "https://theintercept.com"
     }
   ],
