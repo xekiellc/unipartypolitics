@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-07T07:24:39.843Z",
+  "updated": "2026-08-07T09:05:23.492Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Crypto bill ethics counteroffer includes divestment requirement for Trump",
-    "dek": "Bipartisan crypto legislation negotiations expose how both parties are scrambling to manage conflicts of interest rather than ban them outright, with neither side pushing for full accountability.",
+    "dek": "Bipartisan negotiations on crypto legislation reveal how both parties are scrambling to address conflicts of interest while still advancing a bill that critics say benefits politically connected insiders.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,9 +15,9 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
+      "headline": "The Pentagon Is Posting Cryptic Biblical Messages on Social Media",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "The EPA Doesn't Typically Retest Homes in the Country's Largest Residential Lead Superfund Site. So We Did.",
+      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
@@ -43,9 +43,9 @@
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "The Pentagon Is Posting Cryptic Biblical Messages on Social Media",
+      "headline": "Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others?",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
