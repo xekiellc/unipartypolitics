@@ -1,50 +1,50 @@
 {
-  "updated": "2026-08-08T10:38:45.233Z",
+  "updated": "2026-08-08T12:59:14.154Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress might give ICE sweeping new powers to pursue minor crimes",
-    "dek": "A bipartisan failure to check executive overreach as lawmakers on both sides allow immigration enforcement to expand far beyond serious offenders.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "State Department enlists Palantir to advise on free speech and digital surveillance",
+    "dek": "The surveillance-industrial complex deepens its grip on government as a major data contractor gains influence over speech and privacy policy.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Schumer said 'Democrats support voter ID' — then every Senate Democrat voted against GOP bill",
+      "headline": "Congress might give ICE the power to go after shoplifters",
       "meta": "Politics · today",
-      "url": "https://feeds.foxnews.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "He's eligible for up to $480,000 after being wrongly imprisoned for 42 years. The state says no.",
-      "meta": "Justice · today",
+      "headline": "He's eligible for $480K after 42 years wrongly imprisoned. The state says no.",
+      "meta": "Criminal Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "State Department wants Palantir's advice on free speech and countering digital surveillance",
-      "meta": "Technology · today",
-      "url": "https://theintercept.com"
+      "headline": "Lead contamination persists in Omaha — city picks winners and losers on cleanup",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Lead contamination is still a problem in Omaha — why is the city cleaning up some yards and not others?",
-      "meta": "Environment · today",
+      "headline": "Trump's VA leaves vets struggling to access mental healthcare as Democrats demand answers",
+      "meta": "Veterans · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Schumer caves, hands Republicans shutdown win after months of uncertainty",
-      "meta": "Congress · today",
+      "headline": "Dem Senate hopeful flip-flops on emerging issue hitting communities across the US",
+      "meta": "Elections · today",
       "url": "https://feeds.foxnews.com"
     }
   ],
