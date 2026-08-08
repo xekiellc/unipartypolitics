@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-08T18:45:37.476Z",
+  "updated": "2026-08-08T20:36:34.051Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress might give ICE sweeping new powers to pursue local crimes",
-    "dek": "A bipartisan failure of oversight as lawmakers consider expanding ICE jurisdiction into routine local law enforcement matters with little debate or reform guardrails.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Congress might give ICE sweeping new powers to pursue minor crimes",
+    "dek": "A bipartisan failure to check executive overreach as lawmakers on both sides eye expanding ICE jurisdiction to low-level offenses like shoplifting.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "State Dept. enlists Palantir to advise on free speech while enabling digital surveillance",
-      "meta": "Politics · today",
+      "headline": "State Dept. turns to Palantir for advice on free speech and digital surveillance",
+      "meta": "Surveillance · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "He spent 42 years wrongly imprisoned. The state still won't pay him.",
+      "headline": "Wrongly imprisoned for 42 years, he's owed $480K. The state says no.",
       "meta": "Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Dem lawmaker accused Paxton of voter fraud — now his own registration is under scrutiny",
-      "meta": "Politics · today",
+      "headline": "Lead contamination persists in Omaha — city picks winners and losers on cleanup",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Black residents warned of abusive cops for years. Then police shot and killed a toddler.",
-      "meta": "Accountability · today",
-      "url": "https://theintercept.com"
+      "headline": "Dem lawmaker accuses Paxton of voter fraud while his own registration raises questions",
+      "meta": "Elections · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Lead contamination persists in Omaha as city selectively decides which yards get cleaned up",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Black residents warned of abusive cops for years. Then police shot and killed a toddler.",
+      "meta": "Accountability · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
