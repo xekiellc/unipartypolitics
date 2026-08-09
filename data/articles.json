@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-09T20:39:06.920Z",
+  "updated": "2026-08-09T22:36:53.573Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "State Department enlists Palantir to advise on free speech while expanding digital surveillance",
-    "dek": "The same government that surveils citizens is outsourcing 'countering digital surveillance' advice to a controversial data broker with deep intelligence ties.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Congress might give ICE sweeping new powers to pursue everyday crimes",
+    "dek": "A bipartisan failure to limit federal overreach as lawmakers from both sides consider expanding ICE authority far beyond immigration enforcement into local shoplifting cases.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Congress eyes handing ICE sweeping new powers to pursue shoplifters",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "He's eligible for $480K after 42 years wrongly imprisoned — the state says no",
+      "meta": "Justice · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Wrongly imprisoned for 42 years, he's owed $480K in compensation. The state refuses to pay.",
-      "meta": "Justice · today",
+      "headline": "What is the Trump administration doing with foreign aid money?",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Democrat accuses Paxton of voter fraud while his own voter registration raises red flags",
-      "meta": "Elections · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "State Department wants Palantir advising on free speech and digital surveillance",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Lead contamination plagues Omaha neighborhoods — but the city is only cleaning up some yards",
+      "headline": "Lead contamination persists in Omaha — city picks winners and losers on cleanup",
       "meta": "Public Health · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Black residents warned authorities about abusive cops for years. Then police shot and killed a toddler.",
-      "meta": "Accountability · today",
-      "url": "https://theintercept.com"
+      "headline": "Dem accuses Paxton of voter fraud while his own voter registration raises questions",
+      "meta": "Elections · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
