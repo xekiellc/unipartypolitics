@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-08T22:34:59.173Z",
+  "updated": "2026-08-09T02:07:25.981Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "State Department enlists Palantir to advise on free speech while expanding surveillance",
-    "dek": "The same government that surveils citizens is now paying a controversial data contractor to offer guidance on 'countering digital surveillance' — with no congressional pushback from either party.",
+    "headline": "Congress might give ICE the power to go after shoplifters",
+    "dek": "A bipartisan failure to check executive overreach as lawmakers on both sides consider expanding ICE authority far beyond its original immigration mandate.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,8 +15,8 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Congress might give ICE power to go after shoplifters — a bipartisan failure of priorities",
-      "meta": "Politics · today",
+      "headline": "State Dept. wants Palantir's advice on free speech and 'countering digital surveillance'",
+      "meta": "Surveillance · today",
       "url": "https://theintercept.com"
     },
     {
@@ -29,23 +29,23 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Lead contamination plagues Omaha — but the city decides who gets help and who doesn't",
-      "meta": "Accountability · today",
+      "headline": "Lead contamination still plagues Omaha — city cleans some yards but not others",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Black residents warned of abusive cops for years. Then police shot and killed a toddler.",
-      "meta": "Civil Rights · today",
-      "url": "https://theintercept.com"
+      "headline": "Dem accuses Paxton of voter fraud while his own voter registration raises questions",
+      "meta": "Elections · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Democrat accuses Paxton of voter fraud while his own registration raises questions",
-      "meta": "Hypocrisy · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Black residents warned of abusive cops for years. Then police shot and killed a toddler.",
+      "meta": "Accountability · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
