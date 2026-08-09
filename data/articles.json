@@ -1,50 +1,50 @@
 {
-  "updated": "2026-08-09T05:10:27.165Z",
+  "updated": "2026-08-09T20:39:06.920Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress Might Give ICE the Power to Go After Shoplifters",
-    "dek": "A bipartisan failure of proportionality as lawmakers push to federalize local crime enforcement, expanding executive power with little resistance from either party.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "State Department enlists Palantir to advise on free speech while expanding digital surveillance",
+    "dek": "The same government that surveils citizens is outsourcing 'countering digital surveillance' advice to a controversial data broker with deep intelligence ties.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "State Department Wants Palantir's Advice on Free Speech and 'Countering Digital Surveillance'",
-      "meta": "Surveillance · today",
+      "headline": "Congress eyes handing ICE sweeping new powers to pursue shoplifters",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "He's Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No.",
+      "headline": "Wrongly imprisoned for 42 years, he's owed $480K in compensation. The state refuses to pay.",
       "meta": "Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions.",
+      "headline": "Democrat accuses Paxton of voter fraud while his own voter registration raises red flags",
       "meta": "Elections · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others?",
-      "meta": "Environment · today",
+      "headline": "Lead contamination plagues Omaha neighborhoods — but the city is only cleaning up some yards",
+      "meta": "Public Health · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Black Residents Warned of Abusive Cops for Years. Then Police Shot and Killed a Toddler.",
-      "meta": "Policing · today",
+      "headline": "Black residents warned authorities about abusive cops for years. Then police shot and killed a toddler.",
+      "meta": "Accountability · today",
       "url": "https://theintercept.com"
     }
   ],
