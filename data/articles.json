@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-10T15:04:23.782Z",
+  "updated": "2026-08-10T16:58:40.688Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress might give ICE sweeping new powers to pursue shoplifters",
-    "dek": "A bipartisan failure to define limits on federal enforcement is quietly expanding ICE's domestic mandate far beyond immigration, with little resistance from either party's leadership.",
+    "headline": "State Department enlists Palantir to advise on free speech while surveilling dissidents",
+    "dek": "The same government that surveils Americans is now asking a surveillance contractor for advice on countering digital surveillance — with no pushback from either party.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,36 +15,36 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "State Department turns to Palantir for advice on free speech and countering surveillance",
+      "headline": "Congress may hand ICE power to pursue shoplifters — expanding the surveillance state both parties built",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "He's eligible for $480,000 after 42 years wrongly imprisoned. The state says no.",
-      "meta": "Criminal Justice · today",
+      "headline": "Democrat accuses Paxton of voter fraud while his own voter registration raises red flags",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "More than half of East Omaha homes have unsafe lead levels — the EPA still won't act",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Pentagon's China obsession puts Hawaiians at risk — a bipartisan defense budget failure",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "The Pentagon's obsession with China is quietly putting Hawai'i at risk",
-      "meta": "Defense · today",
-      "url": "https://theintercept.com"
+      "headline": "Man wrongly imprisoned 42 years is denied $480,000 in compensation — the state says no",
+      "meta": "Justice · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "What is the Trump administration actually doing with foreign aid money?",
-      "meta": "Foreign Policy · today",
+      "headline": "East Omaha lead crisis ignored: EPA fails residents both parties promised to protect",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     }
   ],
