@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-10T16:58:40.688Z",
+  "updated": "2026-08-10T19:03:59.984Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "State Department enlists Palantir to advise on free speech while surveilling dissidents",
-    "dek": "The same government that surveils Americans is now asking a surveillance contractor for advice on countering digital surveillance — with no pushback from either party.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Pentagon's hawkish China obsession leaves American soil exposed to military risk",
+    "dek": "Decades of bipartisan defense policy prioritizing Pacific projection over homeland protection has left Hawai'i dangerously vulnerable, critics warn.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Congress may hand ICE power to pursue shoplifters — expanding the surveillance state both parties built",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Fauci texts reveal COVID vaccine concerns were discussed and withheld from public",
+      "meta": "Health Policy · today",
+      "url": "https://feeds.foxnews.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Democrat accuses Paxton of voter fraud while his own voter registration raises red flags",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "State Dept. turns to Palantir for guidance on free speech and digital surveillance policy",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Pentagon's China obsession puts Hawaiians at risk — a bipartisan defense budget failure",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Man wrongly imprisoned 42 years eligible for $480K — state says no",
+      "meta": "Justice · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Man wrongly imprisoned 42 years is denied $480,000 in compensation — the state says no",
-      "meta": "Justice · today",
+      "headline": "East Omaha homes have unsafe lead levels — EPA still won't act",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "East Omaha lead crisis ignored: EPA fails residents both parties promised to protect",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Congress eyes giving ICE authority to pursue shoplifting cases",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
