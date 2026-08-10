@@ -1,43 +1,50 @@
 {
-  "updated": "2026-08-10T11:12:43.104Z",
+  "updated": "2026-08-10T13:21:05.236Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress might give ICE sweeping new powers to pursue minor crimes",
-    "dek": "A bipartisan failure to check executive overreach as lawmakers on both sides allow ICE authority to expand well beyond its original immigration mandate.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "State Department enlists Palantir to advise on surveillance while expanding digital monitoring",
+    "dek": "The same administration decrying digital surveillance abroad is partnering with a controversial data firm, with little opposition from either party.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Vulnerable Dem embraces 'no tax on tips' after voting against Trump bill",
-      "meta": "Politics · today",
-      "url": "https://feeds.foxnews.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "State Dept. turns to Palantir for advice on free speech and digital surveillance",
+      "headline": "Congress might give ICE sweeping new powers to pursue minor offenses like shoplifting",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
-      "category": "neglect",
-      "headline": "More than half of East Omaha homes have unsafe lead levels — EPA still won't act",
+      "id": 2,
+      "category": "betrayal",
+      "headline": "Vulnerable Democrat embraces 'no tax on tips' after voting against the very same Trump bill",
       "meta": "Politics · today",
+      "url": "https://feeds.foxnews.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "He's eligible for $480,000 after 42 years wrongly imprisoned. The state says no.",
+      "meta": "Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "hypocrisy",
-      "headline": "Talarico accused Paxton of voter fraud — now his own registration raises questions",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "Pentagon's obsession with China is putting Hawai'i civilians at risk, critics warn",
+      "meta": "Defense · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "What is the Trump administration actually doing with foreign aid money? Nobody knows.",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     }
   ],
