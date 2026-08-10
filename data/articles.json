@@ -1,44 +1,51 @@
 {
-  "updated": "2026-08-10T02:12:22.970Z",
+  "updated": "2026-08-10T05:37:53.238Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress might give ICE the power to go after shoplifters",
-    "dek": "A bipartisan failure to constrain executive overreach as lawmakers from both sides allow immigration enforcement to expand far beyond its original mandate.",
+    "headline": "Bernie Sanders blasts Democrats over super PACs and AIPAC corruption",
+    "dek": "The Vermont senator demands his own party ban super PAC money from primaries, exposing the Democratic establishment's deep ties to big-money donors and foreign lobbying.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "Fox News"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Bernie Sanders blasts Democrats' 'corrupt system' over super PACs and AIPAC influence",
+      "headline": "James Talarico accused Ken Paxton of voter fraud — now his own voter registration is under scrutiny",
       "meta": "Politics · today",
-      "url": "https://feeds.foxnews.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "He's eligible for $480,000 after 42 years wrongly imprisoned. The state says no.",
-      "meta": "Criminal Justice · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "State Department wants Palantir's advice on free speech and countering digital surveillance",
-      "meta": "Tech & Power · today",
+      "headline": "State Department seeks Palantir's advice on countering digital surveillance — while expanding its own",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
+      "id": 3,
+      "category": "neglect",
+      "headline": "He's eligible for $480,000 after 42 years wrongly imprisoned. The state says no.",
+      "meta": "Justice · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Lead contamination persists in Omaha — but the city is only cleaning up some yards",
+      "category": "neglect",
+      "headline": "Lead contamination still plagues Omaha — and the city is picking winners and losers on cleanup",
       "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Congress might hand ICE the power to pursue shoplifters — with bipartisan silence",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
