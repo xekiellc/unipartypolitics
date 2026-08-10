@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-10T07:51:24.283Z",
+  "updated": "2026-08-10T09:38:39.255Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress might give ICE the power to go after shoplifters",
-    "dek": "A bipartisan failure to check executive overreach as lawmakers consider handing immigration enforcement sweeping new domestic policing authority.",
+    "headline": "Congress Might Give ICE the Power to Go After Shoplifters",
+    "dek": "A bipartisan failure to limit federal overreach as lawmakers on both sides consider expanding ICE authority well beyond its immigration mandate into local law enforcement.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,28 +15,28 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Bernie Sanders blasts Democrats over super PACs and AIPAC: 'corrupt system'",
+      "headline": "Bernie Sanders Demands Democrats Ban Super PACs, Blasts 'Corrupt System'",
       "meta": "Politics · today",
       "url": "https://feeds.foxnews.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "State Department wants Palantir's advice on free speech and countering digital surveillance",
+      "headline": "State Department Wants Palantir's Advice on Free Speech and 'Countering Digital Surveillance'",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "He's eligible for $480,000 after 42 years wrongly imprisoned. The state says no.",
-      "meta": "Politics · today",
+      "category": "neglect",
+      "headline": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. The EPA Won't Clean Them Up.",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Lead contamination persists in Omaha as city cleans up some yards and ignores others",
+      "category": "hypocrisy",
+      "headline": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
