@@ -1,50 +1,43 @@
 {
-  "updated": "2026-08-09T22:36:53.573Z",
+  "updated": "2026-08-10T02:12:22.970Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress might give ICE sweeping new powers to pursue everyday crimes",
-    "dek": "A bipartisan failure to limit federal overreach as lawmakers from both sides consider expanding ICE authority far beyond immigration enforcement into local shoplifting cases.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Congress might give ICE the power to go after shoplifters",
+    "dek": "A bipartisan failure to constrain executive overreach as lawmakers from both sides allow immigration enforcement to expand far beyond its original mandate.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "He's eligible for $480K after 42 years wrongly imprisoned — the state says no",
-      "meta": "Justice · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Bernie Sanders blasts Democrats' 'corrupt system' over super PACs and AIPAC influence",
+      "meta": "Politics · today",
+      "url": "https://feeds.foxnews.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "What is the Trump administration doing with foreign aid money?",
-      "meta": "Accountability · today",
+      "headline": "He's eligible for $480,000 after 42 years wrongly imprisoned. The state says no.",
+      "meta": "Criminal Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "State Department wants Palantir advising on free speech and digital surveillance",
-      "meta": "Civil Liberties · today",
+      "headline": "State Department wants Palantir's advice on free speech and countering digital surveillance",
+      "meta": "Tech & Power · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Lead contamination persists in Omaha — city picks winners and losers on cleanup",
-      "meta": "Public Health · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Dem accuses Paxton of voter fraud while his own voter registration raises questions",
-      "meta": "Elections · today",
+      "headline": "Lead contamination persists in Omaha — but the city is only cleaning up some yards",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     }
   ],
