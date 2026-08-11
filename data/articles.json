@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-11T05:14:21.188Z",
+  "updated": "2026-08-11T07:16:27.592Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon's hawkish China policy leaves Hawai'i vulnerable while Congress stays silent",
-    "dek": "Bipartisan deference to military buildup prioritizes great power competition over the safety of American communities on the front lines.",
+    "headline": "State Department enlists Palantir to advise on surveillance while expanding digital monitoring",
+    "dek": "The same government that claims to fight digital surveillance hands a surveillance giant a seat at the table — with no meaningful pushback from either party.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,35 +15,35 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "State Department enlists Palantir to advise on free speech and digital surveillance",
-      "meta": "Politics · today",
+      "headline": "Congress eyes giving ICE power to pursue shoplifters — a bipartisan border security obsession run amok",
+      "meta": "Immigration · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Congress may hand ICE sweeping new powers to pursue shoplifting cases",
-      "meta": "Politics · today",
+      "headline": "Pentagon's China fixation leaves Hawai'i exposed — decades of bipartisan military prioritization to blame",
+      "meta": "Defense · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "accountability",
-      "headline": "He's eligible for $480,000 after 42 years wrongly imprisoned. The state says no.",
-      "meta": "Justice · today",
+      "category": "neglect",
+      "headline": "East Omaha's lead crisis: EPA looks away as both parties fail low-income communities on environmental justice",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "accountability",
-      "headline": "More than half of East Omaha homes have unsafe lead levels — the EPA still won't act",
-      "meta": "Environment · today",
+      "headline": "Man wrongly imprisoned 42 years eligible for $480K — the state still says no",
+      "meta": "Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
+      "id": 4,
       "category": "hypocrisy",
-      "headline": "James Talarico accused Ken Paxton of voter fraud — now his own registration is under scrutiny",
+      "headline": "Democrat who accused Ken Paxton of voter fraud faces questions about his own voter registration",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
