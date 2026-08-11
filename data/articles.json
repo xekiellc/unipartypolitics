@@ -1,50 +1,50 @@
 {
-  "updated": "2026-08-11T09:04:48.376Z",
+  "updated": "2026-08-11T15:03:19.252Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "State Department enlists Palantir for 'free speech' and surveillance advice",
-    "dek": "The Trump administration turns to a controversial data firm to advise on digital surveillance policy, continuing a bipartisan tradition of outsourcing civil liberties decisions to private contractors.",
+    "headline": "FOIA system collapses as government stonewalls public records requests across administrations",
+    "dek": "Transparency failures span Republican and Democrat administrations alike, leaving journalists and citizens without answers on matters of public concern.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Congress might give ICE the power to go after shoplifters",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "He's eligible for up to $480,000 after being wrongly imprisoned for 42 years. The state says no.",
-      "meta": "Justice · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "More than half the homes in East Omaha have unsafe lead levels. That doesn't mean the EPA will clean them up.",
+      "headline": "EPA won't clean lead-poisoned homes in East Omaha despite unsafe levels in half of properties",
       "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "Pentagon obsession with China puts Hawaiʻi civilians at risk, critics warn",
+      "meta": "Defense · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "State Department taps Palantir for advice on countering digital surveillance — the same surveillance it enables",
+      "meta": "Tech & Power · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 4,
       "category": "betrayal",
-      "headline": "The Pentagon's obsession with China puts Hawai'i at risk",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
+      "headline": "Man wrongly imprisoned 42 years eligible for $480K in compensation — state refuses to pay",
+      "meta": "Justice · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "James Talarico accused Ken Paxton of voter fraud. His own voter registration is raising questions.",
-      "meta": "Elections · today",
+      "headline": "What is the Trump administration actually doing with frozen foreign aid money?",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     }
   ],
