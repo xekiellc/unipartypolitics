@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-10T22:43:35.932Z",
+  "updated": "2026-08-11T02:06:50.560Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress eyes giving ICE sweeping new powers with little resistance from either party",
-    "dek": "Legislation expanding ICE authority to pursue shoplifters has drawn support from Republicans and muted opposition from Democrats, raising civil liberties alarms.",
+    "headline": "State Department taps Palantir for advice on countering digital surveillance",
+    "dek": "The same government that expanded surveillance powers is now asking a controversial data firm to advise on 'free speech' and privacy — with bipartisan silence on the conflict of interest.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "State Dept. turns to Palantir for advice on free speech and digital surveillance",
+      "headline": "Congress might give ICE the power to go after shoplifters",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "He's owed $480K after 42 years wrongly imprisoned. The state says no.",
+      "headline": "He's eligible for up to $480,000 after being wrongly imprisoned for 42 years. The state says no.",
       "meta": "Criminal Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "What is the Trump administration actually doing with foreign aid money?",
-      "meta": "Foreign Policy · today",
+      "headline": "More than half the homes in East Omaha have unsafe lead levels. That doesn't mean the EPA will clean them up.",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "More than half of East Omaha homes have unsafe lead levels — the EPA isn't cleaning them up",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "The Pentagon's obsession with China puts Hawai'i at risk",
+      "meta": "Defense · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "The Pentagon's obsession with China is putting Hawai'i residents at risk",
-      "meta": "Defense · today",
-      "url": "https://theintercept.com"
+      "headline": "James Talarico accused Ken Paxton of voter fraud. His own voter registration is raising questions.",
+      "meta": "Elections · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
