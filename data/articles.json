@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-11T07:16:27.592Z",
+  "updated": "2026-08-11T09:04:48.376Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "State Department enlists Palantir to advise on surveillance while expanding digital monitoring",
-    "dek": "The same government that claims to fight digital surveillance hands a surveillance giant a seat at the table — with no meaningful pushback from either party.",
+    "headline": "State Department enlists Palantir for 'free speech' and surveillance advice",
+    "dek": "The Trump administration turns to a controversial data firm to advise on digital surveillance policy, continuing a bipartisan tradition of outsourcing civil liberties decisions to private contractors.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,36 +15,36 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Congress eyes giving ICE power to pursue shoplifters — a bipartisan border security obsession run amok",
-      "meta": "Immigration · today",
+      "headline": "Congress might give ICE the power to go after shoplifters",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Pentagon's China fixation leaves Hawai'i exposed — decades of bipartisan military prioritization to blame",
-      "meta": "Defense · today",
-      "url": "https://theintercept.com"
+      "headline": "He's eligible for up to $480,000 after being wrongly imprisoned for 42 years. The state says no.",
+      "meta": "Justice · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "neglect",
-      "headline": "East Omaha's lead crisis: EPA looks away as both parties fail low-income communities on environmental justice",
+      "category": "betrayal",
+      "headline": "More than half the homes in East Omaha have unsafe lead levels. That doesn't mean the EPA will clean them up.",
       "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "accountability",
-      "headline": "Man wrongly imprisoned 42 years eligible for $480K — the state still says no",
-      "meta": "Justice · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "The Pentagon's obsession with China puts Hawai'i at risk",
+      "meta": "National Security · today",
+      "url": "https://theintercept.com"
     },
     {
-      "id": 4,
-      "category": "hypocrisy",
-      "headline": "Democrat who accused Ken Paxton of voter fraud faces questions about his own voter registration",
-      "meta": "Politics · today",
+      "id": 5,
+      "category": "betrayal",
+      "headline": "James Talarico accused Ken Paxton of voter fraud. His own voter registration is raising questions.",
+      "meta": "Elections · today",
       "url": "https://feeds.propublica.org"
     }
   ],
