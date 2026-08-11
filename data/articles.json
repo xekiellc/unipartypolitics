@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-11T15:03:19.252Z",
+  "updated": "2026-08-11T17:02:21.365Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "FOIA system collapses as government stonewalls public records requests across administrations",
-    "dek": "Transparency failures span Republican and Democrat administrations alike, leaving journalists and citizens without answers on matters of public concern.",
+    "headline": "Pentagon's China obsession puts American territory at risk while Congress stays silent",
+    "dek": "Both parties have funded Pentagon priorities that defense analysts warn leave Hawaii dangerously exposed, with little congressional pushback from either side of the aisle.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "EPA won't clean lead-poisoned homes in East Omaha despite unsafe levels in half of properties",
-      "meta": "Environment · today",
+      "headline": "FOIA system in collapse: government stonewalls public records requests across administrations",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Pentagon obsession with China puts Hawaiʻi civilians at risk, critics warn",
-      "meta": "Defense · today",
-      "url": "https://theintercept.com"
+      "category": "neglect",
+      "headline": "East Omaha lead crisis: EPA slow-walks cleanup as families suffer under bipartisan regulatory failure",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "State Department taps Palantir for advice on countering digital surveillance — the same surveillance it enables",
+      "category": "corruption",
+      "headline": "State Department taps Palantir for advice on digital surveillance — the company that profits from it",
       "meta": "Tech & Power · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Man wrongly imprisoned 42 years eligible for $480K in compensation — state refuses to pay",
+      "headline": "Man wrongly imprisoned 42 years eligible for $480K — state refuses to pay",
       "meta": "Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "What is the Trump administration actually doing with frozen foreign aid money?",
-      "meta": "Accountability · today",
-      "url": "https://feeds.propublica.org"
+      "category": "rare win",
+      "headline": "Warren backs Trump-aligned push to curb defense contractor CEO pay",
+      "meta": "Defense spending · today",
+      "url": "https://feeds.foxnews.com"
     }
   ],
   "stats": {
