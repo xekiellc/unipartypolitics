@@ -1,44 +1,51 @@
 {
-  "updated": "2026-08-12T20:52:14.376Z",
+  "updated": "2026-08-12T22:48:31.273Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense contractor that delivered zero production, exposing how both parties rubber-stamp Pentagon waste.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "dek": "A bipartisan Congress appropriated half a billion dollars for a defense plant that never produced a single shell, exposing how both parties rubber-stamp Pentagon waste.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Abuse in private juvenile prisons stayed hidden while politicians looked away",
+      "headline": "Abuse in Tennessee juvenile prisons stayed hidden while both parties looked away",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "More than half of East Omaha homes have unsafe lead levels — and the EPA won't act",
+      "headline": "FOIA requests go unanswered as government transparency collapses under both parties",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Pentagon claims zero civilian deaths in boat strikes in report critics call a 'total whitewash'",
+      "headline": "More than half of East Omaha homes have unsafe lead levels — the EPA won't act",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "FOIA requests go unanswered as government transparency collapses across administrations",
+      "headline": "Pentagon report claims zero civilian deaths in boat strikes — critics call it a whitewash",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Democrats vow crackdown on Paramount merger while taking media industry cash",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
