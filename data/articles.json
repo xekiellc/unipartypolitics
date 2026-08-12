@@ -1,51 +1,44 @@
 {
-  "updated": "2026-08-12T19:08:27.741Z",
+  "updated": "2026-08-12T20:52:14.376Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense project that produced zero output, exposing how both parties rubber-stamp wasteful Pentagon spending.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense contractor that delivered zero production, exposing how both parties rubber-stamp Pentagon waste.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "neglect",
-      "headline": "More than half the homes in East Omaha have unsafe lead levels — the EPA won't clean them up",
-      "meta": "Environment · today",
+      "category": "betrayal",
+      "headline": "Abuse in private juvenile prisons stayed hidden while politicians looked away",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "accountability",
-      "headline": "Abuse in a Tennessee businessman's juvenile prisons remained under wraps for years",
-      "meta": "Criminal Justice · today",
+      "category": "betrayal",
+      "headline": "More than half of East Omaha homes have unsafe lead levels — and the EPA won't act",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "transparency",
-      "headline": "Is there anyone who can respond to my FOIA requests? Anyone?",
-      "meta": "Government · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "Pentagon claims zero civilian deaths in boat strikes in report critics call a 'total whitewash'",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "military",
-      "headline": "Pentagon report claims U.S. killed no civilians in boat strikes — critics call it a total whitewash",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "corruption",
-      "headline": "The Intercept sues Trump for selling premium access to Truth Social announcements",
+      "category": "betrayal",
+      "headline": "FOIA requests go unanswered as government transparency collapses across administrations",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
