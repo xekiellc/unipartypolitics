@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-12T15:02:47.902Z",
+  "updated": "2026-08-12T17:01:29.658Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "$533 million artillery plant built with taxpayer funds produced nothing",
-    "dek": "A bipartisan Congress funded a half-billion-dollar defense boondoggle that never manufactured a single artillery shell, exposing how both parties rubber-stamp Pentagon waste.",
+    "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense project that produced zero output, exposing how both parties rubber-stamp Pentagon waste.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Juvenile prison abuse hidden for years while both parties looked away",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "More than half the homes in East Omaha have unsafe lead levels — and the EPA won't clean them up",
+      "meta": "Environment · today",
+      "url": "https://www.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "FOIA system in collapse as government transparency hits new low",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Abuse in a Tennessee businessman's juvenile prisons stayed hidden — with government's help",
+      "meta": "Criminal Justice · today",
+      "url": "https://www.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Over half of East Omaha homes have unsafe lead levels — EPA refuses to act",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "FOIA requests go unanswered as government transparency collapses under both administrations",
+      "meta": "Accountability · today",
+      "url": "https://www.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Pentagon claims zero civilian deaths in boat strikes, critics call it a whitewash",
-      "meta": "Politics · today",
+      "headline": "Pentagon report claims U.S. killed no civilians in boat strikes — critics call it a total whitewash",
+      "meta": "National Security · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Minnesota fraud scandal exploded while state's No. 2 official looked the other way",
+      "meta": "State Politics · today",
+      "url": "https://www.foxnews.com"
     }
   ],
   "stats": {
