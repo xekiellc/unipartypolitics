@@ -1,50 +1,43 @@
 {
-  "updated": "2026-08-12T13:21:37.272Z",
+  "updated": "2026-08-12T15:02:47.902Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Pentagon accountability void",
-    "headline": "Pentagon report claims zero civilian deaths in boat strikes, watchdogs cry whitewash",
-    "dek": "A new Defense Department report absolves the U.S. military of civilian casualties in boat strikes — a conclusion independent investigators and critics call a deliberate cover-up spanning multiple administrations.",
+    "kicker": "Both parties fail again",
+    "headline": "$533 million artillery plant built with taxpayer funds produced nothing",
+    "dek": "A bipartisan Congress funded a half-billion-dollar defense boondoggle that never manufactured a single artillery shell, exposing how both parties rubber-stamp Pentagon waste.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "waste",
-      "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-      "meta": "Defense Spending · today",
+      "category": "betrayal",
+      "headline": "Juvenile prison abuse hidden for years while both parties looked away",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "negligence",
-      "headline": "More than half of East Omaha homes have unsafe lead levels — the EPA still won't act",
-      "meta": "Environment · today",
+      "category": "betrayal",
+      "headline": "FOIA system in collapse as government transparency hits new low",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "How abuse in a Tennessee businessman's juvenile prisons stayed buried for years",
-      "meta": "Criminal Justice · today",
+      "category": "betrayal",
+      "headline": "Over half of East Omaha homes have unsafe lead levels — EPA refuses to act",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "obstruction",
-      "headline": "FOIA requests pile up with no response as government transparency collapses",
-      "meta": "Accountability · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "military",
-      "headline": "The Pentagon's China obsession is putting Hawaiʻi civilians in the crosshairs",
-      "meta": "National Security · today",
+      "category": "betrayal",
+      "headline": "Pentagon claims zero civilian deaths in boat strikes, critics call it a whitewash",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
   ],
