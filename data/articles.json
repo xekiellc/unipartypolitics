@@ -1,44 +1,51 @@
 {
-  "updated": "2026-08-12T09:16:38.738Z",
+  "updated": "2026-08-12T13:21:37.272Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "FOIA requests go unanswered as government transparency collapses across administrations",
-    "dek": "Journalists and watchdogs report systemic stonewalling of public records requests, a bipartisan tradition of keeping citizens in the dark.",
+    "kicker": "Pentagon accountability void",
+    "headline": "Pentagon report claims zero civilian deaths in boat strikes, watchdogs cry whitewash",
+    "dek": "A new Defense Department report absolves the U.S. military of civilian casualties in boat strikes — a conclusion independent investigators and critics call a deliberate cover-up spanning multiple administrations.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Juvenile prison abuse stayed hidden while both parties looked away",
-      "meta": "Accountability · today",
+      "category": "waste",
+      "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
+      "meta": "Defense Spending · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "neglect",
-      "headline": "East Omaha lead crisis: EPA won't act despite half of homes testing unsafe",
+      "category": "negligence",
+      "headline": "More than half of East Omaha homes have unsafe lead levels — the EPA still won't act",
       "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "military",
-      "headline": "Pentagon report claims zero civilian deaths in boat strikes — critics call it a whitewash",
-      "meta": "Defense · today",
-      "url": "https://theintercept.com"
+      "category": "corruption",
+      "headline": "How abuse in a Tennessee businessman's juvenile prisons stayed buried for years",
+      "meta": "Criminal Justice · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "transparency",
-      "headline": "Where did the foreign aid money go? Trump administration isn't saying",
-      "meta": "Politics · today",
+      "category": "obstruction",
+      "headline": "FOIA requests pile up with no response as government transparency collapses",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "military",
+      "headline": "The Pentagon's China obsession is putting Hawaiʻi civilians in the crosshairs",
+      "meta": "National Security · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
