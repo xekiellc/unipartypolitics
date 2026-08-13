@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-13T17:01:02.129Z",
+  "updated": "2026-08-13T19:08:49.922Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress appropriated over half a billion dollars for a defense plant that produced zero output, exposing unchecked Pentagon spending under both parties.",
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense contractor that delivered zero production, exposing how both parties rubber-stamp Pentagon waste.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,36 +15,36 @@
     {
       "id": 1,
       "category": "waste",
-      "headline": "More than half the homes in East Omaha have unsafe lead levels. The EPA won't clean them up.",
-      "meta": "Environment · today",
+      "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
+      "meta": "Defense · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "How abuse in a Tennessee businessman's juvenile prisons remained under wraps",
+      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
       "meta": "Criminal Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "accountability",
-      "headline": "Is there anyone who can respond to my FOIA requests? Anyone?",
-      "meta": "Transparency · today",
+      "category": "transparency",
+      "headline": "Is There Anyone Who Can Respond to My FOIA Requests? Anyone?",
+      "meta": "Government · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "This national youth sports organization is failing to protect kids from sexual abuse",
-      "meta": "Accountability · today",
+      "category": "neglect",
+      "headline": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. The EPA Won't Clean Them Up.",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "corruption",
-      "headline": "Senate-passed government funding bill gets warm House reception",
-      "meta": "Congress · today",
+      "headline": "Why House GOP Hopes of Cracking Down on Fraud Could Flame Out",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
   ],
