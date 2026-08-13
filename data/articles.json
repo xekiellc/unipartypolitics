@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-13T05:43:37.669Z",
+  "updated": "2026-08-13T07:42:24.433Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single shell, exposing how both parties rubber-stamp Pentagon waste.",
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense project that produced zero output, exposing how both parties rubber-stamp wasteful military spending.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,29 +14,36 @@
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "How abuse in a Tennessee businessman's juvenile prisons remained under wraps",
+      "category": "accountability",
+      "headline": "Abuse in Tennessee's private juvenile prisons stayed hidden for years",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "accountability",
-      "headline": "Is there anyone who can respond to my FOIA requests? Anyone?",
+      "category": "transparency",
+      "headline": "FOIA requests go unanswered as government stonewalls public records",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "negligence",
-      "headline": "More than half the homes in East Omaha have unsafe lead levels — the EPA still won't clean them up",
+      "category": "neglect",
+      "headline": "More than half of East Omaha homes have unsafe lead levels — the EPA won't act",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "veterans",
-      "headline": "Pentagon report claims U.S. killed no civilians in boat strikes — critics call it a total whitewash",
+      "headline": "Trump's VA leaves vets struggling to access mental healthcare",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "accountability",
+      "headline": "Pentagon report claims U.S. killed no civilians in boat strikes — critics call it a whitewash",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
