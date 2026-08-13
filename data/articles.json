@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-13T19:08:49.922Z",
+  "updated": "2026-08-13T20:50:06.573Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense contractor that delivered zero production, exposing how both parties rubber-stamp Pentagon waste.",
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single shell, exposing how both parties rubber-stamp Pentagon waste.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -30,13 +30,13 @@
       "id": 3,
       "category": "transparency",
       "headline": "Is There Anyone Who Can Respond to My FOIA Requests? Anyone?",
-      "meta": "Government · today",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "neglect",
-      "headline": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. The EPA Won't Clean Them Up.",
+      "headline": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. That Doesn't Mean the EPA Will Clean Them Up.",
       "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
