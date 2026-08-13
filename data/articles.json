@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-13T07:42:24.433Z",
+  "updated": "2026-08-13T13:23:44.879Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense project that produced zero output, exposing how both parties rubber-stamp wasteful military spending.",
+    "headline": "$533 Million Artillery Plant Funded by Taxpayers Made Absolutely Nothing",
+    "dek": "A bipartisan Congress approved hundreds of millions in defense spending for a factory that never produced a single artillery shell, exposing how both parties rubber-stamp wasteful military contracts.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,38 +14,31 @@
   "articles": [
     {
       "id": 1,
-      "category": "accountability",
-      "headline": "Abuse in Tennessee's private juvenile prisons stayed hidden for years",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "More Than Half East Omaha Homes Have Unsafe Lead Levels — EPA Won't Act",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "transparency",
-      "headline": "FOIA requests go unanswered as government stonewalls public records",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "Abuse in Tennessee's Private Juvenile Prisons Stayed Hidden for Years",
+      "meta": "Criminal Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "neglect",
-      "headline": "More than half of East Omaha homes have unsafe lead levels — the EPA won't act",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "Government FOIA Stonewalling Has Gotten So Bad Even Journalists Can't Get Answers",
+      "meta": "Transparency · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "veterans",
-      "headline": "Trump's VA leaves vets struggling to access mental healthcare",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "National Youth Sports Organization Failed to Protect Kids From Sexual Abuse",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "accountability",
-      "headline": "Pentagon report claims U.S. killed no civilians in boat strikes — critics call it a whitewash",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
     }
   ],
   "stats": {
