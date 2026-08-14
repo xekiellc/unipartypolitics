@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-14T07:39:45.432Z",
+  "updated": "2026-08-14T09:12:20.670Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "ProPublica"
+    "headline": "Congress passes government funding bill with bipartisan backing",
+    "dek": "Senate-passed spending bill received warm House reception as both parties joined to fund government priorities with little resistance or accountability.",
+    "votes_r": 45,
+    "votes_d": 38,
+    "votes_yes": 83,
+    "votes_no": 14,
+    "source": "Politico"
   },
   "articles": [
     {
@@ -22,30 +22,30 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
+      "headline": "How Abuse in Tennessee's Juvenile Prisons Remained Under Wraps",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "transparency",
-      "headline": "Is There Anyone Who Can Respond to My FOIA Requests? Anyone?",
+      "category": "failure",
+      "headline": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. The EPA Won't Clean Them Up.",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "neglect",
-      "headline": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. The EPA Won't Clean Them Up.",
+      "category": "failure",
+      "headline": "Is There Anyone Who Can Respond to My FOIA Requests? Anyone?",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Senate-Passed Government Funding Bill Gets Warm House Reception",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
+      "headline": "Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
