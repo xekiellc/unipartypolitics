@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-14T05:41:09.854Z",
+  "updated": "2026-08-14T07:39:45.432Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "$533 million artillery plant built on taxpayer money made absolutely nothing",
-    "dek": "A bipartisan Congress funded a half-billion dollar defense boondoggle that produced zero artillery shells, exposing how both parties rubber-stamp Pentagon waste.",
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
     "votes_r": 42,
     "votes_d": 36,
     "votes_yes": 78,
@@ -14,37 +14,37 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "EPA ignores lead poisoning crisis affecting half of East Omaha homes",
-      "meta": "Environment · today",
+      "category": "waste",
+      "headline": "Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Juvenile prison abuse stayed hidden while both parties looked away",
-      "meta": "Criminal Justice · today",
+      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "FOIA requests go unanswered as government transparency collapses under both parties",
-      "meta": "Accountability · today",
+      "category": "transparency",
+      "headline": "Is There Anyone Who Can Respond to My FOIA Requests? Anyone?",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Youth sports org promised reforms to protect kids from abuse — most never came",
-      "meta": "Child Safety · today",
+      "category": "neglect",
+      "headline": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. The EPA Won't Clean Them Up.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Senate targets Roblox for kids' safety while Congress funds the same corporate lobby donors",
-      "meta": "Politics · today",
+      "headline": "Senate-Passed Government Funding Bill Gets Warm House Reception",
+      "meta": "Politico · today",
       "url": "https://rss.politico.com"
     }
   ],
