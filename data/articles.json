@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-13T22:50:11.755Z",
+  "updated": "2026-08-14T02:24:28.163Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense project that produced zero results, with oversight failures spanning multiple administrations.",
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single artillery shell, exposing how both parties rubber-stamp wasteful military spending.",
     "votes_r": 42,
     "votes_d": 36,
     "votes_yes": 78,
@@ -15,37 +15,23 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "FOIA requests go unanswered as government transparency collapses under both parties",
-      "meta": "Accountability · today",
+      "headline": "More than half the homes in East Omaha have unsafe lead levels. The EPA won't clean them up.",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "East Omaha lead crisis: EPA fails to act as both parties look away",
-      "meta": "Environment · today",
+      "headline": "How abuse in a Tennessee businessman's juvenile prisons remained under wraps",
+      "meta": "Criminal Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Juvenile prison abuse stayed hidden while Tennessee officials from both parties stayed silent",
-      "meta": "Justice · today",
+      "headline": "FOIA requests go unanswered as government transparency collapses across administrations",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Senate targets Roblox but ignores decade of bipartisan inaction on kids' online safety",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "'No tax' fever grips Congress as both parties dodge hard fiscal choices",
-      "meta": "Economy · today",
-      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
