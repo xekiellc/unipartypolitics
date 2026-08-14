@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-14T13:18:03.835Z",
+  "updated": "2026-08-14T14:56:42.345Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions in defense spending for a factory that never produced a single shell, exposing how both parties rubber-stamp wasteful military contracts.",
+    "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense contractor that delivered zero production, exposing how both parties rubber-stamp Pentagon waste.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,37 +14,37 @@
   "articles": [
     {
       "id": 1,
-      "category": "waste",
-      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "meta": "Finance · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
       "category": "betrayal",
-      "headline": "Senate-Passed Government Funding Bill Gets Warm House Reception",
+      "headline": "Senate-passed government funding bill gets warm House reception — with no real reforms",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 3,
-      "category": "failure",
-      "headline": "Youth Sports Giant Promised Reforms to Protect Kids From Abuse. Most Never Happened.",
-      "meta": "Accountability · today",
+      "id": 2,
+      "category": "betrayal",
+      "headline": "Wall Street nonprofits use opaque logic to defund charities while avoiding accountability",
+      "meta": "Finance · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
-      "category": "corruption",
-      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Abuse in Tennessee juvenile prisons stayed hidden — with state officials from both parties looking away",
       "meta": "Criminal Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Youth sports giant promised reforms to protect kids from sexual abuse. Most never happened.",
+      "meta": "Accountability · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 5,
-      "category": "politics",
-      "headline": "'No Tax' Fever Hits Congress as Both Parties Dodge Fiscal Reality",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "Senate kids' safety probe targets Roblox — but Congress has ignored child safety online for years",
+      "meta": "Tech · today",
       "url": "https://rss.politico.com"
     }
   ],
