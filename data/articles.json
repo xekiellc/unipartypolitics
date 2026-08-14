@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-14T20:35:50.374Z",
+  "updated": "2026-08-14T22:29:05.276Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense contractor that delivered zero production, exposing how both parties rubber-stamp Pentagon waste.",
+    "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
+    "dek": "A half-billion dollar defense boondoggle flourished under both Republican and Democrat administrations, with Congress signing off on spending that produced zero results for American taxpayers.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -21,24 +21,31 @@
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Senate Kids' Safety Probe Targets Roblox — While Abuse in Private Juvenile Prisons Went Ignored for Years",
+      "category": "negligence",
+      "headline": "A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "negligence",
+      "headline": "Senate Kids' Safety Probe Targets Roblox Gaming Platform",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps as Both Parties Looked Away",
-      "meta": "Criminal Justice · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
       "id": 4,
       "category": "betrayal",
-      "headline": "Senate-Passed Government Funding Bill Gets Warm House Reception — No Reform Attached",
-      "meta": "Congress · today",
-      "url": "https://rss.politico.com"
+      "headline": "Tennessee Plans Another Execution Despite Its Brutal Recent Mistakes",
+      "meta": "Justice · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "corruption",
+      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
+      "meta": "Justice · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
