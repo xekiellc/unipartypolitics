@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-15T06:47:09.108Z",
+  "updated": "2026-08-15T08:35:16.007Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "A government-backed manufacturing project burned through half a billion dollars in public funds and produced zero output — a failure that spanned administrations of both parties.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "dek": "A massive defense contract burned through half a billion dollars in public funds and produced zero output — a failure spanning multiple administrations and congresses.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
@@ -29,16 +29,16 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
+      "headline": "Senate kids' safety probe targets Roblox gaming platform",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Senate Kids' Safety Probe Targets Roblox Gaming Platform",
+      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
