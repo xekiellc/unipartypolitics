@@ -1,44 +1,51 @@
 {
-  "updated": "2026-08-15T14:28:25.390Z",
+  "updated": "2026-08-15T16:30:54.619Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "Bipartisan congressional oversight failures allowed hundreds of millions in defense spending to produce zero results, leaving taxpayers holding the bill.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
+    "dek": "A bipartisan Congress approved over half a billion dollars for a defense plant that produced zero artillery rounds, exposing systemic oversight failures across party lines.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Senate-Passed Government Funding Bill Gets Warm House Reception",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
+      "meta": "Finance · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "meta": "ProPublica · today",
+      "category": "corruption",
+      "headline": "Youth Sports Giant Promised Reforms to Protect Kids From Abuse. Most Never Happened.",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Senate Kids' Safety Probe Targets Roblox — But Congress Has Long Ignored Big Tech",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "corruption",
+      "headline": "Abuse in Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
+      "meta": "Criminal Justice · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Senate-Passed Government Funding Bill Gets Warm House Reception — With Little Scrutiny",
+      "meta": "Congress · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "oversight",
+      "headline": "Senate Kids' Safety Probe Targets Roblox — But Will Either Party Follow Through?",
+      "meta": "Tech · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
