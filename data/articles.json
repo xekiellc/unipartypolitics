@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-15T12:48:16.819Z",
+  "updated": "2026-08-15T14:28:25.390Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "Bipartisan congressional oversight failures allowed hundreds of millions in defense spending to vanish with zero accountability and zero production.",
+    "dek": "Bipartisan congressional oversight failures allowed hundreds of millions in defense spending to produce zero results, leaving taxpayers holding the bill.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,7 +15,7 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Senate-passed government funding bill gets warm House reception",
+      "headline": "Senate-Passed Government Funding Bill Gets Warm House Reception",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
@@ -23,7 +23,7 @@
       "id": 2,
       "category": "betrayal",
       "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "meta": "Investigations · today",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
@@ -37,7 +37,7 @@
       "id": 4,
       "category": "betrayal",
       "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
-      "meta": "Investigations · today",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     }
   ],
