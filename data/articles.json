@@ -1,43 +1,43 @@
 {
-  "updated": "2026-08-15T02:56:37.309Z",
+  "updated": "2026-08-15T04:37:01.962Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "A bipartisan Congress appropriated over half a billion dollars for a defense plant that produced zero artillery rounds, exposing how both parties rubber-stamp Pentagon spending with no accountability.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "dek": "A bipartisan failure of congressional oversight let defense contractors burn half a billion in public funds without producing a single artillery shell.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "meta": "Finance · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "Senate-passed government funding bill gets warm House reception — with no meaningful reform",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Senate-Passed Government Funding Bill Gets Warm House Reception",
+      "headline": "Senate kids' safety probe targets Roblox — while Congress took millions from Big Tech",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "negligence",
-      "headline": "Senate Kids' Safety Probe Targets Roblox — While Congress Takes Tech Money",
+      "category": "betrayal",
+      "headline": "Wall Street's nonprofits use opaque logic to defund charities — with regulators from both parties looking away",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
-      "meta": "Criminal Justice · today",
+      "category": "betrayal",
+      "headline": "Abuse in Tennessee's juvenile prisons stayed hidden while both parties looked the other way",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
