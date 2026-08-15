@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-15T01:35:43.213Z",
+  "updated": "2026-08-15T02:56:37.309Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single shell, exposing systemic Pentagon oversight failures under both parties.",
+    "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
+    "dek": "A bipartisan Congress appropriated over half a billion dollars for a defense plant that produced zero artillery rounds, exposing how both parties rubber-stamp Pentagon spending with no accountability.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,30 +14,30 @@
   "articles": [
     {
       "id": 1,
+      "category": "corruption",
+      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
+      "meta": "Finance · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 2,
       "category": "betrayal",
       "headline": "Senate-Passed Government Funding Bill Gets Warm House Reception",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "Senate Kids' Safety Probe Targets Roblox — While Youth Sports Giant's Abuse Reforms Never Happened",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Wall Street Nonprofits Use Opaque Logic to Defund Charities While Congress Looks Away",
+      "category": "negligence",
+      "headline": "Senate Kids' Safety Probe Targets Roblox — While Congress Takes Tech Money",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Abuse in Tennessee's Privately-Run Juvenile Prisons Stayed Hidden With State Complicity",
-      "meta": "Politics · today",
+      "category": "corruption",
+      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
+      "meta": "Criminal Justice · today",
       "url": "https://feeds.propublica.org"
     }
   ],
