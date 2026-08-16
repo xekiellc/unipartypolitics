@@ -1,43 +1,50 @@
 {
-  "updated": "2026-08-16T01:42:46.601Z",
+  "updated": "2026-08-16T03:05:04.847Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "A government-funded weapons manufacturing facility cost taxpayers over half a billion dollars and produced zero output, a failure that spanned multiple administrations.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "dek": "Bipartisan congressional oversight failures allowed hundreds of millions in defense spending to produce zero output, exposing how both parties rubber-stamp military contracts with no accountability.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Senate-passed government funding bill gets warm House reception",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Secret ICE Agent Tried to 'Entice' Minneapolis Activists Into Confrontational Tactics",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
       "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "meta": "ProPublica · today",
+      "meta": "Finance · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Tennessee Plans Another Execution Despite Its Brutal Recent Mistakes",
+      "meta": "Criminal Justice · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Senate Kids' Safety Probe Targets Roblox — But Will It Lead Anywhere?",
+      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
       "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Senate-Passed Government Funding Bill Gets Warm House Reception",
+      "meta": "Congress · today",
       "url": "https://rss.politico.com"
     }
   ],
