@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-16T04:40:39.332Z",
+  "updated": "2026-08-16T06:49:04.468Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "Bipartisan congressional oversight failures allowed hundreds of millions in defense spending to produce zero results, leaving taxpayers holding the bill.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "dek": "Bipartisan congressional oversight failures allowed hundreds of millions in defense spending to vanish with zero accountability or output.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
@@ -21,31 +21,31 @@
     },
     {
       "id": 2,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.",
       "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "surveillance",
-      "headline": "Secret ICE Agent Tried to 'Entice' Minneapolis Activists Into Confrontational Tactics",
-      "meta": "Civil Liberties · today",
+      "category": "betrayal",
+      "headline": "Tennessee Plans Another Execution Despite Its Brutal Recent Mistakes",
+      "meta": "Criminal Justice · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
-      "meta": "Justice · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Secret ICE Agent Tried to Entice Minneapolis Activists Into Confrontational Tactics",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "dysfunction",
-      "headline": "Senate-Passed Government Funding Bill Gets Warm House Reception",
-      "meta": "Congress · today",
-      "url": "https://rss.politico.com"
+      "category": "betrayal",
+      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
