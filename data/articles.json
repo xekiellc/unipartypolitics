@@ -1,42 +1,42 @@
 {
-  "updated": "2026-08-16T16:31:26.054Z",
+  "updated": "2026-08-16T18:35:47.310Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "A half-billion dollar defense boondoggle wasted under administrations of both parties, with Congress never demanding accountability.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single shell, exposing how both parties rubber-stamp wasteful Pentagon spending.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Senate-passed government funding bill gets warm House reception",
+      "headline": "Senate kids' safety probe targets Roblox — but juvenile prison abuse went unreported for years",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
+      "headline": "Wall Street nonprofits use opaque logic to defund charities while Congress looks away",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Senate kids' safety probe targets Roblox gaming platform",
+      "headline": "Senate-passed government funding bill gets warm House reception — no reforms attached",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
+      "headline": "Abuse in Tennessee businessman's juvenile prisons stayed hidden as state and federal oversight failed",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
