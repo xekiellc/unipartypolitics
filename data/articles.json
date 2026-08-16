@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-15T22:27:47.419Z",
+  "updated": "2026-08-16T01:42:46.601Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "A massive defense contract burned through more than half a billion in public funds and produced zero output — a bipartisan failure of congressional oversight and executive accountability.",
+    "dek": "A government-funded weapons manufacturing facility cost taxpayers over half a billion dollars and produced zero output, a failure that spanned multiple administrations.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -23,27 +23,20 @@
       "id": 2,
       "category": "betrayal",
       "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "meta": "Politics · today",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.",
-      "meta": "Politics · today",
+      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Senate Kids' Safety Probe Targets Roblox Gaming Platform",
+      "headline": "Senate Kids' Safety Probe Targets Roblox — But Will It Lead Anywhere?",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
