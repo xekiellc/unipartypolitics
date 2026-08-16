@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-16T10:28:14.368Z",
+  "updated": "2026-08-16T12:49:46.200Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions in defense spending for a factory that never produced a single shell, exposing systemic Pentagon oversight failures under both parties.",
+    "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
+    "dek": "A government-backed manufacturing project burned through more than half a billion in public funds and produced zero output, exposing bipartisan failure to oversee defense spending.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,29 +15,29 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "meta": "Finance · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "negligence",
-      "headline": "A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.",
-      "meta": "Accountability · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
-      "category": "corruption",
-      "headline": "Senate Kids' Safety Probe Targets Roblox — But Congress Has Ignored Tech Accountability for Years",
+      "headline": "Senate-passed government funding bill gets warm House reception",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "Senate kids' safety probe targets Roblox gaming platform",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 4,
-      "category": "abuse",
+      "category": "betrayal",
       "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
-      "meta": "Criminal Justice · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
