@@ -1,51 +1,44 @@
 {
-  "updated": "2026-08-17T07:05:20.189Z",
+  "updated": "2026-08-17T08:50:36.792Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress greenlit hundreds of millions in defense spending that produced zero output, exposing how both parties rubber-stamp wasteful military contracts.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
+    "dek": "A government-backed manufacturing project burned through over half a billion in public funds and produced zero output, reflecting systemic bipartisan failure to oversee defense spending.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Wall Street's nonprofits use selective, opaque logic to defund charities",
-      "meta": "Finance · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Is Congress up for an ethics overhaul?",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Senate kids' safety probe targets Roblox — but both parties let Big Tech self-regulate for years",
+      "headline": "Nancy Pelosi is leaving Capitol Hill. Her team is still calling shots.",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Senate-passed government funding bill gets warm House reception — with little scrutiny",
+      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "How abuse in a Tennessee businessman's juvenile prisons remained under wraps",
-      "meta": "Criminal Justice · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "A youth sports giant promised reforms to protect kids from sexual abuse. Most never happened.",
-      "meta": "Accountability · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Capitol agenda: Wasserman Schultz roils Democrats, again",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
