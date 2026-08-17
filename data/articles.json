@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-17T08:50:36.792Z",
+  "updated": "2026-08-17T10:36:55.187Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "A government-backed manufacturing project burned through over half a billion in public funds and produced zero output, reflecting systemic bipartisan failure to oversee defense spending.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "dek": "A bipartisan Congress approved massive defense spending on a facility that produced zero output, exposing how both parties rubber-stamp wasteful military contracts with no accountability.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Is Congress up for an ethics overhaul?",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers With Almost No Accountability",
+      "meta": "Education · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Nancy Pelosi is leaving Capitol Hill. Her team is still calling shots.",
+      "headline": "Is Congress Up for an Ethics Overhaul? Capitol Tries Again to Police Itself",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
@@ -30,13 +30,13 @@
       "id": 3,
       "category": "betrayal",
       "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "meta": "Politics · today",
+      "meta": "Finance · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Capitol agenda: Wasserman Schultz roils Democrats, again",
+      "headline": "Nancy Pelosi Is Leaving Capitol Hill — But Her Team Is Still Calling the Shots",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
