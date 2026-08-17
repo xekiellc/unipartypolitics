@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-17T14:33:37.298Z",
+  "updated": "2026-08-17T16:33:38.282Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense contractor that delivered zero production, exposing how both parties rubber-stamp Pentagon waste.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single shell, exposing how both parties rubber-stamp Pentagon waste.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
@@ -21,14 +21,14 @@
     },
     {
       "id": 2,
-      "category": "corruption",
+      "category": "ethics",
       "headline": "Is Congress finally ready to take its ethics woes seriously?",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "power",
+      "category": "influence",
       "headline": "Nancy Pelosi is leaving Capitol Hill. Her team is still calling shots.",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
@@ -36,15 +36,15 @@
     {
       "id": 4,
       "category": "accountability",
-      "headline": "Wall Street's nonprofits use selective, opaque logic to defund charities",
-      "meta": "Finance · today",
+      "headline": "At 'quasi-public' private schools, 100% of students get vouchers — with almost no accountability",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "At quasi-public private schools, 100% get vouchers — with almost no accountability",
-      "meta": "Education · today",
+      "category": "corruption",
+      "headline": "Wall Street nonprofits use selective, opaque logic to defund charities",
+      "meta": "Finance · today",
       "url": "https://feeds.propublica.org"
     }
   ],
