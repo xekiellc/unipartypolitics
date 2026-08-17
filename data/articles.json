@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-17T18:47:29.075Z",
+  "updated": "2026-08-17T20:32:19.395Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single round, exposing how both parties rubber-stamp Pentagon waste.",
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense manufacturing project that produced zero output, exposing how both parties rubber-stamp wasteful Pentagon spending.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,8 +14,8 @@
   "articles": [
     {
       "id": 1,
-      "category": "accountability",
-      "headline": "Congress tries again to police itself — with little to show for it",
+      "category": "betrayal",
+      "headline": "Ethics Committee probes Democrat Jimmy Gomez for inappropriate sexual contact with staffer",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
@@ -28,24 +28,24 @@
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "Wall Street nonprofits use selective, opaque logic to defund charities",
-      "meta": "Finance · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "Capitol agenda: Congress tries again to police itself — after years of both parties looking the other way",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "accountability",
-      "headline": "At quasi-public private schools, 100% of students get vouchers — with almost no accountability",
+      "category": "betrayal",
+      "headline": "At quasi-public private schools, 100% of students get tuition vouchers with almost no accountability",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Nancy Pelosi is leaving Capitol Hill. Her team is still calling shots.",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Wall Street nonprofits use selective, opaque logic to defund charities while escaping scrutiny",
+      "meta": "Finance · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
