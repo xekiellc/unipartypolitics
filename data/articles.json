@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-16T22:26:45.532Z",
+  "updated": "2026-08-17T01:40:15.982Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "A half-billion dollar defense boondoggle wasted public money under administrations and congresses controlled by both parties, with zero accountability.",
+    "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense contractor that delivered zero production, exposing how both parties rubber-stamp military spending with no accountability.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
+      "headline": "Wall Street nonprofits use selective, opaque logic to defund charities",
       "meta": "Finance · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.",
-      "meta": "Accountability · today",
+      "headline": "Youth sports giant promised reforms to protect kids from abuse. Most never happened.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Senate Kids' Safety Probe Targets Roblox — But Will Lawmakers Actually Act?",
+      "headline": "Tennessee businessman's juvenile prisons hid abuse with government cover",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
-      "meta": "Justice · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Senate kids' safety probe targets Roblox — but both parties took its lobbying money",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Senate-passed government funding bill gets warm House reception — no reforms attached",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
