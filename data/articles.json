@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-17T01:40:15.982Z",
+  "updated": "2026-08-17T03:04:57.320Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense contractor that delivered zero production, exposing how both parties rubber-stamp military spending with no accountability.",
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense project that produced zero output, exposing how both parties rubber-stamp wasteful Pentagon spending.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -22,30 +22,30 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Youth sports giant promised reforms to protect kids from abuse. Most never happened.",
+      "headline": "Senate-passed government funding bill gets warm House reception",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Tennessee businessman's juvenile prisons hid abuse with government cover",
+      "headline": "Senate kids' safety probe targets Roblox gaming platform",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Senate kids' safety probe targets Roblox — but both parties took its lobbying money",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "A youth sports giant promised reforms to protect kids from abuse. Most never happened.",
+      "meta": "Investigations · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Senate-passed government funding bill gets warm House reception — no reforms attached",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "How abuse in a Tennessee businessman's juvenile prisons remained under wraps",
+      "meta": "Criminal Justice · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
