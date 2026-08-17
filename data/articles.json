@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-17T04:49:33.439Z",
+  "updated": "2026-08-17T07:05:20.189Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions in defense spending for a factory that never produced a single shell, exposing systemic oversight failures across party lines.",
+    "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
+    "dek": "A bipartisan Congress greenlit hundreds of millions in defense spending that produced zero output, exposing how both parties rubber-stamp wasteful military contracts.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,30 +14,37 @@
   "articles": [
     {
       "id": 1,
-      "category": "waste",
-      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
+      "category": "betrayal",
+      "headline": "Wall Street's nonprofits use selective, opaque logic to defund charities",
       "meta": "Finance · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.",
+      "headline": "Senate kids' safety probe targets Roblox — but both parties let Big Tech self-regulate for years",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "Senate Kids' Safety Probe Targets Roblox — But Both Parties Have Taken Tech Money",
+      "category": "betrayal",
+      "headline": "Senate-passed government funding bill gets warm House reception — with little scrutiny",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "abuse",
-      "headline": "How Abuse in a Tennessee Businessman's Juvenile Prisons Remained Under Wraps",
-      "meta": "Justice · today",
+      "category": "betrayal",
+      "headline": "How abuse in a Tennessee businessman's juvenile prisons remained under wraps",
+      "meta": "Criminal Justice · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "A youth sports giant promised reforms to protect kids from sexual abuse. Most never happened.",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     }
   ],
