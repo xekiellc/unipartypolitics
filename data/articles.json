@@ -1,50 +1,50 @@
 {
-  "updated": "2026-08-18T18:46:07.208Z",
+  "updated": "2026-08-18T20:29:58.882Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "ProPublica"
+    "headline": "Congress tries again to police itself — but don't hold your breath",
+    "dek": "Years of bipartisan ethics failures have left Congress unable or unwilling to hold its own members accountable, and insiders say the latest push is more theater than reform.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers. There's Almost No Accountability.",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Ethics Committee probing Democratic Rep. Jimmy Gomez for 'inappropriate sexual contact with a House staffer'",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
-      "category": "corruption",
-      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "Is Congress finally ready to take its ethics woes seriously?",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "ethics",
-      "headline": "Ethics Committee Probing Jimmy Gomez for 'Inappropriate Sexual Contact With a House Staffer'",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "corruption",
+      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers — With Almost No Accountability",
+      "meta": "Education · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "reform",
-      "headline": "Is Congress Finally Ready to Take Its Ethics Woes Seriously?",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "corruption",
+      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
+      "meta": "Finance · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "accountability",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "meta": "The Intercept · today",
+      "category": "abuse",
+      "headline": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days Behind Bars With a Festering Wound.",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     }
   ],
