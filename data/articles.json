@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-18T08:43:11.238Z",
+  "updated": "2026-08-18T10:34:16.664Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single round, exposing systemic Pentagon oversight failures both parties ignored.",
+    "headline": "Congress tries again to police itself — but can it?",
+    "dek": "With ethics scandals hitting both sides of the aisle, lawmakers are once again promising reforms they've long resisted delivering.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
     "votes_no": null,
-    "source": "ProPublica"
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ethics Committee probes Democratic Rep. Jimmy Gomez for inappropriate sexual contact with staffer",
+      "headline": "Ethics Committee probing Democratic Rep. Jimmy Gomez for 'inappropriate sexual contact with a House staffer'",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Congress tries again to police itself — raising questions about why it needed to",
+      "headline": "Is Congress finally ready to take its ethics woes seriously?",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Is Congress finally ready to take its ethics woes seriously?",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers — With Almost No Accountability",
+      "meta": "Education · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Quasi-public private schools take 100% taxpayer vouchers with almost no accountability",
-      "meta": "Accountability · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
+      "meta": "National Security · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Wall Street nonprofits use opaque, selective logic to defund legitimate charities",
+      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
       "meta": "Finance · today",
       "url": "https://feeds.propublica.org"
     }
