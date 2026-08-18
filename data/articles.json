@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-18T10:34:16.664Z",
+  "updated": "2026-08-18T12:55:40.670Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress tries again to police itself — but can it?",
-    "dek": "With ethics scandals hitting both sides of the aisle, lawmakers are once again promising reforms they've long resisted delivering.",
+    "headline": "Congress tries again to police itself — but don't hold your breath",
+    "dek": "Years of bipartisan ethics failures have left Congress largely self-regulating, with both parties resisting meaningful accountability reforms.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,7 +15,7 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ethics Committee probing Democratic Rep. Jimmy Gomez for 'inappropriate sexual contact with a House staffer'",
+      "headline": "Ethics Committee probing Democrat Jimmy Gomez for 'inappropriate sexual contact with a House staffer'",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
@@ -29,16 +29,16 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers — With Almost No Accountability",
-      "meta": "Education · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
+      "meta": "National Security · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
+      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers. There's Almost No Accountability.",
+      "meta": "Education · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
