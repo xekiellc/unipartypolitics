@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-17T22:29:45.380Z",
+  "updated": "2026-08-18T01:35:46.771Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single shell, exposing how both parties rubber-stamp Pentagon waste.",
+    "dek": "Bipartisan congressional oversight failures allowed half a billion in defense spending to produce zero output, exposing how both parties rubber-stamp Pentagon waste.",
     "votes_r": 42,
     "votes_d": 36,
     "votes_yes": 78,
@@ -14,7 +14,7 @@
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
+      "category": "accountability",
       "headline": "Ethics Committee probing Democratic Rep. Jimmy Gomez for 'inappropriate sexual contact with a House staffer'",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
@@ -22,29 +22,22 @@
     {
       "id": 2,
       "category": "accountability",
-      "headline": "Is Congress finally ready to take its ethics woes seriously?",
+      "headline": "Is Congress finally ready to take its ethics woes seriously? Both parties have resisted reform for years.",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "At 'quasi-public' private schools, 100% of students get tuition vouchers — with almost no accountability",
-      "meta": "Investigations · today",
+      "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "power",
-      "headline": "Nancy Pelosi is leaving Capitol Hill. Her team is still calling shots.",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 5,
-      "category": "accountability",
-      "headline": "Wall Street nonprofits use selective, opaque logic to defund charities",
-      "meta": "Investigations · today",
+      "category": "corruption",
+      "headline": "Wall Street nonprofits use selective, opaque logic to defund charities — with no congressional intervention",
+      "meta": "Finance · today",
       "url": "https://feeds.propublica.org"
     }
   ],
