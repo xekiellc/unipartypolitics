@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-18T06:52:37.216Z",
+  "updated": "2026-08-18T08:43:11.238Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single shell, exposing how both parties rubber-stamp military waste.",
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single round, exposing systemic Pentagon oversight failures both parties ignored.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Congress tries again to police itself — after years of ignoring ethics failures",
+      "headline": "Ethics Committee probes Democratic Rep. Jimmy Gomez for inappropriate sexual contact with staffer",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Ethics Committee probes Democrat Jimmy Gomez for inappropriate sexual contact with staffer",
+      "headline": "Congress tries again to police itself — raising questions about why it needed to",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Quasi-public private schools take 100% taxpayer vouchers with almost zero accountability",
+      "headline": "Is Congress finally ready to take its ethics woes seriously?",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Wall Street nonprofits use opaque, selective logic to defund legitimate charities",
-      "meta": "Politics · today",
+      "headline": "Quasi-public private schools take 100% taxpayer vouchers with almost no accountability",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Is Congress finally ready to take its ethics woes seriously?",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Wall Street nonprofits use opaque, selective logic to defund legitimate charities",
+      "meta": "Finance · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
