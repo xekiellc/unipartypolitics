@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-18T12:55:40.670Z",
+  "updated": "2026-08-18T14:38:25.651Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress tries again to police itself — but don't hold your breath",
-    "dek": "Years of bipartisan ethics failures have left Congress largely self-regulating, with both parties resisting meaningful accountability reforms.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
-    "source": "Politico"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Ethics Committee probing Democrat Jimmy Gomez for 'inappropriate sexual contact with a House staffer'",
+      "category": "corruption",
+      "headline": "Ethics Committee probing Jimmy Gomez for 'inappropriate sexual contact with a House staffer'",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
-      "category": "betrayal",
+      "category": "accountability",
       "headline": "Is Congress finally ready to take its ethics woes seriously?",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
@@ -29,23 +29,23 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
+      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers. There's Almost No Accountability.",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers. There's Almost No Accountability.",
-      "meta": "Education · today",
+      "category": "corruption",
+      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "meta": "Finance · today",
-      "url": "https://feeds.propublica.org"
+      "category": "accountability",
+      "headline": "Capitol agenda: Congress tries again to police itself",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
