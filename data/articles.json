@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T16:37:10.695Z",
+  "updated": "2026-08-18T18:46:07.208Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,38 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers. There's Almost No Accountability.",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Ethics Committee Probing Democrat Jimmy Gomez for 'Inappropriate Sexual Contact With a House Staffer'",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 3,
-      "category": "corruption",
-      "headline": "Is Congress Finally Ready to Take Its Ethics Woes Seriously?",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
       "category": "corruption",
       "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "ethics",
+      "headline": "Ethics Committee Probing Jimmy Gomez for 'Inappropriate Sexual Contact With a House Staffer'",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 4,
+      "category": "reform",
+      "headline": "Is Congress Finally Ready to Take Its Ethics Woes Seriously?",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "accountability",
+      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
