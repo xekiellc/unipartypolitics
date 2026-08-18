@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-18T20:29:58.882Z",
+  "updated": "2026-08-18T22:29:14.930Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress tries again to police itself — but don't hold your breath",
-    "dek": "Years of bipartisan ethics failures have left Congress unable or unwilling to hold its own members accountable, and insiders say the latest push is more theater than reform.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Congress tries again to police itself — but will it?",
+    "dek": "With ethics scandals hitting both Republicans and Democrats, Congress is once again promising reform while insiders doubt anything will change.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "Politico"
   },
   "articles": [
@@ -22,30 +22,30 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Is Congress finally ready to take its ethics woes seriously?",
+      "headline": "Republican Comer threatens contempt as GOP's Lewis Black faces more Epstein probe heat",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers — With Almost No Accountability",
-      "meta": "Education · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "Is Congress finally ready to take its ethics woes seriously? History says no.",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "meta": "Finance · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "ICE worked with Iranian regime to set up deportation flights as Trump laid plans for war",
+      "meta": "National Security · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "abuse",
-      "headline": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days Behind Bars With a Festering Wound.",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "At 'quasi-public' private schools, 100% of students get tuition vouchers — with almost no accountability",
+      "meta": "Education · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
