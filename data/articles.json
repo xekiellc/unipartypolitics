@@ -1,44 +1,51 @@
 {
-  "updated": "2026-08-18T04:40:42.350Z",
+  "updated": "2026-08-18T06:52:37.216Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Taxpayers funded a $533 million artillery plant that made nothing",
-    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single unit, exposing how both parties rubber-stamp wasteful Pentagon spending.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "dek": "A bipartisan Congress approved hundreds of millions for a defense plant that never produced a single shell, exposing how both parties rubber-stamp military waste.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ethics Committee probes Democrat Jimmy Gomez for 'inappropriate sexual contact with a House staffer'",
+      "headline": "Congress tries again to police itself — after years of ignoring ethics failures",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Is Congress finally ready to take its ethics woes seriously?",
+      "headline": "Ethics Committee probes Democrat Jimmy Gomez for inappropriate sexual contact with staffer",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "At 'quasi-public' private schools, 100% of students get tuition vouchers — with almost no accountability",
+      "headline": "Quasi-public private schools take 100% taxpayer vouchers with almost zero accountability",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Wall Street nonprofits use selective, opaque logic to defund charities",
+      "headline": "Wall Street nonprofits use opaque, selective logic to defund legitimate charities",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Is Congress finally ready to take its ethics woes seriously?",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
