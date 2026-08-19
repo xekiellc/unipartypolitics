@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-19T14:38:55.438Z",
+  "updated": "2026-08-19T16:36:48.419Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: How Both Parties Enable Unchecked Military Spending",
-    "dek": "With a trillion dollars flowing through opaque defense budgets, Democrats and Republicans alike have refused to demand transparency or accountability for decades.",
+    "headline": "The $1 Trillion Black Box: How Both Parties Enabled Unchecked Military Spending",
+    "dek": "Decades of bipartisan support for opaque defense budgets have left taxpayers with no accountability over trillions in military expenditures.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,38 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "accountability",
-      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers — With Almost No Accountability",
+      "category": "betrayal",
+      "headline": "At 'Quasi-Public' Private Schools, Vouchers Flow With Almost No Accountability",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "meta": "National Security · today",
+      "meta": "Immigration · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as Condition for Lifesaving Aid",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Why a Bipartisan Senate Tradition Is Getting Weaponized by the Right",
+      "category": "misconduct",
+      "headline": "Democratic Rep. Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 5,
-      "category": "accountability",
-      "headline": "Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs.",
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as Condition for Lifesaving Aid",
       "meta": "Health · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "surveillance",
+      "headline": "Secret ICE Agent Tried to Entice Minneapolis Activists Into Confrontational Tactics",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
