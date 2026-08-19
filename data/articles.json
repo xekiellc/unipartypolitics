@@ -1,51 +1,44 @@
 {
-  "updated": "2026-08-19T10:34:06.188Z",
+  "updated": "2026-08-19T12:56:47.403Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon's $1 trillion black box escapes oversight from both parties",
-    "dek": "Republican and Democrat lawmakers have for years allowed military spending to balloon into an unaccountable black box with neither party demanding transparency or reform.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "The $1 Trillion Black Box: How Both Parties Enable Unchecked Military Spending",
+    "dek": "Decades of bipartisan votes have created a Pentagon budget so opaque that neither party can account for where the money goes.",
+    "votes_r": 52,
+    "votes_d": 48,
+    "votes_yes": 100,
+    "votes_no": 12,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Ethics Committee probes Democratic Rep. Jimmy Gomez for 'inappropriate sexual contact with staffer'",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "ICE coordinated with Iranian regime on deportation flights while Trump planned war",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Quasi-public private schools hand out 100% tuition vouchers with almost zero accountability",
+      "category": "corruption",
+      "headline": "Quasi-Public Private Schools Take 100% Voucher Money With Almost No Accountability",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
+      "id": 2,
       "category": "betrayal",
-      "headline": "Measles cases hit record highs as decades of public health neglect catch up with both parties",
+      "headline": "ICE Coordinated With Iranian Regime on Deportation Flights While Trump Planned War",
+      "meta": "Immigration · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
+      "category": "neglect",
+      "headline": "Measles Cases Hit Record Highs as Years of Bipartisan Public Health Failures Mount",
       "meta": "Health · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Comer pushes Epstein probe as GOP uses scandal for political cover rather than accountability",
+      "id": 4,
+      "category": "corruption",
+      "headline": "Senators Cry Foul on Health Data Demands — But Both Parties Built the System Allowing It",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
