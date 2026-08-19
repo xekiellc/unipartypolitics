@@ -1,43 +1,50 @@
 {
-  "updated": "2026-08-19T12:56:47.403Z",
+  "updated": "2026-08-19T14:38:55.438Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "The $1 Trillion Black Box: How Both Parties Enable Unchecked Military Spending",
-    "dek": "Decades of bipartisan votes have created a Pentagon budget so opaque that neither party can account for where the money goes.",
-    "votes_r": 52,
-    "votes_d": 48,
-    "votes_yes": 100,
-    "votes_no": 12,
+    "dek": "With a trillion dollars flowing through opaque defense budgets, Democrats and Republicans alike have refused to demand transparency or accountability for decades.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "Quasi-Public Private Schools Take 100% Voucher Money With Almost No Accountability",
+      "category": "accountability",
+      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers — With Almost No Accountability",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "ICE Coordinated With Iranian Regime on Deportation Flights While Trump Planned War",
-      "meta": "Immigration · today",
+      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
+      "meta": "National Security · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "neglect",
-      "headline": "Measles Cases Hit Record Highs as Years of Bipartisan Public Health Failures Mount",
-      "meta": "Health · today",
+      "category": "corruption",
+      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as Condition for Lifesaving Aid",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "Senators Cry Foul on Health Data Demands — But Both Parties Built the System Allowing It",
+      "category": "betrayal",
+      "headline": "Why a Bipartisan Senate Tradition Is Getting Weaponized by the Right",
       "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "accountability",
+      "headline": "Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs.",
+      "meta": "Health · today",
       "url": "https://feeds.propublica.org"
     }
   ],
