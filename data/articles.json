@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-19T18:41:55.932Z",
+  "updated": "2026-08-19T20:34:22.346Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: How Both Parties Enable Unchecked Military Spending",
-    "dek": "Decades of Republican and Democratic administrations have allowed a trillion-dollar military budget to operate without meaningful oversight or accountability.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "The $1 Trillion Black Box: How Both Parties Keep Military Spending Unaccountable",
+    "dek": "Decades of bipartisan votes have built a defense budget so opaque that neither party can — or will — explain where the money goes.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers. There's Almost No Accountability.",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
@@ -28,7 +28,7 @@
     },
     {
       "id": 3,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "Jimmy Gomez Being Investigated for 'Sexual Harassment and Assault,' Lawyers Allege",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
@@ -36,13 +36,13 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as Condition for Lifesaving Aid",
-      "meta": "Health · today",
+      "headline": "Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs.",
+      "meta": "Public Health · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "Why a Bipartisan Senate Tradition Is Getting Weaponized by the Right",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
