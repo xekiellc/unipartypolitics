@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-19T08:43:49.636Z",
+  "updated": "2026-08-19T10:34:06.188Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress tries again to police itself — but can it?",
-    "dek": "With ethics scandals hitting both Republicans and Democrats, Congress faces mounting pressure to reform oversight it has long resisted.",
+    "headline": "Pentagon's $1 trillion black box escapes oversight from both parties",
+    "dek": "Republican and Democrat lawmakers have for years allowed military spending to balloon into an unaccountable black box with neither party demanding transparency or reform.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
     "votes_no": null,
-    "source": "Politico"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ethics Committee probing Democratic Rep. Jimmy Gomez for 'inappropriate sexual contact with a House staffer'",
+      "headline": "Ethics Committee probes Democratic Rep. Jimmy Gomez for 'inappropriate sexual contact with staffer'",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Comer threatens contempt as Rep. Black faces more Epstein probe heat",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "ICE coordinated with Iranian regime on deportation flights while Trump planned war",
+      "meta": "National Security · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers — With Almost No Accountability",
+      "headline": "Quasi-public private schools hand out 100% tuition vouchers with almost zero accountability",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
+      "headline": "Measles cases hit record highs as decades of public health neglect catch up with both parties",
+      "meta": "Health · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "meta": "Finance · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Comer pushes Epstein probe as GOP uses scandal for political cover rather than accountability",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
