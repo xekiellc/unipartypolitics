@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-19T03:02:46.322Z",
+  "updated": "2026-08-19T04:42:01.850Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress tries again to police itself — but don't hold your breath",
-    "dek": "With ethics scandals hitting both Republicans and Democrats, Congress is once again promising reform while members on both sides resist real accountability.",
+    "headline": "Is Congress finally ready to take its ethics woes seriously?",
+    "dek": "Lawmakers from both parties face mounting scandals as Capitol Hill struggles to police itself, with reform efforts stalling amid bipartisan resistance to real accountability.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,37 +15,44 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ethics Committee probing Democrat Jimmy Gomez for 'inappropriate sexual contact with a House staffer'",
+      "headline": "Ethics Committee probing Jimmy Gomez for 'inappropriate sexual contact with a House staffer'",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Republican Comer threatens contempt as Black faces more Epstein probe heat",
+      "headline": "Capitol agenda: Congress tries again to police itself",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Is Congress finally ready to take its ethics woes seriously? History says no.",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "corruption",
+      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers. There's Almost No Accountability.",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "ICE coordinated with Iranian regime on deportation flights while Trump planned war",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
+      "category": "corruption",
+      "headline": "Wall Street's Nonprofits Use Selective, Opaque Logic to Defund Charities",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "At 'quasi-public' private schools, 100% of students get vouchers — with almost no accountability",
-      "meta": "Education · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 6,
+      "category": "corruption",
+      "headline": "Comer threatens contempt as Black faces more Epstein probe heat",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
