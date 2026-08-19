@@ -1,35 +1,35 @@
 {
-  "updated": "2026-08-19T16:36:48.419Z",
+  "updated": "2026-08-19T18:41:55.932Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: How Both Parties Enabled Unchecked Military Spending",
-    "dek": "Decades of bipartisan support for opaque defense budgets have left taxpayers with no accountability over trillions in military expenditures.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "The $1 Trillion Black Box: How Both Parties Enable Unchecked Military Spending",
+    "dek": "Decades of Republican and Democratic administrations have allowed a trillion-dollar military budget to operate without meaningful oversight or accountability.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "At 'Quasi-Public' Private Schools, Vouchers Flow With Almost No Accountability",
+      "category": "corruption",
+      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers. There's Almost No Accountability.",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "meta": "Immigration · today",
+      "meta": "National Security · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "misconduct",
-      "headline": "Democratic Rep. Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
+      "category": "corruption",
+      "headline": "Jimmy Gomez Being Investigated for 'Sexual Harassment and Assault,' Lawyers Allege",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
@@ -42,10 +42,10 @@
     },
     {
       "id": 5,
-      "category": "surveillance",
-      "headline": "Secret ICE Agent Tried to Entice Minneapolis Activists Into Confrontational Tactics",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
+      "category": "corruption",
+      "headline": "Why a Bipartisan Senate Tradition Is Getting Weaponized by the Right",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
