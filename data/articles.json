@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-19T20:34:22.346Z",
+  "updated": "2026-08-19T22:29:45.496Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: How Both Parties Keep Military Spending Unaccountable",
-    "dek": "Decades of bipartisan votes have built a defense budget so opaque that neither party can — or will — explain where the money goes.",
+    "headline": "The $1 Trillion Black Box: Pentagon Spending Escapes Oversight from Both Parties",
+    "dek": "Decades of Republican and Democrat-controlled Congresses have allowed the Pentagon's budget to balloon with no accountability, audits repeatedly failed, and billions vanishing into contractor pockets.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,22 +14,22 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "accountability",
       "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers. There's Almost No Accountability.",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
       "meta": "National Security · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Jimmy Gomez Being Investigated for 'Sexual Harassment and Assault,' Lawyers Allege",
+      "category": "scandal",
+      "headline": "Democratic Rep. Jimmy Gomez Being Investigated for Sexual Harassment and Assault, Lawyers Allege",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
@@ -39,13 +39,6 @@
       "headline": "Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs.",
       "meta": "Public Health · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Why a Bipartisan Senate Tradition Is Getting Weaponized by the Right",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
