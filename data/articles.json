@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T06:54:22.508Z",
+  "updated": "2026-08-20T08:46:23.093Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: Pentagon Spending Escapes Accountability",
-    "dek": "Decades of bipartisan neglect have allowed the military budget to balloon beyond any meaningful oversight, with both parties authorizing funds with virtually no transparency.",
+    "headline": "The $1 Trillion Black Box: How Both Parties Enable Unchecked Military Spending",
+    "dek": "Decades of bipartisan votes have built a Pentagon budget so opaque that neither party can account for where a trillion dollars actually goes.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,7 +15,7 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "At 'Quasi-Public' Private Schools, 100% of Students Get Tuition Vouchers With Almost No Accountability",
+      "headline": "At 'Quasi-Public' Private Schools, Vouchers Flow With Almost No Accountability",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
@@ -29,21 +29,21 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Democratic Rep. Jimmy Gomez Investigated for Sexual Harassment and Assault, Lawyers Allege",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Measles Cases Hit Record Highs After Years of Bipartisan Inaction on Public Health Infrastructure",
+      "headline": "Measles Cases Hit Record Highs as Years of Bipartisan Public Health Failures Mount",
       "meta": "Health · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Democratic Rep. Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
       "id": 5,
       "category": "betrayal",
-      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as Condition for Lifesaving Aid",
+      "headline": "Senators Criticize Trump Admin's Demand to Access Health Data as Condition for Lifesaving Aid",
       "meta": "Health · today",
       "url": "https://feeds.propublica.org"
     }
