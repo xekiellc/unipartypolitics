@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T16:40:06.777Z",
+  "updated": "2026-08-20T18:48:13.929Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "The $1 Trillion Black Box: Pentagon Spending Escapes Oversight From Both Parties",
-    "dek": "Decades of Republican and Democrat-controlled Congresses have allowed unchecked military spending to balloon with zero accountability or meaningful audit.",
+    "dek": "Decades of Republican and Democrat-controlled Congresses have allowed the Pentagon to operate without a clean audit, shielding trillions in military spending from public accountability.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,38 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "Senators Criticize Trump Admin's Demands to Access Health Data as Condition for Lifesaving Aid",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "corruption",
+      "category": "dysfunction",
       "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Government Payment System Won't Let Him",
       "meta": "Immigration · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "corruption",
+      "category": "scandal",
+      "headline": "Democratic Rep. Jimmy Gomez Under Investigation for Alleged Sexual Harassment and Assault",
+      "meta": "Congress · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
       "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
       "meta": "National Security · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
-      "category": "scandal",
-      "headline": "Democrat Jimmy Gomez Being Investigated for Sexual Harassment and Assault, Lawyers Allege",
-      "meta": "Congress · today",
-      "url": "https://rss.politico.com"
-    },
-    {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Why a Bipartisan Senate Tradition Is Getting Weaponized by the Right",
-      "meta": "Senate · today",
-      "url": "https://rss.politico.com"
+      "category": "dysfunction",
+      "headline": "This Coach Is Banned From Working With Kids. Why Is He Still Coaching?",
+      "meta": "Accountability · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
