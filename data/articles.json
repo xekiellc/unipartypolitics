@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T18:48:13.929Z",
+  "updated": "2026-08-20T20:34:18.130Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: Pentagon Spending Escapes Oversight From Both Parties",
-    "dek": "Decades of Republican and Democrat-controlled Congresses have allowed the Pentagon to operate without a clean audit, shielding trillions in military spending from public accountability.",
+    "headline": "The $1 Trillion Black Box: Pentagon Spending Escapes Oversight from Either Party",
+    "dek": "A massive defense budget flows with little accountability while both Republican and Democratic lawmakers look the other way.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,38 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "Senators Criticize Trump Admin's Demands to Access Health Data as Condition for Lifesaving Aid",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "dysfunction",
-      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Government Payment System Won't Let Him",
-      "meta": "Immigration · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "scandal",
-      "headline": "Democratic Rep. Jimmy Gomez Under Investigation for Alleged Sexual Harassment and Assault",
-      "meta": "Congress · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
       "meta": "National Security · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 5,
-      "category": "dysfunction",
-      "headline": "This Coach Is Banned From Working With Kids. Why Is He Still Coaching?",
-      "meta": "Accountability · today",
+      "id": 3,
+      "category": "failure",
+      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Government Payment System Won't Let Him",
+      "meta": "Immigration · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "accountability",
+      "headline": "Do You Know Where $1 Trillion in U.S. Military Spending Goes? Neither Does Congress.",
+      "meta": "Defense · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "misconduct",
+      "headline": "Democratic Rep. Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
+      "meta": "Congress · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
