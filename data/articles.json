@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T20:34:18.130Z",
+  "updated": "2026-08-20T22:32:46.060Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: Pentagon Spending Escapes Oversight from Either Party",
-    "dek": "A massive defense budget flows with little accountability while both Republican and Democratic lawmakers look the other way.",
+    "headline": "The $1 Trillion Black Box: Pentagon Spending Escapes Oversight",
+    "dek": "With neither party demanding accountability, the U.S. military budget remains a opaque slush fund that both Republicans and Democrats refuse to audit.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,37 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Senators Criticize Trump Admin's Demands to Access Health Data as Condition for Lifesaving Aid",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "corruption",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "meta": "National Security · today",
+      "headline": "ICE Worked With Iranian Regime on Deportation Flights as Trump Planned War",
+      "meta": "Immigration · today",
       "url": "https://theintercept.com"
     },
     {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as Condition for Lifesaving Aid",
+      "meta": "Healthcare · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 3,
-      "category": "failure",
+      "category": "betrayal",
       "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Government Payment System Won't Let Him",
       "meta": "Immigration · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "accountability",
-      "headline": "Do You Know Where $1 Trillion in U.S. Military Spending Goes? Neither Does Congress.",
-      "meta": "Defense · today",
+      "category": "betrayal",
+      "headline": "Banned Coach Still Works With Kids — and No One in Power Is Stopping It",
+      "meta": "Child Safety · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "misconduct",
-      "headline": "Democratic Rep. Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
-      "meta": "Congress · today",
-      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
