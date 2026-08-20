@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T01:36:47.280Z",
+  "updated": "2026-08-20T03:02:00.200Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: How Both Parties Enable Unchecked Military Spending",
-    "dek": "Decades of bipartisan votes have built a Pentagon budget so opaque that neither party can — or will — explain where the money goes.",
+    "headline": "The $1 Trillion Black Box: How Both Parties Keep Military Spending Hidden",
+    "dek": "Decades of bipartisan votes have created an unaccountable defense budget that neither party has the will to audit or reform.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "At 'Quasi-Public' Private Schools, Vouchers Flow With Almost No Accountability",
-      "meta": "Education · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "ICE Worked With Iranian Regime on Deportation Flights While Trump Planned War",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "corruption",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid War Plans",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
+      "headline": "Quasi-Public Private Schools Take 100% Voucher Funding With Almost No Accountability",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "misconduct",
-      "headline": "Democratic Rep. Jimmy Gomez Under Investigation for Alleged Sexual Harassment and Assault",
+      "category": "scandal",
+      "headline": "Democratic Rep. Jimmy Gomez Investigated for Sexual Harassment and Assault Allegations",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Measles Cases Hit Record Highs After Years of Bipartisan Public Health Neglect",
-      "meta": "Health · today",
+      "headline": "Measles Cases Hit Record Highs After Years of Bipartisan Neglect of Public Health Infrastructure",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "corruption",
-      "headline": "ICE Shot a Journalist and Held Him 300 Days With a Festering Wound — No Accountability in Sight",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
+      "headline": "Senators Slam Trump Admin for Holding Lifesaving Aid Hostage to Health Data Access",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
