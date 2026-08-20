@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T14:41:23.142Z",
+  "updated": "2026-08-20T16:40:06.777Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon's $1 trillion budget operates as a 'black box' with no accountability",
-    "dek": "Decades of bipartisan congressional rubber-stamping have allowed military spending to balloon with virtually no oversight or transparency into where taxpayer money actually goes.",
+    "headline": "The $1 Trillion Black Box: Pentagon Spending Escapes Oversight From Both Parties",
+    "dek": "Decades of Republican and Democrat-controlled Congresses have allowed unchecked military spending to balloon with zero accountability or meaningful audit.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Senators criticize Trump administration's demands to access health data as condition for lifesaving aid",
+      "headline": "Senators Criticize Trump Admin's Demands to Access Health Data as Condition for Lifesaving Aid",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "corruption",
-      "headline": "Immigrant wants to pay $368,000 in fines, but broken government payment system won't let him",
+      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Government Payment System Won't Let Him",
       "meta": "Immigration · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "accountability",
-      "headline": "ICE worked with Iranian regime to set up deportation flights as Trump laid plans for war",
+      "category": "corruption",
+      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
       "meta": "National Security · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "misconduct",
-      "headline": "Democratic Rep. Jimmy Gomez investigated for alleged sexual harassment and assault",
+      "category": "scandal",
+      "headline": "Democrat Jimmy Gomez Being Investigated for Sexual Harassment and Assault, Lawyers Allege",
       "meta": "Congress · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Banned youth sports coach remains on the field — and no one in power stopped him",
-      "meta": "Investigations · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Why a Bipartisan Senate Tradition Is Getting Weaponized by the Right",
+      "meta": "Senate · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
