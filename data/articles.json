@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-20T12:58:51.694Z",
+  "updated": "2026-08-20T14:41:23.142Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: Pentagon Spending Escapes Oversight",
-    "dek": "Decades of bipartisan congressional neglect have allowed the Pentagon to spend trillions with virtually no accountability, as both parties continue to rubber-stamp military budgets.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Pentagon's $1 trillion budget operates as a 'black box' with no accountability",
+    "dek": "Decades of bipartisan congressional rubber-stamping have allowed military spending to balloon with virtually no oversight or transparency into where taxpayer money actually goes.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "Senators criticize Trump administration's demands to access health data as condition for lifesaving aid",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Senators Criticize Trump Admin's Demands to Access Health Data as Condition for Lifesaving Aid",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "corruption",
+      "headline": "Immigrant wants to pay $368,000 in fines, but broken government payment system won't let him",
+      "meta": "Immigration · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "scandal",
-      "headline": "Democratic Rep. Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
+      "category": "accountability",
+      "headline": "ICE worked with Iranian regime to set up deportation flights as Trump laid plans for war",
+      "meta": "National Security · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "This Coach Is Banned From Working With Kids — Why Is He Still Coaching?",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "misconduct",
+      "headline": "Democratic Rep. Jimmy Gomez investigated for alleged sexual harassment and assault",
+      "meta": "Congress · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
-      "category": "corruption",
-      "headline": "ICE Shot a Journalist and Threw Him in Detention — He's Approaching 300 Days Behind Bars",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "Banned youth sports coach remains on the field — and no one in power stopped him",
+      "meta": "Investigations · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
