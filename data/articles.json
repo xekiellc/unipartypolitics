@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-20T10:36:06.934Z",
+  "updated": "2026-08-20T12:58:51.694Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: Pentagon Spending Goes Unaccounted",
-    "dek": "With both parties consistently voting to fund an unaudited Pentagon budget, taxpayers have no idea where over a trillion dollars in military spending actually goes.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "The $1 Trillion Black Box: Pentagon Spending Escapes Oversight",
+    "dek": "Decades of bipartisan congressional neglect have allowed the Pentagon to spend trillions with virtually no accountability, as both parties continue to rubber-stamp military budgets.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "ProPublica"
   },
   "articles": [
@@ -16,36 +16,36 @@
       "id": 1,
       "category": "corruption",
       "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "meta": "Politics · today",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Democratic Rep. Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 3,
-      "category": "surveillance",
-      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as Condition for Lifesaving Aid",
-      "meta": "Politics · today",
+      "headline": "Senators Criticize Trump Admin's Demands to Access Health Data as Condition for Lifesaving Aid",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 3,
+      "category": "scandal",
+      "headline": "Democratic Rep. Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
+    },
+    {
       "id": 4,
-      "category": "corruption",
-      "headline": "ICE Shot a Journalist and Has Held Him 300 Days With a Festering Wound",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "This Coach Is Banned From Working With Kids — Why Is He Still Coaching?",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Why a Bipartisan Senate Tradition Is Getting Weaponized by the Right",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "corruption",
+      "headline": "ICE Shot a Journalist and Threw Him in Detention — He's Approaching 300 Days Behind Bars",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
