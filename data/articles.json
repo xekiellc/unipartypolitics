@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-21T01:41:40.539Z",
+  "updated": "2026-08-21T03:08:25.736Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "The $1 Trillion Black Box: How Both Parties Enable Unchecked Military Spending",
-    "dek": "With neither party demanding transparency, the Pentagon's budget remains a bipartisan blind spot that costs taxpayers trillions with zero accountability.",
+    "dek": "Pentagon budgets balloon with bipartisan approval as lawmakers from both sides of the aisle refuse to demand accountability for where the money goes.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,30 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Senators Criticize Trump Admin's Demands on Health Data — But Both Parties Built This System",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "corruption",
-      "headline": "ICE Worked With Iranian Regime on Deportation Flights as Trump Planned War",
+      "headline": "ICE Worked With Iranian Regime While Trump Laid Plans for War",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "Senators Criticize Trump Admin's Demands to Access Health Data as Condition for Lifesaving Aid",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 3,
-      "category": "accountability",
-      "headline": "Broken Immigration Payment System Traps Man Who Owes $368,000 in Fines",
+      "category": "corruption",
+      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Government Payment System Won't Let Him",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "scandal",
-      "headline": "Democrat Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
+      "category": "accountability",
+      "headline": "Do You Know Where U.S. Military Spending Goes? ProPublica Wants to Find Out",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
