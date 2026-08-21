@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T22:32:46.060Z",
+  "updated": "2026-08-21T01:41:40.539Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: Pentagon Spending Escapes Oversight",
-    "dek": "With neither party demanding accountability, the U.S. military budget remains a opaque slush fund that both Republicans and Democrats refuse to audit.",
+    "headline": "The $1 Trillion Black Box: How Both Parties Enable Unchecked Military Spending",
+    "dek": "With neither party demanding transparency, the Pentagon's budget remains a bipartisan blind spot that costs taxpayers trillions with zero accountability.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,30 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "ICE Worked With Iranian Regime on Deportation Flights as Trump Planned War",
-      "meta": "Immigration · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as Condition for Lifesaving Aid",
-      "meta": "Healthcare · today",
+      "headline": "Senators Criticize Trump Admin's Demands on Health Data — But Both Parties Built This System",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 2,
+      "category": "corruption",
+      "headline": "ICE Worked With Iranian Regime on Deportation Flights as Trump Planned War",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Government Payment System Won't Let Him",
-      "meta": "Immigration · today",
+      "category": "accountability",
+      "headline": "Broken Immigration Payment System Traps Man Who Owes $368,000 in Fines",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Banned Coach Still Works With Kids — and No One in Power Is Stopping It",
-      "meta": "Child Safety · today",
-      "url": "https://feeds.propublica.org"
+      "category": "scandal",
+      "headline": "Democrat Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
