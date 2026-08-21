@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T12:58:04.229Z",
+  "updated": "2026-08-21T14:40:22.342Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' funding power",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Republicans Bristle at Trump's Latest Tactics to Undermine Congress' Funding Power",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Democrats put Trump's 'corruption' front and center as they plan possible 2027 probes",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as a Condition for Lifesaving Aid",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
       "headline": "This Mysterious 'Astroturf' Group Popped Up to Defend the Paramount Merger",
-      "meta": "Politics · today",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as a Condition for Lifesaving Aid",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won't Let Him",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
