@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T20:31:05.204Z",
+  "updated": "2026-08-21T22:30:04.245Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -16,35 +16,35 @@
       "id": 1,
       "category": "betrayal",
       "headline": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
-      "meta": "Politics · today",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as a Condition for Lifesaving Aid",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "category": "corruption",
+      "headline": "This Mysterious 'Astroturf' Group Popped Up to Defend the Paramount Merger",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
       "headline": "Republicans Bristle at Trump's Latest Tactics to Undermine Congress' Funding Power",
-      "meta": "Politics · today",
+      "meta": "Politico · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "This Mysterious 'Astroturf' Group Popped Up to Defend the Paramount Merger",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "corruption",
+      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as a Condition for Lifesaving Aid",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
       "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won't Let Him",
-      "meta": "Politics · today",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     }
   ],
