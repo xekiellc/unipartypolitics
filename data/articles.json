@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-21T06:55:26.286Z",
+  "updated": "2026-08-21T08:48:16.926Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: Pentagon Spending Neither Party Will Touch",
-    "dek": "Military spending balloons past $1 trillion with no accountability demanded by Republicans or Democrats, as both parties protect defense contractor cash flows over taxpayer transparency.",
+    "headline": "The $1 Trillion Black Box: Congress Keeps Military Spending in the Dark",
+    "dek": "Decades of bipartisan complicity have allowed the Pentagon to spend trillions with virtually no accountability, as both Republicans and Democrats refuse to demand real audits.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,31 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "ICE Worked With Iranian Regime on Deportation Flights While Trump Planned War",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 2,
       "category": "betrayal",
-      "headline": "Senators Criticize Trump Admin's Demand to Access Health Data as Condition for Foreign Aid",
+      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as Condition for Lifesaving Aid",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
+      "meta": "National Security · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 3,
-      "category": "accountability",
-      "headline": "Democrat Rep. Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "betrayal",
+      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Government Payment System Won't Let Him",
+      "meta": "Immigration · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "broken system",
-      "headline": "Immigrant Owes $368,000 in Fines But Government's Own Payment System Won't Accept His Money",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "Democrat Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
+      "meta": "Congress · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "In Year 2 of Trump's Funding Grab, Congress Fights Back — But Was Mostly Silent Before",
+      "meta": "Budget · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
