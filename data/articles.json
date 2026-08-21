@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-21T08:48:16.926Z",
+  "updated": "2026-08-21T10:35:16.836Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: Congress Keeps Military Spending in the Dark",
-    "dek": "Decades of bipartisan complicity have allowed the Pentagon to spend trillions with virtually no accountability, as both Republicans and Democrats refuse to demand real audits.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
-    "source": "ProPublica"
+    "headline": "Congress fights back on Trump funding grab — but quietly enabled it for a year",
+    "dek": "Both parties allowed executive overreach on federal funding for over a year before mounting any meaningful legislative resistance.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as Condition for Lifesaving Aid",
+      "headline": "Oregon spends record amounts on low-income housing while state law keeps details secret from taxpayers",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
+      "category": "corruption",
+      "headline": "Banned coach still working with kids as oversight systems fail across party lines",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Government Payment System Won't Let Him",
-      "meta": "Immigration · today",
+      "category": "corruption",
+      "headline": "Mysterious astroturf group surfaces to defend Paramount merger — and nobody in power is asking who's behind it",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Democrat Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
-      "meta": "Congress · today",
+      "headline": "Democrat Rep. Jimmy Gomez under investigation for alleged sexual harassment and assault",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "In Year 2 of Trump's Funding Grab, Congress Fights Back — But Was Mostly Silent Before",
-      "meta": "Budget · today",
-      "url": "https://rss.politico.com"
+      "category": "corruption",
+      "headline": "Trump administration ties health data access to lifesaving aid as senators from both parties stay largely silent",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
