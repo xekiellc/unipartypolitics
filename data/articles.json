@@ -1,42 +1,49 @@
 {
-  "updated": "2026-08-21T16:40:15.063Z",
+  "updated": "2026-08-21T18:44:00.005Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Republicans bristle but comply as Trump undermines Congress' funding power",
-    "dek": "GOP lawmakers voice frustration yet take no action as executive power expands at the expense of Congressional authority over the purse.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "Politico"
+    "headline": "Senators criticize Trump admin's demands to access health data as condition for lifesaving aid",
+    "dek": "Both Republican and Democratic senators raised alarms as the administration leveraged humanitarian aid access to extract sensitive health data, with Congress slow to act on oversight.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while a state law keeps all the details secret",
+      "headline": "Oregon spends record amounts on low-income housing while state law keeps details secret from taxpayers",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "corruption",
-      "headline": "Democrats plan 2027 probes into Trump corruption — but waited years to act on systemic oversight failures",
+      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' funding power",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "cover-up",
-      "headline": "Mysterious 'astroturf' group surfaces to defend Paramount merger as regulators look the other way",
+      "category": "accountability",
+      "headline": "Democrats put Trump's 'corruption' front and center while planning possible 2027 probes — years away",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 4,
+      "category": "influence",
+      "headline": "Mysterious 'astroturf' group popped up to defend Paramount merger as regulators weighed in",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Trump administration ties health data access to lifesaving aid as senators from both parties stay largely silent",
+      "id": 5,
+      "category": "failure",
+      "headline": "Banned coach is still working with kids — and authorities on both sides of the aisle looked away",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
