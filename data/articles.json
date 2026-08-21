@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-21T03:08:25.736Z",
+  "updated": "2026-08-21T04:44:16.880Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: How Both Parties Enable Unchecked Military Spending",
-    "dek": "Pentagon budgets balloon with bipartisan approval as lawmakers from both sides of the aisle refuse to demand accountability for where the money goes.",
+    "headline": "The $1 Trillion Black Box: Congress Keeps Military Spending in the Dark",
+    "dek": "Both parties have enabled a decade of unaudited Pentagon spending, with neither side willing to demand accountability for America's largest budget item.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,8 +15,8 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "ICE Worked With Iranian Regime While Trump Laid Plans for War",
-      "meta": "Politics · today",
+      "headline": "ICE Worked With Iranian Regime on Deportation Flights While Trump Planned War",
+      "meta": "National Security · today",
       "url": "https://theintercept.com"
     },
     {
@@ -29,16 +29,16 @@
     {
       "id": 3,
       "category": "corruption",
-      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Government Payment System Won't Let Him",
+      "headline": "Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "accountability",
-      "headline": "Do You Know Where U.S. Military Spending Goes? ProPublica Wants to Find Out",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "category": "dysfunction",
+      "headline": "Immigrant Wants to Pay $368,000 in Fines, But Broken Government Payment System Won't Let Him",
+      "meta": "Immigration · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
