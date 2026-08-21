@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-21T04:44:16.880Z",
+  "updated": "2026-08-21T06:55:26.286Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The $1 Trillion Black Box: Congress Keeps Military Spending in the Dark",
-    "dek": "Both parties have enabled a decade of unaudited Pentagon spending, with neither side willing to demand accountability for America's largest budget item.",
+    "headline": "The $1 Trillion Black Box: Pentagon Spending Neither Party Will Touch",
+    "dek": "Military spending balloons past $1 trillion with no accountability demanded by Republicans or Democrats, as both parties protect defense contractor cash flows over taxpayer transparency.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,30 +14,30 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "ICE Worked With Iranian Regime on Deportation Flights While Trump Planned War",
-      "meta": "National Security · today",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Senators Criticize Trump Admin's Demands to Access Health Data as Condition for Lifesaving Aid",
+      "headline": "Senators Criticize Trump Admin's Demand to Access Health Data as Condition for Foreign Aid",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
+      "category": "accountability",
+      "headline": "Democrat Rep. Jimmy Gomez Under Investigation for Sexual Harassment and Assault Allegations",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "dysfunction",
-      "headline": "Immigrant Wants to Pay $368,000 in Fines, But Broken Government Payment System Won't Let Him",
-      "meta": "Immigration · today",
+      "category": "broken system",
+      "headline": "Immigrant Owes $368,000 in Fines But Government's Own Payment System Won't Accept His Money",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
   ],
