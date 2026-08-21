@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-21T10:35:16.836Z",
+  "updated": "2026-08-21T12:58:04.229Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress fights back on Trump funding grab — but quietly enabled it for a year",
-    "dek": "Both parties allowed executive overreach on federal funding for over a year before mounting any meaningful legislative resistance.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "Politico"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while state law keeps details secret from taxpayers",
+      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' funding power",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
-      "category": "corruption",
-      "headline": "Banned coach still working with kids as oversight systems fail across party lines",
+      "category": "betrayal",
+      "headline": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "Mysterious astroturf group surfaces to defend Paramount merger — and nobody in power is asking who's behind it",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
       "category": "betrayal",
-      "headline": "Democrat Rep. Jimmy Gomez under investigation for alleged sexual harassment and assault",
+      "headline": "Democrats put Trump's 'corruption' front and center as they plan possible 2027 probes",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "This Mysterious 'Astroturf' Group Popped Up to Defend the Paramount Merger",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 5,
-      "category": "corruption",
-      "headline": "Trump administration ties health data access to lifesaving aid as senators from both parties stay largely silent",
+      "category": "betrayal",
+      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as a Condition for Lifesaving Aid",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
