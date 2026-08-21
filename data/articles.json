@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-21T18:44:00.005Z",
+  "updated": "2026-08-21T20:31:05.204Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators criticize Trump admin's demands to access health data as condition for lifesaving aid",
-    "dek": "Both Republican and Democratic senators raised alarms as the administration leveraged humanitarian aid access to extract sensitive health data, with Congress slow to act on oversight.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while state law keeps details secret from taxpayers",
+      "headline": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "corruption",
-      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' funding power",
+      "category": "betrayal",
+      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as a Condition for Lifesaving Aid",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "accountability",
-      "headline": "Democrats put Trump's 'corruption' front and center while planning possible 2027 probes — years away",
+      "category": "betrayal",
+      "headline": "Republicans Bristle at Trump's Latest Tactics to Undermine Congress' Funding Power",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "influence",
-      "headline": "Mysterious 'astroturf' group popped up to defend Paramount merger as regulators weighed in",
+      "category": "betrayal",
+      "headline": "This Mysterious 'Astroturf' Group Popped Up to Defend the Paramount Merger",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "failure",
-      "headline": "Banned coach is still working with kids — and authorities on both sides of the aisle looked away",
+      "category": "betrayal",
+      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won't Let Him",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
