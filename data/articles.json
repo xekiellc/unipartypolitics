@@ -1,44 +1,44 @@
 {
-  "updated": "2026-08-22T16:30:24.135Z",
+  "updated": "2026-08-22T18:37:34.769Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators from both parties criticize health data demands tied to lifesaving aid",
-    "dek": "Republicans and Democrats alike raised alarms as the Trump administration conditioned critical humanitarian assistance on access to sensitive health data, exposing a system where political leverage overrides public welfare.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Senators from both parties criticize Trump health data demands tied to lifesaving aid",
+    "dek": "A rare bipartisan rebuke highlights how both parties have enabled opaque data-sharing agreements that trade public health for political leverage.",
+    "votes_r": 12,
+    "votes_d": 14,
+    "votes_yes": 26,
+    "votes_no": 8,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing — but a state law keeps the details secret",
+      "headline": "Oregon spends record amounts on low-income housing while a state law keeps all the details secret",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "corruption",
-      "headline": "Republicans bristle at Trump's tactics to undermine Congress' own funding power",
+      "category": "betrayal",
+      "headline": "This Mysterious 'Astroturf' Group Popped Up to Defend the Paramount Merger",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' own funding power",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 3,
-      "category": "media",
-      "headline": "A mysterious 'astroturf' group popped up to defend the Paramount merger — but who's behind it?",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 4,
-      "category": "accountability",
-      "headline": "RIP to the Russiagate liberals: A reckoning for Democratic Party failures",
+      "category": "betrayal",
+      "headline": "Democrats plan 2027 corruption probes — but their own oversight failures remain unexamined",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
