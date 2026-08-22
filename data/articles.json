@@ -1,44 +1,44 @@
 {
-  "updated": "2026-08-22T18:37:34.769Z",
+  "updated": "2026-08-22T20:28:54.971Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators from both parties criticize Trump health data demands tied to lifesaving aid",
-    "dek": "A rare bipartisan rebuke highlights how both parties have enabled opaque data-sharing agreements that trade public health for political leverage.",
-    "votes_r": 12,
-    "votes_d": 14,
-    "votes_yes": 26,
-    "votes_no": 8,
+    "headline": "Senators criticize Trump administration's demands to access health data as condition for lifesaving aid",
+    "dek": "Both parties have enabled a system where vulnerable populations are used as leverage for data access, with Congress failing to establish clear protections.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while a state law keeps all the details secret",
+      "headline": "Oregon spends record amounts on low-income housing while state law keeps the details secret",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "This Mysterious 'Astroturf' Group Popped Up to Defend the Paramount Merger",
+      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' funding power",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' own funding power",
+      "headline": "This mysterious astroturf group popped up to defend the Paramount merger",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Democrats plan 2027 corruption probes — but their own oversight failures remain unexamined",
+      "headline": "Banned coach keeps working with kids as oversight systems fail across party lines",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
