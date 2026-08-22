@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-22T20:28:54.971Z",
+  "updated": "2026-08-22T22:27:17.087Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators criticize Trump administration's demands to access health data as condition for lifesaving aid",
-    "dek": "Both parties have enabled a system where vulnerable populations are used as leverage for data access, with Congress failing to establish clear protections.",
+    "headline": "Senators from both parties silent as Trump admin ties health data access to lifesaving aid",
+    "dek": "Neither party has moved to block the administration's demands that vulnerable populations hand over sensitive health data as a condition for receiving critical assistance.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while state law keeps the details secret",
+      "headline": "Oregon spends record amounts on low-income housing while a state law keeps all the details secret",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' funding power",
+      "headline": "Democrats plan corruption probes but stayed quiet during their own party's ethical failures",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "This mysterious astroturf group popped up to defend the Paramount merger",
+      "headline": "Republicans bristle at Trump undermining Congress's funding power — the same power they handed away for years",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Banned coach keeps working with kids as oversight systems fail across party lines",
+      "headline": "RIP to the Russiagate liberals: How partisan narratives replaced accountability on both sides",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Mysterious astroturf group defends Paramount merger as both parties look the other way on media consolidation",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
