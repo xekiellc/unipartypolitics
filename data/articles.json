@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-22T14:26:41.855Z",
+  "updated": "2026-08-22T16:30:24.135Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators from both parties criticize health data demands while approving underlying aid conditions",
-    "dek": "Republican and Democrat senators voiced concern over Trump administration demands to access sensitive health data as a condition for lifesaving aid, yet bipartisan inaction allowed the policy to proceed.",
+    "headline": "Senators from both parties criticize health data demands tied to lifesaving aid",
+    "dek": "Republicans and Democrats alike raised alarms as the Trump administration conditioned critical humanitarian assistance on access to sensitive health data, exposing a system where political leverage overrides public welfare.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while state law keeps spending details secret",
+      "headline": "Oregon spends record amounts on low-income housing — but a state law keeps the details secret",
       "meta": "Politics · today",
-      "url": "feeds.propublica.org"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Republicans bristle at Trump's tactics undermining Congress's own funding power",
+      "category": "corruption",
+      "headline": "Republicans bristle at Trump's tactics to undermine Congress' own funding power",
       "meta": "Politics · today",
-      "url": "rss.politico.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Mysterious astroturf group surfaces to defend Paramount merger as regulators look away",
+      "category": "media",
+      "headline": "A mysterious 'astroturf' group popped up to defend the Paramount merger — but who's behind it?",
       "meta": "Politics · today",
-      "url": "theintercept.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Democrats plan 2027 corruption probes while offering little resistance to current abuses",
+      "category": "accountability",
+      "headline": "RIP to the Russiagate liberals: A reckoning for Democratic Party failures",
       "meta": "Politics · today",
-      "url": "rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
