@@ -1,51 +1,44 @@
 {
-  "updated": "2026-08-22T04:38:37.138Z",
+  "updated": "2026-08-22T14:26:41.855Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Senators from both parties criticize health data demands while approving underlying aid conditions",
+    "dek": "Republican and Democrat senators voiced concern over Trump administration demands to access sensitive health data as a condition for lifesaving aid, yet bipartisan inaction allowed the policy to proceed.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
+      "headline": "Oregon spends record amounts on low-income housing while state law keeps spending details secret",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Republicans Bristle at Trump's Latest Tactics to Undermine Congress' Funding Power",
+      "headline": "Republicans bristle at Trump's tactics undermining Congress's own funding power",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "This Mysterious 'Astroturf' Group Popped Up to Defend the Paramount Merger",
+      "headline": "Mysterious astroturf group surfaces to defend Paramount merger as regulators look away",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Senators Criticize Trump Administration's Demands to Access Health Data as a Condition for Lifesaving Aid",
+      "headline": "Democrats plan 2027 corruption probes while offering little resistance to current abuses",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won't Let Him",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "rss.politico.com"
     }
   ],
   "stats": {
