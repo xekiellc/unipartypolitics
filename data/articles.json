@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-23T01:44:55.730Z",
+  "updated": "2026-08-23T03:07:57.134Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Senators from both parties criticize health data demands tied to lifesaving aid",
-    "dek": "Republicans and Democrats alike raised alarms over the Trump administration's conditions on health data access, yet Congress has taken no meaningful action to block it.",
+    "dek": "Republican and Democratic senators alike raised alarms as the Trump administration conditioned critical humanitarian assistance on access to sensitive health data, exposing a bipartisan failure to protect vulnerable populations.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,28 +15,28 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while hiding details behind state law",
+      "headline": "Oregon spends record amounts on low-income housing while a state law keeps the details secret",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump's tactics to undermine Congress' own funding power",
+      "headline": "This mysterious 'astroturf' group popped up to defend the Paramount merger",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Democrats plan 2027 corruption probes — but waited years to act",
+      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' funding power",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Astroturf group mysteriously emerges to defend Paramount merger as regulators look away",
+      "headline": "RIP to the Russiagate liberals",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
