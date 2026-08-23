@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-23T10:29:28.299Z",
+  "updated": "2026-08-23T12:50:44.070Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators from both parties enable Trump admin health data demands tied to foreign aid",
-    "dek": "Republican and Democratic senators have been slow to block the Trump administration's conditioning of lifesaving aid on access to sensitive health data, exposing a bipartisan failure to protect vulnerable populations.",
+    "headline": "Senators from both parties stay silent as Trump admin ties health data access to lifesaving aid",
+    "dek": "Republican and Democratic senators criticize but largely capitulate as the administration conditions critical humanitarian assistance on sweeping health data demands.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,20 +15,20 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while hiding details from the public",
+      "headline": "Oregon spends record amounts on low-income housing while hiding the details from the public",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Bipartisan inaction lets banned youth sports coach keep working with children",
+      "headline": "Republicans bristle at Trump's tactics undermining Congress's own funding power",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "Mysterious astroturf group surfaces to defend Paramount merger as regulators look away",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
@@ -36,7 +36,7 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Republicans bristle as Trump undermines Congress's own funding power",
+      "headline": "Democrats plan 2027 corruption probes — but waited until out of power to act",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
