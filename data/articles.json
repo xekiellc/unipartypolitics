@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-22T22:27:17.087Z",
+  "updated": "2026-08-23T01:44:55.730Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators from both parties silent as Trump admin ties health data access to lifesaving aid",
-    "dek": "Neither party has moved to block the administration's demands that vulnerable populations hand over sensitive health data as a condition for receiving critical assistance.",
+    "headline": "Senators from both parties criticize health data demands tied to lifesaving aid",
+    "dek": "Republicans and Democrats alike raised alarms over the Trump administration's conditions on health data access, yet Congress has taken no meaningful action to block it.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,35 +15,28 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while a state law keeps all the details secret",
+      "headline": "Oregon spends record amounts on low-income housing while hiding details behind state law",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Democrats plan corruption probes but stayed quiet during their own party's ethical failures",
+      "headline": "Republicans bristle at Trump's tactics to undermine Congress' own funding power",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump undermining Congress's funding power — the same power they handed away for years",
+      "headline": "Democrats plan 2027 corruption probes — but waited years to act",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "RIP to the Russiagate liberals: How partisan narratives replaced accountability on both sides",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Mysterious astroturf group defends Paramount merger as both parties look the other way on media consolidation",
+      "headline": "Astroturf group mysteriously emerges to defend Paramount merger as regulators look away",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
