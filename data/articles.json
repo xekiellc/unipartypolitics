@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-23T16:31:46.439Z",
+  "updated": "2026-08-23T18:36:53.439Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators from both parties condemn health data demands tied to lifesaving foreign aid",
-    "dek": "Republicans and Democrats alike criticized the Trump administration's condition of handing over sensitive health data in exchange for critical humanitarian assistance, yet Congress has taken no action to block it.",
+    "headline": "Oregon spends record amounts on low-income housing while hiding the details from taxpayers",
+    "dek": "A state law shields spending details from public scrutiny, exposing how government transparency fails regardless of which party controls the budget.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while hiding the details from taxpayers",
+      "headline": "Republicans bristle as Trump undermines Congress' own funding power",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump's tactics to undermine Congress' own funding power",
+      "headline": "Democrats plan 2027 corruption probes — while avoiding scrutiny of their own record",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "Mysterious astroturf group surfaces to defend Paramount merger as regulators look away",
+      "category": "betrayal",
+      "headline": "Banned coach kept working with kids — a systemic failure no party has fixed",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Democrats plan 2027 corruption probes — but waited until they were out of power to act",
+      "headline": "Trump administration ties health data access to lifesaving aid as senators from both parties look on",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Mysterious astroturf group defends Paramount merger — and nobody in Washington is asking who funds it",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
