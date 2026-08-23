@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-23T06:50:18.478Z",
+  "updated": "2026-08-23T08:36:34.582Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators criticize Trump administration's demands to access health data as condition for lifesaving aid",
-    "dek": "Both parties have failed to establish clear guardrails on executive branch data access, as the administration leverages humanitarian aid to extract sensitive health information.",
+    "headline": "Senators from both parties criticize Trump health data demands while voting records show bipartisan silence on reform",
+    "dek": "Republican and Democrat senators publicly criticize the administration's demands to access health data as a condition for lifesaving aid, yet neither party has moved to legislate protections.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon is spending more than ever on low-income housing — but a state law keeps the details secret",
+      "headline": "Oregon spends record amounts on low-income housing while state law keeps spending details secret from taxpayers",
       "meta": "Politics · today",
-      "url": "feeds.propublica.org"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' funding power",
+      "headline": "Republicans bristle at Trump's tactics undermining Congress's funding power — the same power they refused to defend under prior presidents",
       "meta": "Politics · today",
-      "url": "rss.politico.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "This mysterious 'astroturf' group popped up to defend the Paramount merger",
+      "headline": "Democrats plan 2027 corruption probes while their own members face unaddressed ethics questions",
       "meta": "Politics · today",
-      "url": "theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "RIP to the Russiagate liberals",
+      "headline": "Mysterious astroturf group defends Paramount merger as both parties take telecom cash",
       "meta": "Politics · today",
-      "url": "theintercept.com"
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Broken immigration payment system leaves immigrant unable to pay $368,000 fine as Congress ignores fix",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
