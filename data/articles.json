@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-23T03:07:57.134Z",
+  "updated": "2026-08-23T04:42:40.987Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators from both parties criticize health data demands tied to lifesaving aid",
-    "dek": "Republican and Democratic senators alike raised alarms as the Trump administration conditioned critical humanitarian assistance on access to sensitive health data, exposing a bipartisan failure to protect vulnerable populations.",
+    "headline": "Senators from both parties criticize Trump data demands tied to lifesaving aid",
+    "dek": "Bipartisan criticism emerges but Congress has yet to act as the administration conditions humanitarian aid on unprecedented health data access.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,28 +15,35 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while a state law keeps the details secret",
+      "headline": "Oregon spends record amounts on low-income housing while hiding the details by law",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "This mysterious 'astroturf' group popped up to defend the Paramount merger",
+      "headline": "Republicans bristle at Trump's tactics to undermine Congress' own funding power",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' funding power",
+      "headline": "Democrats plan 2027 corruption probes while sitting out fights they could have now",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "RIP to the Russiagate liberals",
+      "headline": "Mysterious astroturf group surfaces to defend Paramount merger as regulators look away",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Immigrant tries to pay $368,000 in fines but broken government system blocks him",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
