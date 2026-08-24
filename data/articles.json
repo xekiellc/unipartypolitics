@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-24T03:08:58.726Z",
+  "updated": "2026-08-24T04:51:19.191Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators from both parties silent as Trump admin ties health data access to lifesaving foreign aid",
-    "dek": "Neither party has moved to block conditions that force vulnerable populations to surrender health data in exchange for emergency assistance.",
+    "headline": "Senators from both parties allow Trump admin to weaponize health data access",
+    "dek": "Republican and Democratic senators raised concerns but failed to block administration demands tying health data access to lifesaving aid conditions.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record sums on low-income housing while state law keeps spending details secret",
+      "headline": "Oregon spends record funds on low-income housing while state law keeps details secret from taxpayers",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump tactics to undermine Congress's own funding power",
+      "headline": "Republicans bristle but stay silent as Trump undermines Congress's own funding power",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Democrats plan 2027 corruption probes — but stayed quiet when they had power to act",
+      "category": "corruption",
+      "headline": "Mysterious astroturf group emerges to defend Paramount merger as regulators look away",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Mysterious astroturf group surfaces to defend Paramount merger as regulators look away",
+      "headline": "Democrats plan 2027 corruption probes while doing little to stop abuses happening now",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
