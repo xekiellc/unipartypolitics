@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-24T04:51:19.191Z",
+  "updated": "2026-08-24T07:08:42.574Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators from both parties allow Trump admin to weaponize health data access",
-    "dek": "Republican and Democratic senators raised concerns but failed to block administration demands tying health data access to lifesaving aid conditions.",
+    "headline": "Senators criticize Trump administration's demands to access health data as condition for lifesaving aid",
+    "dek": "Both parties have enabled a system where vulnerable populations are used as leverage for data access, with congressional oversight repeatedly falling short across administrations.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,28 +15,28 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record funds on low-income housing while state law keeps details secret from taxpayers",
+      "headline": "Oregon is spending more than ever on low-income housing — but a state law keeps the details secret",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Republicans bristle but stay silent as Trump undermines Congress's own funding power",
+      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' funding power",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "Mysterious astroturf group emerges to defend Paramount merger as regulators look away",
+      "category": "betrayal",
+      "headline": "This mysterious 'astroturf' group popped up to defend the Paramount merger",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Democrats plan 2027 corruption probes while doing little to stop abuses happening now",
+      "headline": "Democrats put Trump's 'corruption' front and center — while planning probes that may never materialize",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
