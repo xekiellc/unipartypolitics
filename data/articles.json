@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-24T20:36:22.947Z",
+  "updated": "2026-08-24T22:32:03.366Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Pentagon maintains secret blacklist of journalists with bipartisan silence",
-    "dek": "The Pentagon's press office admitted to a secret blacklist targeting journalists, with neither party moving to hold officials accountable or demand transparency.",
+    "dek": "The Pentagon spokesperson admitted to a secret journalist blacklist while neither party has moved to investigate or dismantle the program.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,28 +15,28 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record funds on low-income housing while state law keeps spending details secret",
+      "headline": "Oregon spends record funds on low-income housing while state law keeps details secret",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump's tactics undermining Congress' own funding power",
+      "headline": "Republicans bristle at Trump undermining Congress funding power",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Mysterious astroturf group surfaces to defend Paramount merger as regulators look away",
+      "headline": "Mysterious astroturf group surfaces to defend Paramount merger amid regulatory capture concerns",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Democrats plan 2027 corruption probes while their own oversight failures go unexamined",
+      "headline": "Democrats plan 2027 corruption probes while offering little oversight now",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
