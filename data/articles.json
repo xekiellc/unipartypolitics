@@ -1,44 +1,44 @@
 {
-  "updated": "2026-08-24T08:54:47.712Z",
+  "updated": "2026-08-24T10:41:28.449Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Republicans bristle but comply as Trump undermines Congress' funding power",
-    "dek": "Republican lawmakers express frustration yet continue to cede constitutional spending authority to the executive branch, exposing a pattern of institutional surrender across both parties.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "Politico"
+    "headline": "Pentagon maintains secret blacklist of journalists with bipartisan silence",
+    "dek": "The Pentagon openly admitted to blacklisting journalists, yet neither party has moved to investigate or legislate against the practice.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while state law keeps the details secret",
+      "headline": "Oregon spends record amounts on low-income housing while state law keeps spending details secret",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Democrats plan 2027 corruption probes — while their own oversight failures pile up",
+      "headline": "Republicans bristle at Trump undermining Congress' funding power — but took years to act",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Senators criticize Trump admin's demands to access health data as condition for lifesaving aid",
+      "headline": "Mysterious astroturf group emerges to defend Paramount merger as regulators look away",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Mysterious astroturf group surfaces to defend Paramount merger as both parties look away",
+      "headline": "Democrats plan 2027 corruption probes while their own oversight failures pile up",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
