@@ -1,44 +1,44 @@
 {
-  "updated": "2026-08-24T07:08:42.574Z",
+  "updated": "2026-08-24T08:54:47.712Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators criticize Trump administration's demands to access health data as condition for lifesaving aid",
-    "dek": "Both parties have enabled a system where vulnerable populations are used as leverage for data access, with congressional oversight repeatedly falling short across administrations.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "ProPublica"
+    "headline": "Republicans bristle but comply as Trump undermines Congress' funding power",
+    "dek": "Republican lawmakers express frustration yet continue to cede constitutional spending authority to the executive branch, exposing a pattern of institutional surrender across both parties.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon is spending more than ever on low-income housing — but a state law keeps the details secret",
+      "headline": "Oregon spends record amounts on low-income housing while state law keeps the details secret",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump's latest tactics to undermine Congress' funding power",
+      "headline": "Democrats plan 2027 corruption probes — while their own oversight failures pile up",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "This mysterious 'astroturf' group popped up to defend the Paramount merger",
+      "headline": "Senators criticize Trump admin's demands to access health data as condition for lifesaving aid",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Democrats put Trump's 'corruption' front and center — while planning probes that may never materialize",
+      "headline": "Mysterious astroturf group surfaces to defend Paramount merger as both parties look away",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
