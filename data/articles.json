@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-23T22:27:48.379Z",
+  "updated": "2026-08-24T01:42:24.242Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senators from both parties slam health data demands tied to lifesaving foreign aid",
-    "dek": "Republicans and Democrats alike criticized the Trump administration's conditions on aid access, yet Congress has done little to stop the practice or protect vulnerable recipients.",
+    "headline": "Oregon spends record amounts on low-income housing while hiding details from the public",
+    "dek": "A state law keeps spending details secret even as Oregon pours more money than ever into low-income housing programs, shielding both parties from accountability.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while a state law keeps all the details secret",
+      "headline": "Republicans bristle at Trump's tactics to undermine Congress' funding power",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump's tactics to undermine Congress' own funding power",
+      "headline": "Senators criticize Trump administration's demands to access health data as condition for lifesaving aid",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Democrats plan 2027 corruption probes — but won't act until they're back in power",
+      "category": "corruption",
+      "headline": "This mysterious 'astroturf' group popped up to defend the Paramount merger",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "A mysterious astroturf group quietly emerged to defend the Paramount merger — and no one is asking who paid for it",
+      "category": "accountability",
+      "headline": "Democrats put Trump's 'corruption' front and center as they plan possible 2027 probes",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
