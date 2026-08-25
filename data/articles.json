@@ -1,44 +1,51 @@
 {
-  "updated": "2026-08-25T12:56:31.361Z",
+  "updated": "2026-08-25T14:52:01.820Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon maintains secret blacklist of journalists with bipartisan congressional silence",
-    "dek": "The Pentagon openly admitted to blacklisting journalists, yet lawmakers from both parties have failed to demand accountability or transparency reforms.",
+    "headline": "Oregon Hides Low-Income Housing Spending Behind State Secrecy Law",
+    "dek": "Oregon Democrats championed record housing spending but passed a law keeping the financial details hidden from taxpayers and watchdogs alike.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while state law keeps the details secret",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Pentagon Maintains Secret Blacklist of Journalists, Spokesperson Confirms",
+      "meta": "Accountability · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Local cops flout sanctuary laws to help ICE deport immigrants",
-      "meta": "Politics · today",
+      "headline": "Local Police Defy Sanctuary Laws to Assist ICE Deportations",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Children in a faith-healing sect keep dying. The state lets it happen.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Republicans Bristle as Trump Undermines Congress' Own Funding Powers",
+      "meta": "Congress · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Republicans bristle at Trump's tactics undermining Congress' funding power",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Faith-Healing Children Keep Dying — And States Keep Looking Away",
+      "meta": "Accountability · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Texas Flood Survivors Rebuilt With Government Help — Then Flooded Again",
+      "meta": "Disaster Policy · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
