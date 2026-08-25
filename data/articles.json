@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-25T08:50:04.074Z",
+  "updated": "2026-08-25T10:38:03.853Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon admits secret blacklist of journalists while Congress looks away",
-    "dek": "A Pentagon spokesperson confirmed a covert blacklist targeting journalists, exposing how executive overreach goes unchallenged by either party's leadership.",
+    "headline": "Pentagon maintains secret blacklist of journalists with no congressional pushback",
+    "dek": "A Pentagon spokesperson confirmed the existence of a secret journalist blacklist, exposing how both parties in Congress have failed to demand transparency or accountability from the Defense Department.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record funds on low-income housing while hiding details from public",
+      "headline": "Oregon spends record amounts on low-income housing while state law keeps all details secret",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Republicans bristle as Trump undermines Congress' own funding power",
+      "headline": "Republicans bristle at Trump undermining Congress funding power — but did nothing to stop it",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Mysterious astroturf group surfaces to defend Paramount merger as regulators watch",
+      "headline": "Children dying in faith-healing sect as state government refuses to act",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Democrats plan 2027 corruption probes — but waited years to act",
+      "headline": "Mysterious astroturf group surfaces to defend Paramount merger as regulators stay silent",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Texas flood survivors rebuild with government blessing — only to flood again",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
