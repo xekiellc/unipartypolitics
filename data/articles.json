@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-25T16:42:58.948Z",
+  "updated": "2026-08-25T18:46:50.237Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon creates secret blacklist of journalists with no congressional pushback",
-    "dek": "A Pentagon spokesperson admitted the existence of a secret journalist blacklist, while neither party in Congress has moved to investigate or challenge the practice.",
+    "headline": "Pentagon Builds Secret Blacklist of Journalists as Both Parties Stay Silent",
+    "dek": "A Pentagon spokesperson confirmed the existence of a secret journalist blacklist, yet neither Republicans nor Democrats have moved to hold the administration accountable.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Local cops flout sanctuary law to help ICE deport immigrants",
+      "headline": "Local Cops Flout Sanctuary Laws to Help ICE — In Democratic and Republican Cities Alike",
       "meta": "Immigration · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Children in a faith-healing sect keep dying. The state lets it happen.",
-      "meta": "Government Failure · today",
+      "headline": "Children Keep Dying in Faith-Healing Sects. Bipartisan State Legislatures Keep Looking Away.",
+      "meta": "Policy · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "They rebuilt after Texas' devastating floods. Then their home flooded again.",
-      "meta": "Policy Failure · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Republicans Bristle at Trump Undermining Congress' Funding Power — But Took Years to Act",
+      "meta": "Congress · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Top commanders told Hegseth not to cut civilian protection program. He did it anyway.",
-      "meta": "Defense · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Sixty U.S. Soldiers Injured in Iran War With No Congressional Declaration of War",
+      "meta": "National Security · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Sixty more U.S. soldiers reported injured in Iran war",
-      "meta": "Foreign Policy · today",
-      "url": "https://theintercept.com"
+      "headline": "Texas Flood Victims Rebuilt With Federal Help — Then Flooded Again as Congress Ignored Warning Signs",
+      "meta": "Disaster Policy · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
