@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-25T04:44:18.955Z",
+  "updated": "2026-08-25T06:56:40.328Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Pentagon maintains secret blacklist of journalists with bipartisan silence",
-    "dek": "A Pentagon spokesperson admitted to a secret journalist blacklist while lawmakers from both parties have failed to demand accountability or transparency reforms.",
+    "dek": "The Pentagon openly admitted to blacklisting journalists, yet neither party has moved to hold officials accountable or protect press freedom.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,28 +15,28 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oregon spends record amounts on low-income housing while state law keeps details secret",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "Republicans bristle at Trump's tactics to undermine Congress' own funding power",
+      "headline": "Republicans bristle at Trump's tactics undermining Congress' own funding power",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "Oregon spends record amounts on low-income housing while hiding details from the public",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 3,
       "category": "betrayal",
-      "headline": "Mysterious astroturf group surfaces to defend Paramount merger amid regulatory scrutiny",
+      "headline": "Mysterious astroturf group emerges to defend Paramount merger as regulators look away",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Democrats plan 2027 corruption probes while avoiding scrutiny of their own record",
+      "headline": "Democrats plan corruption probes while their own oversight failures go unexamined",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
