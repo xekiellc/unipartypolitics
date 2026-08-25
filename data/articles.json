@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-25T18:46:50.237Z",
+  "updated": "2026-08-25T20:34:44.764Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon Builds Secret Blacklist of Journalists as Both Parties Stay Silent",
-    "dek": "A Pentagon spokesperson confirmed the existence of a secret journalist blacklist, yet neither Republicans nor Democrats have moved to hold the administration accountable.",
+    "headline": "Pentagon maintains secret blacklist of journalists with bipartisan congressional silence",
+    "dek": "The Pentagon openly admitted to blacklisting journalists, yet neither party in Congress has moved to investigate or defund the practice.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Local Cops Flout Sanctuary Laws to Help ICE — In Democratic and Republican Cities Alike",
-      "meta": "Immigration · today",
+      "headline": "Local cops flout sanctuary laws to help ICE deport immigrants",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Children Keep Dying in Faith-Healing Sects. Bipartisan State Legislatures Keep Looking Away.",
-      "meta": "Policy · today",
+      "headline": "Children in a faith-healing sect keep dying. The state lets it happen.",
+      "meta": "Government Failure · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Republicans Bristle at Trump Undermining Congress' Funding Power — But Took Years to Act",
-      "meta": "Congress · today",
+      "headline": "Republicans bristle at Trump's tactics to undermine Congress' own funding power",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Sixty U.S. Soldiers Injured in Iran War With No Congressional Declaration of War",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
+      "headline": "They rebuilt after Texas' devastating floods — then their home flooded again",
+      "meta": "Disaster Policy · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Texas Flood Victims Rebuilt With Federal Help — Then Flooded Again as Congress Ignored Warning Signs",
-      "meta": "Disaster Policy · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Democrats plan 2027 corruption probes — but stayed silent when it mattered",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
