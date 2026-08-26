@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-26T19:51:26.728Z",
+  "updated": "2026-08-26T23:11:16.639Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Local cops flout sanctuary law to help ICE deport immigrants",
-    "dek": "Law enforcement agencies across party lines are ignoring sanctuary protections, with both Republican and Democrat-led jurisdictions cooperating with federal deportation efforts despite local ordinances.",
+    "dek": "Law enforcement agencies across party lines ignore sanctuary protections, enabling federal deportations with little accountability from either party.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,35 +15,35 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The Army's $533 million fiasco exposes Pentagon's bipartisan budget failures",
+      "headline": "The costly blunders in the Army's $533 million fiasco",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Hegseth cut civilian protection program despite top commanders' warnings",
+      "headline": "Top commanders told Hegseth not to cut civilian protection program. He did it anyway.",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Idaho protects faith healers as children in sect keep dying — the state lets it happen",
+      "headline": "Children in a faith-healing sect keep dying. The state lets it happen.",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Sixty US soldiers reported injured in Iran war as Congress stays silent",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "headline": "House GOP leaders eye quick vote on Senate-passed stopgap",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Republicans were already nervous about November — then Trump restarted his trade war",
+      "headline": "Republicans were already nervous about November. Then Trump restarted his trade war.",
       "meta": "Politico · today",
       "url": "https://rss.politico.com"
     }
