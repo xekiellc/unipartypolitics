@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-26T14:49:44.872Z",
+  "updated": "2026-08-26T16:51:09.963Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon builds secret blacklist of journalists as military budget burns",
-    "dek": "While the Pentagon spokesperson admits to blacklisting reporters, Congress from both parties continues rubber-stamping bloated defense spending with zero accountability.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Local cops flout sanctuary law to help ICE deport immigrants",
+    "dek": "Law enforcement agencies across party lines are ignoring sanctuary policies, exposing how both Republican and Democrat-led jurisdictions bend to federal pressure at the expense of immigrant communities.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The Army's $533 Million Fiasco Nobody in Congress Is Talking About",
-      "meta": "Defense · today",
+      "headline": "The Army's $533 million fiasco: Pentagon waste neither party will fix",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Pentagon Spokesperson Admits There's a Secret Blacklist of Journalists",
-      "meta": "Accountability · today",
-      "url": "https://theintercept.com"
+      "headline": "Children in a faith-healing sect keep dying. The state lets it happen.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Children in a Faith-Healing Sect Keep Dying. The State Lets It Happen.",
-      "meta": "Government Failure · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Sixty U.S. soldiers injured in Iran war as Congress stays silent",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
+      "headline": "Hegseth ignored top commanders on civilian protection cuts",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Top Commanders Were Ignored on Civilian Protection. Congress Said Nothing.",
-      "meta": "Military · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "House GOP eyes quick vote on stopgap as both parties dodge budget reform",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
