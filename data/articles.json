@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-26T10:39:47.859Z",
+  "updated": "2026-08-26T13:02:47.637Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon builds secret blacklist of journalists as military spending scandals mount",
-    "dek": "While the Pentagon blocks reporters covering a $533 million Army fiasco, both parties in Congress have failed to demand accountability for runaway defense spending.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Pentagon blacklists journalists as military spending scandal grows",
+    "dek": "While the Pentagon secretly bars reporters from coverage, a $533 million Army fiasco reveals the bipartisan consensus protecting defense contractor waste from public scrutiny.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica / The Intercept"
   },
   "articles": [
@@ -16,35 +16,35 @@
       "id": 1,
       "category": "betrayal",
       "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
-      "meta": "ProPublica · today",
+      "meta": "Defense · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
       "headline": "Pentagon Spokesperson Admits There's a Secret Blacklist of Journalists",
-      "meta": "The Intercept · today",
+      "meta": "Press Freedom · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
       "headline": "Children in a Faith-Healing Sect Keep Dying. The State Lets It Happen.",
-      "meta": "ProPublica · today",
+      "meta": "Government Failure · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
       "headline": "Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants",
-      "meta": "The Intercept · today",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
       "headline": "Top Commanders Told Hegseth Not to Cut Civilian Protection Program. He Did It Anyway.",
-      "meta": "ProPublica · today",
+      "meta": "Pentagon · today",
       "url": "https://feeds.propublica.org"
     }
   ],
