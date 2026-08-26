@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-26T06:57:31.643Z",
+  "updated": "2026-08-26T08:50:54.864Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon Spokesperson Admits There's a Secret Blacklist of Journalists",
-    "dek": "A Pentagon spokesperson confirmed the existence of a secret blacklist targeting journalists, raising bipartisan alarm over press freedom and government transparency failures under both administrations.",
+    "headline": "Pentagon maintains secret blacklist of journalists with bipartisan congressional silence",
+    "dek": "The Pentagon openly admitted to blacklisting journalists, yet lawmakers from both parties have failed to demand accountability or transparency reforms.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Top Commanders Told Hegseth Not to Cut Civilian Protection Program. He Did It Anyway.",
-      "meta": "Defense · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Republicans bristle but comply as Trump undermines Congress' funding power",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants",
-      "meta": "Immigration · today",
+      "headline": "Local cops flout sanctuary laws to help ICE — with no federal legislative pushback from either party",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Children in a Faith-Healing Sect Keep Dying. The State Lets It Happen.",
-      "meta": "Government Failure · today",
+      "headline": "Children keep dying in faith-healing sect while state government looks away",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Republicans Bristle at Trump's Latest Tactics to Undermine Congress' Funding Power",
-      "meta": "Congress · today",
-      "url": "https://rss.politico.com"
+      "headline": "Texas flood victims rebuilt once — now they're flooded again as Congress stalls disaster reform",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "They Rebuilt After Texas' Devastating Floods. Then Their Home Flooded Again.",
-      "meta": "Policy Failure · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Democrats plan 2027 corruption probes — but stayed silent when they had power",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
