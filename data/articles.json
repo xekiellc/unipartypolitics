@@ -1,51 +1,51 @@
 {
-  "updated": "2026-08-26T08:50:54.864Z",
+  "updated": "2026-08-26T10:39:47.859Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon maintains secret blacklist of journalists with bipartisan congressional silence",
-    "dek": "The Pentagon openly admitted to blacklisting journalists, yet lawmakers from both parties have failed to demand accountability or transparency reforms.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Pentagon builds secret blacklist of journalists as military spending scandals mount",
+    "dek": "While the Pentagon blocks reporters covering a $533 million Army fiasco, both parties in Congress have failed to demand accountability for runaway defense spending.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica / The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Republicans bristle but comply as Trump undermines Congress' funding power",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Local cops flout sanctuary laws to help ICE — with no federal legislative pushback from either party",
-      "meta": "Politics · today",
+      "headline": "Pentagon Spokesperson Admits There's a Secret Blacklist of Journalists",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Children keep dying in faith-healing sect while state government looks away",
-      "meta": "Politics · today",
+      "headline": "Children in a Faith-Healing Sect Keep Dying. The State Lets It Happen.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Texas flood victims rebuilt once — now they're flooded again as Congress stalls disaster reform",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Democrats plan 2027 corruption probes — but stayed silent when they had power",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Top Commanders Told Hegseth Not to Cut Civilian Protection Program. He Did It Anyway.",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
