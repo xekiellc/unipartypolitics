@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-26T13:02:47.637Z",
+  "updated": "2026-08-26T14:49:44.872Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon blacklists journalists as military spending scandal grows",
-    "dek": "While the Pentagon secretly bars reporters from coverage, a $533 million Army fiasco reveals the bipartisan consensus protecting defense contractor waste from public scrutiny.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
-    "source": "ProPublica / The Intercept"
+    "headline": "Pentagon builds secret blacklist of journalists as military budget burns",
+    "dek": "While the Pentagon spokesperson admits to blacklisting reporters, Congress from both parties continues rubber-stamping bloated defense spending with zero accountability.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
+      "headline": "The Army's $533 Million Fiasco Nobody in Congress Is Talking About",
       "meta": "Defense · today",
       "url": "https://feeds.propublica.org"
     },
@@ -23,7 +23,7 @@
       "id": 2,
       "category": "betrayal",
       "headline": "Pentagon Spokesperson Admits There's a Secret Blacklist of Journalists",
-      "meta": "Press Freedom · today",
+      "meta": "Accountability · today",
       "url": "https://theintercept.com"
     },
     {
@@ -43,8 +43,8 @@
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Top Commanders Told Hegseth Not to Cut Civilian Protection Program. He Did It Anyway.",
-      "meta": "Pentagon · today",
+      "headline": "Top Commanders Were Ignored on Civilian Protection. Congress Said Nothing.",
+      "meta": "Military · today",
       "url": "https://feeds.propublica.org"
     }
   ],
