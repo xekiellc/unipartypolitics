@@ -1,50 +1,50 @@
 {
-  "updated": "2026-08-26T23:11:16.639Z",
+  "updated": "2026-08-27T08:39:55.414Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Local cops flout sanctuary law to help ICE deport immigrants",
-    "dek": "Law enforcement agencies across party lines ignore sanctuary protections, enabling federal deportations with little accountability from either party.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The costly blunders in the Army's $533 million fiasco",
-      "meta": "ProPublica · today",
+      "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Top commanders told Hegseth not to cut civilian protection program. He did it anyway.",
-      "meta": "ProPublica · today",
+      "headline": "Top Commanders Told Hegseth Not to Cut Civilian Protection Program. He Did It Anyway.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Children in a faith-healing sect keep dying. The state lets it happen.",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "House GOP leaders eye quick vote on Senate-passed stopgap",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
+      "headline": "Children in a Faith-Healing Sect Keep Dying. The State Lets It Happen.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Republicans were already nervous about November. Then Trump restarted his trade war.",
-      "meta": "Politico · today",
+      "headline": "Lawmakers Press Treasury to Target Chinese Banks Over Iran",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
   ],
