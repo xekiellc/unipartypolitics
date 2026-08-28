@@ -1,50 +1,50 @@
 {
-  "updated": "2026-08-27T20:14:48.147Z",
+  "updated": "2026-08-28T06:02:20.987Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Army's $533 million fiasco exposes Pentagon waste under both parties",
+    "dek": "A costly military blunder highlights how Congress, under both Republican and Democratic leadership, has repeatedly failed to hold Pentagon spending accountable.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
-      "meta": "ProPublica · today",
+      "headline": "Local jails held immigrant woman 26 days despite 72-hour legal limit",
+      "meta": "Immigration · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Top Commanders Told Hegseth Not to Cut Civilian Protection Program. He Did It Anyway.",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "neglect",
+      "headline": "Social Security benefit cliff arrives as Washington from both sides struggles to act",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "The Social Security Benefit Cliff Is Here. Washington Is Struggling to Wake Up.",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Hegseth cut civilian protection program despite top commanders' warnings",
+      "meta": "Defense · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Lawmakers Press Treasury to Target Chinese Banks Over Iran",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "corruption",
+      "headline": "Trump admin disputed ICE custody stillbirth claim — new evidence suggests prenatal care failure",
+      "meta": "Immigration · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for 26 Days.",
-      "meta": "ProPublica · today",
+      "category": "neglect",
+      "headline": "Idaho faith healer shield law leaves children unprotected as legislators from both parties stall",
+      "meta": "Policy · today",
       "url": "https://feeds.propublica.org"
     }
   ],
