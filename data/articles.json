@@ -1,44 +1,51 @@
 {
-  "updated": "2026-08-29T16:32:54.098Z",
+  "updated": "2026-08-29T20:46:10.569Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
-    "dek": "Pentagon waste crosses party lines as decades of bipartisan defense budgets enabled a half-billion dollar procurement failure with no accountability.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "The Army's $533 Million Fiasco Nobody in Washington Wants to Talk About",
+    "dek": "Decades of bipartisan Pentagon rubber-stamping enabled a half-billion dollar procurement disaster with no accountability on either side of the aisle.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for a Total of 26 Days.",
-      "meta": "Immigration · today",
+      "category": "waste",
+      "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
+      "meta": "Defense · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
+      "category": "accountability",
       "headline": "Syracuse University Seeks to Prevent Campus Rape Victim From Obtaining Police Records",
-      "meta": "Accountability · today",
+      "meta": "Institutions · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Big Hemp Is Betting Republicans Roll Over on 'Diet Weed' Ban to Avoid Shutdown",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "detention",
+      "headline": "These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for 26 Days.",
+      "meta": "Immigration · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
       "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
-      "meta": "Government Failure · today",
+      "meta": "Disaster Response · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "fees",
+      "headline": "How to Check In on Your 401(k) Fees",
+      "meta": "Economy · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
