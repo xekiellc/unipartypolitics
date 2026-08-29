@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-28T06:02:20.987Z",
+  "updated": "2026-08-29T10:56:57.132Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Army's $533 million fiasco exposes Pentagon waste under both parties",
-    "dek": "A costly military blunder highlights how Congress, under both Republican and Democratic leadership, has repeatedly failed to hold Pentagon spending accountable.",
+    "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
+    "dek": "A half-billion dollar military contracting disaster exposes how bipartisan congressional oversight failures let Pentagon waste go unchecked for years.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Local jails held immigrant woman 26 days despite 72-hour legal limit",
-      "meta": "Immigration · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "neglect",
-      "headline": "Social Security benefit cliff arrives as Washington from both sides struggles to act",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Hegseth cut civilian protection program despite top commanders' warnings",
-      "meta": "Defense · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "corruption",
-      "headline": "Trump admin disputed ICE custody stillbirth claim — new evidence suggests prenatal care failure",
+      "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
       "meta": "Immigration · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 5,
-      "category": "neglect",
-      "headline": "Idaho faith healer shield law leaves children unprotected as legislators from both parties stall",
-      "meta": "Policy · today",
+      "id": 2,
+      "category": "betrayal",
+      "headline": "These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for 26 Days.",
+      "meta": "Detention · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Syracuse University Seeks to Prevent Campus Rape Victim From Obtaining Police Records",
+      "meta": "Accountability · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Big Hemp Is Betting Republicans Roll Over on 'Diet Weed' Ban to Avoid Shutdown",
+      "meta": "Congress · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Trump Admin Said She Was Lying About Stillbirth in ICE Custody. New Evidence Points to Lack of Prenatal Care.",
+      "meta": "Human Rights · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
