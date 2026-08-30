@@ -1,37 +1,51 @@
 {
-  "updated": "2026-08-30T11:40:49.642Z",
+  "updated": "2026-08-30T16:28:00.768Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
-    "dek": "A massive military contracting failure implicates decades of congressional oversight neglect under both Republican and Democrat-controlled legislatures.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "dek": "A massive military contracting failure implicates oversight bodies staffed and funded by both parties, with hundreds of millions in taxpayer money wasted.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for 26 Days.",
-      "meta": "Politics · today",
+      "category": "waste",
+      "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
+      "meta": "Defense · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
+      "category": "detention",
+      "headline": "Local Jails Held an Immigrant Woman for 26 Days Despite a 72-Hour Limit",
+      "meta": "Immigration · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "campus",
+      "headline": "Syracuse University Seeks to Block Campus Rape Victim From Obtaining Police Records",
+      "meta": "Accountability · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "disaster",
       "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Big Hemp Is Betting Republicans Roll Over on 'Diet Weed' Ban to Avoid Shutdown",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "id": 5,
+      "category": "detention",
+      "headline": "911 Calls From Inside an Immigration Detention Center: 'We Just Need to Take Him to the Hospital'",
+      "meta": "Immigration · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
