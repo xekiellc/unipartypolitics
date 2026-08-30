@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-30T16:28:00.768Z",
+  "updated": "2026-08-30T20:50:53.920Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
-    "dek": "A massive military contracting failure implicates oversight bodies staffed and funded by both parties, with hundreds of millions in taxpayer money wasted.",
+    "dek": "Decades of bipartisan congressional oversight failures allowed the Army to waste over half a billion dollars with virtually no accountability from either party.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,38 +14,31 @@
   "articles": [
     {
       "id": 1,
-      "category": "waste",
-      "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
-      "meta": "Defense · today",
+      "category": "betrayal",
+      "headline": "These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for 26 Days.",
+      "meta": "Immigration · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "detention",
-      "headline": "Local Jails Held an Immigrant Woman for 26 Days Despite a 72-Hour Limit",
-      "meta": "Immigration · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
-      "category": "campus",
-      "headline": "Syracuse University Seeks to Block Campus Rape Victim From Obtaining Police Records",
+      "category": "betrayal",
+      "headline": "Syracuse University Seeks to Prevent Campus Rape Victim From Obtaining Police Records",
       "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
-      "category": "disaster",
+      "id": 3,
+      "category": "betrayal",
       "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
-      "meta": "Politics · today",
+      "meta": "Disaster Response · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 5,
-      "category": "detention",
-      "headline": "911 Calls From Inside an Immigration Detention Center: 'We Just Need to Take Him to the Hospital'",
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Trump Admin Said She Was Lying About Stillbirth in ICE Custody. New Evidence Points to Lack of Prenatal Care.",
       "meta": "Immigration · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
