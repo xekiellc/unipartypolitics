@@ -1,43 +1,50 @@
 {
-  "updated": "2026-08-31T08:29:30.515Z",
+  "updated": "2026-08-31T17:29:27.194Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The Costly Blunders in the Army's $533 Million Fiasco",
-    "dek": "Decades of bipartisan congressional oversight failures allowed hundreds of millions in taxpayer dollars to be wasted with no accountability from either party.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for 26 Days.",
-      "meta": "Immigration · today",
+      "category": "corporate capture",
+      "headline": "The Trump Administration's Plan for Protecting Consumers? Politely Ask Companies to Behave.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Syracuse University Seeks to Prevent Campus Rape Victim From Obtaining Police Records",
-      "meta": "Accountability · today",
+      "category": "immigration",
+      "headline": "These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for a Total of 26 Days.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
+      "category": "disaster relief",
       "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
-      "meta": "Disaster Response · today",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
+      "category": "civil liberties",
+      "headline": "Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free Speech in the U.S.",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "immigration",
       "headline": "Listen to 911 Calls From Inside an Immigration Detention Center: 'We Just Need to Take Him to the Hospital'",
-      "meta": "Detention · today",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     }
   ],
