@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T17:29:27.194Z",
+  "updated": "2026-09-01T04:34:54.320Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,38 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "corporate capture",
-      "headline": "The Trump Administration's Plan for Protecting Consumers? Politely Ask Companies to Behave.",
+      "category": "corruption",
+      "headline": "Trump Administration's Plan for Protecting Consumers? Politely Ask Companies to Behave.",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "immigration",
-      "headline": "These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for a Total of 26 Days.",
+      "category": "injustice",
+      "headline": "He Spent 27 Years on Death Row as a Wrongfully Convicted Man. What Comes Next?",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "disaster relief",
+      "category": "cover-up",
+      "headline": "Syracuse University Seeks to Prevent Campus Rape Victim From Obtaining Police Records",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
       "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
       "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
+      "id": 5,
       "category": "civil liberties",
       "headline": "Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free Speech in the U.S.",
       "meta": "The Intercept · today",
       "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "immigration",
-      "headline": "Listen to 911 Calls From Inside an Immigration Detention Center: 'We Just Need to Take Him to the Hospital'",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
