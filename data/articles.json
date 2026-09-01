@@ -1,51 +1,37 @@
 {
-  "updated": "2026-09-01T16:23:56.135Z",
+  "updated": "2026-09-01T20:52:44.007Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "headline": "Congress passes funding patch with bipartisan support to avert shutdown",
+    "dek": "Both parties cleared a stopgap spending bill, kicking fiscal responsibility down the road once again with no meaningful budget reforms attached.",
     "votes_r": 42,
     "votes_d": 36,
     "votes_yes": 78,
     "votes_no": 19,
-    "source": "ProPublica"
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
-      "category": "conflict of interest",
-      "headline": "The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "2 House Democrats cross aisle to salvage GOP agenda bill",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
-      "category": "accountability",
-      "headline": "California Lawmakers Pass Bill to Punish Administrators Who Fail to Vet Teachers for Misconduct",
-      "meta": "ProPublica · today",
+      "category": "corruption",
+      "headline": "Kratom scientist failed to disclose longstanding ties to kratom lobbyists",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "consumer protection",
-      "headline": "The Trump Administration's Plan for Protecting Consumers? Politely Ask Companies to Behave.",
-      "meta": "ProPublica · today",
+      "category": "failure",
+      "headline": "Trump administration's consumer protection plan: politely ask companies to behave",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "power",
-      "headline": "House GOP Leaders Push Ahead With Spending Vote as Hard-Liners Threaten to Freeze Floor",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 5,
-      "category": "influence",
-      "headline": "Mike Johnson Tells House GOP Leaders He Met With Elon Musk",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
