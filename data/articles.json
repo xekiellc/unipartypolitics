@@ -1,37 +1,51 @@
 {
-  "updated": "2026-09-01T20:52:44.007Z",
+  "updated": "2026-09-01T23:54:46.137Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes funding patch with bipartisan support to avert shutdown",
-    "dek": "Both parties cleared a stopgap spending bill, kicking fiscal responsibility down the road once again with no meaningful budget reforms attached.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Congress clears funding patch to avert pre-election shutdown",
+    "dek": "Both parties rushed through a stopgap spending bill before the election, kicking fiscal reckoning down the road with no meaningful reforms attached.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "2 House Democrats cross aisle to salvage GOP agenda bill",
+      "headline": "2 House Democrats vote to salvage GOP agenda",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "corruption",
-      "headline": "Kratom scientist failed to disclose longstanding ties to kratom lobbyists",
-      "meta": "Politics · today",
+      "headline": "The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists",
+      "meta": "Investigations · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "failure",
-      "headline": "Trump administration's consumer protection plan: politely ask companies to behave",
+      "category": "accountability",
+      "headline": "The Trump Administration's Plan for Protecting Consumers? Politely Ask Companies to Behave.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "misconduct",
+      "headline": "House formally shames Chuck Edwards for sexual harassment of female aides",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "civil liberties",
+      "headline": "Christian Employers Can Now Discriminate Against Trans People",
+      "meta": "Policy · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
