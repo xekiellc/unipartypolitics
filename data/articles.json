@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-02T08:42:32.991Z",
+  "updated": "2026-09-02T14:13:52.565Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "ProPublica"
+    "headline": "Democrats who saved GOP agenda face party backlash as bipartisan deals continue",
+    "dek": "House Democrats crossed the aisle to rescue Republican legislation, exposing how both parties routinely protect shared interests over constituents.",
+    "votes_r": 220,
+    "votes_d": 12,
+    "votes_yes": 232,
+    "votes_no": 189,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Dems Who Saved GOP's Agenda Face Party Backlash — But Did It Anyway",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "2 House Democrats Cross Aisle to Salvage Republican Agenda",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 3,
-      "category": "corruption",
-      "headline": "Kratom Scientist Failed to Disclose Ties to Industry Lobbyists",
+      "headline": "New mail voting rules advanced despite USPS officials' own warnings of mass disenfranchisement",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 2,
+      "category": "corruption",
+      "headline": "Scientist pushing to keep kratom legal hid longstanding financial ties to kratom lobbyists",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "negligence",
+      "headline": "Western North Carolina begged for hurricane relief. The government sent ICE instead.",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 4,
-      "category": "failure",
-      "headline": "Trump's Consumer Protection Plan: Just Ask Companies to Behave",
+      "category": "betrayal",
+      "headline": "Texas rejected an AI-driven charter school on safety grounds — then approved it for the voucher program anyway",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "accountability",
-      "headline": "House Formally Shames GOP Rep for Sexual Harassment of Female Aides",
+      "headline": "The U.S. has killed 227 civilians in boat strikes during what observers call 'a year of murders'",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
