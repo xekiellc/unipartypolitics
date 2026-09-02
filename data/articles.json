@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-02T03:57:31.302Z",
+  "updated": "2026-09-02T08:42:32.991Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Dems who crossed aisle to save GOP agenda face party backlash",
-    "dek": "Two House Democrats voted to salvage the Republican agenda, exposing the blurred lines between party opposition and quiet cooperation.",
-    "votes_r": 218,
-    "votes_d": 2,
-    "votes_yes": 220,
-    "votes_no": 195,
-    "source": "Politico"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Jeffries says Dems who saved GOP's agenda deserve 'serious response'",
+      "headline": "Dems Who Saved GOP's Agenda Face Party Backlash — But Did It Anyway",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
-      "category": "corruption",
-      "headline": "The Trump Administration's Plan for Protecting Consumers? Politely Ask Companies to Behave.",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
-      "category": "corruption",
-      "headline": "The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
       "category": "betrayal",
-      "headline": "House formally shames Chuck Edwards for sexual harassment of female aides",
+      "headline": "2 House Democrats Cross Aisle to Salvage Republican Agenda",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
+      "id": 3,
+      "category": "corruption",
+      "headline": "Kratom Scientist Failed to Disclose Ties to Industry Lobbyists",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "failure",
+      "headline": "Trump's Consumer Protection Plan: Just Ask Companies to Behave",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "category": "accountability",
+      "headline": "House Formally Shames GOP Rep for Sexual Harassment of Female Aides",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
