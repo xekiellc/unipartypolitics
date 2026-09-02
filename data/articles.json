@@ -1,50 +1,50 @@
 {
-  "updated": "2026-09-02T14:13:52.565Z",
+  "updated": "2026-09-02T19:18:45.000Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Democrats who saved GOP agenda face party backlash as bipartisan deals continue",
-    "dek": "House Democrats crossed the aisle to rescue Republican legislation, exposing how both parties routinely protect shared interests over constituents.",
-    "votes_r": 220,
-    "votes_d": 12,
-    "votes_yes": 232,
-    "votes_no": 189,
-    "source": "Politico"
+    "headline": "U.S. has killed 227 civilians in boat strikes with bipartisan silence",
+    "dek": "A year of deadly strikes with no meaningful congressional oversight or accountability from either party.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "New mail voting rules advanced despite USPS officials' own warnings of mass disenfranchisement",
-      "meta": "Politics · today",
+      "headline": "New mail voting rules moved forward despite USPS officials' own disenfranchisement warnings",
+      "meta": "Elections · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "corruption",
-      "headline": "Scientist pushing to keep kratom legal hid longstanding financial ties to kratom lobbyists",
-      "meta": "Politics · today",
+      "headline": "Kratom scientist failed to disclose longstanding ties to kratom lobbyists",
+      "meta": "Regulatory Capture · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "negligence",
-      "headline": "Western North Carolina begged for hurricane relief. The government sent ICE instead.",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "ICE paying controversial AI firm to hide identities of its own agents from public scrutiny",
+      "meta": "Surveillance · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Texas rejected an AI-driven charter school on safety grounds — then approved it for the voucher program anyway",
-      "meta": "Politics · today",
+      "category": "corruption",
+      "headline": "Texas rejected an AI-driven school's charter bid — then quietly approved it for the voucher program anyway",
+      "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "accountability",
-      "headline": "The U.S. has killed 227 civilians in boat strikes during what observers call 'a year of murders'",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "Trump admin sides with OpenAI over independent media in copyright rip-off case",
+      "meta": "Media · today",
       "url": "https://theintercept.com"
     }
   ],
