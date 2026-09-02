@@ -1,50 +1,50 @@
 {
-  "updated": "2026-09-01T23:54:46.137Z",
+  "updated": "2026-09-02T03:57:31.302Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress clears funding patch to avert pre-election shutdown",
-    "dek": "Both parties rushed through a stopgap spending bill before the election, kicking fiscal reckoning down the road with no meaningful reforms attached.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Dems who crossed aisle to save GOP agenda face party backlash",
+    "dek": "Two House Democrats voted to salvage the Republican agenda, exposing the blurred lines between party opposition and quiet cooperation.",
+    "votes_r": 218,
+    "votes_d": 2,
+    "votes_yes": 220,
+    "votes_no": 195,
     "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "2 House Democrats vote to salvage GOP agenda",
+      "headline": "Jeffries says Dems who saved GOP's agenda deserve 'serious response'",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "corruption",
-      "headline": "The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists",
-      "meta": "Investigations · today",
+      "headline": "The Trump Administration's Plan for Protecting Consumers? Politely Ask Companies to Behave.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "accountability",
-      "headline": "The Trump Administration's Plan for Protecting Consumers? Politely Ask Companies to Behave.",
-      "meta": "Politics · today",
+      "category": "corruption",
+      "headline": "The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "misconduct",
+      "category": "betrayal",
       "headline": "House formally shames Chuck Edwards for sexual harassment of female aides",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
-      "category": "civil liberties",
-      "headline": "Christian Employers Can Now Discriminate Against Trans People",
-      "meta": "Policy · today",
+      "category": "betrayal",
+      "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     }
   ],
