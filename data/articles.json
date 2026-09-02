@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-02T19:18:45.000Z",
+  "updated": "2026-09-02T22:29:22.532Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "U.S. has killed 227 civilians in boat strikes with bipartisan silence",
-    "dek": "A year of deadly strikes with no meaningful congressional oversight or accountability from either party.",
+    "dek": "Years of civilian deaths in maritime strikes span multiple administrations, with neither party demanding accountability or policy change.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,35 +15,35 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "New mail voting rules moved forward despite USPS officials' own disenfranchisement warnings",
+      "headline": "New mail voting rules moved forward despite USPS officials' concerns about mass disenfranchisement",
       "meta": "Elections · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "corruption",
-      "headline": "Kratom scientist failed to disclose longstanding ties to kratom lobbyists",
-      "meta": "Regulatory Capture · today",
+      "headline": "Scientist pushing to keep kratom legal hid longstanding ties to kratom lobbyists",
+      "meta": "Lobbying · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "ICE paying controversial AI firm to hide identities of its own agents from public scrutiny",
-      "meta": "Surveillance · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "corruption",
-      "headline": "Texas rejected an AI-driven school's charter bid — then quietly approved it for the voucher program anyway",
+      "headline": "Private school chain rejected by multiple states is now eligible for Texas taxpayer-funded vouchers",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 4,
+      "category": "corruption",
+      "headline": "ICE is paying a controversial AI firm to hide the identities of its own agents",
+      "meta": "Surveillance · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 5,
       "category": "betrayal",
-      "headline": "Trump admin sides with OpenAI over independent media in copyright rip-off case",
+      "headline": "Trump admin sides with OpenAI in court, endorsing scraping of independent journalism",
       "meta": "Media · today",
       "url": "https://theintercept.com"
     }
