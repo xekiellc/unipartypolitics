@@ -1,50 +1,57 @@
 {
-  "updated": "2026-09-02T22:29:22.532Z",
+  "updated": "2026-09-03T03:56:43.059Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "U.S. has killed 227 civilians in boat strikes with bipartisan silence",
-    "dek": "Years of civilian deaths in maritime strikes span multiple administrations, with neither party demanding accountability or policy change.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Democrats bail out House Republicans with no accountability to follow",
+    "dek": "Rogue House Democrats crossed the aisle to rescue GOP legislation while party leadership admitted a 'breach of trust' but signaled no punishment.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "New mail voting rules moved forward despite USPS officials' concerns about mass disenfranchisement",
-      "meta": "Elections · today",
+      "headline": "Trump DOJ blocked serious ICE shooting charge over federal prosecutor's objections",
+      "meta": "Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "corruption",
-      "headline": "Scientist pushing to keep kratom legal hid longstanding ties to kratom lobbyists",
-      "meta": "Lobbying · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
       "headline": "Private school chain rejected by multiple states is now eligible for Texas taxpayer-funded vouchers",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 3,
+      "category": "negligence",
+      "headline": "Hurricane Helene killed his wife and destroyed his home — new tenants are now renting the same flood-prone land",
+      "meta": "Housing · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 4,
       "category": "corruption",
-      "headline": "ICE is paying a controversial AI firm to hide the identities of its own agents",
-      "meta": "Surveillance · today",
-      "url": "https://theintercept.com"
+      "headline": "Scientist pushing to keep kratom legal failed to disclose longstanding ties to kratom lobbyists",
+      "meta": "Regulation · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Trump admin sides with OpenAI in court, endorsing scraping of independent journalism",
-      "meta": "Media · today",
+      "headline": "Trump administration tells court to let OpenAI continue ripping off independent journalism",
+      "meta": "Tech · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 6,
+      "category": "negligence",
+      "headline": "ICE is paying a controversial AI firm to conceal the identities of its agents",
+      "meta": "Surveillance · today",
       "url": "https://theintercept.com"
     }
   ],
