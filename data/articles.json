@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-03T19:13:02.403Z",
+  "updated": "2026-09-03T22:27:25.290Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "New mail voting rules moved forward despite USPS officials' warnings of mass disenfranchisement",
-    "dek": "Postal officials raised alarms that new mail voting restrictions would strip millions of Americans of their votes — both parties let it happen anyway.",
+    "dek": "Postal officials raised alarms that new voting regulations would disenfranchise millions, but neither party moved to stop them.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "ICE gave new hires access to restricted Palantir data before background checks cleared",
-      "meta": "Surveillance · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "Judges take months to rule on whether immigrants are being held unlawfully",
-      "meta": "Justice · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Private school chain rejected by multiple states is now eligible for Texas taxpayer-funded vouchers",
-      "meta": "Education · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Hakeem Jeffries declines to detail any consequences for rogue Democrats breaking party ranks",
+      "headline": "Virginia Democrat says FBI monitored his calls in corruption probe",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "Seth Moulton sold out trans kids — and lost his Senate race",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "ICE gave new hires access to restricted Palantir data before background checks cleared",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Several states rejected this private school chain as a charter. Now it's eligible for Texas' taxpayer-funded vouchers.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 5,
       "category": "betrayal",
-      "headline": "House Oversight still pursuing Epstein files while broader accountability stalls on both sides",
-      "meta": "Accountability · today",
-      "url": "https://rss.politico.com"
+      "headline": "'Board of Peace' billionaire backs AIPAC fund targeting pro-Palestine candidates",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
