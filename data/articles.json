@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-04T18:55:26.654Z",
+  "updated": "2026-09-04T22:16:04.183Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Flock Donations to Local Politicians Skyrocket as AI Camera Protests Mount",
-    "dek": "Surveillance technology company Flock pours money into local political groups on both sides of the aisle even as communities protest mass AI camera deployments.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Ken Paxton's Financial Disclosures Appear to Violate Federal Ethics Law",
+      "category": "corruption",
+      "headline": "Ken Paxton's Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "ICE Gave New Hires Access to Restricted Palantir Data Before Background Checks Cleared",
+      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials' Concerns About Mass Disenfranchisement",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "corruption",
+      "headline": "Flock Donations to Local Politicians' Groups Skyrocket as Protests Against AI Cameras Mount",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Virginia Democrat Says FBI Monitored His Calls in Corruption Probe",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
       "id": 4,
       "category": "betrayal",
-      "headline": "Trump's DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor's Objections",
+      "headline": "ICE Gave New Hires Access to Restricted Info on Palantir App Before They Passed Background Checks",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "New Mail Voting Rules Advanced Despite USPS Officials' Fears of Mass Disenfranchisement",
+      "category": "corruption",
+      "headline": "'I don't think anyone is really comfortable': Democrat leading on AI raises alarms at Trump, Zuckerberg call",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
