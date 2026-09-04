@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-04T03:58:13.522Z",
+  "updated": "2026-09-04T08:47:04.601Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "New mail voting rules moved forward despite USPS officials' warnings of mass disenfranchisement",
-    "dek": "Postal officials raised alarms that rule changes would strip millions of Americans of their votes — but neither party stopped it.",
+    "dek": "Postal officials raised alarms that new mail voting regulations would strip millions of Americans of their votes — both parties let it happen anyway.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -21,31 +21,31 @@
     },
     {
       "id": 2,
-      "category": "surveillance",
-      "headline": "ICE gave new hires access to restricted Palantir data before background checks cleared",
-      "meta": "National Security · today",
+      "category": "betrayal",
+      "headline": "Seth Moulton sold out trans kids — and lost his Senate race",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "money & influence",
-      "headline": "Billionaire bankrolls AIPAC fund targeting pro-Palestine candidates on both sides of the aisle",
-      "meta": "Elections · today",
+      "category": "surveillance",
+      "headline": "ICE gave new hires access to restricted Palantir data before background checks cleared",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "accountability",
-      "headline": "Trump's DOJ overruled federal prosecutor to block serious ICE shooting charge",
-      "meta": "Justice · today",
-      "url": "https://feeds.propublica.org"
+      "category": "dark money",
+      "headline": "'Board of Peace' billionaire backs AIPAC fund targeting pro-Palestine candidates",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "dark money",
-      "headline": "AI and crypto groups were among the biggest spenders shaping this year's primaries",
-      "meta": "Elections · today",
-      "url": "https://rss.politico.com"
+      "category": "disaster failures",
+      "headline": "Hurricane Helene killed his wife and destroyed his home — new tenants are now renting the same flood-prone land",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
