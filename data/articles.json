@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-04T14:06:52.259Z",
+  "updated": "2026-09-04T18:55:26.654Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Flock Donations to Local Politicians Skyrocket as Protests Against AI Surveillance Cameras Mount",
-    "dek": "AI surveillance company Flock poured money into local politicians' groups across party lines even as bipartisan public backlash against its cameras intensified.",
+    "headline": "Flock Donations to Local Politicians Skyrocket as AI Camera Protests Mount",
+    "dek": "Surveillance technology company Flock pours money into local political groups on both sides of the aisle even as communities protest mass AI camera deployments.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials' Concerns About Mass Disenfranchisement",
+      "headline": "Ken Paxton's Financial Disclosures Appear to Violate Federal Ethics Law",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
+      "headline": "ICE Gave New Hires Access to Restricted Palantir Data Before Background Checks Cleared",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
       "headline": "Virginia Democrat Says FBI Monitored His Calls in Corruption Probe",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 3,
+      "id": 4,
       "category": "betrayal",
-      "headline": "Several States Rejected This Private School Chain as a Charter. Now It's Eligible for Texas' Taxpayer-Funded Vouchers.",
+      "headline": "Trump's DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor's Objections",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "ICE Gave New Hires Access to Restricted Info on Palantir App Before They Passed Background Checks",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 5,
       "category": "betrayal",
-      "headline": "AI and Crypto Groups Were Among the Biggest Players in This Year's Primaries",
+      "headline": "New Mail Voting Rules Advanced Despite USPS Officials' Fears of Mass Disenfranchisement",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
