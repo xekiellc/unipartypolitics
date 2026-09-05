@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T20:10:25.596Z",
+  "updated": "2026-09-05T23:41:53.031Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -22,16 +22,16 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Flock Donations to Local Politicians' Groups Skyrocket as Protests Against AI Cameras Mount",
+      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials' Concerns About Mass Disenfranchisement",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials' Concerns About Mass Disenfranchisement",
+      "headline": "Flock Donations to Local Politicians' Groups Skyrocket as Protests Against AI Cameras Mount",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
@@ -43,9 +43,9 @@
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
+      "headline": "'I don't think anyone is really comfortable': Democrat leading on AI raises alarms at Trump, Zuckerberg call",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
