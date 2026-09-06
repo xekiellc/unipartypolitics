@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:09:51.858Z",
+  "updated": "2026-09-06T22:02:09.184Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,38 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "Ken Paxton's Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "negligence",
-      "headline": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
+      "category": "betrayal",
+      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials' Concerns About Mass Disenfranchisement",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Trump's DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor's 'Strongest Possible' Objections",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "suppression",
-      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials' Concerns About Mass Disenfranchisement",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "surveillance",
       "headline": "Flock Donations to Local Politicians' Groups Skyrocket as Protests Against AI Cameras Mount",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "ICE Gave New Hires Access to Restricted Info on Palantir App Before They Passed Background Checks",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
