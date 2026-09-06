@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-06T10:41:03.576Z",
+  "updated": "2026-09-06T15:16:44.654Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials' Concerns About Mass Disenfranchisement",
+    "dek": "Federal officials pushed ahead with mail voting rule changes even as USPS insiders warned millions of voters could be left out — a failure of accountability that crosses party lines.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "Ken Paxton's Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
+      "category": "surveillance",
       "headline": "Flock Donations to Local Politicians' Groups Skyrocket as Protests Against AI Cameras Mount",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials' Concerns About Mass Disenfranchisement",
+      "category": "injustice",
+      "headline": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "ICE Gave New Hires Access to Restricted Info on Palantir App Before They Passed Background Checks",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
+      "headline": "Trump's DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor's Strongest Possible Objections",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
