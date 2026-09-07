@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-07T15:41:03.282Z",
+  "updated": "2026-09-07T19:46:07.176Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Flock donates to local politicians as protests against AI surveillance cameras mount",
-    "dek": "Surveillance tech company Flock Safety funneled donations to local politicians across party lines even as constituents protested the expansion of AI camera networks in their communities.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Flock donates to local politicians as AI camera protests mount",
+    "dek": "Surveillance tech company Flock Safety funnels donations to politicians across party lines even as communities revolt against its license plate reader cameras.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "New mail voting rules moved forward despite USPS officials' concerns about mass disenfranchisement",
+      "headline": "Ken Paxton's financial disclosures appear to violate federal ethics law",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Trump's DOJ blocked serious ICE shooting charge over federal prosecutor's 'strongest possible' objections",
+      "headline": "New mail voting rules moved forward despite USPS officials' concerns about mass disenfranchisement",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
@@ -36,16 +36,16 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Ken Paxton's financial disclosures appear to violate federal ethics law, experts say",
+      "headline": "25 years after 9/11, Muslims are still politicians' favorite scapegoat",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "25 years after 9/11, Muslims are still politicians' favorite scapegoat",
+      "headline": "Democrat leading on AI raises alarms at Trump and Zuckerberg call",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
