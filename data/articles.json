@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-07T09:15:54.285Z",
+  "updated": "2026-09-07T15:41:03.282Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "ProPublica"
+    "headline": "Flock donates to local politicians as protests against AI surveillance cameras mount",
+    "dek": "Surveillance tech company Flock Safety funneled donations to local politicians across party lines even as constituents protested the expansion of AI camera networks in their communities.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ken Paxton's Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say",
+      "headline": "New mail voting rules moved forward despite USPS officials' concerns about mass disenfranchisement",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials' Concerns About Mass Disenfranchisement",
+      "headline": "Trump's DOJ blocked serious ICE shooting charge over federal prosecutor's 'strongest possible' objections",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Flock Donations to Local Politicians' Groups Skyrocket as Protests Against AI Cameras Mount",
+      "headline": "These judges take months to decide if immigrants have been unlawfully detained",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "ICE Gave New Hires Access to Restricted Info on Palantir App Before They Passed Background Checks",
+      "headline": "Ken Paxton's financial disclosures appear to violate federal ethics law, experts say",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
+      "headline": "25 years after 9/11, Muslims are still politicians' favorite scapegoat",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
