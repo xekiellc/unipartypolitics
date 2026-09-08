@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-08T10:59:21.577Z",
+  "updated": "2026-09-08T16:24:35.327Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal",
-    "dek": "Defense contracts show both Republican and Democrat administrations have quietly enabled Big Tech's deep integration into military operations with little congressional oversight or public debate.",
+    "dek": "Defense contracts show Silicon Valley giants serving military interests across both Republican and Democrat administrations with little congressional oversight or public accountability.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -16,35 +16,35 @@
       "id": 1,
       "category": "betrayal",
       "headline": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
-      "meta": "Health & Safety · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
       "headline": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
-      "meta": "Immigration · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "25 Years After 9/11, Muslims Are Still Politicians' Favorite Scapegoat",
-      "meta": "Civil Liberties · today",
+      "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Trump's DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor's Strongest Possible Objections",
-      "meta": "Justice · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "FAA Investigates Drone Pilot Who Films Animal Abusers",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "This State Is Spending More on Lethal Injections While a Law Tries to Keep the Details Secret",
-      "meta": "Criminal Justice · today",
+      "headline": "Ken Paxton's Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
