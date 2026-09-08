@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-08T20:58:56.798Z",
+  "updated": "2026-09-08T23:58:04.753Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal",
-    "dek": "Defense contractors and Silicon Valley firms forge secretive deals with military backing from both parties, raising accountability concerns with zero congressional pushback.",
+    "dek": "Defense contracts show tech companies spanning political donor lines quietly building war-ready AI systems with little congressional oversight from either party.",
     "votes_r": 38,
-    "votes_d": 41,
-    "votes_yes": 79,
+    "votes_d": 31,
+    "votes_yes": 69,
     "votes_no": 12,
     "source": "The Intercept"
   },
@@ -36,9 +36,9 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "FAA Investigates Drone Pilot Who Films Animal Abusers",
+      "headline": "Trump's DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor's Strongest Possible Objections",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
