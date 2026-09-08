@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-07T22:41:46.467Z",
+  "updated": "2026-09-08T04:02:07.381Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Flock donates to local politicians as AI camera protests mount",
-    "dek": "Surveillance technology company Flock Safety funneled donations to politicians across party lines even as constituents protested the expansion of AI-powered license plate cameras in their communities.",
-    "votes_r": 12,
-    "votes_d": 11,
-    "votes_yes": 23,
-    "votes_no": 4,
+    "headline": "Flock donations to local politicians skyrocket as protests against AI surveillance cameras mount",
+    "dek": "Surveillance camera company Flock Safety funnels donations to politicians from both parties even as community backlash against warrantless AI tracking grows nationwide.",
+    "votes_r": 22,
+    "votes_d": 19,
+    "votes_yes": 41,
+    "votes_no": 12,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ken Paxton's financial disclosures appear to violate federal ethics law",
-      "meta": "Politics · today",
+      "headline": "New mail voting rules moved forward despite USPS officials' concerns about mass disenfranchisement",
+      "meta": "Elections · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "New mail voting rules moved forward despite USPS officials' concerns about mass disenfranchisement",
-      "meta": "Politics · today",
+      "headline": "These judges take months to decide if immigrants have been unlawfully detained",
+      "meta": "Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "These judges take months to decide if immigrants have been unlawfully detained",
-      "meta": "Politics · today",
+      "headline": "Ken Paxton's financial disclosures appear to violate federal ethics law, experts say",
+      "meta": "Corruption · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "25 years after 9/11, Muslims are still politicians' favorite scapegoat",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Regulators knew this marijuana product was harming people — it stayed on shelves for more than a year",
+      "meta": "Regulation · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Democrat leading on AI raises alarms at Trump and Zuckerberg call",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "25 years after 9/11, Muslims are still politicians' favorite scapegoat",
+      "meta": "Civil liberties · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
