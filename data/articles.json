@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-08T04:02:07.381Z",
+  "updated": "2026-09-08T10:59:21.577Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Flock donations to local politicians skyrocket as protests against AI surveillance cameras mount",
-    "dek": "Surveillance camera company Flock Safety funnels donations to politicians from both parties even as community backlash against warrantless AI tracking grows nationwide.",
-    "votes_r": 22,
-    "votes_d": 19,
-    "votes_yes": 41,
-    "votes_no": 12,
+    "headline": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal",
+    "dek": "Defense contracts show both Republican and Democrat administrations have quietly enabled Big Tech's deep integration into military operations with little congressional oversight or public debate.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "New mail voting rules moved forward despite USPS officials' concerns about mass disenfranchisement",
-      "meta": "Elections · today",
+      "headline": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
+      "meta": "Health & Safety · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "These judges take months to decide if immigrants have been unlawfully detained",
-      "meta": "Justice · today",
+      "headline": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
+      "meta": "Immigration · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Ken Paxton's financial disclosures appear to violate federal ethics law, experts say",
-      "meta": "Corruption · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "25 Years After 9/11, Muslims Are Still Politicians' Favorite Scapegoat",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Regulators knew this marijuana product was harming people — it stayed on shelves for more than a year",
-      "meta": "Regulation · today",
+      "headline": "Trump's DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor's Strongest Possible Objections",
+      "meta": "Justice · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "25 years after 9/11, Muslims are still politicians' favorite scapegoat",
-      "meta": "Civil liberties · today",
-      "url": "https://theintercept.com"
+      "headline": "This State Is Spending More on Lethal Injections While a Law Tries to Keep the Details Secret",
+      "meta": "Criminal Justice · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
