@@ -1,50 +1,50 @@
 {
-  "updated": "2026-09-09T16:20:34.359Z",
+  "updated": "2026-09-09T20:46:46.710Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
+    "kicker": "Big Tech meets Big Military",
     "headline": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal",
-    "dek": "Defense contracts show Republican and Democrat administrations alike have quietly partnered with AI companies to expand military surveillance and autonomous systems with little congressional oversight.",
-    "votes_r": 38,
-    "votes_d": 31,
-    "votes_yes": 69,
-    "votes_no": 12,
+    "dek": "Silicon Valley's most powerful AI companies are deepening financial ties with the Defense Department, raising questions about oversight, accountability, and who both parties really serve.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
-      "category": "surveillance",
+      "category": "betrayal",
       "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
-      "meta": "Civil Liberties · today",
+      "meta": "Surveillance · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
-      "category": "regulatory failure",
+      "category": "betrayal",
       "headline": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
-      "meta": "Politics · today",
+      "meta": "Regulatory Failure · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "ethics",
+      "category": "betrayal",
       "headline": "Ken Paxton's Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say",
-      "meta": "Accountability · today",
+      "meta": "Ethics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "military-tech",
+      "category": "betrayal",
       "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
-      "meta": "Defense · today",
+      "meta": "Military-Tech Complex · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "inaction",
-      "headline": "Lawmakers Urge Congress to Act After AI Researcher's Dire Warning",
-      "meta": "Technology · today",
+      "category": "betrayal",
+      "headline": "Lawmakers Urge Congress to Act After AI Researcher's Dire Warning — But Will They?",
+      "meta": "Congress · today",
       "url": "https://rss.politico.com"
     }
   ],
