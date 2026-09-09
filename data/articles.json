@@ -1,50 +1,50 @@
 {
-  "updated": "2026-09-09T04:28:23.333Z",
+  "updated": "2026-09-09T11:04:09.189Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Regulators let harmful marijuana product stay on shelves for over a year",
-    "dek": "Federal and state regulators from both parties failed to act despite knowing the product was injuring consumers, exposing systemic regulatory capture.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "ProPublica"
+    "headline": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal",
+    "dek": "Defense contracts show Silicon Valley firms across the political spectrum supplying military AI with little Congressional oversight from either party.",
+    "votes_r": 38,
+    "votes_d": 41,
+    "votes_yes": 79,
+    "votes_no": 12,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ken Paxton's financial disclosures appear to violate federal ethics law",
+      "headline": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "AI giants work hand-in-hand with the Pentagon as both parties look away",
-      "meta": "Defense · today",
+      "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Judges take months to rule on unlawful immigrant detention — under administrations of both parties",
-      "meta": "Immigration · today",
+      "headline": "Ken Paxton's Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Trump DOJ blocked serious ICE shooting charge over prosecutor's strongest objections",
-      "meta": "Justice · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Schumer and Jeffries Opposed a Brooklyn Power Play. It Happened Anyway.",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "FAA investigates drone pilot exposing animal abusers instead of the abusers themselves",
-      "meta": "Accountability · today",
+      "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
   ],
