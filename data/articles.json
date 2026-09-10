@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-09T23:58:15.307Z",
+  "updated": "2026-09-10T04:27:07.324Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal",
-    "dek": "Republicans and Democrats alike have enabled unchecked military-tech partnerships as AI companies quietly embed themselves into defense and surveillance infrastructure.",
-    "votes_r": 38,
-    "votes_d": 41,
-    "votes_yes": 79,
-    "votes_no": 12,
+    "dek": "Both Republican and Democrat administrations have quietly funneled government contracts to AI firms, expanding military AI with zero congressional oversight or public accountability.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
@@ -22,30 +22,30 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
-      "meta": "Tech & Power · today",
-      "url": "https://theintercept.com"
+      "headline": "Lawmakers Are at a Loss for How to Regulate AI as Insiders Warn of Impending Doom",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
-      "meta": "Regulatory Failure · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
+      "meta": "Technology · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
       "headline": "Ken Paxton's Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say",
-      "meta": "Ethics · today",
+      "meta": "Corruption · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
-      "meta": "Foreign Policy · today",
-      "url": "https://theintercept.com"
+      "headline": "U.S. Postal Service Failed to Properly Handle Some Ballots During This Year's Primary Elections, Audit Finds",
+      "meta": "Elections · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
