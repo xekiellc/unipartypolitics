@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-10T11:00:16.890Z",
+  "updated": "2026-09-10T16:10:53.745Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "U.S. Postal Service failed to properly handle ballots during primary elections",
-    "dek": "A federal audit reveals systemic failures in ballot handling that undermine electoral integrity — with neither party demanding accountability.",
+    "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
+    "dek": "Law enforcement agencies across the country are deploying Flock surveillance technology to monitor citizens engaged in no criminal activity, with bipartisan local governments enabling the expansion of the surveillance state.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "25 years after 9/11, questions about the FBI's pursuit of Saudi suspects have only grown",
+      "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Cops are using Flock surveillance to spy on people for the crime of standing around",
+      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Lawmakers are at a loss for how to regulate AI as insiders warn of impending doom",
+      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "The Pentagon asked OpenAI for AI designed to rarely say no",
+      "headline": "Senate Democrats Are Sitting Out the John Fetterman Pile-On",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Democrats silent as party members refuse to criticize John Fetterman",
+      "headline": "FAA Investigates Drone Pilot Who Films Animal Abusers",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
