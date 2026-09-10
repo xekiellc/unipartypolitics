@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-10T16:10:53.745Z",
+  "updated": "2026-09-10T20:42:06.480Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
-    "dek": "Law enforcement agencies across the country are deploying Flock surveillance technology to monitor citizens engaged in no criminal activity, with bipartisan local governments enabling the expansion of the surveillance state.",
+    "dek": "Law enforcement agencies across the country are deploying mass surveillance technology with no legislative pushback from either party.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,36 +15,29 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
-      "meta": "Politics · today",
+      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
+      "meta": "Foreign Policy · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
+      "meta": "National Security · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
+      "meta": "War & Accountability · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Senate Democrats Are Sitting Out the John Fetterman Pile-On",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
       "headline": "FAA Investigates Drone Pilot Who Films Animal Abusers",
-      "meta": "Politics · today",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     }
   ],
