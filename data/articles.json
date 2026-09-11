@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-11T16:14:38.617Z",
+  "updated": "2026-09-11T20:47:20.723Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "25 Years After 9/11, FBI's Pursuit of Saudi Suspects Raises Bipartisan Accountability Questions",
-    "dek": "Across Republican and Democrat administrations spanning a quarter century, the FBI's handling of Saudi suspects in the 9/11 case has left Americans without answers — and without accountability.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "25 Years After 9/11, the FBI's Saudi Suspect Cover-Up Spans Every Administration",
+    "dek": "Democrats and Republicans alike have stonewalled accountability for Saudi connections to 9/11, protecting a foreign ally over American victims for a quarter century.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "Rand Paul Travels by Private Jet with Taxpayer Dollars While Preaching Fiscal Restraint",
+      "category": "betrayal",
+      "headline": "Rand Paul Jets on Taxpayer Dime While Preaching Fiscal Restraint",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
@@ -28,9 +28,9 @@
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Osama Bin Laden Won",
-      "meta": "National Security · today",
+      "category": "war",
+      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
+      "meta": "Foreign Policy · today",
       "url": "https://theintercept.com"
     },
     {
@@ -42,8 +42,8 @@
     },
     {
       "id": 5,
-      "category": "accountability",
-      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
+      "category": "foreign policy",
+      "headline": "U.S. Goes AWOL as Western Powers Meet on Wartime Civilian Protections",
       "meta": "Foreign Policy · today",
       "url": "https://feeds.propublica.org"
     }
