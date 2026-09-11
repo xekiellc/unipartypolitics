@@ -1,50 +1,50 @@
 {
-  "updated": "2026-09-11T10:58:47.823Z",
+  "updated": "2026-09-11T16:14:38.617Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "25 Years After 9/11, FBI's Pursuit of Saudi Suspects Raises Bipartisan Accountability Questions",
+    "dek": "Across Republican and Democrat administrations spanning a quarter century, the FBI's handling of Saudi suspects in the 9/11 case has left Americans without answers — and without accountability.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Rand Paul and his staff travel by private jet with taxpayer dollars while preaching fiscal restraint",
+      "category": "corruption",
+      "headline": "Rand Paul Travels by Private Jet with Taxpayer Dollars While Preaching Fiscal Restraint",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "category": "surveillance",
+      "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
-      "meta": "Politics · today",
+      "headline": "Osama Bin Laden Won",
+      "meta": "National Security · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects in the Case Have Only Grown",
-      "meta": "Politics · today",
+      "category": "environment",
+      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That's Not the Reality.",
-      "meta": "Politics · today",
+      "category": "accountability",
+      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
+      "meta": "Foreign Policy · today",
       "url": "https://feeds.propublica.org"
     }
   ],
