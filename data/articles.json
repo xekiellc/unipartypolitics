@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-10T23:53:58.950Z",
+  "updated": "2026-09-11T04:04:53.639Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
-    "dek": "Law enforcement agencies across the country are deploying Flock surveillance systems to monitor citizens with little oversight, a program that has expanded under both Republican and Democrat administrations.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "dek": "Law enforcement agencies nationwide are deploying AI-powered surveillance systems with no meaningful legislative pushback from either party.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
@@ -16,35 +16,28 @@
       "id": 1,
       "category": "betrayal",
       "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
-      "meta": "National Security · today",
+      "meta": "Defense · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
-      "meta": "Accountability · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "House Will Vote on Legislation Shielding Consumers from Data Center Energy Costs",
+      "meta": "Energy · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
-      "meta": "Foreign Policy · today",
+      "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
+      "meta": "National Security · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "House Will Vote on Legislation Shielding Consumers From Data Center Energy Costs",
-      "meta": "Energy · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
       "headline": "FAA Investigates Drone Pilot Who Films Animal Abusers",
-      "meta": "Civil Liberties · today",
+      "meta": "Regulation · today",
       "url": "https://theintercept.com"
     }
   ],
