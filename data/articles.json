@@ -1,44 +1,51 @@
 {
-  "updated": "2026-09-11T04:04:53.639Z",
+  "updated": "2026-09-11T10:58:47.823Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
-    "dek": "Law enforcement agencies nationwide are deploying AI-powered surveillance systems with no meaningful legislative pushback from either party.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
-      "meta": "Defense · today",
-      "url": "https://theintercept.com"
+      "headline": "Rand Paul and his staff travel by private jet with taxpayer dollars while preaching fiscal restraint",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "House Will Vote on Legislation Shielding Consumers from Data Center Energy Costs",
-      "meta": "Energy · today",
-      "url": "https://rss.politico.com"
+      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
-      "meta": "National Security · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "FAA Investigates Drone Pilot Who Films Animal Abusers",
-      "meta": "Regulation · today",
-      "url": "https://theintercept.com"
+      "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects in the Case Have Only Grown",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That's Not the Reality.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
