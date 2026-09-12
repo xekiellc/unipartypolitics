@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-12T07:02:23.621Z",
+  "updated": "2026-09-12T12:04:12.986Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
-    "dek": "A quarter century later, bipartisan cover-ups and institutional failures continue to shield those potentially responsible for the deadliest attack on American soil.",
+    "headline": "25 Years After 9/11, the FBI's Saudi Suspect Cover-Up Spans Every Administration",
+    "dek": "Bipartisan silence has shielded Saudi suspects in the 9/11 case for a quarter century, with Republican and Democrat administrations alike suppressing evidence and protecting diplomatic relationships over justice for victims.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -14,38 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "surveillance",
       "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
-      "meta": "Civil Liberties · today",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
-      "meta": "Foreign Policy · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Rand Paul Travels by Private Jet With Taxpayer Dollars While Preaching Fiscal Restraint",
-      "meta": "Fiscal Hypocrisy · today",
+      "category": "fiscal hypocrisy",
+      "headline": "Rand Paul Preaches Fiscal Restraint While Flying Staff on Taxpayer-Funded Private Jets",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
+      "id": 3,
+      "category": "accountability",
+      "headline": "U.S. Goes AWOL as Western Powers Meet on Wartime Civilian Protections",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 4,
-      "category": "betrayal",
-      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
-      "meta": "Environment · today",
+      "category": "deregulation",
+      "headline": "EPA Moves to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
-      "meta": "Foreign Policy · today",
-      "url": "https://feeds.propublica.org"
+      "category": "blowback",
+      "headline": "Osama Bin Laden Won",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
