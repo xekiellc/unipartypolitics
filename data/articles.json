@@ -1,50 +1,50 @@
 {
-  "updated": "2026-09-12T00:01:00.095Z",
+  "updated": "2026-09-12T07:02:23.621Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
-    "dek": "A quarter century later, bipartisan silence from both Republican and Democrat administrations has shielded Saudi connections to the worst terror attack on U.S. soil.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "dek": "A quarter century later, bipartisan cover-ups and institutional failures continue to shield those potentially responsible for the deadliest attack on American soil.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "surveillance",
+      "category": "betrayal",
       "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
-      "meta": "Politics · today",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
-      "category": "hypocrisy",
-      "headline": "Rand Paul and His Staff Travel by Private Jet with Taxpayer Dollars While Preaching Fiscal Restraint",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "betrayal",
+      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
+      "meta": "Foreign Policy · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Rand Paul Travels by Private Jet With Taxpayer Dollars While Preaching Fiscal Restraint",
+      "meta": "Fiscal Hypocrisy · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "corporate capture",
-      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "environment",
-      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
+      "meta": "Foreign Policy · today",
       "url": "https://feeds.propublica.org"
     }
   ],
