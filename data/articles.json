@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-12T20:24:11.302Z",
+  "updated": "2026-09-12T23:53:05.245Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
-    "dek": "Across Republican and Democrat administrations alike, the FBI's handling of Saudi suspects in the 9/11 case has been marked by secrecy, obstruction, and unanswered questions that both parties have failed to address.",
+    "headline": "25 Years After 9/11, FBI's Pursuit of Saudi Suspects Raises Bipartisan Cover-Up Questions",
+    "dek": "Across multiple Republican and Democrat administrations, questions about the FBI's handling of Saudi suspects in the 9/11 case have gone unanswered — with both parties overseeing the concealment.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -21,8 +21,8 @@
     },
     {
       "id": 2,
-      "category": "accountability",
-      "headline": "Osama Bin Laden Won",
+      "category": "betrayal",
+      "headline": "Osama Bin Laden Won: How Two Decades of War Fulfilled His Goals",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
@@ -35,8 +35,8 @@
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
+      "category": "foreign policy",
+      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
