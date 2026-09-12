@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-12T12:04:12.986Z",
+  "updated": "2026-09-12T16:53:10.664Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "25 Years After 9/11, the FBI's Saudi Suspect Cover-Up Spans Every Administration",
-    "dek": "Bipartisan silence has shielded Saudi suspects in the 9/11 case for a quarter century, with Republican and Democrat administrations alike suppressing evidence and protecting diplomatic relationships over justice for victims.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "dek": "Decades of Republican and Democrat administrations have buried questions about Saudi involvement in 9/11, protecting foreign interests over American victims.",
+    "votes_r": 12,
+    "votes_d": 11,
+    "votes_yes": 23,
+    "votes_no": 2,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "surveillance",
-      "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "Cops Are Using Flock Surveillance to Spy on People Just for Standing Around",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
-      "category": "fiscal hypocrisy",
-      "headline": "Rand Paul Preaches Fiscal Restraint While Flying Staff on Taxpayer-Funded Private Jets",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "betrayal",
+      "headline": "EPA Moves to Loosen Methane Rules, Handing Victory to Oil and Gas Donors on Both Sides",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "accountability",
-      "headline": "U.S. Goes AWOL as Western Powers Meet on Wartime Civilian Protections",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "U.S. Goes AWOL as Western Allies Meet on Wartime Civilian Protections",
+      "meta": "Foreign Policy · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "deregulation",
-      "headline": "EPA Moves to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "United Airlines Quietly Ships War Materiel to Israel on Passenger Flights",
+      "meta": "Defense · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "blowback",
-      "headline": "Osama Bin Laden Won",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "Voucher Programs Leave Students With Disabilities Behind Despite Bipartisan Promises",
+      "meta": "Education · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
