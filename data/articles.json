@@ -1,50 +1,50 @@
 {
-  "updated": "2026-09-12T16:53:10.664Z",
+  "updated": "2026-09-12T20:24:11.302Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "25 Years After 9/11, the FBI's Saudi Suspect Cover-Up Spans Every Administration",
-    "dek": "Decades of Republican and Democrat administrations have buried questions about Saudi involvement in 9/11, protecting foreign interests over American victims.",
-    "votes_r": 12,
-    "votes_d": 11,
-    "votes_yes": 23,
-    "votes_no": 2,
+    "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
+    "dek": "Across Republican and Democrat administrations alike, the FBI's handling of Saudi suspects in the 9/11 case has been marked by secrecy, obstruction, and unanswered questions that both parties have failed to address.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Cops Are Using Flock Surveillance to Spy on People Just for Standing Around",
-      "meta": "Civil Liberties · today",
+      "category": "surveillance",
+      "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "EPA Moves to Loosen Methane Rules, Handing Victory to Oil and Gas Donors on Both Sides",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "category": "accountability",
+      "headline": "Osama Bin Laden Won",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "U.S. Goes AWOL as Western Allies Meet on Wartime Civilian Protections",
-      "meta": "Foreign Policy · today",
+      "category": "environment",
+      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "United Airlines Quietly Ships War Materiel to Israel on Passenger Flights",
-      "meta": "Defense · today",
-      "url": "https://theintercept.com"
+      "headline": "Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Voucher Programs Leave Students With Disabilities Behind Despite Bipartisan Promises",
-      "meta": "Education · today",
+      "category": "education",
+      "headline": "Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That's Not the Reality.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
