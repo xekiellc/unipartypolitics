@@ -1,50 +1,50 @@
 {
-  "updated": "2026-09-11T20:47:20.723Z",
+  "updated": "2026-09-12T00:01:00.095Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "25 Years After 9/11, the FBI's Saudi Suspect Cover-Up Spans Every Administration",
-    "dek": "Democrats and Republicans alike have stonewalled accountability for Saudi connections to 9/11, protecting a foreign ally over American victims for a quarter century.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
+    "dek": "A quarter century later, bipartisan silence from both Republican and Democrat administrations has shielded Saudi connections to the worst terror attack on U.S. soil.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Rand Paul Jets on Taxpayer Dime While Preaching Fiscal Restraint",
+      "category": "surveillance",
+      "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 2,
+      "category": "hypocrisy",
+      "headline": "Rand Paul and His Staff Travel by Private Jet with Taxpayer Dollars While Preaching Fiscal Restraint",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 2,
-      "category": "surveillance",
-      "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 3,
-      "category": "war",
-      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
-      "meta": "Foreign Policy · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "environment",
-      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
-      "meta": "Environment · today",
+      "category": "betrayal",
+      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 4,
+      "category": "corporate capture",
+      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 5,
-      "category": "foreign policy",
-      "headline": "U.S. Goes AWOL as Western Powers Meet on Wartime Civilian Protections",
-      "meta": "Foreign Policy · today",
+      "category": "environment",
+      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
