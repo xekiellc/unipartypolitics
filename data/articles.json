@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-13T15:58:34.886Z",
+  "updated": "2026-09-13T18:44:05.772Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "25 Years After 9/11, the FBI's Saudi Suspects Case Implicates Bipartisan Cover-Ups",
-    "dek": "Decades of Republican and Democrat administrations have stonewalled accountability on Saudi connections to the 9/11 attacks, leaving families without justice.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
+    "dek": "A quarter century later, bipartisan government secrecy continues to shield potential Saudi connections to the September 11 attacks from public accountability.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
@@ -22,16 +22,16 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Osama Bin Laden Won",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Osama Bin Laden Won",
+      "meta": "National Security · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
