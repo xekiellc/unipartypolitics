@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-13T18:44:05.772Z",
+  "updated": "2026-09-13T22:15:54.812Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
-    "dek": "A quarter century later, bipartisan government secrecy continues to shield potential Saudi connections to the September 11 attacks from public accountability.",
+    "dek": "A quarter century later, bipartisan administrations have shielded Saudi connections to the 9/11 attacks from full public accountability.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -22,16 +22,16 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Osama Bin Laden Won",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Osama Bin Laden Won",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
+      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
@@ -44,7 +44,7 @@
       "id": 5,
       "category": "betrayal",
       "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
-      "meta": "Defense · today",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
   ],
