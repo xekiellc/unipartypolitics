@@ -1,50 +1,50 @@
 {
-  "updated": "2026-09-13T04:16:52.905Z",
+  "updated": "2026-09-13T11:29:58.110Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "25 Years After 9/11, FBI's Pursuit of Saudi Suspects Raises Bipartisan Cover-Up Questions",
-    "dek": "Decades of Republican and Democrat administrations have each shielded Saudi connections to 9/11 from full public accountability.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
-    "source": "ProPublica"
+    "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
+    "dek": "Bipartisan inaction on surveillance technology enables police to monitor Americans without warrants or oversight, with neither party moving to stop it.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
-      "category": "surveillance",
-      "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
+      "category": "betrayal",
+      "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
+      "category": "betrayal",
+      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
       "category": "betrayal",
       "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
-      "category": "environment",
-      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
       "id": 5,
-      "category": "education",
+      "category": "betrayal",
       "headline": "Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That's Not the Reality.",
-      "meta": "Politics · today",
+      "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     }
   ],
