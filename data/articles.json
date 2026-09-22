@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-13T22:15:54.812Z",
+  "updated": "2026-09-22T04:19:41.418Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "25 Years After 9/11, Questions About the FBI's Pursuit of Saudi Suspects Have Only Grown",
-    "dek": "A quarter century later, bipartisan administrations have shielded Saudi connections to the 9/11 attacks from full public accountability.",
+    "headline": "Drug transparency bill stripped of critical provisions ahead of Senate vote",
+    "dek": "A bipartisan effort to gut pharmaceutical disclosure requirements shows how both parties protect industry donors over patients.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Centrists Are Soft-Launching the Idea That We Have a Little Too Much Democracy",
+      "headline": "John Fetterman is fundraising on GOP donor email lists",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Osama Bin Laden Won",
+      "headline": "Russian oligarch bankrolled Donald Trump Jr.'s wedding, investigation finds",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
-      "meta": "Environment · today",
+      "category": "corruption",
+      "headline": "Tennessee lawmakers demand answers on safety in state youth prisons",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
-      "meta": "Foreign Policy · today",
-      "url": "https://feeds.propublica.org"
+      "category": "corruption",
+      "headline": "ICE revives former 'hellhole' prison and hires the same company to run it",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
+      "headline": "Collins slams Trump plan to politicize grants as defying Congress",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
