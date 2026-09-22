@@ -1,49 +1,42 @@
 {
-  "updated": "2026-09-22T04:19:41.418Z",
+  "updated": "2026-09-22T16:41:17.725Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Drug transparency bill stripped of critical provisions ahead of Senate vote",
-    "dek": "A bipartisan effort to gut pharmaceutical disclosure requirements shows how both parties protect industry donors over patients.",
+    "headline": "John Fetterman Is Fundraising on GOP Donor Email Lists",
+    "dek": "A Democratic senator crosses party lines not for reform but for campaign cash, exposing how both parties share the same donor class.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "John Fetterman is fundraising on GOP donor email lists",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "Russian oligarch bankrolled Donald Trump Jr.'s wedding, investigation finds",
+      "headline": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "GOP Senator Wants to Subpoena Donald Trump Jr. Over Russian-Funded Wedding",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
       "id": 3,
-      "category": "corruption",
-      "headline": "Tennessee lawmakers demand answers on safety in state youth prisons",
+      "category": "betrayal",
+      "headline": "Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "ICE revives former 'hellhole' prison and hires the same company to run it",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
       "category": "betrayal",
-      "headline": "Collins slams Trump plan to politicize grants as defying Congress",
+      "headline": "Top House Oversight Dem Demands Answers to Trump's Media Ban",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
