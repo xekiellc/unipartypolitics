@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-23T13:31:10.616Z",
+  "updated": "2026-09-23T18:20:14.449Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Consumer watchdog keeps siding with business over the public",
-    "dek": "The federal agency tasked with protecting consumers continues making business-friendly moves, betraying its core mandate regardless of which party holds power.",
+    "headline": "The federal agency that's supposed to protect consumers just made another business-friendly move",
+    "dek": "Regulators appointed across administrations continue prioritizing corporate interests over the Americans they were created to protect.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,23 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
+      "headline": "The FBI anti-corruption squad was circling Susan Collins — until Trump got in the way",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "John Fetterman Is Fundraising on GOP Donor Email Lists",
+      "headline": "DoorDash spent $1.4 million trying to stop Mamdani from becoming mayor — now we know why",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "How a Small Kansas City Became a Critical Hub for Trump's Deportation Regime Against Its Will",
+      "headline": "Sanders and Casar introduce 'superintelligence' ban as Congress scrambles on AI",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "The New Supreme Court: How Both Parties Enabled an Unaccountable Bench",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
