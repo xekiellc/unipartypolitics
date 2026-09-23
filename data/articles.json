@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-22T21:07:00.273Z",
+  "updated": "2026-09-23T00:12:26.699Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "John Fetterman Is Fundraising on GOP Donor Email Lists",
-    "dek": "Democratic Senator John Fetterman crosses party lines not for policy reform but to tap Republican donor networks, exposing how both parties chase the same donor class.",
+    "headline": "John Fetterman fundraises off GOP donor lists as party lines blur",
+    "dek": "The Democratic senator's campaign is soliciting Republican donors, exposing how both parties chase the same money from the same donor class.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
-      "meta": "Politics · today",
+      "headline": "FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "How a Russian Oligarch Bankrolled Donald Trump Jr.'s Wedding",
-      "meta": "Politics · today",
+      "category": "corruption",
+      "headline": "Russian Oligarch Bankrolled Trump Jr.'s Wedding While GOP Looked the Other Way",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "GOP Senator Wants to Subpoena Donald Trump Jr. Over Russian-Funded Wedding",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "accountability",
+      "headline": "Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "How a Small Kansas City Became a Critical Hub for Trump's Deportation Regime Against Its Will",
-      "meta": "Politics · today",
+      "headline": "Another U.S. Soldier Dead as Iran War Casualties Rise With Bipartisan War Powers Intact",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "category": "corruption",
+      "headline": "GOP Senator Wants to Subpoena Trump Jr. Over Russian-Funded Wedding",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
