@@ -1,35 +1,35 @@
 {
-  "updated": "2026-09-23T18:20:14.449Z",
+  "updated": "2026-09-23T22:51:07.166Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The federal agency that's supposed to protect consumers just made another business-friendly move",
-    "dek": "Regulators appointed across administrations continue prioritizing corporate interests over the Americans they were created to protect.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The FBI anti-corruption squad was circling Susan Collins — until Trump got in the way",
+      "headline": "The Federal Agency That's Supposed to Protect Consumers Just Made Another Business-Friendly Move",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "DoorDash spent $1.4 million trying to stop Mamdani from becoming mayor — now we know why",
+      "headline": "The Ellisons Could Make a Killing in Big Surveillance With the Paramount Merger",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Sanders and Casar introduce 'superintelligence' ban as Congress scrambles on AI",
+      "headline": "Senators Weigh Staying in Town to Vote on Data Center Bill",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
