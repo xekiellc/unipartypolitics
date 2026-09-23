@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-23T00:12:26.699Z",
+  "updated": "2026-09-23T07:36:32.367Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "John Fetterman fundraises off GOP donor lists as party lines blur",
-    "dek": "The Democratic senator's campaign is soliciting Republican donors, exposing how both parties chase the same money from the same donor class.",
+    "headline": "John Fetterman fundraises off GOP donor lists as party lines blur for cash",
+    "dek": "Democratic Senator John Fetterman is soliciting funds from Republican donor email lists, exposing how both parties chase the same donor class regardless of stated values.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
-      "meta": "ProPublica · today",
+      "headline": "FBI anti-corruption probe of Susan Collins stalled amid Trump interference",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "corruption",
-      "headline": "Russian Oligarch Bankrolled Trump Jr.'s Wedding While GOP Looked the Other Way",
-      "meta": "ProPublica · today",
+      "headline": "Russian oligarch bankrolled Donald Trump Jr.'s wedding, investigation reveals",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "accountability",
-      "headline": "Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "GOP senator demands subpoena of Trump Jr. over Russian-funded wedding",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Another U.S. Soldier Dead as Iran War Casualties Rise With Bipartisan War Powers Intact",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "category": "failure",
+      "headline": "Tennessee lawmakers demand answers on safety failures in state youth prisons",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "corruption",
-      "headline": "GOP Senator Wants to Subpoena Trump Jr. Over Russian-Funded Wedding",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
+      "category": "betrayal",
+      "headline": "Another US soldier dead as Iran war casualties rise with no congressional pushback",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
