@@ -1,51 +1,44 @@
 {
-  "updated": "2026-09-23T07:36:32.367Z",
+  "updated": "2026-09-23T13:31:10.616Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "John Fetterman fundraises off GOP donor lists as party lines blur for cash",
-    "dek": "Democratic Senator John Fetterman is soliciting funds from Republican donor email lists, exposing how both parties chase the same donor class regardless of stated values.",
+    "headline": "Consumer watchdog keeps siding with business over the public",
+    "dek": "The federal agency tasked with protecting consumers continues making business-friendly moves, betraying its core mandate regardless of which party holds power.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "FBI anti-corruption probe of Susan Collins stalled amid Trump interference",
+      "headline": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "corruption",
-      "headline": "Russian oligarch bankrolled Donald Trump Jr.'s wedding, investigation reveals",
+      "category": "betrayal",
+      "headline": "John Fetterman Is Fundraising on GOP Donor Email Lists",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "accountability",
-      "headline": "GOP senator demands subpoena of Trump Jr. over Russian-funded wedding",
+      "category": "betrayal",
+      "headline": "How a Small Kansas City Became a Critical Hub for Trump's Deportation Regime Against Its Will",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "failure",
-      "headline": "Tennessee lawmakers demand answers on safety failures in state youth prisons",
+      "category": "betrayal",
+      "headline": "The New Supreme Court: How Both Parties Enabled an Unaccountable Bench",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Another US soldier dead as Iran war casualties rise with no congressional pushback",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
     }
   ],
   "stats": {
