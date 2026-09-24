@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-24T16:54:32.745Z",
+  "updated": "2026-09-24T21:22:15.861Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The Ellisons Could Make a Killing in Big Surveillance With the Paramount Merger",
-    "dek": "A massive media consolidation deal raises alarms about expanding surveillance infrastructure with bipartisan Washington looking the other way.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "War profiteers live lavishly as Congress looks away",
+    "dek": "Defense contractors grow rich while lawmakers from both parties continue funding endless wars with little oversight or accountability.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "corporate capture",
-      "headline": "The Federal Agency That's Supposed to Protect Consumers Just Made Another Business-Friendly Move",
+      "category": "betrayal",
+      "headline": "Congress Failed Again to Stop Trump's Iran War. This Group Is Trying Through the Courts.",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "war profiteering",
-      "headline": "Lifestyles of the Rich & Famous War Profiteers",
+      "category": "betrayal",
+      "headline": "The Ellisons Could Make a Killing in Big Surveillance With the Paramount Merger",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "military spending",
-      "headline": "As the Pentagon Expands Across the Pacific, Guam Offers a Warning",
+      "category": "betrayal",
+      "headline": "The Federal Agency That's Supposed to Protect Consumers Just Made Another Business-Friendly Move",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Another U.S. Soldier Is Dead as Iran War Casualties Rise",
+      "headline": "Democrats Fracture Over College Sports as Bigger Issues Go Unaddressed",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
