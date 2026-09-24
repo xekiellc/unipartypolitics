@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-23T22:51:07.166Z",
+  "updated": "2026-09-24T04:12:50.046Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "headline": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
+    "dek": "A federal anti-corruption investigation into a sitting Republican senator was derailed, raising serious questions about political interference at the highest levels of law enforcement.",
     "votes_r": 42,
     "votes_d": 36,
     "votes_yes": 78,
@@ -15,23 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The Federal Agency That's Supposed to Protect Consumers Just Made Another Business-Friendly Move",
-      "meta": "Politics · today",
+      "headline": "Susan Collins Dismissed Our Reporting as Old News. Some of Her Claims Aren't True.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "The Ellisons Could Make a Killing in Big Surveillance With the Paramount Merger",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "corruption",
+      "headline": "The Federal Agency That's Supposed to Protect Consumers Just Made Another Business-Friendly Move",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Senators Weigh Staying in Town to Vote on Data Center Bill",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "oligarchy",
+      "headline": "How a Russian Oligarch Bankrolled Donald Trump Jr.'s Wedding",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "surveillance",
+      "headline": "The Ellisons Could Make a Killing in Big Surveillance With the Paramount Merger",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "corporate power",
+      "headline": "DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know Why.",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
