@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-24T21:22:15.861Z",
+  "updated": "2026-09-25T00:22:48.891Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "War profiteers live lavishly as Congress looks away",
-    "dek": "Defense contractors grow rich while lawmakers from both parties continue funding endless wars with little oversight or accountability.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Congress Failed Again to Stop Trump's Iran War",
+    "dek": "Congressional leadership from both parties has repeatedly punted on war powers, leaving courts as the last resort to check executive military action.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
+      "headline": "The Federal Agency That's Supposed to Protect Consumers Just Made Another Business-Friendly Move",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Congress Failed Again to Stop Trump's Iran War. This Group Is Trying Through the Courts.",
+      "headline": "Lifestyles of the Rich & Famous War Profiteers",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "The Ellisons Could Make a Killing in Big Surveillance With the Paramount Merger",
+      "headline": "Permitting Deal Won't Get Vote Ahead of Election",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "The Federal Agency That's Supposed to Protect Consumers Just Made Another Business-Friendly Move",
+      "headline": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Democrats Fracture Over College Sports as Bigger Issues Go Unaddressed",
+      "headline": "Battered by Gas Prices at the Polls, GOP Faces Key Iran War Vote",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
