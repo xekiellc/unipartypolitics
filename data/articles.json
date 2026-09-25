@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-25T18:24:10.733Z",
+  "updated": "2026-09-25T23:11:53.627Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress failed again to stop Trump's Iran war powers",
-    "dek": "Lawmakers from both parties have repeatedly declined to reassert congressional war authority, ceding unilateral military power to the executive branch.",
+    "headline": "Congress failed again to stop Trump's Iran war",
+    "dek": "Both Republican and Democrat lawmakers have repeatedly punted on war powers oversight, leaving courts as the last resort for accountability.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,28 +15,28 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The federal agency meant to protect consumers just made another business-friendly move",
+      "headline": "Susan Collins dismissed reporting as old news — but some of her claims aren't true",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
+      "category": "betrayal",
+      "headline": "The federal agency that's supposed to protect consumers just made another business-friendly move",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
       "category": "surveillance",
       "headline": "Flock wants the most detailed map of its surveillance cameras taken offline",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
-      "category": "corruption",
-      "headline": "Susan Collins dismissed ProPublica reporting as old news — but some of her claims aren't true",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Republicans say they want to address data centers. Democrats smell a campaign-season rat.",
+      "category": "corruption",
+      "headline": "Bipartisan Russia hawks urge Trump to pull Putin invite to G20 summit",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
