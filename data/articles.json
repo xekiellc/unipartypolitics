@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-25T07:29:08.497Z",
+  "updated": "2026-09-25T13:30:27.378Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress Failed Again to Stop Trump's Iran War Powers",
-    "dek": "Lawmakers from both parties have repeatedly abdicated their constitutional war powers authority, leaving unchecked executive military action against Iran.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Congress failed again to stop Trump's Iran war powers",
+    "dek": "Democrats and Republicans alike have repeatedly refused to reassert congressional authority over war powers, leaving unchecked executive military action against Iran.",
+    "votes_r": 38,
+    "votes_d": 29,
+    "votes_yes": 67,
+    "votes_no": 22,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
-      "meta": "ProPublica · today",
+      "category": "betrayal",
+      "headline": "The FBI anti-corruption squad was circling Susan Collins — until Trump got in the way",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "The Federal Agency That's Supposed to Protect Consumers Just Made Another Business-Friendly Move",
-      "meta": "ProPublica · today",
+      "headline": "The federal agency that's supposed to protect consumers just made another business-friendly move",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "surveillance",
-      "headline": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
-      "meta": "The Intercept · today",
+      "headline": "Flock wants the most detailed map of its surveillance cameras taken offline",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "corruption",
-      "headline": "Lifestyles of the Rich & Famous War Profiteers",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "headline": "Susan Collins dismissed our reporting as old news. Some of her claims aren't true.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Permitting Deal Won't Get Vote Ahead of Election",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
+      "category": "policy",
+      "headline": "Across the country, youth prisons are closing. This state is building more.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
