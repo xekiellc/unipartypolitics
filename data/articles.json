@@ -1,51 +1,44 @@
 {
-  "updated": "2026-09-25T13:30:27.378Z",
+  "updated": "2026-09-25T18:24:10.733Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Congress failed again to stop Trump's Iran war powers",
-    "dek": "Democrats and Republicans alike have repeatedly refused to reassert congressional authority over war powers, leaving unchecked executive military action against Iran.",
-    "votes_r": 38,
-    "votes_d": 29,
-    "votes_yes": 67,
-    "votes_no": 22,
+    "dek": "Lawmakers from both parties have repeatedly declined to reassert congressional war authority, ceding unilateral military power to the executive branch.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The FBI anti-corruption squad was circling Susan Collins — until Trump got in the way",
+      "headline": "The federal agency meant to protect consumers just made another business-friendly move",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "The federal agency that's supposed to protect consumers just made another business-friendly move",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
       "category": "surveillance",
       "headline": "Flock wants the most detailed map of its surveillance cameras taken offline",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
+      "id": 3,
       "category": "corruption",
-      "headline": "Susan Collins dismissed our reporting as old news. Some of her claims aren't true.",
+      "headline": "Susan Collins dismissed ProPublica reporting as old news — but some of her claims aren't true",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
-      "category": "policy",
-      "headline": "Across the country, youth prisons are closing. This state is building more.",
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Republicans say they want to address data centers. Democrats smell a campaign-season rat.",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
