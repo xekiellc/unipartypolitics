@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-25T23:11:53.627Z",
+  "updated": "2026-09-26T04:29:31.846Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress failed again to stop Trump's Iran war",
-    "dek": "Both Republican and Democrat lawmakers have repeatedly punted on war powers oversight, leaving courts as the last resort for accountability.",
+    "headline": "Congress Failed Again to Stop Trump's Iran War",
+    "dek": "Lawmakers from both parties declined to assert congressional war powers authority, leaving unchecked executive military decision-making with no bipartisan opposition mounted in time.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Susan Collins dismissed reporting as old news — but some of her claims aren't true",
+      "headline": "The Federal Agency That's Supposed to Protect Consumers Just Made Another Business-Friendly Move",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "The federal agency that's supposed to protect consumers just made another business-friendly move",
+      "headline": "Susan Collins Dismissed Our Reporting as Old News. Some of Her Claims Aren't True.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "surveillance",
-      "headline": "Flock wants the most detailed map of its surveillance cameras taken offline",
+      "category": "betrayal",
+      "headline": "Bipartisan Russia Hawks Urge Trump to Pull Putin Invite to G20 Summit",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "Bipartisan Russia hawks urge Trump to pull Putin invite to G20 summit",
+      "category": "betrayal",
+      "headline": "Trump Cancels $1B in Federal Spending in Latest Challenge to Congress",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
