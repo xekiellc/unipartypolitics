@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-26T04:29:31.846Z",
+  "updated": "2026-09-28T20:27:24.272Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress Failed Again to Stop Trump's Iran War",
-    "dek": "Lawmakers from both parties declined to assert congressional war powers authority, leaving unchecked executive military decision-making with no bipartisan opposition mounted in time.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Senate to vote on member stock trading bill",
+    "dek": "Lawmakers from both parties have long blocked meaningful stock trading reform while personally profiting from the market — now a vote looms with little expectation of real accountability.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The Federal Agency That's Supposed to Protect Consumers Just Made Another Business-Friendly Move",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "AI Almost Started a U.S.–China War — and No One Seems to Care",
+      "meta": "National Security · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Susan Collins Dismissed Our Reporting as Old News. Some of Her Claims Aren't True.",
-      "meta": "Politics · today",
+      "headline": "Two Years After Hurricane Helene, People Are Still Allowed to Live in Harm's Way",
+      "meta": "Failure of Government · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Bipartisan Russia Hawks Urge Trump to Pull Putin Invite to G20 Summit",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "corruption",
+      "headline": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP.",
+      "meta": "Corporate Capture · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Trump Cancels $1B in Federal Spending in Latest Challenge to Congress",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "injustice",
+      "headline": "Feds Denied Ballistics Expert Access to Prairieland Defendant Who Got 100 Years in Prison",
+      "meta": "Criminal Justice · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "John Thune: Taxpayer Dollars Shouldn't Fund Trump Ads",
+      "meta": "Accountability · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
