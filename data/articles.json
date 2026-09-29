@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-29T01:41:22.702Z",
+  "updated": "2026-09-29T08:13:43.377Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senate moves to vote on member stock trading bill amid bipartisan resistance to real reform",
-    "dek": "Both Republican and Democrat lawmakers have long resisted meaningful stock trading restrictions, profiting while constituents suffer market manipulation.",
+    "headline": "Senate passes bipartisan bill to overhaul college sports",
+    "dek": "Both parties united to pass sweeping college sports legislation with little scrutiny over athlete protections or accountability measures.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Taxpayer dollars fund Trump ads while GOP senators stay silent — until now",
+      "headline": "Senate to vote on member stock trading bill — years after promises to act",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Two years after Hurricane Helene, government still lets people live in harm's way",
-      "meta": "Politics · today",
+      "headline": "Two Years After Hurricane Helene, People Are Still Allowed to Live in Harm's Way",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "AI almost started a U.S.–China war — and neither party seems to care",
-      "meta": "Politics · today",
+      "headline": "AI Almost Started a U.S.–China War — and No One Seems to Care",
+      "meta": "National Security · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "DraftKings made a problem gambler a VIP — and lawmakers let the industry write its own rules",
+      "headline": "Republicans Scheme to Block Trump's Funding Cancellations — While Democrats Stay Silent",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "U.S. casualties continue in Iran after Operation Epic Fury — with no congressional accountability",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP.",
+      "meta": "Corruption · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
