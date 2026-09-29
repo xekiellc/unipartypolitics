@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-28T20:27:24.272Z",
+  "updated": "2026-09-29T01:41:22.702Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senate to vote on member stock trading bill",
-    "dek": "Lawmakers from both parties have long blocked meaningful stock trading reform while personally profiting from the market — now a vote looms with little expectation of real accountability.",
+    "headline": "Senate moves to vote on member stock trading bill amid bipartisan resistance to real reform",
+    "dek": "Both Republican and Democrat lawmakers have long resisted meaningful stock trading restrictions, profiting while constituents suffer market manipulation.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "AI Almost Started a U.S.–China War — and No One Seems to Care",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
+      "headline": "Taxpayer dollars fund Trump ads while GOP senators stay silent — until now",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Two Years After Hurricane Helene, People Are Still Allowed to Live in Harm's Way",
-      "meta": "Failure of Government · today",
+      "headline": "Two years after Hurricane Helene, government still lets people live in harm's way",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP.",
-      "meta": "Corporate Capture · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "AI almost started a U.S.–China war — and neither party seems to care",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "injustice",
-      "headline": "Feds Denied Ballistics Expert Access to Prairieland Defendant Who Got 100 Years in Prison",
-      "meta": "Criminal Justice · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "DraftKings made a problem gambler a VIP — and lawmakers let the industry write its own rules",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "John Thune: Taxpayer Dollars Shouldn't Fund Trump Ads",
-      "meta": "Accountability · today",
-      "url": "https://rss.politico.com"
+      "headline": "U.S. casualties continue in Iran after Operation Epic Fury — with no congressional accountability",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
