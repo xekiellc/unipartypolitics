@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-29T08:13:43.377Z",
+  "updated": "2026-09-29T16:25:34.087Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Senate passes bipartisan bill to overhaul college sports",
-    "dek": "Both parties united to pass sweeping college sports legislation with little scrutiny over athlete protections or accountability measures.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
-    "source": "Politico"
+    "headline": "AI Almost Started a U.S.–China War — and No One Seems to Care",
+    "dek": "A bipartisan national security failure as both parties remain silent on AI systems nearly triggering conflict with China, with no accountability or reform from either side of the aisle.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Senate to vote on member stock trading bill — years after promises to act",
+      "headline": "Prison That Didn't Report Sex Abuse Allegation Against Staffer to Reopen as ICE Camp",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
       "headline": "Two Years After Hurricane Helene, People Are Still Allowed to Live in Harm's Way",
-      "meta": "Accountability · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "AI Almost Started a U.S.–China War — and No One Seems to Care",
-      "meta": "National Security · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Republicans Scheme to Block Trump's Funding Cancellations — While Democrats Stay Silent",
+      "headline": "Mike Johnson Backs Voluntary — Not Mandatory — Regulation to 'Calm the Nerves' on AI Safety",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 5,
+      "id": 4,
       "category": "betrayal",
       "headline": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP.",
-      "meta": "Corruption · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Inside the Business of Trump's Third-Country Deportations",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
