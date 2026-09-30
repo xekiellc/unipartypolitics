@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-30T05:03:06.581Z",
+  "updated": "2026-09-30T23:36:01.928Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Fetterman stands alone as Democrats shield constituent's killer from scrutiny",
-    "dek": "The Pennsylvania Democrat broke with his party, exposing how both sides protect powerful interests over victims' families seeking accountability.",
-    "votes_r": 0,
-    "votes_d": 48,
-    "votes_yes": 48,
-    "votes_no": 1,
+    "headline": "ICE deleted death-in-custody reviews as both parties funded the agency",
+    "dek": "With bipartisan appropriations keeping ICE funded, internal reviews citing shoddy medical care were quietly deleted, leaving detainee deaths unaccounted for.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "The Intercept"
   },
   "articles": [
@@ -22,28 +22,28 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Cruz blocks AI safety bill while Republicans shield Trump surveillance abuses",
+      "headline": "Prison that covered up sex abuse allegations to reopen as ICE detention camp",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Two years after Hurricane Helene, both parties let Americans keep living in harm's way",
+      "headline": "Two years after Hurricane Helene, people are still allowed to live in harm's way",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Federal watchdog says Trump's $810M funding cancellation is unconstitutional — Congress silent",
+      "headline": "Cruz kills Blackburn's AI deepfakes bill, leaving victims without protection",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Inside Trump's third-country deportations — with no serious Democratic opposition",
+      "headline": "Fetterman stands alone as sole Democrat blocking probe of Israeli settlers who killed his constituent",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
