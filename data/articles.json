@@ -1,49 +1,49 @@
 {
-  "updated": "2026-09-29T22:05:34.206Z",
+  "updated": "2026-09-30T05:03:06.581Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AI Almost Started a U.S.–China War — and No One Seems to Care",
-    "dek": "A near-catastrophic AI incident between superpowers passed with bipartisan silence — no hearings, no legislation, no accountability from either party.",
+    "headline": "Fetterman stands alone as Democrats shield constituent's killer from scrutiny",
+    "dek": "The Pennsylvania Democrat broke with his party, exposing how both sides protect powerful interests over victims' families seeking accountability.",
     "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "votes_d": 48,
+    "votes_yes": 48,
+    "votes_no": 1,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Prison That Didn't Report Sex Abuse Allegation Against Staffer to Reopen as ICE Camp",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "Two Years After Hurricane Helene, People Are Still Allowed to Live in Harm's Way",
+      "headline": "White House proposal threatens funding that helps disabled Americans vote",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
+      "id": 2,
       "category": "betrayal",
-      "headline": "Federal Watchdog Says Trump's $810M Funding Cancellation Is Unconstitutional",
+      "headline": "Cruz blocks AI safety bill while Republicans shield Trump surveillance abuses",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Two years after Hurricane Helene, both parties let Americans keep living in harm's way",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 4,
       "category": "betrayal",
-      "headline": "Cruz Blocks Senate Democrats' Bid to Pass AI Safety Bill",
+      "headline": "Federal watchdog says Trump's $810M funding cancellation is unconstitutional — Congress silent",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Inside the Business of Trump's Third-Country Deportations",
+      "headline": "Inside Trump's third-country deportations — with no serious Democratic opposition",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
