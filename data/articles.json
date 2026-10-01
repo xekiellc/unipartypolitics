@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-01T12:51:41.138Z",
+  "updated": "2026-10-01T19:22:13.300Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Centrist Democrat's Supreme Court plan boosts momentum for corporate-friendly revamp",
-    "dek": "A Democratic centrist is pushing a Supreme Court restructuring plan that critics say benefits establishment interests over genuine reform, drawing support from across the aisle.",
+    "headline": "Pentagon's secret budget escapes oversight from both parties",
+    "dek": "Congress has allowed the Pentagon to maintain a classified black budget for years, with neither Republicans nor Democrats demanding transparency or accountability.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "Politico"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Bipartisan Senate duo drops new data center bills, handing wins to Big Tech",
+      "headline": "Bipartisan Senate duo drops new data center bills amid Big Tech lobbying surge",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Fetterman stands alone: Sole Democrat refuses to investigate Israeli settlers who killed his constituent",
+      "headline": "ICE deleted internal reviews citing shoddy medical care in detainee deaths",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "ICE deleted internal reviews for deaths in custody that exposed shoddy medical care",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
       "headline": "White House proposal threatens funding that helps disabled Americans vote",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Prison that concealed sex abuse allegation set to reopen as ICE detention camp",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 5,
       "category": "betrayal",
-      "headline": "Prison that concealed sex abuse allegations against staffer set to reopen as ICE detention camp",
+      "headline": "Fetterman stands alone as sole Democrat blocking probe into Israeli settler violence",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
