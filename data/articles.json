@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-01T19:22:13.300Z",
+  "updated": "2026-10-01T23:48:56.595Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon's secret budget escapes oversight from both parties",
-    "dek": "Congress has allowed the Pentagon to maintain a classified black budget for years, with neither Republicans nor Democrats demanding transparency or accountability.",
+    "headline": "The Pentagon's secret budget grows with no accountability from either party",
+    "dek": "Year after year, Congress rubber-stamps classified military spending that bypasses public oversight, with Republicans and Democrats alike unwilling to challenge the Pentagon's blank check.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Bipartisan Senate duo drops new data center bills amid Big Tech lobbying surge",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Texas raised AI concerns — then helped pilot the same tool in public schools",
+      "meta": "Education · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "ICE deleted internal reviews citing shoddy medical care in detainee deaths",
-      "meta": "Politics · today",
+      "headline": "ICE deleted death-in-custody reviews citing shoddy medical care",
+      "meta": "Immigration · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "White House proposal threatens funding that helps disabled Americans vote",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Fetterman stands alone as sole Democrat blocking settler investigation",
+      "meta": "Foreign Policy · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Prison that concealed sex abuse allegation set to reopen as ICE detention camp",
-      "meta": "Politics · today",
+      "headline": "Oregon police demand $2.5M from local news outlet for records on one cop",
+      "meta": "Press Freedom · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Fetterman stands alone as sole Democrat blocking probe into Israeli settler violence",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Four kids died in a faith-healing family. Authorities were powerless to stop it.",
+      "meta": "Policy · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
