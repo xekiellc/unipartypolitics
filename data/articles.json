@@ -1,43 +1,50 @@
 {
-  "updated": "2026-10-01T05:17:40.530Z",
+  "updated": "2026-10-01T12:51:41.138Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Hegseth faces growing doubts as GOP stays silent on leadership failures",
-    "dek": "Republican senators express private concerns about Pentagon leadership while Democrats offer no meaningful oversight alternatives, exposing a bipartisan accountability vacuum.",
+    "headline": "Centrist Democrat's Supreme Court plan boosts momentum for corporate-friendly revamp",
+    "dek": "A Democratic centrist is pushing a Supreme Court restructuring plan that critics say benefits establishment interests over genuine reform, drawing support from across the aisle.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "New York Times"
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care",
-      "meta": "Immigration · today",
-      "url": "https://theintercept.com"
+      "headline": "Bipartisan Senate duo drops new data center bills, handing wins to Big Tech",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Federal Judge Orders Bureau of Prisons to Restore Union Protections",
-      "meta": "Criminal Justice · today",
-      "url": "https://rss.nytimes.com"
+      "headline": "Fetterman stands alone: Sole Democrat refuses to investigate Israeli settlers who killed his constituent",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Fetterman Is Sole Democrat Against Investigating Israeli Settlers Who Killed His Constituent",
-      "meta": "Foreign Policy · today",
+      "headline": "ICE deleted internal reviews for deaths in custody that exposed shoddy medical care",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Prison That Didn't Report Sex Abuse Allegation Against Staffer to Reopen as ICE Camp",
-      "meta": "Accountability · today",
+      "headline": "White House proposal threatens funding that helps disabled Americans vote",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Prison that concealed sex abuse allegations against staffer set to reopen as ICE detention camp",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
   ],
