@@ -1,58 +1,51 @@
 {
-  "updated": "2026-10-02T05:05:20.005Z",
+  "updated": "2026-10-02T12:14:56.458Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The Pentagon's secret budget grows with bipartisan silence",
-    "dek": "Year after year, Congress rubber-stamps classified Pentagon spending with members from both parties refusing to demand transparency or accountability.",
-    "votes_r": 38,
-    "votes_d": 31,
-    "votes_yes": 69,
-    "votes_no": 22,
+    "headline": "ICE deleted death-in-custody reviews citing shoddy medical care",
+    "dek": "The agency quietly scrubbed internal oversight records documenting failures that led to detainee deaths, with neither party demanding accountability.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Texas raised AI concerns — then helped pilot it in schools anyway",
-      "meta": "Education · today",
+      "headline": "Her agency distributes billions for housing. Her husband's company helped develop some projects.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "neglect",
-      "headline": "Four kids died in a faith-healing family. Authorities did nothing.",
-      "meta": "Policy · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "The Pentagon's secret budget keeps growing with no real congressional oversight",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "suppression",
-      "headline": "White House proposal threatens funding that helps disabled Americans vote",
-      "meta": "Civil Rights · today",
+      "category": "betrayal",
+      "headline": "Texas raised red flags about an AI learning tool — then helped pilot it in public schools anyway",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "ICE deleted in-custody death reviews that cited shoddy medical care",
-      "meta": "Immigration · today",
+      "category": "betrayal",
+      "headline": "Oregon police demand $2.5 million from local news outlet for records about one cop",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Oregon police demand $2.5M from local outlet for records about one cop",
-      "meta": "Press Freedom · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 6,
-      "category": "betrayal",
-      "headline": "Fetterman stands alone as sole Democrat blocking probe of settlers who killed his constituent",
-      "meta": "Foreign Policy · today",
-      "url": "https://theintercept.com"
+      "headline": "Four children died in one faith-healing family. Authorities said they could do nothing.",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
