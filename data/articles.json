@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-02T19:05:32.279Z",
+  "updated": "2026-10-02T23:38:56.109Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The Pentagon's Secret Budget",
-    "dek": "A hidden spending apparatus operates beyond congressional oversight, funded by both parties across decades of unchecked military expansion.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "The Pentagon's Secret Budget Gets Bipartisan Cover",
+    "dek": "Both Republican and Democrat lawmakers have long enabled off-books Pentagon spending with little oversight or accountability.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "The Intercept"
   },
   "articles": [
@@ -16,35 +16,35 @@
       "id": 1,
       "category": "betrayal",
       "headline": "Her Agency Distributes Billions for Housing Projects. Her Husband's Company Helped Develop Some of Them.",
-      "meta": "ProPublica · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
       "headline": "ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care",
-      "meta": "The Intercept · today",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
       "headline": "How Texas Helped a Private School Chain's AI Tool Get Into Public School Classrooms",
-      "meta": "ProPublica · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
       "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "meta": "The Intercept · today",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
       "headline": "Four Kids in One Faith-Healing Family Died. Authorities Could Do Nothing.",
-      "meta": "ProPublica · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
