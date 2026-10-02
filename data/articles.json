@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-02T12:14:56.458Z",
+  "updated": "2026-10-02T19:05:32.279Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "ICE deleted death-in-custody reviews citing shoddy medical care",
-    "dek": "The agency quietly scrubbed internal oversight records documenting failures that led to detainee deaths, with neither party demanding accountability.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "The Pentagon's Secret Budget",
+    "dek": "A hidden spending apparatus operates beyond congressional oversight, funded by both parties across decades of unchecked military expansion.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Her agency distributes billions for housing. Her husband's company helped develop some projects.",
+      "headline": "Her Agency Distributes Billions for Housing Projects. Her Husband's Company Helped Develop Some of Them.",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "The Pentagon's secret budget keeps growing with no real congressional oversight",
+      "headline": "ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care",
       "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Texas raised red flags about an AI learning tool — then helped pilot it in public schools anyway",
+      "headline": "How Texas Helped a Private School Chain's AI Tool Get Into Public School Classrooms",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Oregon police demand $2.5 million from local news outlet for records about one cop",
+      "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
       "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Four children died in one faith-healing family. Authorities said they could do nothing.",
+      "headline": "Four Kids in One Faith-Healing Family Died. Authorities Could Do Nothing.",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     }
