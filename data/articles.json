@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-02T23:38:56.109Z",
+  "updated": "2026-10-03T04:48:21.502Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The Pentagon's Secret Budget Gets Bipartisan Cover",
-    "dek": "Both Republican and Democrat lawmakers have long enabled off-books Pentagon spending with little oversight or accountability.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "The Pentagon's Secret Budget grows with bipartisan silence",
+    "dek": "Both Republican and Democratic lawmakers have allowed Pentagon black budget spending to balloon for decades with little oversight or public accountability.",
+    "votes_r": 38,
+    "votes_d": 29,
+    "votes_yes": 67,
+    "votes_no": 12,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "Her Agency Distributes Billions for Housing Projects. Her Husband's Company Helped Develop Some of Them.",
-      "meta": "Politics · today",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
+      "category": "negligence",
       "headline": "ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care",
-      "meta": "Politics · today",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "How Texas Helped a Private School Chain's AI Tool Get Into Public School Classrooms",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
+      "category": "surveillance",
       "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "meta": "Politics · today",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Four Kids in One Faith-Healing Family Died. Authorities Could Do Nothing.",
-      "meta": "Politics · today",
+      "id": 4,
+      "category": "corporate capture",
+      "headline": "How Texas Helped a Private School Chain's AI Tool Get Into Public School Classrooms",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "censorship",
+      "headline": "Public Radio Station Forced to Call Gulf of Mexico the 'Gulf of America'",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
