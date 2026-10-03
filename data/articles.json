@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-03T16:02:51.856Z",
+  "updated": "2026-10-03T20:52:28.385Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The Pentagon's Secret Budget",
-    "dek": "Billions in defense spending hidden from public view with tacit approval across party lines — neither Republicans nor Democrats push for real transparency.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "The Pentagon's Secret Budget Grows With Bipartisan Silence",
+    "dek": "Democrats and Republicans alike have enabled a shadow defense budget that operates beyond public accountability or congressional oversight.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "The Intercept"
   },
   "articles": [
@@ -36,16 +36,16 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "How Texas Helped a Private School Chain's AI Tool Get Into Public School Classrooms",
+      "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "headline": "How Texas Helped a Private School Chain's AI Tool Get Into Public School Classrooms",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
