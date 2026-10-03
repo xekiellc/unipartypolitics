@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-03T04:48:21.502Z",
+  "updated": "2026-10-03T11:25:45.355Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The Pentagon's Secret Budget grows with bipartisan silence",
-    "dek": "Both Republican and Democratic lawmakers have allowed Pentagon black budget spending to balloon for decades with little oversight or public accountability.",
+    "headline": "The Pentagon's Secret Budget Grows With Bipartisan Blessing",
+    "dek": "Both Republicans and Democrats have long enabled off-the-books Pentagon spending, shielding hundreds of billions from public scrutiny and accountability.",
     "votes_r": 38,
-    "votes_d": 29,
-    "votes_yes": 67,
-    "votes_no": 12,
+    "votes_d": 31,
+    "votes_yes": 69,
+    "votes_no": 22,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "Her Agency Distributes Billions for Housing Projects. Her Husband's Company Helped Develop Some of Them.",
-      "meta": "ProPublica · today",
+      "category": "betrayal",
+      "headline": "Watch: We Uncovered Bribery Allegations Involving Susan Collins",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "negligence",
-      "headline": "ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "Her Agency Distributes Billions for Housing Projects. Her Husband's Company Helped Develop Some of Them.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "surveillance",
-      "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "meta": "The Intercept · today",
+      "category": "betrayal",
+      "headline": "ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "corporate capture",
-      "headline": "How Texas Helped a Private School Chain's AI Tool Get Into Public School Classrooms",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "censorship",
-      "headline": "Public Radio Station Forced to Call Gulf of Mexico the 'Gulf of America'",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "How Texas Helped a Private School Chain's AI Tool Get Into Public School Classrooms",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
