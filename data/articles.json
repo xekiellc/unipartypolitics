@@ -1,44 +1,44 @@
 {
-  "updated": "2026-10-04T15:12:38.736Z",
+  "updated": "2026-10-04T19:22:49.476Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The Pentagon's Secret Budget",
-    "dek": "Bipartisan congressional silence enables Pentagon black budgets that bypass public oversight, with members of both parties approving funding with no transparency requirements.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "The Pentagon's secret budget grows with bipartisan silence",
+    "dek": "Both parties have enabled off-the-books Pentagon spending for years, shielding billions from public oversight and accountability.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Watch: We Uncovered Bribery Allegations Involving Susan Collins",
+      "headline": "Watch: Bribery allegations uncovered involving Susan Collins",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Her Agency Distributes Billions for Housing Projects. Her Husband's Company Helped Develop Some of Them.",
+      "headline": "Her agency distributes billions for housing. Her husband's company helped develop some of those projects.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care",
+      "headline": "ICE deleted internal reviews for deaths in custody that cited shoddy medical care",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "headline": "How Texas helped a private school chain's AI tool infiltrate public classrooms",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
