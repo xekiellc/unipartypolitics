@@ -1,42 +1,49 @@
 {
-  "updated": "2026-10-04T19:22:49.476Z",
+  "updated": "2026-10-04T22:55:47.616Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The Pentagon's secret budget grows with bipartisan silence",
-    "dek": "Both parties have enabled off-the-books Pentagon spending for years, shielding billions from public oversight and accountability.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "The Pentagon's Secret Budget",
+    "dek": "Defense spending hidden from public scrutiny has long enjoyed protection from both Republican and Democrat lawmakers unwilling to challenge military contractors and the national security state.",
+    "votes_r": 38,
+    "votes_d": 31,
+    "votes_yes": 69,
+    "votes_no": 22,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Watch: Bribery allegations uncovered involving Susan Collins",
+      "headline": "Watch: We Uncovered Bribery Allegations Involving Susan Collins",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Her agency distributes billions for housing. Her husband's company helped develop some of those projects.",
+      "headline": "Her Agency Distributes Billions for Housing Projects. Her Husband's Company Helped Develop Some of Them.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "ICE deleted internal reviews for deaths in custody that cited shoddy medical care",
+      "headline": "ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "How Texas helped a private school chain's AI tool infiltrate public classrooms",
+      "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "How Texas Helped a Private School Chain's AI Tool Get Into Public School Classrooms",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
