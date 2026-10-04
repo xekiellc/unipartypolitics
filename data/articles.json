@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-03T20:52:28.385Z",
+  "updated": "2026-10-04T00:25:38.598Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The Pentagon's Secret Budget Grows With Bipartisan Silence",
-    "dek": "Democrats and Republicans alike have enabled a shadow defense budget that operates beyond public accountability or congressional oversight.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "The Pentagon's Secret Budget",
+    "dek": "Bipartisan congressional oversight failures allow the Pentagon to hide billions in spending from public accountability, with both parties complicit in the opacity.",
+    "votes_r": 38,
+    "votes_d": 31,
+    "votes_yes": 69,
+    "votes_no": 22,
     "source": "The Intercept"
   },
   "articles": [
