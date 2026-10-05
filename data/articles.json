@@ -1,51 +1,44 @@
 {
-  "updated": "2026-10-05T05:03:55.784Z",
+  "updated": "2026-10-05T22:26:31.040Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "The Pentagon's Secret Budget grows with bipartisan silence",
-    "dek": "Democrats and Republicans alike have enabled years of off-books Pentagon spending with no meaningful oversight or accountability from either party.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Watch: We Uncovered Bribery Allegations Involving Susan Collins",
+      "headline": "Bribery Allegations Involving Susan Collins Uncovered",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Her Agency Distributes Billions for Housing Projects. Her Husband's Company Helped Develop Some of Them.",
+      "headline": "Susan Collins's Committee Bought Trucks the Army Didn't Want. Then Campaign Donations Poured In.",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care",
+      "category": "corruption",
+      "headline": "The Pentagon's Secret Budget",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "headline": "Dems Split on Probing Trump Corporate Allies",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "How Texas Helped a Private School Chain's AI Tool Get Into Public School Classrooms",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
