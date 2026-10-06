@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-06T05:51:08.204Z",
+  "updated": "2026-10-06T13:07:58.860Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Susan Collins's Committee Bought Trucks the Army Didn't Want. Then Campaign Donations Poured In.",
-    "dek": "A Republican senator's committee funded unwanted military equipment while defense contractors funneled money into her campaign — a textbook example of the pay-to-play corruption both parties enable.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "dek": "A Republican senator's defense committee steered military spending toward unwanted equipment while her campaign coffers filled — a textbook case of the pay-to-play corruption both parties enable.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "The Intercept"
   },
   "articles": [
@@ -21,17 +21,31 @@
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "The Pentagon's Secret Budget",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "civil liberties",
+      "headline": "More Than 500 U.S. Citizens Detained, Handcuffed or Held at Gunpoint in Trump's Immigration Crackdown",
+      "meta": "Immigration · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "It's Easy to Start a Private School. Take Our Quiz to Find Out Where You Can Open Yours.",
+      "category": "press freedom",
+      "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "meta": "Accountability · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "power",
+      "headline": "Capitol Agenda: Thune and Trump Plot GOP Money Wave",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "civil liberties",
+      "headline": "Mahmoud Khalil: 'We Can't Afford to Stay Silent'",
+      "meta": "Free Speech · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
