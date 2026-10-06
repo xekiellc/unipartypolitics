@@ -1,44 +1,37 @@
 {
-  "updated": "2026-10-05T22:26:31.040Z",
+  "updated": "2026-10-06T05:51:08.204Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "ProPublica"
+    "headline": "Susan Collins's Committee Bought Trucks the Army Didn't Want. Then Campaign Donations Poured In.",
+    "dek": "A Republican senator's committee funded unwanted military equipment while defense contractors funneled money into her campaign — a textbook example of the pay-to-play corruption both parties enable.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Bribery Allegations Involving Susan Collins Uncovered",
+      "headline": "Watch: We Uncovered Bribery Allegations Involving Susan Collins",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Susan Collins's Committee Bought Trucks the Army Didn't Want. Then Campaign Donations Poured In.",
+      "headline": "The Pentagon's Secret Budget",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "corruption",
-      "headline": "The Pentagon's Secret Budget",
+      "headline": "It's Easy to Start a Private School. Take Our Quiz to Find Out Where You Can Open Yours.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Dems Split on Probing Trump Corporate Allies",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
