@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-07T05:23:35.083Z",
+  "updated": "2026-10-08T00:05:43.035Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Susan Collins's Committee Bought Trucks the Army Didn't Want. Then Campaign Donations Poured In.",
-    "dek": "A Republican senator steered military spending toward unwanted equipment while her campaign coffers filled — a textbook case of defense contractor influence corrupting both parties' oversight roles.",
+    "headline": "U.S. military closes case after soldier confesses to Afghanistan war murder",
+    "dek": "The Pentagon buried an admitted war crime, a failure of accountability that spans multiple administrations from both parties.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,28 +15,28 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "More Than 500 U.S. Citizens Detained in Trump's Immigration Crackdown",
-      "meta": "Civil Liberties · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Feds charged activists just before major anti-ICE protest in tiny Vermont town",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Antisemitism Law Helped Get a Professor Fired for Free Speech, Lawsuit Says",
-      "meta": "Free Speech · today",
-      "url": "https://theintercept.com"
+      "headline": "More than 500 U.S. citizens detained, handcuffed or held at gunpoint in Trump immigration crackdown",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Public Radio Station Forced to Call Gulf of Mexico the 'Gulf of America'",
-      "meta": "Press Freedom · today",
+      "headline": "Antisemitism law helped get a professor fired for free speech, lawsuit says",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Johnson Defends Trump's Taxpayer-Funded Ads as GOP Money Wave Builds",
+      "headline": "Both parties push AI frameworks with no binding accountability measures",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
