@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-08T00:05:43.035Z",
+  "updated": "2026-10-08T23:09:41.425Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "U.S. military closes case after soldier confesses to Afghanistan war murder",
-    "dek": "The Pentagon buried an admitted war crime, a failure of accountability that spans multiple administrations from both parties.",
+    "headline": "Pete Hegseth's Military of the Future: Defined by AI and an Utter Lack of Oversight",
+    "dek": "The Pentagon's push toward AI-driven warfare is advancing with bipartisan silence — no meaningful oversight legislation from either party as unchecked military tech expands.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Feds charged activists just before major anti-ICE protest in tiny Vermont town",
-      "meta": "Politics · today",
+      "headline": "Armed Border Agents Arrest Protesters, Bulldoze 200-Year-Old Tree to Build Border Wall",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "More than 500 U.S. citizens detained, handcuffed or held at gunpoint in Trump immigration crackdown",
+      "headline": "Feds Charged Activists Just Before Major Anti-ICE Protest in a Tiny Vermont Town",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Antisemitism law helped get a professor fired for free speech, lawsuit says",
-      "meta": "Politics · today",
+      "headline": "He Confessed to an Afghanistan War Murder. The U.S. Military Promptly Closed the Case.",
+      "meta": "Accountability · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Both parties push AI frameworks with no binding accountability measures",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Antisemitism Law Helped Get a Professor Fired for Free Speech, Lawsuit Says",
+      "meta": "Civil Liberties · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "U.S. Lawmakers Launch Sexual Abuse Probe of Youth Sports Giant AAU",
+      "meta": "Accountability · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
