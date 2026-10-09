@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-09T19:22:18.880Z",
+  "updated": "2026-10-09T23:55:04.024Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Pentagon handed $350M in contracts to firm tied to senior Defense official",
-    "dek": "A revolving door scandal with no party clean — defense contractors exploit relationships on both sides of the aisle while taxpayers foot the bill.",
+    "dek": "A revolving-door scandal at the Defense Department reveals how military contracting corruption thrives regardless of which party controls the budget.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "U.S. Lawmakers Launch Sexual Abuse Probe of Youth Sports Giant AAU",
-      "meta": "ProPublica · today",
+      "headline": "Ken Paxton billed taxpayers millions for security on trips with no stated public purpose",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "ICE Agent on Scene of NYC Shooting Was Posing as Construction Worker, Eyewitness Says",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "headline": "Democrats dump $17M into midterm war chest as party leadership prioritizes fundraising over reform",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Pete Hegseth's Military of the Future: Defined by AI and an Utter Lack of Oversight",
-      "meta": "The Intercept · today",
+      "headline": "Pete Hegseth pushing AI-driven military expansion with zero oversight mechanisms",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Ken Paxton's Security Detail Cost Taxpayers Millions With Almost No Stated Business Purpose",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Capitol Agenda: How Warren Could Link Arms With Trump's GOP",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
+      "headline": "ICE agents conducted NYC operation in disguise as construction workers, witnesses say",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
