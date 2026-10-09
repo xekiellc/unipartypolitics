@@ -1,50 +1,50 @@
 {
-  "updated": "2026-10-09T05:36:17.116Z",
+  "updated": "2026-10-09T12:56:37.209Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "ProPublica"
+    "headline": "Warren eyes alliance with Trump's GOP on shared agenda items",
+    "dek": "Cross-party dealmaking raises questions about whether populist rhetoric masks the same donor-driven priorities on both sides of the aisle.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
-      "category": "oversight",
-      "headline": "Pete Hegseth's Military of the Future: Defined by AI and an Utter Lack of Oversight",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "ICE Agent on Scene of NYC Shooting Was Posing as Construction Worker, Eyewitness Says",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "investigation",
-      "headline": "U.S. Lawmakers Launch Sexual Abuse Probe of Youth Sports Giant AAU",
+      "category": "accountability",
+      "headline": "Ken Paxton billed taxpayers millions for security on trips with no stated business purpose",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "He Confessed to an Afghanistan War Murder. The U.S. Military Promptly Closed the Case.",
-      "meta": "Politics · today",
+      "id": 2,
+      "category": "oversight",
+      "headline": "Pete Hegseth's military vision defined by AI and zero oversight, critics warn",
+      "meta": "Defense · today",
       "url": "https://theintercept.com"
     },
     {
+      "id": 3,
+      "category": "enforcement",
+      "headline": "ICE agent posed as construction worker on scene of NYC shooting, eyewitness says",
+      "meta": "Immigration · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "abuse",
+      "headline": "U.S. lawmakers launch sexual abuse probe of youth sports giant AAU",
+      "meta": "Congress · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 5,
-      "category": "corruption",
-      "headline": "Mike Rogers Opens the Door for AIPAC Support in Michigan Senate Race",
-      "meta": "Politics · today",
+      "category": "money",
+      "headline": "AIPAC money enters Michigan Senate race as Mike Rogers opens the door",
+      "meta": "Elections · today",
       "url": "https://rss.politico.com"
     }
   ],
