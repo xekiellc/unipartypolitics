@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-08T23:09:41.425Z",
+  "updated": "2026-10-09T05:36:17.116Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pete Hegseth's Military of the Future: Defined by AI and an Utter Lack of Oversight",
-    "dek": "The Pentagon's push toward AI-driven warfare is advancing with bipartisan silence — no meaningful oversight legislation from either party as unchecked military tech expands.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Armed Border Agents Arrest Protesters, Bulldoze 200-Year-Old Tree to Build Border Wall",
-      "meta": "Civil Liberties · today",
+      "category": "oversight",
+      "headline": "Pete Hegseth's Military of the Future: Defined by AI and an Utter Lack of Oversight",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Feds Charged Activists Just Before Major Anti-ICE Protest in a Tiny Vermont Town",
+      "headline": "ICE Agent on Scene of NYC Shooting Was Posing as Construction Worker, Eyewitness Says",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "He Confessed to an Afghanistan War Murder. The U.S. Military Promptly Closed the Case.",
-      "meta": "Accountability · today",
-      "url": "https://theintercept.com"
+      "category": "investigation",
+      "headline": "U.S. Lawmakers Launch Sexual Abuse Probe of Youth Sports Giant AAU",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Antisemitism Law Helped Get a Professor Fired for Free Speech, Lawsuit Says",
-      "meta": "Civil Liberties · today",
+      "headline": "He Confessed to an Afghanistan War Murder. The U.S. Military Promptly Closed the Case.",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "U.S. Lawmakers Launch Sexual Abuse Probe of Youth Sports Giant AAU",
-      "meta": "Accountability · today",
-      "url": "https://feeds.propublica.org"
+      "category": "corruption",
+      "headline": "Mike Rogers Opens the Door for AIPAC Support in Michigan Senate Race",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
