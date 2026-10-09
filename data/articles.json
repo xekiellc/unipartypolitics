@@ -1,50 +1,50 @@
 {
-  "updated": "2026-10-09T12:56:37.209Z",
+  "updated": "2026-10-09T19:22:18.880Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Warren eyes alliance with Trump's GOP on shared agenda items",
-    "dek": "Cross-party dealmaking raises questions about whether populist rhetoric masks the same donor-driven priorities on both sides of the aisle.",
+    "headline": "Pentagon handed $350M in contracts to firm tied to senior Defense official",
+    "dek": "A revolving door scandal with no party clean — defense contractors exploit relationships on both sides of the aisle while taxpayers foot the bill.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "Politico"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "accountability",
-      "headline": "Ken Paxton billed taxpayers millions for security on trips with no stated business purpose",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "U.S. Lawmakers Launch Sexual Abuse Probe of Youth Sports Giant AAU",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "oversight",
-      "headline": "Pete Hegseth's military vision defined by AI and zero oversight, critics warn",
-      "meta": "Defense · today",
+      "category": "betrayal",
+      "headline": "ICE Agent on Scene of NYC Shooting Was Posing as Construction Worker, Eyewitness Says",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "enforcement",
-      "headline": "ICE agent posed as construction worker on scene of NYC shooting, eyewitness says",
-      "meta": "Immigration · today",
+      "category": "betrayal",
+      "headline": "Pete Hegseth's Military of the Future: Defined by AI and an Utter Lack of Oversight",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "abuse",
-      "headline": "U.S. lawmakers launch sexual abuse probe of youth sports giant AAU",
-      "meta": "Congress · today",
+      "category": "betrayal",
+      "headline": "Ken Paxton's Security Detail Cost Taxpayers Millions With Almost No Stated Business Purpose",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "money",
-      "headline": "AIPAC money enters Michigan Senate race as Mike Rogers opens the door",
-      "meta": "Elections · today",
+      "category": "betrayal",
+      "headline": "Capitol Agenda: How Warren Could Link Arms With Trump's GOP",
+      "meta": "Politico · today",
       "url": "https://rss.politico.com"
     }
   ],
