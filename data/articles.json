@@ -1,44 +1,51 @@
 {
-  "updated": "2026-10-09T23:55:04.024Z",
+  "updated": "2026-10-10T05:20:37.275Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon handed $350M in contracts to firm tied to senior Defense official",
-    "dek": "A revolving-door scandal at the Defense Department reveals how military contracting corruption thrives regardless of which party controls the budget.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Pentagon gave $350M in contracts to firm tied to senior defense official",
+    "dek": "A defense department insider steered hundreds of millions in taxpayer dollars to a closely connected firm, raising conflict-of-interest alarms neither party has moved to investigate.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "Ken Paxton billed taxpayers millions for security on trips with no stated public purpose",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Democrats dump $17M into midterm war chest as party leadership prioritizes fundraising over reform",
+      "category": "dysfunction",
+      "headline": "Democrats drop $5M into Kansas Senate race as party fundraising arm cries broke",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Pete Hegseth pushing AI-driven military expansion with zero oversight mechanisms",
+      "category": "oversight",
+      "headline": "Pete Hegseth's AI-driven military vision comes with zero accountability measures",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "ICE agents conducted NYC operation in disguise as construction workers, witnesses say",
+      "headline": "ICE agents posed as construction workers during NYC shooting operation",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "money",
+      "headline": "House Democrats demand $17M fast — while both parties eye midterm war chests",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
