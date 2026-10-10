@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-10T18:22:43.464Z",
+  "updated": "2026-10-10T23:22:31.387Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon handed $350M in contracts to firm tied to senior Defense official",
-    "dek": "A defense contractor with deep ties to a sitting Pentagon official received hundreds of millions in taxpayer-funded contracts, raising conflict-of-interest alarms that neither party rushed to investigate.",
+    "headline": "Pentagon handed $350M in contracts to firm tied to senior defense official",
+    "dek": "A defense department insider's close ties to a contractor raise serious conflict-of-interest questions — with oversight failures spanning multiple administrations.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -14,36 +14,29 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "Ken Paxton billed taxpayers millions for security on trips with no stated government purpose",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Democrats drop $5M into Kansas Senate race as party fundraising machine kicks into high gear",
+      "category": "surveillance",
+      "headline": "DHS deploys drones, masked agents and surveillance against a border tribe",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "House Democratic campaign arm demands $17M emergency cash — party priorities on full display",
+      "category": "money",
+      "headline": "Democrats drop $5M into Kansas Senate race as party arm scrambles for $17M more",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "DHS deploys surveillance drones and masked agents against border tribe as bipartisan border policy tightens",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Warren eyes alliance with Trump's GOP — bipartisan deals or bipartisan sellouts?",
+      "category": "establishment",
+      "headline": "Warren eyes alliance with Trump's GOP — a reminder of how party lines blur when power is at stake",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
