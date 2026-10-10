@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-10T12:14:23.294Z",
+  "updated": "2026-10-10T18:22:43.464Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Pentagon handed $350M in contracts to firm tied to senior Defense official",
-    "dek": "A sweetheart defense contracting deal exposes how the military-industrial revolving door operates regardless of which party holds power.",
+    "dek": "A defense contractor with deep ties to a sitting Pentagon official received hundreds of millions in taxpayer-funded contracts, raising conflict-of-interest alarms that neither party rushed to investigate.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -29,16 +29,23 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "House Democrats demand $17M emergency fundraising haul as midterm pressure mounts",
+      "headline": "House Democratic campaign arm demands $17M emergency cash — party priorities on full display",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "DHS deploys surveillance drones and masked agents against border tribe as bipartisan border policy escalates",
+      "headline": "DHS deploys surveillance drones and masked agents against border tribe as bipartisan border policy tightens",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Warren eyes alliance with Trump's GOP — bipartisan deals or bipartisan sellouts?",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
