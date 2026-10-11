@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-11T18:43:46.288Z",
+  "updated": "2026-10-11T23:32:15.824Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon handed $350M in contracts to firm tied to senior defense official",
-    "dek": "A massive no-bid contracting scandal implicates defense department insiders while both parties in Congress look the other way.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Pentagon gave $350M in contracts to firm tied to senior defense official",
+    "dek": "A bipartisan failure of oversight allowed hundreds of millions in taxpayer dollars to flow to a contractor with direct ties to a sitting Defense Department official.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
@@ -22,16 +22,16 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Democrats pour $22M into midterm races as party insiders chase power over policy",
+      "headline": "DHS deploys surveillance drones and masked agents against border tribe as wall construction advances",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "ICE agent caught posing as construction worker during NYC shooting operation",
+      "category": "money",
+      "headline": "Democrats drop $5M into Kansas Senate race as party fundraising arm demands $17M emergency push",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
