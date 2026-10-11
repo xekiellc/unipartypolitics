@@ -1,37 +1,37 @@
 {
-  "updated": "2026-10-11T12:29:14.268Z",
+  "updated": "2026-10-11T18:43:46.288Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon gave $350M in contracts to firm tied to senior Defense official",
-    "dek": "A sweeping conflict-of-interest scandal at the Defense Department implicates appointees across administrations, with oversight failures on both sides of the aisle.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Pentagon handed $350M in contracts to firm tied to senior defense official",
+    "dek": "A massive no-bid contracting scandal implicates defense department insiders while both parties in Congress look the other way.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ken Paxton billed taxpayers millions for security on trips with no stated business purpose",
+      "headline": "Ken Paxton billed taxpayers millions for security on trips with no stated government purpose",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Democrats drop $5M into Kansas Senate race as party fundraising machine kicks into high gear",
+      "headline": "Democrats pour $22M into midterm races as party insiders chase power over policy",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "DHS uses surveillance, masked agents and drones to intimidate border tribe as wall closes in",
+      "headline": "ICE agent caught posing as construction worker during NYC shooting operation",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
