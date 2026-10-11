@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-10T23:22:31.387Z",
+  "updated": "2026-10-11T05:11:54.559Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon handed $350M in contracts to firm tied to senior defense official",
-    "dek": "A defense department insider's close ties to a contractor raise serious conflict-of-interest questions — with oversight failures spanning multiple administrations.",
+    "headline": "Pentagon gave $350M in contracts to firm tied to senior Defense official",
+    "dek": "A massive defense contracting scandal implicates the Pentagon establishment that both parties have funded and protected for decades with little oversight.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -14,31 +14,24 @@
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "Ken Paxton billed taxpayers millions for security on trips with no stated government purpose",
+      "category": "betrayal",
+      "headline": "Ken Paxton billed taxpayers millions for security on trips with no stated business purpose",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "surveillance",
-      "headline": "DHS deploys drones, masked agents and surveillance against a border tribe",
+      "category": "betrayal",
+      "headline": "Democrats drop $5M into Kansas Senate race as party arm demands $17M more from donors",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "money",
-      "headline": "Democrats drop $5M into Kansas Senate race as party arm scrambles for $17M more",
+      "category": "betrayal",
+      "headline": "DHS deploys surveillance drones and masked agents against border tribe as wall construction advances",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 4,
-      "category": "establishment",
-      "headline": "Warren eyes alliance with Trump's GOP — a reminder of how party lines blur when power is at stake",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
