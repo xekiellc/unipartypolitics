@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-11T23:32:15.824Z",
+  "updated": "2026-10-12T05:25:23.063Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon gave $350M in contracts to firm tied to senior defense official",
-    "dek": "A bipartisan failure of oversight allowed hundreds of millions in taxpayer dollars to flow to a contractor with direct ties to a sitting Defense Department official.",
+    "headline": "Pentagon handed $350M in contracts to firm tied to senior defense official",
+    "dek": "A sweetheart deal raising conflict-of-interest alarms proceeded under administrations of both parties, with neither side demanding accountability.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,23 +15,23 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ken Paxton billed taxpayers millions for security on trips with no stated government purpose",
+      "headline": "Ken Paxton billed taxpayers millions for travel with no clear public purpose",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "DHS deploys surveillance drones and masked agents against border tribe as wall construction advances",
+      "headline": "Democrats drop $5M into Kansas Senate race as party fundraising machine kicks into overdrive",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "money",
-      "headline": "Democrats drop $5M into Kansas Senate race as party fundraising arm demands $17M emergency push",
+      "category": "betrayal",
+      "headline": "DHS deploys surveillance drones and masked agents against border tribe as wall construction advances",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
