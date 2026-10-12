@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-12T05:25:23.063Z",
+  "updated": "2026-10-12T15:03:14.837Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "Pentagon handed $350M in contracts to firm tied to senior defense official",
-    "dek": "A sweetheart deal raising conflict-of-interest alarms proceeded under administrations of both parties, with neither side demanding accountability.",
+    "kicker": "Your tax dollars at work",
+    "headline": "Pentagon handed $350M in contracts to firm tied to senior Defense official",
+    "dek": "A Defense Department insider allegedly steered hundreds of millions in taxpayer-funded contracts to a closely connected firm, raising serious conflict-of-interest concerns that crossed party lines.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,23 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ken Paxton billed taxpayers millions for travel with no clear public purpose",
+      "headline": "Ken Paxton's security detail cost taxpayers millions — only 1 in 6 trips had a stated business purpose",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Democrats drop $5M into Kansas Senate race as party fundraising machine kicks into overdrive",
+      "headline": "DHS deploys surveillance, masked agents and drones against a border tribe as Trump's wall expands",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "DHS deploys surveillance drones and masked agents against border tribe as wall construction advances",
+      "headline": "Pentagon took six months to officially count a soldier's death in Iran conflict",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "money",
+      "headline": "Democrats drop $5M into Kansas Senate race as party fundraising arm pleads for $17M more",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
