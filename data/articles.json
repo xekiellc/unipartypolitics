@@ -1,35 +1,49 @@
 {
-  "updated": "2026-10-12T22:49:40.236Z",
+  "updated": "2026-10-13T06:23:26.812Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon handed $350M in contracts to firm tied to senior Defense official",
-    "dek": "A massive no-bid contracting scandal implicates Defense Department insiders while Congress from both parties looks the other way.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Pentagon gave $350M in contracts to firm tied to senior defense official",
+    "dek": "A massive Pentagon contracting scandal exposes how defense spending enriches insiders regardless of which party holds power.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "Ken Paxton billed taxpayers millions for security on trips with no stated government purpose",
+      "category": "betrayal",
+      "headline": "Ken Paxton's security travel cost taxpayers millions with no clear business purpose",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "surveillance",
-      "headline": "DHS deploys drones and masked agents to intimidate Native border tribe",
+      "category": "betrayal",
+      "headline": "Democrats drop $5M into Kansas Senate race as party fundraising machine churns",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "House Democratic campaign arm demands $17M emergency fundraising haul",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "DHS uses surveillance, masked agents and drones to intimidate border tribe",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
-      "category": "accountability",
-      "headline": "Pentagon concealed Iran war death for six months — families and public kept in the dark",
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Pentagon still hiding Iran war death toll from public — six months after the fact",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
