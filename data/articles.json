@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-13T15:47:28.114Z",
+  "updated": "2026-10-13T21:06:43.171Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Scammers Are Stealing Millions From Food Stamp Recipients. Congress Could Fix It — but Won't.",
-    "dek": "Despite bipartisan awareness of widespread EBT fraud devastating low-income families, Congress has repeatedly refused to pass fixes that would protect vulnerable Americans.",
+    "headline": "Scammers steal millions from food stamp recipients while Congress does nothing",
+    "dek": "Despite widespread EBT card skimming fraud draining benefits from the poorest Americans, lawmakers from both parties have repeatedly blocked fixes that would shift liability away from victims.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,30 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "He Waited Nine Years in Prison for His Lawyer to File a Single Brief. In This State, There's No Rule Against It.",
-      "meta": "Justice · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Bipartisan senators slam Trump's Russian diesel deal as gift to adversaries",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "An Arkansas Mom Obtained Public Records About a New Data Center. Then She Got Sued.",
-      "meta": "Accountability · today",
+      "headline": "An Arkansas mom got public records about a data center. Then she got sued.",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Pentagon Finally Counts an Iran War Death — Six Months Late",
-      "meta": "Defense · today",
-      "url": "https://theintercept.com"
+      "headline": "Nine years in prison waiting for a lawyer to file one brief — and no rule was broken",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "As Trump's Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones",
-      "meta": "Civil Liberties · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Bipartisan duo maps out AI safety plan as congressional action continues to lag",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
