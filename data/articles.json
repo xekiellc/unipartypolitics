@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-13T21:06:43.171Z",
+  "updated": "2026-10-14T01:01:50.960Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Scammers steal millions from food stamp recipients while Congress does nothing",
-    "dek": "Despite widespread EBT card skimming fraud draining benefits from the poorest Americans, lawmakers from both parties have repeatedly blocked fixes that would shift liability away from victims.",
+    "headline": "Congress could fix food stamp theft — but won't act",
+    "dek": "Scammers are stealing millions from vulnerable Americans while lawmakers from both parties ignore a readily available fix.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Bipartisan senators slam Trump's Russian diesel deal as gift to adversaries",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Scammers are stealing millions from food stamp recipients. Congress won't act.",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "An Arkansas mom got public records about a data center. Then she got sued.",
-      "meta": "Politics · today",
+      "category": "corruption",
+      "headline": "An Arkansas mom obtained public records about a data center. Then she got sued.",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Nine years in prison waiting for a lawyer to file one brief — and no rule was broken",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "category": "failure",
+      "headline": "Bipartisan duo maps out AI safety plan as congressional action continues to lag",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Bipartisan duo maps out AI safety plan as congressional action continues to lag",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Pentagon finally counts an Iran war death — six months late",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "corruption",
+      "headline": "He waited nine years in prison for his lawyer to file a single brief. The state has no rule against it.",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
