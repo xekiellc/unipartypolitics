@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-14T01:01:50.960Z",
+  "updated": "2026-10-14T07:21:29.662Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress could fix food stamp theft — but won't act",
-    "dek": "Scammers are stealing millions from vulnerable Americans while lawmakers from both parties ignore a readily available fix.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Scammers are stealing millions from food stamp recipients and Congress won't act",
+    "dek": "Despite widespread fraud draining SNAP benefits from vulnerable Americans, lawmakers on both sides of the aisle have refused to pass fixes that would protect recipients.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Scammers are stealing millions from food stamp recipients. Congress won't act.",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "corruption",
-      "headline": "An Arkansas mom obtained public records about a data center. Then she got sued.",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "failure",
-      "headline": "Bipartisan duo maps out AI safety plan as congressional action continues to lag",
-      "meta": "Politico · today",
+      "headline": "Bipartisan senators slam Trump's Russian diesel deal — but helped create the broken foreign policy that enabled it",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
+      "id": 2,
+      "category": "neglect",
+      "headline": "He waited nine years in prison for his lawyer to file a single brief — lawmakers never closed the loophole",
+      "meta": "Justice · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "surveillance",
+      "headline": "DHS uses drones and masked agents to intimidate border tribe as bipartisan Congress funds the apparatus",
+      "meta": "Civil Liberties · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Pentagon finally counts an Iran war death — six months late",
-      "meta": "The Intercept · today",
+      "category": "accountability",
+      "headline": "Arkansas mom obtains public records about a data center — then gets sued into silence",
+      "meta": "Transparency · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "corruption",
-      "headline": "He waited nine years in prison for his lawyer to file a single brief. The state has no rule against it.",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "neglect",
+      "headline": "Bipartisan duo maps out AI safety plan as Congress continues to lag on meaningful action",
+      "meta": "Technology · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
