@@ -1,43 +1,36 @@
 {
-  "updated": "2026-10-15T11:11:42.241Z",
+  "updated": "2026-10-15T16:42:24.740Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Scammers steal millions from food stamp recipients as Congress refuses to act",
-    "dek": "Despite years of documented theft from vulnerable Americans, lawmakers on both sides of the aisle have repeatedly blocked fixes to the food stamp fraud crisis.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Scammers are stealing millions from food stamp recipients and Congress won't act",
+    "dek": "Despite a straightforward legislative fix, both Republican and Democrat lawmakers have refused to move on protections for vulnerable food stamp recipients losing millions to scammers.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "New Mexico and El Paso spent millions on climate plans. Three new data centers could undo them.",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "Joe Manchin says he's 'tickled to death' over a deal on permitting reform",
+      "headline": "Bipartisan House group urges Trump to enforce Russia sanctions — but Congress passed them and rarely enforces anything",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 3,
-      "category": "corruption",
-      "headline": "An Arkansas mom obtained public records about a new data center. Then she got sued.",
-      "meta": "Accountability · today",
-      "url": "https://theintercept.com"
+      "id": 2,
+      "category": "betrayal",
+      "headline": "New Mexico and El Paso spent millions on climate plans. Three new data centers could undo them.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
+      "id": 3,
       "category": "betrayal",
       "headline": "These women were trying to escape domestic abuse. ICE detained them instead.",
-      "meta": "Immigration · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
