@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-15T04:06:53.513Z",
+  "updated": "2026-10-15T11:11:42.241Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Scammers Are Stealing Millions From Food Stamp Recipients. Congress Could Fix It — but Won't.",
-    "dek": "Despite bipartisan awareness of rampant EBT fraud draining benefits from the poorest Americans, legislators on both sides of the aisle have refused to act, leaving vulnerable families exposed.",
+    "headline": "Scammers steal millions from food stamp recipients as Congress refuses to act",
+    "dek": "Despite years of documented theft from vulnerable Americans, lawmakers on both sides of the aisle have repeatedly blocked fixes to the food stamp fraud crisis.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,29 +15,29 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Bipartisan Duo Maps Out AI Safety Plan as Congressional Action Lags",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "New Mexico and El Paso spent millions on climate plans. Three new data centers could undo them.",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "He Waited Nine Years in Prison for His Lawyer to File a Single Brief. In This State, There's No Rule Against It.",
+      "headline": "Joe Manchin says he's 'tickled to death' over a deal on permitting reform",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "An Arkansas Mom Obtained Public Records About a New Data Center. Then She Got Sued.",
-      "meta": "Politics · today",
+      "category": "corruption",
+      "headline": "An Arkansas mom obtained public records about a new data center. Then she got sued.",
+      "meta": "Accountability · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
-      "meta": "Politics · today",
+      "headline": "These women were trying to escape domestic abuse. ICE detained them instead.",
+      "meta": "Immigration · today",
       "url": "https://feeds.propublica.org"
     }
   ],
