@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-14T18:25:50.756Z",
+  "updated": "2026-10-15T04:06:53.513Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Scammers are stealing millions from food stamp recipients and Congress won't fix it",
-    "dek": "Despite a clear legislative fix, lawmakers on both sides of the aisle have refused to act while vulnerable Americans lose critical food assistance to fraud.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Scammers Are Stealing Millions From Food Stamp Recipients. Congress Could Fix It — but Won't.",
+    "dek": "Despite bipartisan awareness of rampant EBT fraud draining benefits from the poorest Americans, legislators on both sides of the aisle have refused to act, leaving vulnerable families exposed.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Bipartisan duo maps out AI safety plan as congressional action continues to lag",
+      "headline": "Bipartisan Duo Maps Out AI Safety Plan as Congressional Action Lags",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Bipartisan group of senators slam Trump's Russian diesel deal as 'a gift to our adversary'",
+      "headline": "He Waited Nine Years in Prison for His Lawyer to File a Single Brief. In This State, There's No Rule Against It.",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "An Arkansas mom obtained public records about a new data center. Then she got sued.",
-      "meta": "Investigations · today",
+      "category": "betrayal",
+      "headline": "An Arkansas Mom Obtained Public Records About a New Data Center. Then She Got Sued.",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "He waited nine years in prison for his lawyer to file a single brief. In this state, there's no rule against it.",
-      "meta": "Justice · today",
+      "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
