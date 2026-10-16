@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-16T13:07:28.300Z",
+  "updated": "2026-10-16T17:54:37.857Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Bipartisan House group urges Trump to enforce Russia sanctions, scrap diesel deal",
-    "dek": "Republican and Democratic lawmakers publicly pressure the White House on Russia policy, exposing how congressional oversight has become performative while both parties enabled the underlying deals.",
-    "votes_r": 12,
-    "votes_d": 14,
-    "votes_yes": 26,
-    "votes_no": 8,
-    "source": "Politico"
+    "headline": "DHS Was Designed as a Weapon",
+    "dek": "A sweeping look at how the Department of Homeland Security was built with bipartisan support and has been wielded against ordinary Americans by administrations of both parties.",
+    "votes_r": 38,
+    "votes_d": 41,
+    "votes_yes": 79,
+    "votes_no": 18,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
-      "category": "defense-corruption",
+      "category": "betrayal",
       "headline": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
-      "meta": "Politics · today",
+      "meta": "Defense Corruption · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
-      "category": "border",
-      "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
-      "category": "climate",
+      "category": "betrayal",
       "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
+      "meta": "Immigration · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 4,
-      "category": "security-state",
-      "headline": "DHS Was Designed as a Weapon",
+      "category": "betrayal",
+      "headline": "A Vulnerable Republican Takes On Both Parties Over Immigration",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
-      "category": "judiciary",
-      "headline": "Frustrated by Losses in the Courts, Missouri Republicans Want to Change How Top Judges Are Selected",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "Long After the Maui Fires, Toxic Metals Linger in Residents' Bodies",
+      "meta": "Government Failure · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
