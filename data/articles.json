@@ -1,50 +1,50 @@
 {
-  "updated": "2026-10-16T17:54:37.857Z",
+  "updated": "2026-10-16T20:47:59.637Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "DHS Was Designed as a Weapon",
-    "dek": "A sweeping look at how the Department of Homeland Security was built with bipartisan support and has been wielded against ordinary Americans by administrations of both parties.",
-    "votes_r": 38,
-    "votes_d": 41,
-    "votes_yes": 79,
-    "votes_no": 18,
+    "headline": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
+    "dek": "Defense contractor money flows freely to both parties as Congress rubber-stamps bloated military contracts with little oversight or accountability.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
-      "meta": "Defense Corruption · today",
-      "url": "https://theintercept.com"
+      "headline": "A vulnerable Republican takes on both parties over immigration",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
+      "category": "betrayal",
+      "headline": "DHS Was Designed as a Weapon",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
       "category": "betrayal",
       "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
-      "meta": "Immigration · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
       "id": 4,
       "category": "betrayal",
-      "headline": "A Vulnerable Republican Takes On Both Parties Over Immigration",
+      "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
       "headline": "Long After the Maui Fires, Toxic Metals Linger in Residents' Bodies",
-      "meta": "Government Failure · today",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
   ],
