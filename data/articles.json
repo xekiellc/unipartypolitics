@@ -1,42 +1,49 @@
 {
-  "updated": "2026-10-16T06:55:57.495Z",
+  "updated": "2026-10-16T13:07:28.300Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Scammers Are Stealing Millions From Food Stamp Recipients. Congress Could Fix It — but Won't.",
-    "dek": "Despite bipartisan awareness of rampant EBT fraud draining benefits from vulnerable Americans, lawmakers on both sides of the aisle have repeatedly blocked or ignored reform measures.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "ProPublica"
+    "headline": "Bipartisan House group urges Trump to enforce Russia sanctions, scrap diesel deal",
+    "dek": "Republican and Democratic lawmakers publicly pressure the White House on Russia policy, exposing how congressional oversight has become performative while both parties enabled the underlying deals.",
+    "votes_r": 12,
+    "votes_d": 14,
+    "votes_yes": 26,
+    "votes_no": 8,
+    "source": "Politico"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "defense-corruption",
       "headline": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Bipartisan House Group Urges Trump to Enforce Russia Sanctions, Scrap Diesel Deal",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
+      "category": "border",
       "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 4,
-      "category": "betrayal",
+      "id": 3,
+      "category": "climate",
       "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "security-state",
+      "headline": "DHS Was Designed as a Weapon",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "judiciary",
+      "headline": "Frustrated by Losses in the Courts, Missouri Republicans Want to Change How Top Judges Are Selected",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
