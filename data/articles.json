@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-15T21:10:31.891Z",
+  "updated": "2026-10-16T00:10:38.795Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Scammers Are Stealing Millions From Food Stamp Recipients. Congress Could Fix It — but Won't.",
-    "dek": "Despite bipartisan awareness of rampant EBT fraud draining benefits from vulnerable Americans, lawmakers on both sides of the aisle have repeatedly failed to pass protective reforms.",
+    "dek": "With bipartisan inaction, Republican and Democrat lawmakers have repeatedly failed to pass available fixes while millions in benefits are stolen from low-income Americans.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,9 +15,9 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Bipartisan House group urges Trump to enforce Russia sanctions, scrap diesel deal",
+      "headline": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
@@ -29,16 +29,16 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
+      "headline": "Bipartisan House Group Urges Trump to Enforce Russia Sanctions, Scrap Diesel Deal",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Mother Sues ICE Contractor for Jailing Her and Her Baby in a Hotel Room",
+      "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
