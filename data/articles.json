@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-16T00:10:38.795Z",
+  "updated": "2026-10-16T06:55:57.495Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Scammers Are Stealing Millions From Food Stamp Recipients. Congress Could Fix It — but Won't.",
-    "dek": "With bipartisan inaction, Republican and Democrat lawmakers have repeatedly failed to pass available fixes while millions in benefits are stolen from low-income Americans.",
+    "dek": "Despite bipartisan awareness of rampant EBT fraud draining benefits from vulnerable Americans, lawmakers on both sides of the aisle have repeatedly blocked or ignored reform measures.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -22,16 +22,16 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
+      "headline": "Bipartisan House Group Urges Trump to Enforce Russia Sanctions, Scrap Diesel Deal",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Bipartisan House Group Urges Trump to Enforce Russia Sanctions, Scrap Diesel Deal",
+      "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
