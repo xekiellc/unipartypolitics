@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-17T12:03:58.131Z",
+  "updated": "2026-10-17T16:56:06.805Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
-    "dek": "Democrats hold leverage to stop unauthorized war powers but show little urgency to use it, exposing both parties' complicity in unchecked executive military action.",
+    "dek": "Democrats hold leverage to halt unauthorized military action but remain passive, echoing the same deference to executive war powers that Republicans have long exploited.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -22,15 +22,15 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "DHS Was Designed as a Weapon",
-      "meta": "Civil Liberties · today",
-      "url": "https://theintercept.com"
+      "headline": "A Vulnerable Republican Takes On Both Parties Over Immigration",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
       "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
-      "meta": "Immigration · today",
+      "meta": "Civil Rights · today",
       "url": "https://feeds.propublica.org"
     },
     {
@@ -43,9 +43,9 @@
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "A Vulnerable Republican Takes on Both Parties Over Immigration",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "DHS Was Designed as a Weapon",
+      "meta": "Accountability · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
