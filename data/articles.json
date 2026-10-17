@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-16T20:47:59.637Z",
+  "updated": "2026-10-17T00:14:34.047Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
-    "dek": "Defense contractor money flows freely to both parties as Congress rubber-stamps bloated military contracts with little oversight or accountability.",
+    "dek": "Defense contractor money flows freely across party lines as Pentagon's most expensive weapons program faces repeated failures with no accountability from either party.",
     "votes_r": 42,
     "votes_d": 36,
     "votes_yes": 78,
@@ -15,16 +15,16 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "A vulnerable Republican takes on both parties over immigration",
+      "headline": "DHS Was Designed as a Weapon",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "DHS Was Designed as a Weapon",
+      "headline": "A vulnerable Republican takes on both parties over immigration",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
@@ -39,13 +39,6 @@
       "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Long After the Maui Fires, Toxic Metals Linger in Residents' Bodies",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
     }
   ],
   "stats": {
