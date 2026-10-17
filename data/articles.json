@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-17T06:47:03.213Z",
+  "updated": "2026-10-17T12:03:58.131Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
-    "dek": "Defense contractor money flows to both parties while a troubled weapons program burns through taxpayer billions with no accountability from either side of the aisle.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
+    "dek": "Democrats hold leverage to stop unauthorized war powers but show little urgency to use it, exposing both parties' complicity in unchecked executive military action.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "A vulnerable Republican takes on both parties over immigration",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
+      "meta": "Defense Corruption · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
       "headline": "DHS Was Designed as a Weapon",
-      "meta": "Politics · today",
+      "meta": "Civil Liberties · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
-      "meta": "Politics · today",
+      "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
+      "meta": "Immigration · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
-      "meta": "Politics · today",
+      "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Long After the Maui Fires, Toxic Metals Linger in Residents' Bodies",
+      "headline": "A Vulnerable Republican Takes on Both Parties Over Immigration",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
