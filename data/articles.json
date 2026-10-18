@@ -1,51 +1,44 @@
 {
-  "updated": "2026-10-18T17:11:52.668Z",
+  "updated": "2026-10-18T20:23:48.202Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
-    "dek": "Defense contractor money flows freely across party lines as military contractors fund lawmakers who oversee their contracts, with little accountability from either party.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
+    "dek": "Democrats hold leverage to stop unauthorized war powers but show little urgency to use it, continuing a bipartisan pattern of congressional abdication on war authority.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
+      "category": "corruption",
+      "headline": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "DHS Was Designed as a Weapon",
+      "category": "accountability",
+      "headline": "A Vulnerable Republican Takes on Both Parties Over Immigration",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 3,
+      "category": "failure",
+      "headline": "Long After the Maui Fires, Toxic Metals Linger in Residents' Bodies",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
+      "id": 4,
       "category": "betrayal",
       "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "A Vulnerable Republican Takes on Both Parties Over Immigration",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
