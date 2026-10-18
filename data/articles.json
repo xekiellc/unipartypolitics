@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-18T13:52:18.741Z",
+  "updated": "2026-10-18T17:11:52.668Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
-    "dek": "Defense contractor money flows freely to both parties as Congress rubber-stamps bloated Pentagon contracts with little oversight or accountability.",
+    "dek": "Defense contractor money flows freely across party lines as military contractors fund lawmakers who oversee their contracts, with little accountability from either party.",
     "votes_r": 42,
     "votes_d": 36,
     "votes_yes": 78,
@@ -36,14 +36,14 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Long After the Maui Fires, Toxic Metals Linger in Residents' Bodies",
+      "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "A Vulnerable Republican Takes On Both Parties Over Immigration",
+      "headline": "A Vulnerable Republican Takes on Both Parties Over Immigration",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
