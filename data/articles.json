@@ -1,23 +1,23 @@
 {
-  "updated": "2026-10-19T07:32:59.224Z",
+  "updated": "2026-10-19T15:25:31.907Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
-    "dek": "Defense contractor money flows freely to both parties as Pentagon's most expensive weapons program stumbles with little congressional oversight or accountability.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
+    "dek": "Democrats hold leverage to stop unauthorized military action but show little urgency, continuing a bipartisan pattern of Congress ceding war powers to the executive.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
+      "headline": "A vulnerable Republican takes on both parties over immigration",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
@@ -29,16 +29,16 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "A Vulnerable Republican Takes on Both Parties Over Immigration",
+      "headline": "This Cybersecurity Agency Is Supposed to Protect U.S. Elections. Officials Fear It's Been Compromised by Trump.",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Long After the Maui Fires, Toxic Metals Linger in Residents' Bodies",
+      "headline": "He Tried to Set Limits on His State's School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
