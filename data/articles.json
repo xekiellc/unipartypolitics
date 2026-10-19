@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-18T20:23:48.202Z",
+  "updated": "2026-10-19T00:02:58.988Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
-    "dek": "Democrats hold leverage to stop unauthorized war powers but show little urgency to use it, continuing a bipartisan pattern of congressional abdication on war authority.",
+    "dek": "Democrats hold leverage to stop unauthorized military action but remain passive, continuing a bipartisan pattern of Congressional abdication on war powers.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -21,7 +21,7 @@
     },
     {
       "id": 2,
-      "category": "accountability",
+      "category": "betrayal",
       "headline": "A Vulnerable Republican Takes on Both Parties Over Immigration",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
@@ -29,14 +29,14 @@
     {
       "id": 3,
       "category": "failure",
-      "headline": "Long After the Maui Fires, Toxic Metals Linger in Residents' Bodies",
+      "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
+      "category": "accountability",
+      "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
