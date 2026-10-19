@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-19T15:25:31.907Z",
+  "updated": "2026-10-19T20:56:23.084Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
-    "dek": "Democrats hold leverage to stop unauthorized military action but show little urgency, continuing a bipartisan pattern of Congress ceding war powers to the executive.",
+    "dek": "Democrats hold leverage to stop an unauthorized war but show little urgency to use it, continuing a bipartisan pattern of congressional abdication on war powers.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "A vulnerable Republican takes on both parties over immigration",
+      "headline": "Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "DHS Was Designed as a Weapon",
+      "headline": "GOP-Linked PAC Spends Over $1M to Boost Third-Party Socialist in Ohio Senate Race",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "This Cybersecurity Agency Is Supposed to Protect U.S. Elections. Officials Fear It's Been Compromised by Trump.",
+      "headline": "He Tried to Set Limits on His State's School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "He Tried to Set Limits on His State's School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
+      "headline": "DHS Was Designed as a Weapon",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "A Vulnerable Republican Takes On Both Parties Over Immigration",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
