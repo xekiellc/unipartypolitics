@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-19T20:56:23.084Z",
+  "updated": "2026-10-20T00:59:18.579Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
-    "dek": "Democrats hold leverage to stop an unauthorized war but show little urgency to use it, continuing a bipartisan pattern of congressional abdication on war powers.",
+    "dek": "Democrats hold leverage to stop an unauthorized war but show little urgency, exposing how both parties enable endless executive military power.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,30 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "GOP-Linked PAC Spends Over $1M to Boost Third-Party Socialist in Ohio Senate Race",
+      "headline": "GOP-linked PAC spends over $1M to boost third-party socialist in Ohio Senate race",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
+      "id": 2,
+      "category": "corruption",
+      "headline": "Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
       "id": 3,
-      "category": "betrayal",
-      "headline": "He Tried to Set Limits on His State's School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
+      "category": "abuse",
+      "headline": "Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "DHS Was Designed as a Weapon",
+      "headline": "He Tried to Set Limits on His State's School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "A Vulnerable Republican Takes On Both Parties Over Immigration",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
