@@ -1,50 +1,50 @@
 {
-  "updated": "2026-10-20T07:21:39.025Z",
+  "updated": "2026-10-20T13:27:59.175Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
-    "dek": "Democrats hold leverage to stop an unauthorized war but remain passive, mirroring Republican militarism with their own brand of inaction.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
+    "headline": "Trump's FBI Purge Shielded Both a Republican and a Democrat From Bribery Probe",
+    "dek": "The dismantling of federal law enforcement didn't just protect Trump allies — it conveniently buried investigations into GOP Sen. Lindsey Graham and Democratic Rep. James Clyburn alike.",
+    "votes_r": 1,
+    "votes_d": 1,
+    "votes_yes": 2,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "GOP-Linked PAC Spends $1M to Boost Third-Party Socialist in Ohio — Rigging Democracy From Both Ends",
+      "category": "corruption",
+      "headline": "GOP-Linked PAC Spends $1M to Boost Third-Party Socialist in Ohio Senate Race",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
-      "category": "corruption",
-      "headline": "Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "dark money",
+      "headline": "He Tried to Set Limits on School Vouchers. Billionaires Bankrolled a Campaign to Unseat Him.",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Trump Appointees Asked Federal Cybersecurity Agency to Secretly Acquire and Hack a Voting Machine",
-      "meta": "Politics · today",
+      "category": "abuse of power",
+      "headline": "Trump Appointees Asked Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "Billionaires Bankrolled a Campaign to Unseat a Lawmaker Who Tried to Limit School Vouchers",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "category": "grift",
+      "headline": "Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "DHS Was Designed as a Weapon — and Both Parties Built It That Way",
-      "meta": "Politics · today",
+      "category": "war powers",
+      "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     }
   ],
