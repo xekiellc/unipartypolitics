@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-20T18:24:35.742Z",
+  "updated": "2026-10-20T23:04:08.931Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Trump's FBI purge shielded both Republican Graham and Democrat Clyburn from bribery probe",
-    "dek": "The dismantling of FBI investigations under Trump conveniently buried a bribery case touching both a senior Republican senator and a top House Democrat.",
+    "headline": "Trump's FBI Purge Shielded Both a Republican and Democrat From Bribery Probe",
+    "dek": "The dismantling of the FBI protected Lindsey Graham (R) and James Clyburn (D) from an active bribery investigation, exposing how partisan purges can benefit members of both parties.",
     "votes_r": 1,
     "votes_d": 1,
     "votes_yes": 2,
@@ -14,31 +14,31 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Dems have opportunity to end Iran war — but will they act or grandstand?",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "corruption",
+      "headline": "Trump Appointees Asked Federal Cybersecurity Agency to Secretly Hack a Voting Machine",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "corruption",
-      "headline": "Mike Rogers spent $100K on private jets and luxury travel last quarter",
-      "meta": "Politics · today",
+      "category": "money",
+      "headline": "Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "influence",
-      "headline": "Billionaires bankrolled campaign to oust lawmaker who tried to limit school vouchers",
-      "meta": "Politics · today",
+      "headline": "He Tried to Set Limits on School Vouchers. Billionaires Bankrolled a Campaign to Unseat Him.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Trump appointees secretly asked federal cybersecurity agency to hack a voting machine",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "category": "accountability",
+      "headline": "Kohen Wiley's Family Say They Never Heard From Investigators Who Cleared the Cops",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
