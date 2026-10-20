@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-20T13:27:59.175Z",
+  "updated": "2026-10-20T18:24:35.742Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Trump's FBI Purge Shielded Both a Republican and a Democrat From Bribery Probe",
-    "dek": "The dismantling of federal law enforcement didn't just protect Trump allies — it conveniently buried investigations into GOP Sen. Lindsey Graham and Democratic Rep. James Clyburn alike.",
+    "headline": "Trump's FBI purge shielded both Republican Graham and Democrat Clyburn from bribery probe",
+    "dek": "The dismantling of FBI investigations under Trump conveniently buried a bribery case touching both a senior Republican senator and a top House Democrat.",
     "votes_r": 1,
     "votes_d": 1,
     "votes_yes": 2,
@@ -14,38 +14,31 @@
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "GOP-Linked PAC Spends $1M to Boost Third-Party Socialist in Ohio Senate Race",
+      "category": "betrayal",
+      "headline": "Dems have opportunity to end Iran war — but will they act or grandstand?",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
-      "category": "dark money",
-      "headline": "He Tried to Set Limits on School Vouchers. Billionaires Bankrolled a Campaign to Unseat Him.",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "corruption",
+      "headline": "Mike Rogers spent $100K on private jets and luxury travel last quarter",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "abuse of power",
-      "headline": "Trump Appointees Asked Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It",
-      "meta": "ProPublica · today",
+      "category": "influence",
+      "headline": "Billionaires bankrolled campaign to oust lawmaker who tried to limit school vouchers",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "grift",
-      "headline": "Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "war powers",
-      "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "Trump appointees secretly asked federal cybersecurity agency to hack a voting machine",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
