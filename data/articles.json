@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-20T00:59:18.579Z",
+  "updated": "2026-10-20T07:21:39.025Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
-    "dek": "Democrats hold leverage to stop an unauthorized war but show little urgency, exposing how both parties enable endless executive military power.",
+    "dek": "Democrats hold leverage to stop an unauthorized war but remain passive, mirroring Republican militarism with their own brand of inaction.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,7 +15,7 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "GOP-linked PAC spends over $1M to boost third-party socialist in Ohio Senate race",
+      "headline": "GOP-Linked PAC Spends $1M to Boost Third-Party Socialist in Ohio — Rigging Democracy From Both Ends",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
@@ -28,17 +28,24 @@
     },
     {
       "id": 3,
-      "category": "abuse",
-      "headline": "Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It",
+      "category": "betrayal",
+      "headline": "Trump Appointees Asked Federal Cybersecurity Agency to Secretly Acquire and Hack a Voting Machine",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "He Tried to Set Limits on His State's School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
+      "category": "corruption",
+      "headline": "Billionaires Bankrolled a Campaign to Unseat a Lawmaker Who Tried to Limit School Vouchers",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "DHS Was Designed as a Weapon — and Both Parties Built It That Way",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
