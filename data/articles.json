@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-21T11:31:11.355Z",
+  "updated": "2026-10-21T16:58:16.473Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Trump's FBI purge shielded both a Republican and Democrat from bribery probe",
-    "dek": "The FBI's politicized housecleaning conveniently buried a bribery investigation touching Lindsey Graham and James Clyburn — one from each party.",
+    "headline": "Trump's FBI purge buried bribery probes into both GOP and Democrat lawmakers",
+    "dek": "The dismantling of FBI oversight conveniently shielded Republican Lindsey Graham and Democrat James Clyburn from active bribery investigations alike.",
     "votes_r": 1,
     "votes_d": 1,
     "votes_yes": 2,
@@ -15,35 +15,35 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "The secret terms of Trump's Venezuelan oil deal",
+      "headline": "Colorado regulators failed consumers on marijuana contamination — government asleep at the wheel",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "This member is so frustrated with Congress he wants voters to sidestep it",
+      "headline": "Town leaders claimed flood preparedness. First responders say they were left exposed.",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Mike Rogers spent $100K on private jets and luxury travel last quarter",
+      "category": "corruption",
+      "headline": "The secret terms of Trump's Venezuelan oil deal: What the public wasn't supposed to know",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "corruption",
+      "headline": "Mike Rogers burned $100K of donor money on private jets and luxury travel last quarter",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "NRSC takes on $20M in loans as party spending draws scrutiny",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
       "id": 5,
       "category": "betrayal",
-      "headline": "Senate Democrats start spending in Mississippi — but for whom?",
+      "headline": "Congress so broken one member wants voters to bypass it entirely",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
