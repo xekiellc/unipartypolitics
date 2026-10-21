@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-21T04:11:09.648Z",
+  "updated": "2026-10-21T11:31:11.355Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Trump's FBI purge shielded both Republican Graham and Democrat Clyburn from bribery probe",
-    "dek": "The politically motivated dismantling of the FBI conveniently buried a bribery investigation touching members of both parties, exposing how power protects power regardless of party.",
+    "headline": "Trump's FBI purge shielded both a Republican and Democrat from bribery probe",
+    "dek": "The FBI's politicized housecleaning conveniently buried a bribery investigation touching Lindsey Graham and James Clyburn — one from each party.",
     "votes_r": 1,
     "votes_d": 1,
     "votes_yes": 2,
@@ -15,30 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "He tried to limit school vouchers. Billionaires bankrolled his removal.",
+      "headline": "The secret terms of Trump's Venezuelan oil deal",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "corruption",
+      "category": "betrayal",
+      "headline": "This member is so frustrated with Congress he wants voters to sidestep it",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
       "headline": "Mike Rogers spent $100K on private jets and luxury travel last quarter",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 3,
-      "category": "conflict",
-      "headline": "Senate Democrats start spending in Mississippi as party machines gear up",
+      "id": 4,
+      "category": "betrayal",
+      "headline": "NRSC takes on $20M in loans as party spending draws scrutiny",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 4,
-      "category": "power",
-      "headline": "The secret terms of Trump's Venezuelan oil deal",
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Senate Democrats start spending in Mississippi — but for whom?",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
