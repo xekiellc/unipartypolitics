@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-22T07:22:26.435Z",
+  "updated": "2026-10-22T13:39:15.583Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "How Trump's FBI Purge Saved Both a Republican and Democrat From Bribery Probe",
-    "dek": "The shuttering of FBI investigations shielded Lindsey Graham and James Clyburn alike, exposing how institutional corruption transcends party lines.",
-    "votes_r": 1,
-    "votes_d": 1,
-    "votes_yes": 2,
+    "headline": "Nuclear weapons waste made workers sick — and the DOE keeps fighting their claims",
+    "dek": "Across Republican and Democratic administrations alike, the Department of Energy has stonewalled sick nuclear workers entitled to compensation under federal law.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
     "votes_no": 0,
     "source": "ProPublica"
   },
@@ -15,36 +15,36 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination",
-      "meta": "Regulation · today",
+      "headline": "Ballot rejections soared in rural counties after USPS reduced mail service",
+      "meta": "Elections · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Town Leaders Said They Were Prepared for Floods. First Responders Disagree.",
-      "meta": "Government Failure · today",
+      "headline": "Trump's Education Department scaled back investigations into discrimination and sexual assault on campus",
+      "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "corruption",
-      "headline": "The Secret Terms of Trump's Venezuelan Oil Deal",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "Colorado marijuana regulators failed to protect consumers from potential contamination, audit finds",
+      "meta": "Regulation · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "corruption",
-      "headline": "Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter",
-      "meta": "Money · today",
+      "headline": "Mike Rogers spent $100K on private jets and luxury travel last quarter",
+      "meta": "Congress · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "This Member Is So Frustrated With Congress He Wants Voters to Sidestep It",
-      "meta": "Congress · today",
+      "headline": "This member is so frustrated with Congress he wants voters to sidestep it entirely",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
   ],
