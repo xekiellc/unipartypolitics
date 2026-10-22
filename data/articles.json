@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-22T00:31:56.255Z",
+  "updated": "2026-10-22T07:22:26.435Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Trump's FBI purge shields both GOP and Democrat lawmakers from bribery probe",
-    "dek": "The FBI investigation into alleged bribery implicated both Republican Lindsey Graham and Democrat James Clyburn before being shut down under Trump.",
+    "headline": "How Trump's FBI Purge Saved Both a Republican and Democrat From Bribery Probe",
+    "dek": "The shuttering of FBI investigations shielded Lindsey Graham and James Clyburn alike, exposing how institutional corruption transcends party lines.",
     "votes_r": 1,
     "votes_d": 1,
     "votes_yes": 2,
@@ -15,36 +15,36 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Colorado marijuana regulators failed to protect consumers from potential contamination",
-      "meta": "Politics · today",
+      "headline": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination",
+      "meta": "Regulation · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Town leaders said they were prepared for floods. First responders disagree.",
-      "meta": "Politics · today",
+      "headline": "Town Leaders Said They Were Prepared for Floods. First Responders Disagree.",
+      "meta": "Government Failure · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "corruption",
-      "headline": "The secret terms of Trump's Venezuelan oil deal",
+      "headline": "The Secret Terms of Trump's Venezuelan Oil Deal",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "corruption",
-      "headline": "Mike Rogers spent $100K on private jets and luxury travel last quarter",
-      "meta": "Politics · today",
+      "headline": "Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter",
+      "meta": "Money · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "This member is so frustrated with Congress he wants voters to sidestep it",
-      "meta": "Politics · today",
+      "headline": "This Member Is So Frustrated With Congress He Wants Voters to Sidestep It",
+      "meta": "Congress · today",
       "url": "https://rss.politico.com"
     }
   ],
