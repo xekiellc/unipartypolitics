@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-21T21:28:19.223Z",
+  "updated": "2026-10-22T00:31:56.255Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Trump's FBI purge shields both Republican Graham and Democrat Clyburn from bribery probe",
-    "dek": "The dismantling of the FBI under Trump effectively buried a bipartisan bribery investigation, letting members of both parties escape accountability.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
+    "headline": "Trump's FBI purge shields both GOP and Democrat lawmakers from bribery probe",
+    "dek": "The FBI investigation into alleged bribery implicated both Republican Lindsey Graham and Democrat James Clyburn before being shut down under Trump.",
+    "votes_r": 1,
+    "votes_d": 1,
+    "votes_yes": 2,
     "votes_no": 0,
     "source": "ProPublica"
   },
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Colorado regulators failed consumers on marijuana contamination, audit finds",
+      "headline": "Colorado marijuana regulators failed to protect consumers from potential contamination",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Town leaders claimed flood preparedness — first responders say otherwise",
+      "headline": "Town leaders said they were prepared for floods. First responders disagree.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "The secret terms of Trump's Venezuelan oil deal",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "This member is so frustrated with Congress he wants voters to sidestep it entirely",
+      "category": "corruption",
+      "headline": "Mike Rogers spent $100K on private jets and luxury travel last quarter",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Mike Rogers spent $100K on private jets and luxury travel last quarter",
+      "headline": "This member is so frustrated with Congress he wants voters to sidestep it",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
