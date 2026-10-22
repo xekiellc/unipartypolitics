@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-22T13:39:15.583Z",
+  "updated": "2026-10-22T18:25:52.350Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Nuclear weapons waste made workers sick — and the DOE keeps fighting their claims",
-    "dek": "Across Republican and Democratic administrations alike, the Department of Energy has stonewalled sick nuclear workers entitled to compensation under federal law.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Nuclear Weapons Waste Made Workers Sick. Both Parties Let DOE Fight Their Claims.",
+    "dek": "For decades under Republican and Democrat administrations alike, the Department of Energy has stonewalled sick nuclear workers despite a law meant to protect them.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ballot rejections soared in rural counties after USPS reduced mail service",
+      "headline": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
       "meta": "Elections · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Trump's Education Department scaled back investigations into discrimination and sexual assault on campus",
+      "headline": "Trump's Education Department Scaled Back Investigations Into Discrimination and Sexual Assault on Campus",
       "meta": "Education · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Colorado marijuana regulators failed to protect consumers from potential contamination, audit finds",
+      "headline": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination",
       "meta": "Regulation · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "Mike Rogers spent $100K on private jets and luxury travel last quarter",
-      "meta": "Congress · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "GOP Senator Questions Elon Musk's Influence Over Military Assets",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "This member is so frustrated with Congress he wants voters to sidestep it entirely",
+      "headline": "Mamdani's High-Wire Balancing Act Between ICE and NYPD Can't Last",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
