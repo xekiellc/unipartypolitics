@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-22T18:25:52.350Z",
+  "updated": "2026-10-22T23:08:13.947Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Nuclear Weapons Waste Made Workers Sick. Both Parties Let DOE Fight Their Claims.",
-    "dek": "For decades under Republican and Democrat administrations alike, the Department of Energy has stonewalled sick nuclear workers despite a law meant to protect them.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
+    "dek": "The Department of Energy has spent decades stonewalling sick nuclear workers across administrations of both parties, denying compensation to those poisoned in service of the national arsenal.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
@@ -22,30 +22,30 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Trump's Education Department Scaled Back Investigations Into Discrimination and Sexual Assault on Campus",
-      "meta": "Education · today",
+      "headline": "Sexual Assaults on Campus No Longer Scrutinized as Closely Under Trump's Education Department",
+      "meta": "Policy · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination",
-      "meta": "Regulation · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "GOP Senator Questions Elon Musk's Influence Over Military Assets",
+      "meta": "Defense · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "GOP Senator Questions Elon Musk's Influence Over Military Assets",
-      "meta": "Politics · today",
+      "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan While Super PAC Hauls $354M",
+      "meta": "Money & Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Mamdani's High-Wire Balancing Act Between ICE and NYPD Can't Last",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination",
+      "meta": "Regulation · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
