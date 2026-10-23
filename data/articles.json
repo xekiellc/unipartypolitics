@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-23T16:49:39.302Z",
+  "updated": "2026-10-23T21:14:35.575Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "Giant Crypto Super PAC funnels big money to former Trump official's firm to support Democrats",
-    "dek": "Crypto industry money flows across party lines as a pro-crypto super PAC bankrolls a former Trump official's firm to elect Democrats, exposing how Wall Street captures both parties.",
+    "kicker": "Money talks, parties listen",
+    "headline": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official's Firm to Support Democrats",
+    "dek": "Crypto industry cash flows freely across party lines, exposing how both parties court the same donor class while voters get nothing.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Nuclear weapons waste made workers sick. Despite a law meant to help, the DOE keeps fighting their claims.",
-      "meta": "Accountability · today",
+      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Ballot rejections soared in rural counties after USPS reduced mail service",
-      "meta": "Voting Rights · today",
+      "headline": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Ken Paxton says he's tough on crime. His trust invested $600,000 in a convicted fraudster's company.",
-      "meta": "Corruption · today",
+      "category": "corruption",
+      "headline": "Ken Paxton Says He's Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster's Company.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Sexual assaults on campus no longer scrutinized as closely under Trump's Education Department",
-      "meta": "Policy · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan While Elon Musk Pours $76M Into Republicans",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Senate Democrats' campaign arm takes out $15M loan while Elon Musk pours $76M into Republicans",
-      "meta": "Money in Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "accountability",
+      "headline": "Bird Flu Is Raging on a Mink Farm. Officials Won't Act Despite Pandemic Risk.",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
