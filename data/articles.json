@@ -1,50 +1,50 @@
 {
-  "updated": "2026-10-23T11:20:57.301Z",
+  "updated": "2026-10-23T16:49:39.302Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Nuclear weapons waste made workers sick — and both parties let DOE fight their claims",
-    "dek": "Across administrations of both parties, the Department of Energy has systematically denied compensation to workers sickened by nuclear waste, defying the intent of bipartisan legislation meant to help them.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
-    "source": "ProPublica"
+    "headline": "Giant Crypto Super PAC funnels big money to former Trump official's firm to support Democrats",
+    "dek": "Crypto industry money flows across party lines as a pro-crypto super PAC bankrolls a former Trump official's firm to elect Democrats, exposing how Wall Street captures both parties.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ballot rejections soared in rural counties after USPS reduced mail service",
-      "meta": "Elections · today",
+      "headline": "Nuclear weapons waste made workers sick. Despite a law meant to help, the DOE keeps fighting their claims.",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Democrats' Senate super PAC raises $354M while party decries money in politics",
-      "meta": "Money · today",
-      "url": "https://rss.politico.com"
+      "headline": "Ballot rejections soared in rural counties after USPS reduced mail service",
+      "meta": "Voting Rights · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Colorado marijuana regulators failed to protect consumers from contamination",
-      "meta": "Regulation · today",
+      "headline": "Ken Paxton says he's tough on crime. His trust invested $600,000 in a convicted fraudster's company.",
+      "meta": "Corruption · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Bird flu rages on mink farm as officials from both parties refuse to act",
-      "meta": "Public Health · today",
+      "headline": "Sexual assaults on campus no longer scrutinized as closely under Trump's Education Department",
+      "meta": "Policy · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "GOP senator quietly questions Musk's military influence while party stays silent",
-      "meta": "Defense · today",
+      "headline": "Senate Democrats' campaign arm takes out $15M loan while Elon Musk pours $76M into Republicans",
+      "meta": "Money in Politics · today",
       "url": "https://rss.politico.com"
     }
   ],
