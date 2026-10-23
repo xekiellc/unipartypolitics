@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-22T23:08:13.947Z",
+  "updated": "2026-10-23T04:15:19.470Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
-    "dek": "The Department of Energy has spent decades stonewalling sick nuclear workers across administrations of both parties, denying compensation to those poisoned in service of the national arsenal.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Nuclear weapons workers sick while DOE fights their claims",
+    "dek": "The Department of Energy continues to deny compensation claims from workers sickened by nuclear waste, defying a law passed with bipartisan support meant to protect them.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
+      "headline": "Ballot rejections soared in rural counties after USPS slashed mail service",
       "meta": "Elections · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Sexual Assaults on Campus No Longer Scrutinized as Closely Under Trump's Education Department",
+      "headline": "Campus sexual assault oversight gutted under Trump's Education Department",
       "meta": "Policy · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "GOP Senator Questions Elon Musk's Influence Over Military Assets",
-      "meta": "Defense · today",
-      "url": "https://rss.politico.com"
+      "headline": "Colorado marijuana regulators failed to protect consumers from contamination",
+      "meta": "Regulation · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan While Super PAC Hauls $354M",
-      "meta": "Money & Politics · today",
+      "category": "money",
+      "headline": "Musk pours another $76 million into boosting Republicans while Democrats borrow $15M to keep up",
+      "meta": "Money · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination",
-      "meta": "Regulation · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Mamdani's balancing act between ICE and NYPD exposes limits of local resistance",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
