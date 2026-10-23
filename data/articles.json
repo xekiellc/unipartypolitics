@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-23T04:15:19.470Z",
+  "updated": "2026-10-23T11:20:57.301Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Nuclear weapons workers sick while DOE fights their claims",
-    "dek": "The Department of Energy continues to deny compensation claims from workers sickened by nuclear waste, defying a law passed with bipartisan support meant to protect them.",
+    "headline": "Nuclear weapons waste made workers sick — and both parties let DOE fight their claims",
+    "dek": "Across administrations of both parties, the Department of Energy has systematically denied compensation to workers sickened by nuclear waste, defying the intent of bipartisan legislation meant to help them.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,16 +15,16 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ballot rejections soared in rural counties after USPS slashed mail service",
+      "headline": "Ballot rejections soared in rural counties after USPS reduced mail service",
       "meta": "Elections · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Campus sexual assault oversight gutted under Trump's Education Department",
-      "meta": "Policy · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Democrats' Senate super PAC raises $354M while party decries money in politics",
+      "meta": "Money · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
@@ -35,17 +35,17 @@
     },
     {
       "id": 4,
-      "category": "money",
-      "headline": "Musk pours another $76 million into boosting Republicans while Democrats borrow $15M to keep up",
-      "meta": "Money · today",
-      "url": "https://rss.politico.com"
+      "category": "betrayal",
+      "headline": "Bird flu rages on mink farm as officials from both parties refuse to act",
+      "meta": "Public Health · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Mamdani's balancing act between ICE and NYPD exposes limits of local resistance",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "GOP senator quietly questions Musk's military influence while party stays silent",
+      "meta": "Defense · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
