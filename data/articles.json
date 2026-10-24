@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-23T21:14:35.575Z",
+  "updated": "2026-10-24T00:24:48.421Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Money talks, parties listen",
+    "kicker": "Crypto cash flows both ways",
     "headline": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official's Firm to Support Democrats",
-    "dek": "Crypto industry cash flows freely across party lines, exposing how both parties court the same donor class while voters get nothing.",
+    "dek": "Cryptocurrency industry dark money is now buying influence on both sides of the aisle, exposing how financial interests have captured the entire political class.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -28,7 +28,7 @@
     },
     {
       "id": 3,
-      "category": "corruption",
+      "category": "betrayal",
       "headline": "Ken Paxton Says He's Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster's Company.",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
@@ -36,16 +36,16 @@
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan While Elon Musk Pours $76M Into Republicans",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 5,
-      "category": "accountability",
       "headline": "Bird Flu Is Raging on a Mink Farm. Officials Won't Act Despite Pandemic Risk.",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan While Elon Musk Pours $76M Into Republicans",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
