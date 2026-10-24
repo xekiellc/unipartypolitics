@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-24T12:33:00.976Z",
+  "updated": "2026-10-24T17:17:31.787Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official's Firm to Support Democrats",
-    "dek": "Crypto industry cash flows freely across party lines, exposing how both Republicans and Democrats feed from the same corporate trough.",
+    "dek": "Crypto industry dark money flows across party lines, exposing how both Republicans and Democrats feed from the same corporate trough.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -16,36 +16,36 @@
       "id": 1,
       "category": "betrayal",
       "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
-      "meta": "ProPublica · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
-      "meta": "ProPublica · today",
+      "category": "corruption",
+      "headline": "Ken Paxton Says He's Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster's Company.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Ken Paxton Says He's Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster's Company.",
-      "meta": "ProPublica · today",
+      "category": "democracy",
+      "headline": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan While Elon Musk Pours $76M Into Republicans",
-      "meta": "Politico · today",
+      "category": "money",
+      "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "money",
+      "headline": "Elon Musk Pours Another $76 Million Into Boosting Republicans",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
