@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-25T17:31:49.445Z",
+  "updated": "2026-10-25T20:39:21.086Z",
   "featured": {
-    "category": "betrayal",
-    "kicker": "Crypto cash crosses party lines",
+    "category": "corruption",
+    "kicker": "Money talks, principles walk",
     "headline": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official's Firm to Support… Democrats?",
-    "dek": "A crypto-aligned super PAC is routing massive donations through a former Trump official's firm to back Democratic candidates, exposing how both parties feed at the same corporate trough.",
+    "dek": "Crypto industry cash flows freely across party lines, exposing how both parties chase the same donor dollars regardless of ideology.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -16,36 +16,36 @@
       "id": 1,
       "category": "betrayal",
       "headline": "Ken Paxton Says He's Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster's Company.",
-      "meta": "Politics · today",
+      "meta": "Corruption · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
+      "category": "negligence",
       "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
-      "meta": "Politics · today",
+      "meta": "Government Failure · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
       "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan",
-      "meta": "Politics · today",
+      "meta": "Money & Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Elon Musk Pours Another $76 Million Into Boosting Republicans",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "negligence",
+      "headline": "Bird Flu Is Raging on a Mink Farm. Officials Won't Act.",
+      "meta": "Public Health · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, but Officials Won't Act.",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Elon Musk Pours Another $76 Million Into Boosting Republicans",
+      "meta": "Dark Money · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
