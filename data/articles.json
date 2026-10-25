@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-25T13:05:53.329Z",
+  "updated": "2026-10-25T17:31:49.445Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Money corrupts both sides",
-    "headline": "Giant Crypto Super PAC funnels big money to former Trump official's firm to support Democrats",
-    "dek": "Cryptocurrency industry cash flows through a Trump-linked firm directly into Democratic campaigns, exposing how both parties feed from the same donor trough.",
+    "kicker": "Crypto cash crosses party lines",
+    "headline": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official's Firm to Support… Democrats?",
+    "dek": "A crypto-aligned super PAC is routing massive donations through a former Trump official's firm to back Democratic candidates, exposing how both parties feed at the same corporate trough.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,35 +15,35 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ken Paxton says he's tough on crime. His trust invested $600,000 in a convicted fraudster's company.",
+      "headline": "Ken Paxton Says He's Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster's Company.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Nuclear weapons waste made workers sick. Despite a law meant to help, the DOE keeps fighting their claims.",
+      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Senate Democrats' campaign arm takes out $15M loan",
+      "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "After millions in stolen SNAP benefits, Trump administration moves to fight theft",
+      "headline": "Elon Musk Pours Another $76 Million Into Boosting Republicans",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Bird flu is raging on a mink farm. It could spark a human pandemic, but officials won't act.",
+      "headline": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, but Officials Won't Act.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
