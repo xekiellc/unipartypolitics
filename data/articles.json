@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-25T00:08:51.473Z",
+  "updated": "2026-10-25T07:28:10.058Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official's Firm to Support Democrats",
-    "dek": "Crypto industry cash flows freely across party lines, exposing how both Republicans and Democrats feed at the same corporate trough.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
-      "meta": "ProPublica · today",
+      "category": "corruption",
+      "headline": "Ken Paxton Says He's Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster's Company.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official's Firm to Support… Democrats?",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
-      "meta": "ProPublica · today",
+      "category": "neglect",
+      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan While Elon Musk Pours $76M Into Republicans",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
+      "category": "neglect",
+      "headline": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won't Act.",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "Ken Paxton Says He's Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster's Company.",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "money",
+      "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan While Elon Musk Pours $76M Into Republicans",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
