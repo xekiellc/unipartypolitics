@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-26T04:35:08.306Z",
+  "updated": "2026-10-26T12:37:54.167Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Crypto money flows both ways",
-    "headline": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official's Firm to Support… Democrats?",
-    "dek": "A crypto-aligned super PAC with deep Republican ties is now bankrolling Democratic candidates, exposing how Wall Street money buys access across both parties.",
+    "kicker": "Both parties fail again",
+    "headline": "Pentagon Records Missed Almost Half of Troops' Domestic Abuse Killings",
+    "dek": "Military accountability gaps span administrations of both parties, with Pentagon recordkeeping failures hiding the true scale of domestic violence deaths among service members.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ken Paxton Says He's Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster's Company.",
+      "headline": "In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "neglect",
-      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
+      "category": "betrayal",
+      "headline": "Ken Paxton Says He's Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster's Company.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "neglect",
-      "headline": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won't Act.",
+      "category": "betrayal",
+      "headline": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "money",
-      "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan",
+      "category": "betrayal",
+      "headline": "Bankrolling American Empire in the Philippines",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "money",
-      "headline": "Elon Musk Pours Another $76 Million Into Boosting Republicans",
+      "category": "betrayal",
+      "headline": "Hegseth Built a New Pentagon Office for Religion. Military Religious Leaders Wish He Hadn't.",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
