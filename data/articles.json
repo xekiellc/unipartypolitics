@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-25T20:39:21.086Z",
+  "updated": "2026-10-26T00:00:09.788Z",
   "featured": {
-    "category": "corruption",
-    "kicker": "Money talks, principles walk",
-    "headline": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official's Firm to Support… Democrats?",
-    "dek": "Crypto industry cash flows freely across party lines, exposing how both parties chase the same donor dollars regardless of ideology.",
+    "category": "betrayal",
+    "kicker": "Dark money crosses the aisle",
+    "headline": "Crypto super PAC funnels big money to former Trump official's firm to support Democrats",
+    "dek": "A giant crypto super PAC is routing millions through a former Trump official's firm to back Democratic candidates, exposing how dark money corrupts both parties equally.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,36 +15,36 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ken Paxton Says He's Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster's Company.",
-      "meta": "Corruption · today",
+      "headline": "Ken Paxton says he's tough on crime. His trust invested $600,000 in a convicted fraudster's company.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "negligence",
-      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
-      "meta": "Government Failure · today",
+      "category": "betrayal",
+      "headline": "Nuclear weapons waste made workers sick. Despite a law meant to help, the DOE keeps fighting their claims.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Senate Democrats' Campaign Arm Takes Out $15M Loan",
-      "meta": "Money & Politics · today",
+      "headline": "Senate Democrats' campaign arm takes out $15M loan",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "negligence",
-      "headline": "Bird Flu Is Raging on a Mink Farm. Officials Won't Act.",
-      "meta": "Public Health · today",
+      "category": "betrayal",
+      "headline": "After millions in stolen SNAP benefits, Trump administration moves to fight theft",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Elon Musk Pours Another $76 Million Into Boosting Republicans",
-      "meta": "Dark Money · today",
+      "headline": "Elon Musk pours another $76 million into boosting Republicans",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
   ],
