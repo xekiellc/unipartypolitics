@@ -1,51 +1,44 @@
 {
-  "updated": "2026-10-27T11:54:14.538Z",
+  "updated": "2026-10-27T17:48:28.280Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "ProPublica"
+    "headline": "Pentagon records missed almost half of troops' domestic abuse killings",
+    "dek": "Years of bipartisan Pentagon oversight failures left military families unprotected as deadly domestic abuse cases went systematically undercounted.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It.",
+      "headline": "This oil company racked up 1,000 violations — Oklahoma never punished it",
       "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Pentagon Records Missed Almost Half of Troops' Domestic Abuse Killings",
-      "meta": "Military · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
-      "meta": "Policy · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Democrats Fracture on Transgender Rights as Voters Demand Affordability Focus",
+      "headline": "FBI raids Beverly Hills mansion tied to former Swalwell donor",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 5,
+      "id": 3,
       "category": "betrayal",
-      "headline": "Bankrolling American Empire in the Philippines",
+      "headline": "Bankrolling American empire in the Philippines",
       "meta": "Foreign Policy · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "After millions in stolen SNAP benefits, Trump moves to fight theft",
+      "meta": "Policy · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
