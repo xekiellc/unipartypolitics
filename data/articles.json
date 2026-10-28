@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-27T22:00:16.417Z",
+  "updated": "2026-10-28T01:13:12.230Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
+    "kicker": "Military accountability failure",
     "headline": "Pentagon missed nearly half of troops' domestic abuse killings in official records",
-    "dek": "A systemic recordkeeping failure spanning multiple administrations left hundreds of domestic violence deaths uncounted, exposing bipartisan neglect of military accountability.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "dek": "A systemic recordkeeping failure spanning administrations left hundreds of fatal domestic violence cases uncounted, shielding the military from accountability.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "The Intercept"
   },
   "articles": [
@@ -22,30 +22,23 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "FBI raids Beverly Hills mansion tied to former Eric Swalwell donor",
+      "headline": "FBI raids Beverly Hills mansion tied to former Swalwell donor",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "After millions in stolen SNAP benefits, Trump administration moves to fight theft",
-      "meta": "Policy · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "US continues bankrolling military empire expansion in the Philippines",
+      "meta": "Foreign Policy · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Elon Musk funder moves to sway race for LA's top lawyer",
-      "meta": "Elections · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Pentagon built new religion office despite military chaplains' objections",
-      "meta": "Defense · today",
-      "url": "https://theintercept.com"
+      "headline": "After millions stolen from SNAP benefits, feds finally move to act",
+      "meta": "Policy · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
