@@ -1,43 +1,50 @@
 {
-  "updated": "2026-10-28T08:08:21.604Z",
+  "updated": "2026-10-28T16:31:11.542Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon records missed almost half of troops' domestic abuse killings",
-    "dek": "Military accountability failures span multiple administrations as the Pentagon systematically undercounted lethal domestic violence cases with no congressional intervention from either party.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "FBI raids Beverly Hills mansion tied to former Eric Swalwell donor",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "This oil company is linked to 1,000 pollution incidents — Oklahoma never punished it",
-      "meta": "Environment · today",
+      "category": "accountability",
+      "headline": "This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "After millions in stolen SNAP benefits, Trump administration moves to fight theft",
-      "meta": "Policy · today",
+      "headline": "In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Bankrolling American empire in the Philippines",
-      "meta": "Foreign Policy · today",
+      "category": "power",
+      "headline": "Bankrolling American Empire in the Philippines",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "influence",
+      "headline": "The Elon Musk Funder Trying to Sway the Race for LA's Top Lawyer",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     }
   ],
