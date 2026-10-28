@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T16:31:11.542Z",
+  "updated": "2026-10-28T22:25:04.090Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,38 +14,31 @@
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "FBI raids Beverly Hills mansion tied to former Eric Swalwell donor",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "category": "betrayal",
+      "headline": "This Oil Company Is Linked to 1,000 Pollution Incidents — Oklahoma Never Punished It",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "accountability",
-      "headline": "This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It.",
+      "category": "betrayal",
+      "headline": "Black Voters May Get a Representative Who Spent Years Undermining Their Interests",
       "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "FBI Raids Beverly Hills Mansion Tied to Former Eric Swalwell Donor",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
-      "category": "power",
-      "headline": "Bankrolling American Empire in the Philippines",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "influence",
-      "headline": "The Elon Musk Funder Trying to Sway the Race for LA's Top Lawyer",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "category": "betrayal",
+      "headline": "Cybersecurity CEO Indicted for Allegedly Scamming Millions From Ransomware Victims",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
