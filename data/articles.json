@@ -1,44 +1,44 @@
 {
-  "updated": "2026-10-28T01:13:12.230Z",
+  "updated": "2026-10-28T08:08:21.604Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Military accountability failure",
-    "headline": "Pentagon missed nearly half of troops' domestic abuse killings in official records",
-    "dek": "A systemic recordkeeping failure spanning administrations left hundreds of fatal domestic violence cases uncounted, shielding the military from accountability.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "kicker": "Both parties fail again",
+    "headline": "Pentagon records missed almost half of troops' domestic abuse killings",
+    "dek": "Military accountability failures span multiple administrations as the Pentagon systematically undercounted lethal domestic violence cases with no congressional intervention from either party.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Oklahoma never punished oil company linked to 1,000 pollution incidents",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "FBI raids Beverly Hills mansion tied to former Swalwell donor",
+      "headline": "FBI raids Beverly Hills mansion tied to former Eric Swalwell donor",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "This oil company is linked to 1,000 pollution incidents — Oklahoma never punished it",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 3,
       "category": "betrayal",
-      "headline": "US continues bankrolling military empire expansion in the Philippines",
-      "meta": "Foreign Policy · today",
-      "url": "https://theintercept.com"
+      "headline": "After millions in stolen SNAP benefits, Trump administration moves to fight theft",
+      "meta": "Policy · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "After millions stolen from SNAP benefits, feds finally move to act",
-      "meta": "Policy · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Bankrolling American empire in the Philippines",
+      "meta": "Foreign Policy · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
