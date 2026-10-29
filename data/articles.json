@@ -1,37 +1,51 @@
 {
-  "updated": "2026-10-29T12:41:26.979Z",
+  "updated": "2026-10-29T19:28:25.513Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes greenwashing bills with bipartisan backing",
-    "dek": "Both parties endorsed legislation critics say legitimizes misleading recycling claims, putting industry interests ahead of consumers.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "Top U.S. Health Official Backed Medication Policy Shift That Benefited a Company She Has Stock In",
-      "meta": "ProPublica · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "corruption",
-      "headline": "AIPAC Isn't Retreating — Here's How It's Already Shaping the Next Congress",
-      "meta": "The Intercept · today",
+      "category": "influence",
+      "headline": "AIPAC Isn't Retreating. Here's How It's Already Shaping the Next Congress.",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "power",
-      "headline": "Detroit Could Block Billionaire-Owned Concrete Plant From Further Neighborhood Expansion",
-      "meta": "ProPublica · today",
+      "category": "betrayal",
+      "headline": "'Peak Greenwashing': Two Bills in Congress Endorse Misleading Recycling Claims",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "abuse",
+      "headline": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "interference",
+      "headline": "Republican Committee Chair Wants Testimony From Operatives Accused of Meddling in Alaska Senate Race",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
