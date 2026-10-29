@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-29T19:28:25.513Z",
+  "updated": "2026-10-29T23:52:01.058Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Congress passes greenwashing bills with bipartisan backing",
+    "dek": "Both parties endorsed legislation critics say legitimizes misleading recycling claims, handing a victory to corporate lobbyists over consumers.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "corruption",
-      "headline": "Top U.S. Health Official Backed Medication Policy Shift That Benefited a Company She Has Stock In",
+      "headline": "Top U.S. health official backed policy shift benefiting company she holds stock in",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "influence",
-      "headline": "AIPAC Isn't Retreating. Here's How It's Already Shaping the Next Congress.",
+      "headline": "AIPAC isn't retreating — here's how it's already shaping the next Congress",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "'Peak Greenwashing': Two Bills in Congress Endorse Misleading Recycling Claims",
+      "category": "surveillance",
+      "headline": "Search more than 500 cases of U.S. citizens detained by immigration agents",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "abuse",
-      "headline": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
+      "category": "betrayal",
+      "headline": "Republican operative meddling in Alaska Senate race draws bipartisan scrutiny",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
-      "category": "interference",
-      "headline": "Republican Committee Chair Wants Testimony From Operatives Accused of Meddling in Alaska Senate Race",
+      "category": "corruption",
+      "headline": "AI lobby tried to buy the midterms — then learned everyone hates AI",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
