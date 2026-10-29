@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T22:25:04.090Z",
+  "updated": "2026-10-29T05:16:24.826Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,31 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "This Oil Company Is Linked to 1,000 Pollution Incidents — Oklahoma Never Punished It",
-      "meta": "ProPublica · today",
+      "category": "corruption",
+      "headline": "In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Black Voters May Get a Representative Who Spent Years Undermining Their Interests",
-      "meta": "ProPublica · today",
+      "category": "regulatory failure",
+      "headline": "This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It.",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "FBI Raids Beverly Hills Mansion Tied to Former Eric Swalwell Donor",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
+      "category": "election integrity",
+      "headline": "Trump Vows to Send Election 'Monitors' to Maine After Far-Right Conspiracies Spread",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Cybersecurity CEO Indicted for Allegedly Scamming Millions From Ransomware Victims",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "bipartisan dysfunction",
+      "headline": "Murkowski Endorses a Democrat as She Faces 2028 Dilemma",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "power struggle",
+      "headline": "The Race the House GOP Can't Stop Talking About: Jim Jordan vs. Steve Scalise",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
