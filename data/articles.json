@@ -1,51 +1,37 @@
 {
-  "updated": "2026-10-29T05:16:24.826Z",
+  "updated": "2026-10-29T12:41:26.979Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Congress passes greenwashing bills with bipartisan backing",
+    "dek": "Both parties endorsed legislation critics say legitimizes misleading recycling claims, putting industry interests ahead of consumers.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests",
-      "meta": "Politics · today",
+      "category": "betrayal",
+      "headline": "Top U.S. Health Official Backed Medication Policy Shift That Benefited a Company She Has Stock In",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "regulatory failure",
-      "headline": "This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It.",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 3,
-      "category": "election integrity",
-      "headline": "Trump Vows to Send Election 'Monitors' to Maine After Far-Right Conspiracies Spread",
-      "meta": "Politics · today",
+      "category": "corruption",
+      "headline": "AIPAC Isn't Retreating — Here's How It's Already Shaping the Next Congress",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 4,
-      "category": "bipartisan dysfunction",
-      "headline": "Murkowski Endorses a Democrat as She Faces 2028 Dilemma",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 5,
-      "category": "power struggle",
-      "headline": "The Race the House GOP Can't Stop Talking About: Jim Jordan vs. Steve Scalise",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "id": 3,
+      "category": "power",
+      "headline": "Detroit Could Block Billionaire-Owned Concrete Plant From Further Neighborhood Expansion",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
