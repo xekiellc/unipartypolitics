@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-29T23:52:01.058Z",
+  "updated": "2026-10-30T05:16:14.911Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
     "headline": "Congress passes greenwashing bills with bipartisan backing",
-    "dek": "Both parties endorsed legislation critics say legitimizes misleading recycling claims, handing a victory to corporate lobbyists over consumers.",
+    "dek": "Both parties endorsed legislation critics say legitimizes misleading recycling claims, letting corporations off the hook for environmental deception.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -15,36 +15,36 @@
     {
       "id": 1,
       "category": "corruption",
-      "headline": "Top U.S. health official backed policy shift benefiting company she holds stock in",
-      "meta": "Politics · today",
+      "headline": "Top U.S. Health Official Backed Policy Shift That Benefited a Company She Has Stock In",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "influence",
-      "headline": "AIPAC isn't retreating — here's how it's already shaping the next Congress",
-      "meta": "Politics · today",
+      "headline": "AIPAC Isn't Retreating — Here's How It's Already Shaping the Next Congress",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "surveillance",
-      "headline": "Search more than 500 cases of U.S. citizens detained by immigration agents",
-      "meta": "Politics · today",
+      "category": "civil liberties",
+      "headline": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "Republican operative meddling in Alaska Senate race draws bipartisan scrutiny",
-      "meta": "Politics · today",
+      "category": "accountability",
+      "headline": "Republican Chair Wants Testimony From Operatives Accused of Meddling in Alaska Senate Race",
+      "meta": "Politico · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 5,
-      "category": "corruption",
-      "headline": "AI lobby tried to buy the midterms — then learned everyone hates AI",
-      "meta": "Politics · today",
+      "category": "tech & power",
+      "headline": "AI Tried to Buy the Midterms — Then the Lobby Learned Everyone Hates AI",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
     }
   ],
