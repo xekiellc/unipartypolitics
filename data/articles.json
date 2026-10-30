@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-30T19:05:19.362Z",
+  "updated": "2026-10-30T23:32:03.594Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC spent millions shaping Congress — and both parties took the money",
-    "dek": "A pro-Israel lobby poured unprecedented funds into midterm races, buying influence across the aisle with little resistance from Democrats or Republicans.",
+    "headline": "AIPAC and AI spent big to buy midterm elections — across both parties",
+    "dek": "Foreign policy lobby and AI industry poured money into races on both sides of the aisle, exposing how corporate and foreign-interest cash shapes Congress regardless of party.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,35 +15,35 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "GOP embraces earmark revival as Election Day looms — pork barrel politics is back for both parties",
+      "headline": "GOP embraces earmark revival as Election Day looms — pork spending is back for both parties",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Trump moves to exert control over elections while Congress stays silent",
+      "headline": "AIPAC isn't retreating — here's how it's already shaping the next Congress",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Federal and state officials scrutinize sports betting apps — years after both parties took industry donations",
+      "headline": "Federal and state officials ramp up scrutiny of DraftKings and sports betting apps both parties enabled",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "AIPAC is already shaping the next Congress — and neither party is pushing back",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "More than 500 U.S. citizens detained by immigration agents — a crisis years in the making",
+      "meta": "Politics �� today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "U.S. citizens detained by immigration agents — oversight failures span multiple administrations",
+      "headline": "Secret UN scientist vote skewed decades of climate policy — with government backing on both sides",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
