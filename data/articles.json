@@ -1,44 +1,51 @@
 {
-  "updated": "2026-10-30T12:32:51.780Z",
+  "updated": "2026-10-30T19:05:19.362Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Top U.S. health official backed medication policy shift that benefited a company she has stock in",
-    "dek": "A senior health official pushed a policy change that directly benefited a company in her personal investment portfolio, raising serious conflicts of interest questions across party lines.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "ProPublica"
+    "headline": "AIPAC spent millions shaping Congress — and both parties took the money",
+    "dek": "A pro-Israel lobby poured unprecedented funds into midterm races, buying influence across the aisle with little resistance from Democrats or Republicans.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "AIPAC and outside money shaped midterm elections with massive bipartisan influence spending",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 2,
-      "category": "betrayal",
-      "headline": "GOP embraces earmark revival as lawmakers tout pork-barrel spending before Election Day",
+      "headline": "GOP embraces earmark revival as Election Day looms — pork barrel politics is back for both parties",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "Trump moves to exert control over elections while Congress stays silent",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
       "id": 3,
       "category": "betrayal",
-      "headline": "Federal and state officials ramp up scrutiny of DraftKings and other sports betting apps",
+      "headline": "Federal and state officials scrutinize sports betting apps — years after both parties took industry donations",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "AIPAC isn't retreating — here's how the lobby is already shaping the next Congress",
+      "headline": "AIPAC is already shaping the next Congress — and neither party is pushing back",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "U.S. citizens detained by immigration agents — oversight failures span multiple administrations",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
