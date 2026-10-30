@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-30T05:16:14.911Z",
+  "updated": "2026-10-30T12:32:51.780Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes greenwashing bills with bipartisan backing",
-    "dek": "Both parties endorsed legislation critics say legitimizes misleading recycling claims, letting corporations off the hook for environmental deception.",
+    "headline": "Top U.S. health official backed medication policy shift that benefited a company she has stock in",
+    "dek": "A senior health official pushed a policy change that directly benefited a company in her personal investment portfolio, raising serious conflicts of interest questions across party lines.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
@@ -14,37 +14,30 @@
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "Top U.S. Health Official Backed Policy Shift That Benefited a Company She Has Stock In",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "influence",
-      "headline": "AIPAC Isn't Retreating — Here's How It's Already Shaping the Next Congress",
-      "meta": "The Intercept · today",
+      "category": "betrayal",
+      "headline": "AIPAC and outside money shaped midterm elections with massive bipartisan influence spending",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
+      "id": 2,
+      "category": "betrayal",
+      "headline": "GOP embraces earmark revival as lawmakers tout pork-barrel spending before Election Day",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
+    },
+    {
       "id": 3,
-      "category": "civil liberties",
-      "headline": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
-      "meta": "ProPublica · today",
+      "category": "betrayal",
+      "headline": "Federal and state officials ramp up scrutiny of DraftKings and other sports betting apps",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "accountability",
-      "headline": "Republican Chair Wants Testimony From Operatives Accused of Meddling in Alaska Senate Race",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
-    },
-    {
-      "id": 5,
-      "category": "tech & power",
-      "headline": "AI Tried to Buy the Midterms — Then the Lobby Learned Everyone Hates AI",
-      "meta": "The Intercept · today",
+      "category": "betrayal",
+      "headline": "AIPAC isn't retreating — here's how the lobby is already shaping the next Congress",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
   ],
