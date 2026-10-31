@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-30T23:32:03.594Z",
+  "updated": "2026-10-31T04:59:04.658Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC and AI spent big to buy midterm elections — across both parties",
-    "dek": "Foreign policy lobby and AI industry poured money into races on both sides of the aisle, exposing how corporate and foreign-interest cash shapes Congress regardless of party.",
+    "headline": "AIPAC spent big shaping Congress — and both parties cashed in",
+    "dek": "Bipartisan fundraising from AIPAC reveals how both Republican and Democrat legislators are beholden to the same donor interests regardless of party.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "GOP embraces earmark revival as Election Day looms — pork spending is back for both parties",
+      "headline": "GOP embraces earmark revival as Election Day looms — pork barrel politics is back for both parties",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "AIPAC isn't retreating — here's how it's already shaping the next Congress",
+      "headline": "Trump moves to control elections while Congress from both sides stays silent",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Federal and state officials ramp up scrutiny of DraftKings and sports betting apps both parties enabled",
+      "headline": "U.S. citizens detained by immigration agents — federal failures span multiple administrations",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "More than 500 U.S. citizens detained by immigration agents — a crisis years in the making",
-      "meta": "Politics �� today",
-      "url": "https://feeds.propublica.org"
+      "headline": "How AI money tried to buy the midterms — and both parties were willing sellers",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Secret UN scientist vote skewed decades of climate policy — with government backing on both sides",
+      "headline": "Senate Democrats' super PAC expands spending map while grassroots donors foot the bill",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
