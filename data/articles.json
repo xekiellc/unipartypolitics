@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-31T11:59:28.009Z",
+  "updated": "2026-10-31T17:13:08.409Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC shapes Congress with bipartisan money as both parties fall in line",
-    "dek": "The powerful lobbying group spent heavily across party lines to influence the incoming Congress, with Republicans and Democrats alike taking its money and backing its agenda.",
+    "headline": "AIPAC shapes Congress with bipartisan buy-in from both parties",
+    "dek": "The powerful lobbying group spent heavily across party lines, securing influence over incoming members of both parties before they even take office.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,35 +15,35 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "GOP embraces earmark revival as Election Day looms — pork spending returns with bipartisan appetite",
+      "headline": "GOP embraces earmark revival as Election Day looms",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "AI lobby tried to buy the midterms — and both parties cashed the checks before the backlash hit",
+      "headline": "AIPAC and AI spent big at the midterms — across both parties",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Federal and state officials ramp up scrutiny of sports betting apps — years after both parties enabled the industry",
+      "headline": "Federal and state officials ramp up scrutiny of sports betting apps",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "U.S. citizens detained by immigration agents — a failure of oversight spanning multiple administrations",
+      "headline": "Secret UN scientist vote skewed decades of climate policy",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "How a secret UN scientist vote skewed climate policy for decades — with bipartisan silence on carbon capture fraud",
+      "headline": "Over 500 US citizens detained by immigration agents",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
