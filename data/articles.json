@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-01T00:50:42.844Z",
+  "updated": "2026-11-01T08:57:55.871Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC shapes Congress with bipartisan cash as both parties court same donor class",
-    "dek": "New reporting reveals how AIPAC spent across party lines this election cycle, buying influence with Republicans and Democrats alike while voters get left behind.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "AIPAC shapes Congress with bipartisan money across both parties",
+    "dek": "The powerful lobbying group spent heavily on both Republican and Democrat races, ensuring influence regardless of which party wins.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
@@ -22,30 +22,30 @@
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "GOP Embraces Earmark Revival as Both Parties Return to Backroom Spending",
+      "headline": "GOP Embraces Earmark Revival as Election Day Looms",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "AIPAC Isn't Retreating — Here's How It's Already Shaping the Next Congress",
+      "headline": "AIPAC Already Shaping the Next Congress Regardless of Party",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Federal and State Officials Ramp Up Scrutiny of Sports Betting Apps Both Parties Took Money From",
+      "headline": "U.N. Scientists' Secret Vote Skewed Decades of Climate Policy",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Trump Destroyed South Africa's HIV Program While Congress Watched",
+      "headline": "Federal and State Officials Ramp Up Scrutiny of Sports Betting Apps",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
