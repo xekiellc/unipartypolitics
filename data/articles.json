@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-31T21:15:57.473Z",
+  "updated": "2026-11-01T00:50:42.844Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC shapes Congress with bipartisan cash as both parties bow to donor pressure",
-    "dek": "The powerful lobbying group spent heavily across both parties this election cycle, revealing how money controls both sides of the aisle regardless of voter interests.",
+    "headline": "AIPAC shapes Congress with bipartisan cash as both parties court same donor class",
+    "dek": "New reporting reveals how AIPAC spent across party lines this election cycle, buying influence with Republicans and Democrats alike while voters get left behind.",
     "votes_r": null,
     "votes_d": null,
     "votes_yes": null,
@@ -15,37 +15,37 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Centrist Democrats would rather lose the Senate than back a progressive candidate",
-      "meta": "Politics · The Intercept",
+      "headline": "Centrist Democrats Would Rather Lose the Senate Than Win With El-Sayed",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "GOP embraces earmark revival as both parties raid public funds before Election Day",
-      "meta": "Politics · Politico",
+      "headline": "GOP Embraces Earmark Revival as Both Parties Return to Backroom Spending",
+      "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Trump's election control push exposes systemic vulnerabilities both parties have ignored",
-      "meta": "Politics · ProPublica",
-      "url": "https://feeds.propublica.org"
+      "headline": "AIPAC Isn't Retreating — Here's How It's Already Shaping the Next Congress",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "AIPAC doubles down on shaping the next Congress across party lines",
-      "meta": "Politics · The Intercept",
-      "url": "https://theintercept.com"
+      "headline": "Federal and State Officials Ramp Up Scrutiny of Sports Betting Apps Both Parties Took Money From",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Federal and state officials ramp up scrutiny of sports betting apps both parties helped legalize",
-      "meta": "Politics · ProPublica",
-      "url": "https://feeds.propublica.org"
+      "headline": "Trump Destroyed South Africa's HIV Program While Congress Watched",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
