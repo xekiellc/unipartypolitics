@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-01T08:57:55.871Z",
+  "updated": "2026-11-01T16:41:45.898Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "AIPAC shapes Congress with bipartisan money across both parties",
-    "dek": "The powerful lobbying group spent heavily on both Republican and Democrat races, ensuring influence regardless of which party wins.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
-    "source": "The Intercept"
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "ProPublica"
   },
   "articles": [
     {
@@ -22,30 +22,30 @@
     {
       "id": 2,
       "category": "betrayal",
+      "headline": "How AIPAC and AI Spent Their Money This Midterm Election",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
       "headline": "GOP Embraces Earmark Revival as Election Day Looms",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "AIPAC Already Shaping the Next Congress Regardless of Party",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
       "id": 4,
       "category": "betrayal",
-      "headline": "U.N. Scientists' Secret Vote Skewed Decades of Climate Policy",
+      "headline": "Trump Has Tried to Exert More Control Over Elections",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Federal and State Officials Ramp Up Scrutiny of Sports Betting Apps",
+      "headline": "How Trump Destroyed South Africa's Effort to Slow HIV Transmission",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
