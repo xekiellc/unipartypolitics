@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T01:24:05.882Z",
+  "updated": "2026-11-02T09:09:38.947Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -15,13 +15,13 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Centrist Democrats Would Rather Lose the Senate Than Win With El-Sayed",
+      "headline": "Trump Has Tried to Exert More Control Over Elections",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "How AIPAC and AI Spent Their Money This Midterm Election",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
@@ -29,21 +29,21 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "'Look What I Brought Home for You': GOP Embraces Earmark Revival as Election Day Looms",
+      "headline": "Centrist Democrats Would Rather Lose the Senate Than Win With El-Sayed",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "pork",
+      "headline": "GOP Embraces Earmark Revival as Election Day Looms",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Trump Has Tried to Exert More Control Over Elections",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
       "id": 5,
-      "category": "betrayal",
-      "headline": "How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy",
+      "category": "accountability",
+      "headline": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
