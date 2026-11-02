@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T09:09:38.947Z",
+  "updated": "2026-11-02T20:07:55.602Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -15,36 +15,29 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Trump Has Tried to Exert More Control Over Elections",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 2,
-      "category": "corruption",
-      "headline": "How AIPAC and AI Spent Their Money This Midterm Election",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Centrist Democrats Would Rather Lose the Senate Than Win With El-Sayed",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "pork",
-      "headline": "GOP Embraces Earmark Revival as Election Day Looms",
+      "headline": "'Look what I brought home for you': GOP embraces earmark revival as Election Day looms",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
-      "id": 5,
-      "category": "accountability",
-      "headline": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
-      "meta": "Politics · today",
+      "id": 2,
+      "category": "betrayal",
+      "headline": "How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 3,
+      "category": "betrayal",
+      "headline": "Radical Centrists Like Haley Stevens Are the Real Extremists in the Democratic Party",
+      "meta": "The Intercept · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Tribal Leaders Warned Border Wall Construction Would Disturb Native American Remains. They Were Right.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     }
   ],
