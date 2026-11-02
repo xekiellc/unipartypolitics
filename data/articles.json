@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T21:53:43.325Z",
+  "updated": "2026-11-02T01:24:05.882Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "GOP Embraces Earmark Revival as Election Day Looms",
+      "headline": "'Look What I Brought Home for You': GOP Embraces Earmark Revival as Election Day Looms",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
@@ -43,9 +43,9 @@
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "How Trump Destroyed South Africa's Effort to Slow HIV Transmission",
+      "headline": "How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
