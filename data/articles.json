@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T03:23:34.703Z",
+  "updated": "2026-11-03T11:45:47.180Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -15,29 +15,29 @@
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "'Look what I brought home for you': GOP embraces earmark revival as Election Day looms",
+      "headline": "GOP embraces earmark revival as Election Day looms",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Radical Centrists Like Haley Stevens Are the Real Extremists in the Democratic Party",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Radical Centrists Like Haley Stevens Are the Real Extremists in the Democratic Party",
-      "meta": "The Intercept · today",
-      "url": "https://theintercept.com"
+      "headline": "After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
       "headline": "Tribal Leaders Warned Border Wall Construction Would Disturb Native American Remains. They Were Right.",
-      "meta": "ProPublica · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
