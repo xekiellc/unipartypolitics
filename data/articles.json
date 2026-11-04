@@ -1,35 +1,49 @@
 {
-  "updated": "2026-11-04T17:52:47.471Z",
+  "updated": "2026-11-04T23:27:50.594Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Vermont spent nearly a billion dollars on lake cleanup with no accountability audit",
-    "dek": "Nearly $1 billion in public funds flowed to Lake Champlain cleanup efforts, but a promised government audit never happened and the algae keeps coming back.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened.",
-      "meta": "Environment · today",
+      "headline": "Vermont Has Spent Nearly a Billion Dollars to Clean Up Lake Champlain. But the Green Slime Keeps Coming Back.",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Lesson From Lansing: To Win in Swing Districts, Fight Data Centers",
+      "headline": "Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened.",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "This powerful Republican got trounced despite securing billions for her state",
+      "headline": "The Progressive Agenda: End Iran War, Rein in AI, Get Dems to Actually Do Something",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "Democrats, Don't Mess This Up",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Thune's chat with Trump",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     }
