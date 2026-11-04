@@ -1,37 +1,37 @@
 {
-  "updated": "2026-11-03T19:19:34.616Z",
+  "updated": "2026-11-04T17:52:47.471Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Vermont spent nearly a billion dollars on lake cleanup with no accountability audit",
+    "dek": "Nearly $1 billion in public funds flowed to Lake Champlain cleanup efforts, but a promised government audit never happened and the algae keeps coming back.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "'Look what I brought home for you': GOP embraces earmark revival as Election Day looms",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened.",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents",
+      "headline": "Lesson From Lansing: To Win in Swing Districts, Fight Data Centers",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Tribal Leaders Warned Border Wall Construction Would Disturb Native American Remains. They Were Right.",
+      "headline": "This powerful Republican got trounced despite securing billions for her state",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
