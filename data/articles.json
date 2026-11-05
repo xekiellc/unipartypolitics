@@ -1,51 +1,44 @@
 {
-  "updated": "2026-11-04T23:27:50.594Z",
+  "updated": "2026-11-05T06:03:32.726Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Vermont spent nearly a billion dollars on lake cleanup with little accountability",
+    "dek": "Nearly $1 billion in public funds went to Lake Champlain cleanup with no audit completed and algae blooms still raging, exposing bipartisan failure to hold government spending accountable.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Vermont Has Spent Nearly a Billion Dollars to Clean Up Lake Champlain. But the Green Slime Keeps Coming Back.",
-      "meta": "Politics · today",
+      "headline": "Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened.",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened.",
+      "headline": "ICE Was Secretly Ordered to Stop All Immigration Raids on Election Day",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "The Progressive Agenda: End Iran War, Rein in AI, Get Dems to Actually Do Something",
+      "headline": "How Democrats Changed Everything",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Democrats, Don't Mess This Up",
+      "headline": "Haley Stevens Destroyed Her Political Career for Absolutely Nothing",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Thune's chat with Trump",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
