@@ -1,44 +1,58 @@
 {
-  "updated": "2026-11-05T06:03:32.726Z",
+  "updated": "2026-11-05T16:20:00.252Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Vermont spent nearly a billion dollars on lake cleanup with little accountability",
-    "dek": "Nearly $1 billion in public funds went to Lake Champlain cleanup with no audit completed and algae blooms still raging, exposing bipartisan failure to hold government spending accountable.",
+    "headline": "ICE secretly ordered to halt raids on Election Day while both parties stayed silent",
+    "dek": "A hidden directive shielded ICE from accountability on Election Day — neither party demanded transparency or answers.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened.",
-      "meta": "Accountability · today",
+      "headline": "Trump's State Department funnels $1M to study crimes against white South Africans",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "ICE Was Secretly Ordered to Stop All Immigration Raids on Election Day",
+      "headline": "How Democrats changed everything — and why voters are punishing them for it",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "How Democrats Changed Everything",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Vermont spent nearly a billion dollars on Lake Champlain cleanup — the green slime keeps coming back",
+      "meta": "Environment · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Haley Stevens Destroyed Her Political Career for Absolutely Nothing",
+      "headline": "Vermont's promised audit of Lake Champlain cleanup never happened",
+      "meta": "Accountability · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Haley Stevens destroyed her political career for absolutely nothing",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
+    },
+    {
+      "id": 6,
+      "category": "betrayal",
+      "headline": "Trump loyalists and House GOP old guard fight over a party in ruins",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
