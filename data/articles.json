@@ -1,58 +1,44 @@
 {
-  "updated": "2026-11-05T16:20:00.252Z",
+  "updated": "2026-11-05T23:29:27.722Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "ICE secretly ordered to halt raids on Election Day while both parties stayed silent",
-    "dek": "A hidden directive shielded ICE from accountability on Election Day — neither party demanded transparency or answers.",
+    "headline": "Vermont spent nearly a billion dollars on lake cleanup — and nobody audited it",
+    "dek": "State officials promised accountability for nearly $1 billion in Lake Champlain cleanup funds. The audit never happened, and the green slime keeps coming back.",
     "votes_r": 0,
     "votes_d": 0,
     "votes_yes": 0,
     "votes_no": 0,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Trump's State Department funnels $1M to study crimes against white South Africans",
-      "meta": "Politics · today",
+      "headline": "Vermont's billion-dollar lake cleanup has no audit and no results",
+      "meta": "Environment · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "How Democrats changed everything — and why voters are punishing them for it",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "betrayal",
-      "headline": "Vermont spent nearly a billion dollars on Lake Champlain cleanup — the green slime keeps coming back",
-      "meta": "Environment · today",
-      "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 4,
-      "category": "betrayal",
-      "headline": "Vermont's promised audit of Lake Champlain cleanup never happened",
+      "headline": "SafeSport finally acts — but only after abusive coaches kept working with kids",
       "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
+      "id": 3,
       "category": "betrayal",
-      "headline": "Haley Stevens destroyed her political career for absolutely nothing",
+      "headline": "ICE was secretly ordered to halt raids on Election Day",
       "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
-      "id": 6,
+      "id": 4,
       "category": "betrayal",
-      "headline": "Trump loyalists and House GOP old guard fight over a party in ruins",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Missouri voters had to act themselves to stop lawmakers from gutting citizen initiatives",
+      "meta": "Democracy · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
