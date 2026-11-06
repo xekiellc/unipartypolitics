@@ -1,44 +1,51 @@
 {
-  "updated": "2026-11-05T23:29:27.722Z",
+  "updated": "2026-11-06T05:59:00.457Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Vermont spent nearly a billion dollars on lake cleanup — and nobody audited it",
-    "dek": "State officials promised accountability for nearly $1 billion in Lake Champlain cleanup funds. The audit never happened, and the green slime keeps coming back.",
-    "votes_r": 0,
-    "votes_d": 0,
-    "votes_yes": 0,
-    "votes_no": 0,
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Vermont's billion-dollar lake cleanup has no audit and no results",
-      "meta": "Environment · today",
+      "headline": "Vermont spent nearly a billion dollars on lake cleanup — and the green slime keeps coming back",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "SafeSport finally acts — but only after abusive coaches kept working with kids",
-      "meta": "Accountability · today",
+      "headline": "Vermont was supposed to get an audit of its Lake Champlain cleanup. It never happened.",
+      "meta": "Oversight · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "ICE was secretly ordered to halt raids on Election Day",
+      "headline": "Trump's State Department gives $1 million to controversial group studying crimes against white South Africans",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Missouri voters had to act themselves to stop lawmakers from gutting citizen initiatives",
-      "meta": "Democracy · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "ICE was secretly ordered to stop all immigration raids on Election Day",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "How Democrats changed everything — and why voters are still angry",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
