@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T05:59:00.457Z",
+  "updated": "2026-11-06T14:08:07.473Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,38 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
-      "headline": "Vermont spent nearly a billion dollars on lake cleanup — and the green slime keeps coming back",
-      "meta": "Accountability · today",
+      "category": "conflict of interest",
+      "headline": "Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Vermont was supposed to get an audit of its Lake Champlain cleanup. It never happened.",
-      "meta": "Oversight · today",
+      "category": "spending",
+      "headline": "Trump's State Department Is Giving $1 Million to Controversial Group to Study Crimes Against White South Africans",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "Trump's State Department gives $1 million to controversial group studying crimes against white South Africans",
-      "meta": "Politics · today",
+      "category": "accountability",
+      "headline": "Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened.",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "betrayal",
-      "headline": "ICE was secretly ordered to stop all immigration raids on Election Day",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "shutdown",
+      "headline": "Capitol Agenda: Shutdown Fight Coming Sooner Than You Think",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 5,
-      "category": "betrayal",
-      "headline": "How Democrats changed everything — and why voters are still angry",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "category": "war powers",
+      "headline": "Some Democrats Don't Want to Wait for January to Block Trump's War in Iran",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     }
   ],
   "stats": {
