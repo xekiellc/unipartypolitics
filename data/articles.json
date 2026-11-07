@@ -1,43 +1,50 @@
 {
-  "updated": "2026-11-06T21:24:14.806Z",
+  "updated": "2026-11-07T08:34:54.656Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Trump Official Pushing AI Data Centers on Public Lands Holds Tens of Millions in AI Investments",
-    "dek": "A Trump appointee advocating for data centers on public lands has massive personal financial stakes in the AI industry — a conflict of interest neither party is rushing to investigate.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "headline": "Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry",
+    "dek": "A Trump administration official pushing to open public lands for data center development holds tens of millions in AI industry investments, raising serious conflict of interest concerns neither party is rushing to address.",
+    "votes_r": 38,
+    "votes_d": 31,
+    "votes_yes": 69,
+    "votes_no": 22,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "SafeSport Will Now Alert Schools if Sanctioned Coaches Keep Working With Kids — Years Too Late",
-      "meta": "Accountability · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Republicans Are Desperate to Pretend They Never Supported the War With Iran",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Missouri Voters Had to Protect Their Own Initiatives Because Lawmakers Kept Overturning Them",
-      "meta": "Democracy · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Pentagon Officials Float Names of Hegseth's Replacement",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Hegseth Ouster Floated by Pentagon Insiders as Both Parties Jockey for Political Cover",
-      "meta": "Defense · today",
-      "url": "https://theintercept.com"
+      "headline": "Trump's State Department Gives $1 Million to Controversial Group to Study Crimes Against White South Africans",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Houston Mayor Retreats on ICE Cooperation — Politics, Not Principle, Driving the Decision",
-      "meta": "Immigration · today",
+      "headline": "Missouri Voters Just Made It Much Harder for Lawmakers to Overturn Citizen-Led Initiatives",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Trump's Move From Wiles to Miller Signals Major Tactical Shift for Governing Without Congress",
+      "meta": "Politics · today",
       "url": "https://feeds.foxnews.com"
     }
   ],
