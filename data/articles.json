@@ -1,51 +1,44 @@
 {
-  "updated": "2026-11-07T08:34:54.656Z",
+  "updated": "2026-11-07T16:12:56.248Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry",
-    "dek": "A Trump administration official pushing to open public lands for data center development holds tens of millions in AI industry investments, raising serious conflict of interest concerns neither party is rushing to address.",
-    "votes_r": 38,
-    "votes_d": 31,
-    "votes_yes": 69,
-    "votes_no": 22,
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Republicans Are Desperate to Pretend They Never Supported the War With Iran",
+      "headline": "Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Pentagon Officials Float Names of Hegseth's Replacement",
+      "headline": "Newsom's Death-Row Commutations Spark DA Revolt as Prosecutors Warn of Legal Fight",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://feeds.foxnews.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Trump's State Department Gives $1 Million to Controversial Group to Study Crimes Against White South Africans",
+      "headline": "Texas' School Voucher Program Could Be 'Unrecognizable, If Not Extinct,' Says Democratic Lawmaker",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Missouri Voters Just Made It Much Harder for Lawmakers to Overturn Citizen-Led Initiatives",
+      "headline": "Trump's State Department Is Giving $1 Million to Controversial Group to Study Crimes Against White South Africans",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Trump's Move From Wiles to Miller Signals Major Tactical Shift for Governing Without Congress",
-      "meta": "Politics · today",
-      "url": "https://feeds.foxnews.com"
     }
   ],
   "stats": {
