@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T01:13:09.055Z",
+  "updated": "2026-11-08T08:48:36.130Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
@@ -14,24 +14,38 @@
   "articles": [
     {
       "id": 1,
-      "category": "betrayal",
+      "category": "corruption",
       "headline": "Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry",
-      "meta": "Politics · today",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Newsom's Death Row Commutations Spark DA Revolt; Prosecutors Warn of Legal Fight",
-      "meta": "Politics · today",
+      "category": "theft",
+      "headline": "New Jersey Town Reveals Staggering $26M Theft Days After Election, Sparking Backlash",
+      "meta": "Fox News · today",
       "url": "https://feeds.foxnews.com"
     },
     {
       "id": 3,
       "category": "betrayal",
       "headline": "Texas' School Voucher Program Could Be 'Unrecognizable, If Not Extinct,' Says Democratic Lawmaker",
-      "meta": "Politics · today",
+      "meta": "ProPublica · today",
       "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 4,
+      "category": "corruption",
+      "headline": "Trump's State Department Is Giving $1 Million to Controversial Group to Study Crimes Against White South Africans",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
+      "category": "accountability",
+      "headline": "Newsom's Death Row Commutations Spark DA Revolt; Prosecutors Warn of Legal Fight",
+      "meta": "Fox News · today",
+      "url": "https://feeds.foxnews.com"
     }
   ],
   "stats": {
