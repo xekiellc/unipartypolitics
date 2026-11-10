@@ -1,43 +1,50 @@
 {
-  "updated": "2026-11-10T12:29:38.812Z",
+  "updated": "2026-11-10T20:44:34.154Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Tons of 'Bunker-Buster' Bomb Parts for Israel Go Through JFK Airport",
-    "dek": "Bipartisan congressional silence enables continued weapons transfers as both parties avoid accountability on U.S. military aid policy.",
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
     "votes_r": 42,
     "votes_d": 36,
     "votes_yes": 78,
     "votes_no": 19,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
       "headline": "Firm Linked to Trump's Sons Got Nearly $40 Million in Federal Contracts to Screen for Ebola and Other Diseases",
-      "meta": "ProPublica · today",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
-      "category": "betrayal",
-      "headline": "Machinists Union Calls on Schumer to Step Aside as Leader",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
+      "category": "corruption",
+      "headline": "Kalshi Is Cozy With Trump — But It's Ramping Up Dem Hires and Campaign Spending",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
-      "category": "betrayal",
-      "headline": "House GOP Leaders Face Their Post-Election Reckoning",
-      "meta": "Politico · today",
-      "url": "https://rss.politico.com"
+      "category": "accountability",
+      "headline": "Arizona Town's Probe on Sex Abuse Claims Could Block Prison Firm Building New ICE Camp",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 4,
+      "category": "investigation",
+      "headline": "A Natural Gas Project Off Alaska's Coast May Be a Russian Ploy for Intel on the Arctic",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
+    },
+    {
+      "id": 5,
       "category": "betrayal",
-      "headline": "Republicans Are Desperate to Pretend They Never Supported the War With Iran",
-      "meta": "The Intercept · today",
+      "headline": "Tons of 'Bunker-Buster' Bomb Parts for Israel Go Through JFK Airport",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     }
   ],
