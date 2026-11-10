@@ -1,51 +1,44 @@
 {
-  "updated": "2026-11-10T04:00:12.307Z",
+  "updated": "2026-11-10T12:29:38.812Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Your tax dollars at work",
-    "headline": "Firm linked to Trump's sons got nearly $40 million in federal contracts",
-    "dek": "A company with ties to the president's family quietly secured tens of millions in government disease screening contracts, raising conflict-of-interest alarms.",
-    "votes_r": 40,
-    "votes_d": 2,
-    "votes_yes": 42,
-    "votes_no": 8,
-    "source": "ProPublica"
+    "kicker": "Both parties fail again",
+    "headline": "Tons of 'Bunker-Buster' Bomb Parts for Israel Go Through JFK Airport",
+    "dek": "Bipartisan congressional silence enables continued weapons transfers as both parties avoid accountability on U.S. military aid policy.",
+    "votes_r": 42,
+    "votes_d": 36,
+    "votes_yes": 78,
+    "votes_no": 19,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Congressional watchdog finds Rep. Gooden likely misused taxpayer dollars on extravagant travel",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Firm Linked to Trump's Sons Got Nearly $40 Million in Federal Contracts to Screen for Ebola and Other Diseases",
+      "meta": "ProPublica · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Tons of bunker-buster bomb parts for Israel shipped through JFK Airport",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "Machinists Union Calls on Schumer to Step Aside as Leader",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Texas school voucher program may become 'unrecognizable,' warns Democratic lawmaker who helped pass it",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "House GOP Leaders Face Their Post-Election Reckoning",
+      "meta": "Politico · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Republicans scramble to disown support for Iran war they openly backed",
-      "meta": "Politics · today",
+      "headline": "Republicans Are Desperate to Pretend They Never Supported the War With Iran",
+      "meta": "The Intercept · today",
       "url": "https://theintercept.com"
-    },
-    {
-      "id": 5,
-      "category": "betrayal",
-      "headline": "Where do our generic drugs come from? The answer should alarm both parties",
-      "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
