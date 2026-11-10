@@ -1,51 +1,51 @@
 {
-  "updated": "2026-11-08T08:48:36.130Z",
+  "updated": "2026-11-10T04:00:12.307Z",
   "featured": {
     "category": "betrayal",
-    "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
+    "kicker": "Your tax dollars at work",
+    "headline": "Firm linked to Trump's sons got nearly $40 million in federal contracts",
+    "dek": "A company with ties to the president's family quietly secured tens of millions in government disease screening contracts, raising conflict-of-interest alarms.",
+    "votes_r": 40,
+    "votes_d": 2,
+    "votes_yes": 42,
+    "votes_no": 8,
     "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
-      "category": "corruption",
-      "headline": "Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "Congressional watchdog finds Rep. Gooden likely misused taxpayer dollars on extravagant travel",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
-      "category": "theft",
-      "headline": "New Jersey Town Reveals Staggering $26M Theft Days After Election, Sparking Backlash",
-      "meta": "Fox News · today",
-      "url": "https://feeds.foxnews.com"
+      "category": "betrayal",
+      "headline": "Tons of bunker-buster bomb parts for Israel shipped through JFK Airport",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Texas' School Voucher Program Could Be 'Unrecognizable, If Not Extinct,' Says Democratic Lawmaker",
-      "meta": "ProPublica · today",
+      "headline": "Texas school voucher program may become 'unrecognizable,' warns Democratic lawmaker who helped pass it",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
-      "category": "corruption",
-      "headline": "Trump's State Department Is Giving $1 Million to Controversial Group to Study Crimes Against White South Africans",
-      "meta": "ProPublica · today",
-      "url": "https://feeds.propublica.org"
+      "category": "betrayal",
+      "headline": "Republicans scramble to disown support for Iran war they openly backed",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
-      "category": "accountability",
-      "headline": "Newsom's Death Row Commutations Spark DA Revolt; Prosecutors Warn of Legal Fight",
-      "meta": "Fox News · today",
-      "url": "https://feeds.foxnews.com"
+      "category": "betrayal",
+      "headline": "Where do our generic drugs come from? The answer should alarm both parties",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
