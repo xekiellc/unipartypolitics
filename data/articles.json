@@ -1,51 +1,44 @@
 {
-  "updated": "2026-11-10T20:44:34.154Z",
+  "updated": "2026-11-12T00:21:40.478Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
+    "headline": "Pentagon contractors cash in as both parties fund endless wars",
+    "dek": "A new investigation reveals how defense industry money flows to Republicans and Democrats alike, ensuring military spending keeps climbing regardless of who holds power.",
     "votes_r": 42,
     "votes_d": 36,
     "votes_yes": 78,
     "votes_no": 19,
-    "source": "ProPublica"
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Firm Linked to Trump's Sons Got Nearly $40 Million in Federal Contracts to Screen for Ebola and Other Diseases",
+      "headline": "House members force new vote on Epstein files",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 2,
-      "category": "corruption",
-      "headline": "Kalshi Is Cozy With Trump — But It's Ramping Up Dem Hires and Campaign Spending",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 3,
-      "category": "accountability",
-      "headline": "Arizona Town's Probe on Sex Abuse Claims Could Block Prison Firm Building New ICE Camp",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
-    },
-    {
-      "id": 4,
-      "category": "investigation",
-      "headline": "A Natural Gas Project Off Alaska's Coast May Be a Russian Ploy for Intel on the Arctic",
+      "category": "betrayal",
+      "headline": "A Tool Built by Election Deniers Said These Voters Were Dead. We Found Them Alive.",
       "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
-      "id": 5,
+      "id": 3,
       "category": "betrayal",
-      "headline": "Tons of 'Bunker-Buster' Bomb Parts for Israel Go Through JFK Airport",
+      "headline": "Surprise House passage of veterans bill sparks 'trickery' accusation",
       "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 4,
+      "category": "betrayal",
+      "headline": "A Natural Gas Project Off Alaska's Coast May Be a Russian Ploy for Intel on the Arctic",
+      "meta": "Politics · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
