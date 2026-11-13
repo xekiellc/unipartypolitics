@@ -1,51 +1,51 @@
 {
-  "updated": "2026-11-13T17:35:43.192Z",
+  "updated": "2026-11-13T23:25:42.456Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress passes surveillance bill with bipartisan support",
-    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
-    "votes_r": 42,
-    "votes_d": 36,
-    "votes_yes": 78,
-    "votes_no": 19,
-    "source": "ProPublica"
+    "headline": "Congress eyes lame duck session to deeply intertwine U.S. and Israeli militaries",
+    "dek": "Lawmakers from both parties are quietly moving to lock in sweeping military integration with Israel before new members are seated, with little public debate or accountability.",
+    "votes_r": null,
+    "votes_d": null,
+    "votes_yes": null,
+    "votes_no": null,
+    "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Members of Georgia's Election Board Have Been Coordinating With Cleta Mitchell's Network",
-      "meta": "Politics · today",
+      "headline": "Ethics watchdog urges investigation into top health official over conflict of interest",
+      "meta": "Accountability · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "A Tool Built by Election Deniers Said These Voters Were Dead. We Found Them Alive.",
+      "headline": "Incoming House Democrat under investigation for sexual harassment",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "House Republicans Push for New Rules Targeting Maverick Holdouts",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Georgia Election Board members coordinating with partisan political network",
+      "meta": "Elections · today",
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Capitol Agenda: Van Hollen's Challenge Puts Senate Dems in Tough Spot",
-      "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "headline": "Hegseth dodges impeachment as Democrats fail to hold the line",
+      "meta": "Oversight · today",
+      "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "Hegseth Dodges Impeachment, for Now",
-      "meta": "Politics · today",
-      "url": "https://theintercept.com"
+      "headline": "U.S. citizens detained by immigration agents as enforcement spirals",
+      "meta": "Civil Rights · today",
+      "url": "https://feeds.propublica.org"
     }
   ],
   "stats": {
