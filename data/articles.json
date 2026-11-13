@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-12T00:21:40.478Z",
+  "updated": "2026-11-13T17:35:43.192Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Pentagon contractors cash in as both parties fund endless wars",
-    "dek": "A new investigation reveals how defense industry money flows to Republicans and Democrats alike, ensuring military spending keeps climbing regardless of who holds power.",
+    "headline": "Congress passes surveillance bill with bipartisan support",
+    "dek": "Both parties voted to expand surveillance powers with no reform amendments added.",
     "votes_r": 42,
     "votes_d": 36,
     "votes_yes": 78,
     "votes_no": 19,
-    "source": "The Intercept"
+    "source": "ProPublica"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "House members force new vote on Epstein files",
+      "headline": "Members of Georgia's Election Board Have Been Coordinating With Cleta Mitchell's Network",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
@@ -29,16 +29,23 @@
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Surprise House passage of veterans bill sparks 'trickery' accusation",
+      "headline": "House Republicans Push for New Rules Targeting Maverick Holdouts",
       "meta": "Politics · today",
       "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "A Natural Gas Project Off Alaska's Coast May Be a Russian Ploy for Intel on the Arctic",
+      "headline": "Capitol Agenda: Van Hollen's Challenge Puts Senate Dems in Tough Spot",
       "meta": "Politics · today",
-      "url": "https://feeds.propublica.org"
+      "url": "https://rss.politico.com"
+    },
+    {
+      "id": 5,
+      "category": "betrayal",
+      "headline": "Hegseth Dodges Impeachment, for Now",
+      "meta": "Politics · today",
+      "url": "https://theintercept.com"
     }
   ],
   "stats": {
