@@ -1,50 +1,50 @@
 {
-  "updated": "2026-11-14T05:50:12.061Z",
+  "updated": "2026-11-14T13:17:29.823Z",
   "featured": {
     "category": "betrayal",
     "kicker": "Both parties fail again",
-    "headline": "Congress eyes lame duck session to deepen U.S.-Israeli military ties without public debate",
-    "dek": "Lawmakers from both parties are quietly pushing legislation that would permanently intertwine American and Israeli military structures, bypassing normal oversight.",
-    "votes_r": null,
-    "votes_d": null,
-    "votes_yes": null,
-    "votes_no": null,
+    "headline": "Congress might sneakily use lame duck to deeply intertwine the U.S. and Israeli militaries",
+    "dek": "Lawmakers from both parties are quietly pushing legislation that would bind American and Israeli military operations together with little public debate or oversight.",
+    "votes_r": 0,
+    "votes_d": 0,
+    "votes_yes": 0,
+    "votes_no": 0,
     "source": "The Intercept"
   },
   "articles": [
     {
       "id": 1,
       "category": "betrayal",
-      "headline": "Ethics watchdog demands probe of top health official over hormone therapy conflict of interest",
-      "meta": "Accountability · today",
+      "headline": "Ethics watchdog urges investigation into top health official over hormone therapy conflict of interest",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     },
     {
       "id": 2,
       "category": "betrayal",
-      "headline": "Incoming House Democrat under investigation for sexual harassment before even taking office",
+      "headline": "Will Senate religious freedom bill actually protect land sales for Israeli settlements?",
       "meta": "Politics · today",
-      "url": "https://rss.politico.com"
+      "url": "https://theintercept.com"
     },
     {
       "id": 3,
       "category": "betrayal",
-      "headline": "Georgia election board members caught coordinating with partisan legal network",
-      "meta": "Elections · today",
-      "url": "https://feeds.propublica.org"
+      "headline": "Incoming House Democrat Brian Poindexter under investigation for sexual harassment",
+      "meta": "Politics · today",
+      "url": "https://rss.politico.com"
     },
     {
       "id": 4,
       "category": "betrayal",
-      "headline": "Minority Leader Jeffries fumbled his first major test on the Hegseth confirmation vote",
-      "meta": "Congress · today",
+      "headline": "The Hegseth vote was Jeffries's first big test. He failed.",
+      "meta": "Politics · today",
       "url": "https://theintercept.com"
     },
     {
       "id": 5,
       "category": "betrayal",
-      "headline": "U.S. citizens detained by immigration agents as enforcement dragnet widens",
-      "meta": "Civil Liberties · today",
+      "headline": "Members of Georgia's election board have been coordinating with Cleta Mitchell's network",
+      "meta": "Politics · today",
       "url": "https://feeds.propublica.org"
     }
   ],
